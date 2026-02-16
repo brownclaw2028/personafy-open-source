@@ -1,4 +1,4 @@
-import type { SourceType } from '../../dev/types';
+import type { SourceType } from '../../source-types';
 import type { PackageAdapter, PackageAdapterContext, PackageAdapterFile } from './types';
 import { amazonAdapter } from './amazon-adapter';
 import { calendarAdapter } from './calendar-adapter';

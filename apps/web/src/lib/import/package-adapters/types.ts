@@ -1,4 +1,4 @@
-import type { SourceType } from '../../dev/types';
+import type { SourceType } from '../../source-types';
 
 export interface PackageAdapterFile {
   path: string;

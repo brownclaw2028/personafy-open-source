@@ -1,5 +1,5 @@
 import react from '@vitejs/plugin-react'
-import { createCipheriv, createDecipheriv, randomBytes, scryptSync } from 'crypto'
+import { createCipheriv, createDecipheriv, randomBytes, randomUUID, scryptSync } from 'crypto'
 import { readFile, rename, unlink, writeFile } from 'fs/promises'
 import type { IncomingMessage, ServerResponse } from 'http'
 import { resolve } from 'path'

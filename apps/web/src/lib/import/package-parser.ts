@@ -1,5 +1,5 @@
 import { gunzipSync, unzipSync } from 'fflate';
-import type { SourceType } from '../dev/types';
+import type { SourceType } from '../source-types';
 import {
   createAdapterContext,
   selectPackageAdapter,
