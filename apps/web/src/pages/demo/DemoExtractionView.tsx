@@ -24,9 +24,9 @@ interface PersonaExtractionData {
 const EXTRACTION_DATA: Record<string, PersonaExtractionData> = {
   alex: {
     snippets: [
-      { source: 'Gmail', text: 'Your Patagonia Nano Puff Jacket (Men\'s M, slim fit) is on its way to San Francisco.', matches: [{ start: 5, end: 38, factKey: 'apparel.jacket', category: 'Shopping', confidence: 0.9 }, { start: 47, end: 55, factKey: 'apparel.fit', category: 'Shopping', confidence: 0.85 }] },
+      { source: 'Gmail', text: 'Your Patagonia Nano Puff Jacket (Men\'s M, slim fit) is on its way to San Francisco.', matches: [{ start: 5, end: 31, factKey: 'apparel.jacket', category: 'Shopping', confidence: 0.9 }, { start: 42, end: 50, factKey: 'apparel.fit', category: 'Shopping', confidence: 0.85 }] },
       { source: 'Amazon', text: 'Hoka Speedgoat 5 — Men\'s Size 10.5. Trail running shoe with Vibram outsole.', matches: [{ start: 0, end: 34, factKey: 'fitness.shoes', category: 'Fitness', confidence: 0.95 }] },
-      { source: 'ChatGPT', text: 'I prefer recycled polyester and organic cotton. Slim athletic fit works best for me.', matches: [{ start: 9, end: 27, factKey: 'material', category: 'Shopping', confidence: 0.85 }, { start: 48, end: 67, factKey: 'fit', category: 'Shopping', confidence: 0.82 }] },
+      { source: 'ChatGPT', text: 'I prefer recycled polyester and organic cotton. Slim athletic fit works best for me.', matches: [{ start: 9, end: 27, factKey: 'material', category: 'Shopping', confidence: 0.85 }, { start: 48, end: 65, factKey: 'fit', category: 'Shopping', confidence: 0.82 }] },
     ],
     facts: [
       { key: 'apparel.pants.waist', value: '32"', sensitivity: 'low', confidence: 0.95, category: 'Apparel' },
@@ -42,8 +42,8 @@ const EXTRACTION_DATA: Record<string, PersonaExtractionData> = {
   },
   sarah: {
     snippets: [
-      { source: 'Gmail', text: 'Your case of 2019 Châteauneuf-du-Pape and 2018 Barolo is shipping this week.', matches: [{ start: 14, end: 44, factKey: 'wine', category: 'Food', confidence: 0.92 }, { start: 49, end: 61, factKey: 'wine', category: 'Food', confidence: 0.90 }] },
-      { source: 'ChatGPT', text: 'I love pairing Rhône wines with lamb and Burgundy with mushroom dishes.', matches: [{ start: 15, end: 27, factKey: 'wine', category: 'Food', confidence: 0.90 }, { start: 38, end: 46, factKey: 'wine', category: 'Food', confidence: 0.88 }] },
+      { source: 'Gmail', text: 'Your case of 2019 Châteauneuf-du-Pape and 2018 Barolo is shipping this week.', matches: [{ start: 13, end: 37, factKey: 'wine', category: 'Food', confidence: 0.92 }, { start: 42, end: 53, factKey: 'wine', category: 'Food', confidence: 0.90 }] },
+      { source: 'ChatGPT', text: 'I love pairing Rhône wines with lamb and Burgundy with mushroom dishes.', matches: [{ start: 15, end: 26, factKey: 'wine', category: 'Food', confidence: 0.90 }, { start: 41, end: 49, factKey: 'wine', category: 'Food', confidence: 0.88 }] },
     ],
     facts: [
       { key: 'food.wine_preferences', value: 'Châteauneuf-du-Pape, Barolo, Rhône, Burgundy', sensitivity: 'low', confidence: 0.92, category: 'Food' },
@@ -53,7 +53,7 @@ const EXTRACTION_DATA: Record<string, PersonaExtractionData> = {
   jordan: {
     snippets: [
       { source: 'Etsy', text: 'Your 1978 Levi\'s Type III Trucker Jacket (M, oversized fit) is on its way!', matches: [{ start: 5, end: 40, factKey: 'brand', category: 'Shopping', confidence: 0.92 }, { start: 45, end: 58, factKey: 'fit', category: 'Shopping', confidence: 0.85 }] },
-      { source: 'ChatGPT', text: 'I\'m heading to Mexico City next month. Love street tacos and local cortado spots.', matches: [{ start: 16, end: 27, factKey: 'destination', category: 'Travel', confidence: 0.88 }, { start: 44, end: 57, factKey: 'food', category: 'Food', confidence: 0.85 }] },
+      { source: 'ChatGPT', text: 'I\'m heading to Mexico City next month. Love street tacos and local cortado spots.', matches: [{ start: 15, end: 26, factKey: 'destination', category: 'Travel', confidence: 0.88 }, { start: 44, end: 56, factKey: 'food', category: 'Food', confidence: 0.85 }] },
     ],
     facts: [
       { key: 'apparel.fit_preference', value: 'oversized vintage', sensitivity: 'low', confidence: 0.88, category: 'Apparel' },
@@ -64,7 +64,7 @@ const EXTRACTION_DATA: Record<string, PersonaExtractionData> = {
   },
   priya: {
     snippets: [
-      { source: 'Gmail', text: 'Organic snack box, nut-free granola bars, and turmeric golden milk mix shipped.', matches: [{ start: 18, end: 26, factKey: 'allergy', category: 'Food', confidence: 0.95 }] },
+      { source: 'Gmail', text: 'Organic snack box, nut-free granola bars, and turmeric golden milk mix shipped.', matches: [{ start: 19, end: 27, factKey: 'allergy', category: 'Food', confidence: 0.95 }] },
       { source: 'ChatGPT', text: 'Must be completely nut-free due to allergies. We are a vegetarian household.', matches: [{ start: 19, end: 27, factKey: 'allergy', category: 'Food', confidence: 0.95 }, { start: 55, end: 65, factKey: 'diet', category: 'Food', confidence: 0.92 }] },
     ],
     facts: [
@@ -77,7 +77,7 @@ const EXTRACTION_DATA: Record<string, PersonaExtractionData> = {
   marcus: {
     snippets: [
       { source: 'Gmail', text: 'Your Veritas Low-Angle Jack Plane and Narex Premium Chisel Set have shipped.', matches: [{ start: 5, end: 33, factKey: 'tools', category: 'Work', confidence: 0.92 }, { start: 38, end: 62, factKey: 'tools', category: 'Work', confidence: 0.90 }] },
-      { source: 'ChatGPT', text: 'I want to build a Roubo workbench using hand-cut dovetail joints with my hand planes and chisels.', matches: [{ start: 18, end: 34, factKey: 'project', category: 'Work', confidence: 0.88 }, { start: 41, end: 64, factKey: 'technique', category: 'Work', confidence: 0.85 }] },
+      { source: 'ChatGPT', text: 'I want to build a Roubo workbench using hand-cut dovetail joints with my hand planes and chisels.', matches: [{ start: 18, end: 33, factKey: 'project', category: 'Work', confidence: 0.88 }, { start: 40, end: 64, factKey: 'technique', category: 'Work', confidence: 0.85 }] },
     ],
     facts: [
       { key: 'work.tools', value: 'Veritas jack plane, Narex chisels', sensitivity: 'low', confidence: 0.92, category: 'Work' },
