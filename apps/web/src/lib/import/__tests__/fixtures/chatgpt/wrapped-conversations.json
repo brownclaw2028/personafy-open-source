@@ -1,0 +1,26 @@
+{
+  "conversations": [
+    {
+      "name": "Wrapped ChatGPT Conversation",
+      "created_at": "2026-02-09T10:00:00.000Z",
+      "updated_at": "2026-02-09T10:05:00.000Z",
+      "messages": [
+        {
+          "id": "u1",
+          "role": "user",
+          "content": {
+            "content_type": "text",
+            "parts": ["I wear a 32 waist and always book a window seat."]
+          },
+          "create_time": 1739095200
+        },
+        {
+          "id": "a1",
+          "role": "assistant",
+          "content": "Noted. I can help with that.",
+          "create_time": 1739095210
+        }
+      ]
+    }
+  ]
+}

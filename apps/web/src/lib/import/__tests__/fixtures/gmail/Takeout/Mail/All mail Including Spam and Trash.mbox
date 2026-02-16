@@ -1,0 +1,12 @@
+From orders@example.com Sun, 09 Feb 2026 16:15:00 +0000
+X-GM-MSGID: msg-1
+X-GM-THRID: thread-1
+Message-ID: <msg-1@personafy.test>
+Date: Sun, 09 Feb 2026 16:15:00 +0000
+From: orders@example.com
+To: customer@example.com
+Subject: Order shipped
+X-Gmail-Labels: Inbox,Category Updates
+Content-Type: text/plain; charset="UTF-8"
+
+Your order has shipped and will arrive tomorrow.

@@ -7,7 +7,7 @@
     "posthog-node": "^4.14.0"
   },
   "devDependencies": {
-    "openclaw": "workspace:*"
+    "openclaw": ">=2026.2.3"
   },
   "peerDependencies": {
     "openclaw": ">=2026.2.3"

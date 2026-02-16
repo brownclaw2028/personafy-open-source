@@ -1,0 +1,27 @@
+[
+  {
+    "id": "legacy-1",
+    "title": "Legacy Claude Conversation",
+    "created_at": "2026-02-09T12:00:00.000Z",
+    "updated_at": "2026-02-09T12:02:00.000Z",
+    "messages": [
+      {
+        "id": "m1",
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Please remind me to avoid polyester and keep my travel seat as window."
+          }
+        ],
+        "created_at": "2026-02-09T12:00:00.000Z"
+      },
+      {
+        "id": "m2",
+        "role": "assistant",
+        "text": "Done. I will keep that preference in mind.",
+        "created_at": "2026-02-09T12:01:00.000Z"
+      }
+    ]
+  }
+]
