@@ -1,0 +1,25 @@
+node_modules
+dist
+*.local
+.env
+.env.*
+!.env.example
+vault-data.json
+vault-data.json.bak*
+.DS_Store
+
+# Build artifacts
+apps/web/dist/
+apps/desktop/dist-electron/
+apps/desktop/web-dist/
+apps/desktop/release/
+
+# Test artifacts
+apps/web/coverage/
+apps/web/playwright-report/
+apps/web/test-results/
+packages/openclaw-plugin/coverage/
+
+# IDE / tooling
+.claude/
+.vercel/

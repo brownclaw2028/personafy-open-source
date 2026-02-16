@@ -1,0 +1,172 @@
+[
+  {
+    "id": "0a3aee49-6666-4879-938d-da71e3658966",
+    "title": "2024 Running Goals",
+    "type": "page",
+    "content": "## Goals for 2024\n\n- Complete first 50K ultra (targeting Marin Ultra Challenge)\n- Maintain 50+ miles/week base\n- Hit sub-8:00 pace on long runs\n\n### Equipment\n- Primary shoes: Hoka Speedgoat 5 (size 10.5)\n- Backup: Nike Pegasus Trail 4\n- Hydration: Salomon soft flask\n\n### Nutrition Plan\nPlant-based diet, focus on:\n- Pre-run: oats with banana and almond butter\n- During: dates, gels\n- Post-run: smoothie with Vega protein, banana, spinach\n\n### Training Schedule\nRun 5x per week, yoga on rest days, rock climbing Wednesday evenings.\nTrack everything on Strava. Morning runs since I'm an early bird (6am wake).\n\n### Supplements\nTaking vitamin D, B12, and creatine daily.",
+    "icon": "\ud83c\udfc3",
+    "created_time": "2024-10-19T13:40:00Z",
+    "last_edited_time": "2024-12-24T16:51:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "goals"
+    ]
+  },
+  {
+    "id": "c87ced6d-11a6-4ad2-87c7-ac10083d0a2f",
+    "title": "Home Setup Wishlist",
+    "type": "page",
+    "content": "## Apartment Wishlist\n\nLiving in a 1BR apartment in San Francisco. Going for minimalist Japanese style.\n\n### Current Setup\n- Sonos speakers (living room + bedroom)\n- Philips Hue lights (warm tones, 2700K evenings)\n- Standing desk for remote work\n\n### Wishlist\n- Low-profile walnut platform bed (Japanese futon-style)\n- Muji-style modular shelving\n- Tatami mat area for meditation (daily Headspace practice)\n- Cable management for desk setup\n- Monitor arm for clean desk surface\n\n### Budget\nMid-range spending, prefer quality over quantity.\nLooking at Patagonia for outdoor textiles, Allbirds for indoor slippers.",
+    "icon": "\ud83c\udfe0",
+    "created_time": "2024-06-21T07:53:00Z",
+    "last_edited_time": "2024-06-29T09:53:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "Planning"
+    },
+    "tags": [
+      "home",
+      "shopping"
+    ]
+  },
+  {
+    "id": "871be443-4b9a-4682-ab66-f9888c756037",
+    "title": "Vegan Meal Rotation",
+    "type": "database",
+    "content": "## Weekly Plant-Based Meal Rotation\n\nDiet: fully plant-based/vegan\n\n### Favorite Cuisines\nJapanese, Thai, Mexican, Mediterranean\n\n### Monday\n- Breakfast: overnight oats with banana and almond butter\n- Lunch: Mediterranean grain bowl with hummus\n- Dinner: Miso ramen with tofu and mushrooms\n\n### Tuesday\n- Breakfast: smoothie with Vega protein, banana, spinach\n- Lunch: Black bean tacos\n- Dinner: Thai green curry with vegetables\n\n### Wednesday\n- Breakfast: avocado toast on sourdough\n- Lunch: leftovers from Tuesday\n- Dinner: out or DoorDash (cooking 3-4 times/week)\n\n### Cooking Notes\n- Batch cook rice and quinoa on Sundays\n- Keep hummus and dal prepped in fridge\n- Oat milk latte every morning (light roast coffee)",
+    "icon": "\ud83e\udd66",
+    "created_time": "2024-06-23T08:25:00Z",
+    "last_edited_time": "2024-10-24T13:25:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "d4a44057-7732-4e85-b881-549127f6e649",
+    "title": "Tech Stack Notes",
+    "type": "page",
+    "content": "## My Development Stack\n\n### Daily Tools\n- Editor: VS Code with TypeScript language server\n- Language: TypeScript (3+ years)\n- Framework: React 19\n- Project management: Linear\n- Communication: Slack (prefer async communication)\n- Version control: GitHub\n- Design: Figma (for design reviews)\n\n### Preferred Patterns\n- Async-first development\n- Concise, direct code reviews\n- Remote work style\n\n### Keyboard Setup\n- HHKB Professional Hybrid (minimalist Japanese aesthetic)\n- Walnut wrist rest\n- Dark grey desk mat\n\n### Podcasts While Coding\n- Lex Fridman\n- Software Engineering Daily",
+    "icon": "\ud83d\udcbb",
+    "created_time": "2024-02-15T09:27:00Z",
+    "last_edited_time": "2024-04-13T14:27:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Active"
+    },
+    "tags": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "b762bba6-c74b-4a74-b1a7-124481aeb810",
+    "title": "Trip Planning: Japan 2024",
+    "type": "page",
+    "content": "## Japan Trip - 10 Days\n\n### Flights\n- SFO to NRT on United (window seat, economy)\n- Also considering Alaska Airlines\n- Carry-on only if possible\n\n### Tokyo (5 days)\n- Muji flagship Ginza\n- D&Department Shibuya\n- 21_21 Design Sight museum\n- Trail running: Kamakura trails (1hr from Tokyo)\n\n### Kyoto (5 days)\n- Fushimi Inari trail running at sunrise\n- Philosopher's Path neighborhood (Airbnb)\n- Shojin ryori (Buddhist vegetarian cuisine)\n\n### Food (Plant-Based)\n- T's TanTan (vegan ramen, Tokyo Station)\n- Ain Soph Ripple (Shinjuku)\n- Afuri (yuzu shio ramen)\n\n### Accommodation\nPrefer Airbnb. Looking in Shimokitazawa (Tokyo).\n\n### Budget\nMid-range. Adventure-style travel.",
+    "icon": "\u2708\ufe0f",
+    "created_time": "2024-05-05T09:38:00Z",
+    "last_edited_time": "2024-08-04T10:38:00Z",
+    "properties": {
+      "Category": "Travel",
+      "Status": "Planning"
+    },
+    "tags": [
+      "travel",
+      "planning"
+    ]
+  },
+  {
+    "id": "df312a07-75dc-403b-95e8-dc409bf05d61",
+    "title": "Book List 2024",
+    "type": "database",
+    "content": "## Reading List 2024\n\n### Currently Reading\n- \"Designing Data-Intensive Applications\" by Martin Kleppmann\n- \"What I Talk About When I Talk About Running\" by Murakami\n\n### To Read\n- \"The Art of Doing Science and Engineering\" by Hamming\n- \"Breath\" by James Nestor (for running)\n- \"Wabi-Sabi\" by Leonard Koren (minimalism inspiration)\n- \"Born to Run\" by Christopher McDougall\n\n### Finished\n- \"Clean Code\" by Robert Martin\n- \"A Philosophy of Software Design\"\n- \"Atomic Habits\" by James Clear\n\n### Notes\nListen to Software Engineering Daily and Lex Fridman for book recommendations.\nRead mostly on Kindle. Physical books for design/art.",
+    "icon": "\ud83d\udcda",
+    "created_time": "2024-07-06T18:19:00Z",
+    "last_edited_time": "2024-10-07T06:19:00Z",
+    "properties": {
+      "Category": "Personal",
+      "Status": "Active"
+    },
+    "tags": [
+      "reading",
+      "personal"
+    ]
+  },
+  {
+    "id": "1d668a64-d43c-423d-b422-8470c6b54165",
+    "title": "Gift Ideas 2024",
+    "type": "page",
+    "content": "## Gift Ideas 2024\n\n### For Partner\n- Handmade ceramics (Japanese pottery)\n- Experience gifts: cooking class, pottery workshop\n- Budget: $50-150\n\n### For Parents\n- Tech gadgets (smart home devices)\n- Travel vouchers\n- Budget: $50-150\n\n### For Running Friends\n- Strava premium subscription\n- Hoka gift card\n- Trail snack box\n\n### For Climbing Partners\n- Chalk bag from Organic\n- Belay gloves\n\n### Notes\nPrefer experiential gifts over material things.\nSupport local/independent when possible.",
+    "icon": "\ud83c\udf81",
+    "created_time": "2024-10-08T16:04:00Z",
+    "last_edited_time": "2024-12-21T04:04:00Z",
+    "properties": {
+      "Category": "Gifts",
+      "Status": "Active"
+    },
+    "tags": [
+      "gifts",
+      "planning"
+    ]
+  },
+  {
+    "id": "2ed77753-8f62-4b88-9e6e-9b4a1da45e02",
+    "title": "Morning Routine",
+    "type": "page",
+    "content": "## Morning Routine\n\n### Wake Up: 6:00 AM (early bird)\n\n1. **6:00** - Wake up, hydrate (water + lemon)\n2. **6:10** - Headspace meditation (10 min daily)\n3. **6:25** - Supplements: vitamin D, B12, creatine\n4. **6:30** - Morning run (5x/week) or yoga\n   - Track on Strava\n   - Hoka Speedgoat for trail, Nike Pegasus for road\n5. **7:30** - Smoothie: Vega protein, banana, spinach\n6. **7:45** - Oat milk latte, light roast\n7. **8:00** - Shower\n8. **8:30** - Start work (VS Code + Slack open)\n\n### Non-Run Days\n- Rock climbing or yoga\n- Extra meditation time\n\n### Sleep: Target 10:00 PM\n7-8 hours of sleep minimum.",
+    "icon": "\u2600\ufe0f",
+    "created_time": "2024-06-17T11:46:00Z",
+    "last_edited_time": "2024-11-03T14:46:00Z",
+    "properties": {
+      "Category": "Health",
+      "Status": "Active"
+    },
+    "tags": [
+      "health",
+      "routine"
+    ]
+  },
+  {
+    "id": "bdcee8d0-19c6-457f-a4f1-0ef410d971d8",
+    "title": "Work Tools Comparison",
+    "type": "database",
+    "content": "## Work Tools Comparison\n\n### Editor\n| Tool | Rating | Notes |\n|------|--------|-------|\n| VS Code | 5/5 | Daily driver, TypeScript support is best |\n| Neovim | 4/5 | Use occasionally, fast for quick edits |\n| Cursor | 3/5 | AI features nice but VS Code extensions better |\n\n### Project Management\n| Tool | Rating | Notes |\n|------|--------|-------|\n| Linear | 5/5 | Clean, fast, great for engineering teams |\n| Jira | 2/5 | Bloated, avoid |\n| GitHub Issues | 3/5 | Good for open source |\n\n### Communication\n- Slack: prefer async communication, concise and direct\n- Figma comments: for design feedback\n\n### Frameworks\n- React 19: primary\n- TypeScript: non-negotiable\n- Tailwind: for styling",
+    "icon": "\ud83d\udd27",
+    "created_time": "2024-06-06T06:43:00Z",
+    "last_edited_time": "2024-07-24T10:43:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Reference"
+    },
+    "tags": [
+      "work",
+      "tools"
+    ]
+  },
+  {
+    "id": "f0a2aa46-a93d-42f4-931b-cb73677760a4",
+    "title": "Climbing Progression Log",
+    "type": "database",
+    "content": "## Rock Climbing Progression\n\n### Current Level\n- Bouldering: V5 indoor, V3-4 outdoor\n- Sport climbing: 5.10c\n- Started 1 year ago\n\n### Goals for 2024\n- Send V6 indoors\n- Lead 5.11a outdoors\n- Visit Joshua Tree and Yosemite for outdoor climbing\n\n### Gear\n- Shoes: La Sportiva Solution (size 10.5 street, 10 climbing)\n- Harness: Petzl Adjama\n- Chalk: FrictionLabs\n- Crash pad: looking at Organic Big Pad\n- Outdoor clothing: Patagonia Houdini jacket\n\n### Training Schedule\n- Wednesday evenings: climbing gym\n- Saturday: outdoor climbing trips\n- Daily hangboard routine (10 min)\n\n### Favorite Spots\n- Castle Rock State Park\n- Mickey's Beach (Stinson)\n- Planning trips to Joshua Tree, Yosemite",
+    "icon": "\ud83e\uddd7",
+    "created_time": "2024-01-17T07:12:00Z",
+    "last_edited_time": "2024-03-18T12:12:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "climbing"
+    ]
+  }
+]

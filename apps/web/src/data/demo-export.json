@@ -1,0 +1,1080 @@
+[
+  {
+    "title": "Help me find running shoes for marathon training",
+    "create_time": 1732000000,
+    "update_time": 1732001000,
+    "mapping": {
+      "a1b2c3d4-0001-4000-8000-000000000001": {
+        "id": "a1b2c3d4-0001-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need new running shoes for half marathon training. I currently run in Nike Pegasus 40s but they're wearing out. I run 4x times per week, usually 5-7 miles, and track everything on Strava. Looking for something with good cushioning for longer weekend runs. Budget under $180."] },
+          "create_time": 1732000000
+        },
+        "parent": null,
+        "children": ["a1b2c3d4-0001-4000-8000-000000000002"]
+      },
+      "a1b2c3d4-0001-4000-8000-000000000002": {
+        "id": "a1b2c3d4-0001-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Great choices for half marathon training! Since you love the Pegasus line, here are some options:\n\n1. **Nike Pegasus 41** ($130) - Natural upgrade, improved ZoomX foam\n2. **Nike Vomero 18** ($160) - More cushion for long runs\n3. **Brooks Ghost 16** ($140) - Excellent neutral cushioning\n4. **New Balance Fresh Foam 1080v14** ($165) - Plush long-distance comfort\n\nSince you're running 4x/week with increasing mileage for half marathon training, I'd actually suggest having two pairs - your Pegasus for speed work and a more cushioned shoe for long runs. The Vomero 18 pairs perfectly with your current rotation. Want me to compare any of these in detail?"] },
+          "create_time": 1732000060
+        },
+        "parent": "a1b2c3d4-0001-4000-8000-000000000001",
+        "children": ["a1b2c3d4-0001-4000-8000-000000000003"]
+      },
+      "a1b2c3d4-0001-4000-8000-000000000003": {
+        "id": "a1b2c3d4-0001-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["The Vomero sounds perfect. I wear size 10 shoe. Also, do you have any tips for tracking half marathon training progress on Strava? I just started using it seriously."] },
+          "create_time": 1732000120
+        },
+        "parent": "a1b2c3d4-0001-4000-8000-000000000002",
+        "children": ["a1b2c3d4-0001-4000-8000-000000000004"]
+      },
+      "a1b2c3d4-0001-4000-8000-000000000004": {
+        "id": "a1b2c3d4-0001-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Size 10 in the Vomero 18 should be widely available. Here are my Strava tips for half marathon training:\n\n**Training Log Setup:**\n- Create a training plan using Strava's Goals feature\n- Log perceived effort after each run\n- Track weekly mileage trends\n\n**Key Metrics to Watch:**\n- Weekly volume (aim to increase no more than 10%/week)\n- Long run pace vs easy pace gap\n- Heart rate zones if you have a watch\n\n**Social Features:**\n- Join a local running club on Strava for accountability\n- Use segments to track progress on regular routes\n\nWould you like a sample 16-week half marathon training schedule?"] },
+          "create_time": 1732000180
+        },
+        "parent": "a1b2c3d4-0001-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Anniversary dinner ideas in Austin",
+    "create_time": 1732100000,
+    "update_time": 1732101000,
+    "mapping": {
+      "b2c3d4e5-0002-4000-8000-000000000001": {
+        "id": "b2c3d4e5-0002-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Planning our anniversary dinner in Austin next week. I'm pescatarian and my partner loves sushi. We both enjoy Thai food too. Important note: I'm allergic to shellfish so the restaurant needs to be able to accommodate that. Budget around $100 per person."] },
+          "create_time": 1732100000
+        },
+        "parent": null,
+        "children": ["b2c3d4e5-0002-4000-8000-000000000002"]
+      },
+      "b2c3d4e5-0002-4000-8000-000000000002": {
+        "id": "b2c3d4e5-0002-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Happy anniversary! Here are Austin restaurants that work perfectly for a pescatarian with a shellfish allergy:\n\n**Sushi-focused:**\n- **Uchi Austin** ($80-120/pp) - World-class omakase, very allergy-aware. They can build a custom shellfish-free tasting.\n- **Fukumoto** ($60-90/pp) - Intimate sushi bar, chef accommodates allergies beautifully.\n\n**Thai options:**\n- **Sway** ($50-70/pp) - Upscale Thai, great seafood dishes, staff is knowledgeable about allergens.\n\n**Best of both worlds:**\n- **Uchi** is truly your best bet - they can do an incredible pescatarian omakase avoiding all shellfish. It's anniversary-worthy and within your $100/person budget.\n\nShall I suggest wine pairings or help with reservations timing?"] },
+          "create_time": 1732100060
+        },
+        "parent": "b2c3d4e5-0002-4000-8000-000000000001",
+        "children": ["b2c3d4e5-0002-4000-8000-000000000003"]
+      },
+      "b2c3d4e5-0002-4000-8000-000000000003": {
+        "id": "b2c3d4e5-0002-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Uchi sounds perfect! We went there two years ago and loved it. Can you also suggest a good cocktail bar nearby for after dinner? We love craft cocktails."] },
+          "create_time": 1732100120
+        },
+        "parent": "b2c3d4e5-0002-4000-8000-000000000002",
+        "children": ["b2c3d4e5-0002-4000-8000-000000000004"]
+      },
+      "b2c3d4e5-0002-4000-8000-000000000004": {
+        "id": "b2c3d4e5-0002-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Great taste going back to Uchi! Here are nearby cocktail spots:\n\n- **Roosevelt Room** (5 min drive) - Classic cocktails with a speakeasy vibe\n- **Midnight Cowboy** (10 min) - Reservation-only speakeasy, very romantic\n- **Firehouse Lounge** (8 min) - Hidden behind a bookcase door\n\nMidnight Cowboy would be the most anniversary-appropriate. Book a reservation in advance as they only seat about 30 people. Enjoy your evening!"] },
+          "create_time": 1732100180
+        },
+        "parent": "b2c3d4e5-0002-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Business trip packing for Tokyo",
+    "create_time": 1732200000,
+    "update_time": 1732201000,
+    "mapping": {
+      "c3d4e5f6-0003-4000-8000-000000000001": {
+        "id": "c3d4e5f6-0003-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I have a business trip to Tokyo next month and need to pack efficiently. I'm 32 waist, 30 inseam, and wear a medium shirt. I prefer slim fit everything. I usually shop at Uniqlo and J.Crew. Need to look professional but also want some casual outfits for exploring on the weekend."] },
+          "create_time": 1732200000
+        },
+        "parent": null,
+        "children": ["c3d4e5f6-0003-4000-8000-000000000002"]
+      },
+      "c3d4e5f6-0003-4000-8000-000000000002": {
+        "id": "c3d4e5f6-0003-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Perfect timing - you can actually shop at Uniqlo in Tokyo for amazing prices! Here's a slim fit packing list for your 32/30 frame:\n\n**Business (Mon-Fri):**\n- 2 slim fit dress shirts (J.Crew Ludlow or Uniqlo Super Non-Iron)\n- 1 pair navy slim chinos (32/30)\n- 1 pair charcoal slim dress pants (32/30)\n- 1 blazer (J.Crew Ludlow in navy, medium)\n- Dress shoes\n\n**Weekend Casual:**\n- 2 Uniqlo Supima cotton tees (medium)\n- 1 lightweight jacket\n- Comfortable walking shoes\n\n**Pro tips for Tokyo:**\n- Pack a packable tote for shopping\n- Uniqlo flagship in Ginza has exclusive items\n- Layer up - buildings are well-heated but streets can be cold\n\nWant me to create a day-by-day outfit plan?"] },
+          "create_time": 1732200060
+        },
+        "parent": "c3d4e5f6-0003-4000-8000-000000000001",
+        "children": ["c3d4e5f6-0003-4000-8000-000000000003"]
+      },
+      "c3d4e5f6-0003-4000-8000-000000000003": {
+        "id": "c3d4e5f6-0003-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["That's great. I hate polyester so please make sure everything is natural fabrics. Also I need a good carry-on recommendation - I prefer to avoid checking bags since I have TSA PreCheck and want to breeze through."] },
+          "create_time": 1732200120
+        },
+        "parent": "c3d4e5f6-0003-4000-8000-000000000002",
+        "children": ["c3d4e5f6-0003-4000-8000-000000000004"]
+      },
+      "c3d4e5f6-0003-4000-8000-000000000004": {
+        "id": "c3d4e5f6-0003-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Totally understand on the polyester - here are carry-on bags in natural/premium materials:\n\n- **Away Carry-On** ($275) - Nylon exterior but excellent organization\n- **Patagonia Black Hole MLC** ($199) - 45L, recycled materials\n- **Aer Travel Pack 3** ($250) - Great for business trips\n\nSince you have TSA PreCheck, the Patagonia MLC is ideal - it opens flat like a suitcase and fits overhead easily. All cotton and wool garments from J.Crew and Uniqlo will pack wrinkle-free if you use packing cubes. Safe travels!"] },
+          "create_time": 1732200180
+        },
+        "parent": "c3d4e5f6-0003-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Planning a Patagonia hiking trip",
+    "create_time": 1732300000,
+    "update_time": 1732301000,
+    "mapping": {
+      "d4e5f6a7-0004-4000-8000-000000000001": {
+        "id": "d4e5f6a7-0004-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I want to plan a hiking trip to Patagonia for next March. I travel about 6 times per year for adventure trips and I always prefer boutique hotels over big chains. I have Global Entry so international travel is easy. Need help planning the itinerary and figuring out what gear to bring."] },
+          "create_time": 1732300000
+        },
+        "parent": null,
+        "children": ["d4e5f6a7-0004-4000-8000-000000000002"]
+      },
+      "d4e5f6a7-0004-4000-8000-000000000002": {
+        "id": "d4e5f6a7-0004-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["March is a great time for Patagonia - late summer with milder winds! Here's a suggested 10-day itinerary:\n\n**Days 1-2: El Calafate**\n- Arrive, acclimatize\n- Visit Perito Moreno Glacier\n- Stay: Eolo Boutique Hotel ($280/night)\n\n**Days 3-6: El Chaltén**\n- Hike to Laguna de los Tres (Mt. Fitz Roy)\n- Cerro Torre viewpoint trek\n- Stay: Chalten Suites ($220/night, boutique)\n\n**Days 7-9: Torres del Paine (Chile)**\n- W Trek highlights (3 days)\n- Stay: Tierra Patagonia Hotel & Spa ($350/night, all-inclusive boutique)\n\n**Day 10: Punta Arenas → Home**\n\nWith Global Entry you'll breeze through customs. Want me to detail the gear list next?"] },
+          "create_time": 1732300060
+        },
+        "parent": "d4e5f6a7-0004-4000-8000-000000000001",
+        "children": ["d4e5f6a7-0004-4000-8000-000000000003"]
+      },
+      "d4e5f6a7-0004-4000-8000-000000000003": {
+        "id": "d4e5f6a7-0004-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Love those boutique hotel picks! I always book a window seat on long flights so I can sleep against the wall. Yes, please give me the gear list. I already have a Patagonia Nano Puff and Patagonia rain shell."] },
+          "create_time": 1732300120
+        },
+        "parent": "d4e5f6a7-0004-4000-8000-000000000002",
+        "children": ["d4e5f6a7-0004-4000-8000-000000000004"]
+      },
+      "d4e5f6a7-0004-4000-8000-000000000004": {
+        "id": "d4e5f6a7-0004-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Your Patagonia layers are perfect! Here's what else you need:\n\n**Clothing:**\n- Merino wool base layers (2 sets)\n- Hiking pants (2 pairs)\n- Sun hat + warm beanie\n- Gloves and buff\n\n**Footwear:**\n- Waterproof hiking boots (broken in!)\n- Camp shoes\n\n**Gear:**\n- 40-50L backpack\n- Trekking poles\n- 1L water bottle + purification tabs\n- Headlamp\n\n**Window seat tip:** For the Buenos Aires flight, sit on the left side for amazing Andes views on approach!\n\nShall I help with booking flights or travel insurance?"] },
+          "create_time": 1732300180
+        },
+        "parent": "d4e5f6a7-0004-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Gift ideas for my wife who loves pottery",
+    "create_time": 1732400000,
+    "update_time": 1732401000,
+    "mapping": {
+      "e5f6a7b8-0005-4000-8000-000000000001": {
+        "id": "e5f6a7b8-0005-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need anniversary gift ideas for my partner. She loves pottery and ceramic art. Last year I got her a cooking class which she loved. Budget around $200. She's also really into candles and has been wanting to try wheel throwing."] },
+          "create_time": 1732400000
+        },
+        "parent": null,
+        "children": ["e5f6a7b8-0005-4000-8000-000000000002"]
+      },
+      "e5f6a7b8-0005-4000-8000-000000000002": {
+        "id": "e5f6a7b8-0005-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["What a thoughtful partner! Since the cooking class was a hit, experiences seem to resonate. Here are ideas:\n\n**Experience Gifts:**\n- Pottery wheel throwing class for two ($120-180) - Perfect since she's been wanting to try!\n- Ceramic candle-making workshop ($80-120)\n\n**Physical Gifts:**\n- Handmade ceramic candle holders from a local artisan ($60-100)\n- East Fork Pottery collection pieces ($80-150)\n- A beautiful ceramic vase from Heath Ceramics ($120-200)\n\n**Combo Ideas (within $200):**\n- Wheel throwing class ($150) + a set of handmade ceramic candle holders ($50)\n- Custom pottery subscription box ($45/month for 3 months = $135) + artisan candle set ($60)\n\nThe wheel throwing class for two is my top pick - it's an experience you share together, ties into her ceramic passion, and echoes the cooking class she loved. Want specific studio recommendations?"] },
+          "create_time": 1732400060
+        },
+        "parent": "e5f6a7b8-0005-4000-8000-000000000001",
+        "children": ["e5f6a7b8-0005-4000-8000-000000000003"]
+      },
+      "e5f6a7b8-0005-4000-8000-000000000003": {
+        "id": "e5f6a7b8-0005-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["The wheel throwing class combo sounds perfect! We're in Austin so any local studio recommendations would be great."] },
+          "create_time": 1732400120
+        },
+        "parent": "e5f6a7b8-0005-4000-8000-000000000002",
+        "children": ["e5f6a7b8-0005-4000-8000-000000000004"]
+      },
+      "e5f6a7b8-0005-4000-8000-000000000004": {
+        "id": "e5f6a7b8-0005-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Austin has a wonderful pottery scene! Here are top studios:\n\n- **Feats of Clay** - Great beginner wheel throwing classes, couples-friendly\n- **Armadillo Clay** - Established studio with excellent instructors\n- **Clayways** - Intimate setting, perfect for a date\n\nFeats of Clay offers a 2-hour couples wheel throwing experience for $160. Add a ceramic candle holder from their gallery shop ($30-50) and you're right at budget. They even let you glaze and pick up your creations later!"] },
+          "create_time": 1732400180
+        },
+        "parent": "e5f6a7b8-0005-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Setting up our team's project management",
+    "create_time": 1732500000,
+    "update_time": 1732501000,
+    "mapping": {
+      "f6a7b8c9-0006-4000-8000-000000000001": {
+        "id": "f6a7b8c9-0006-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["We're a design team of 8 and need to get our project management together. We currently use Notion for docs and Figma for design. I've been looking at Linear for issue tracking. I strongly prefer async communication over meetings. What's the best workflow setup?"] },
+          "create_time": 1732500000
+        },
+        "parent": null,
+        "children": ["f6a7b8c9-0006-4000-8000-000000000002"]
+      },
+      "f6a7b8c9-0006-4000-8000-000000000002": {
+        "id": "f6a7b8c9-0006-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Great stack! Notion + Figma + Linear is a powerful async-first combo for design teams. Here's how to set it up:\n\n**Linear (Issue Tracking):**\n- Create projects per design initiative\n- Use cycles (2-week sprints) for cadence\n- Integrate with Figma for design file links\n- Set up Slack notifications for status changes\n\n**Notion (Documentation):**\n- Design system documentation\n- Meeting notes (for the few sync meetings you do have)\n- Project briefs and specs\n- Retrospectives\n\n**Figma (Design):**\n- Use branches for design exploration\n- Link Figma files directly in Linear issues\n- Set up a team library for components\n\n**Async Communication Flow:**\n- Linear comments for task-specific discussion\n- Notion for long-form decisions and proposals\n- Slack for quick questions (but encourage threads)\n- Weekly async standup in Notion or Linear\n\nWant me to detail the Linear workspace setup?"] },
+          "create_time": 1732500060
+        },
+        "parent": "f6a7b8c9-0006-4000-8000-000000000001",
+        "children": ["f6a7b8c9-0006-4000-8000-000000000003"]
+      },
+      "f6a7b8c9-0006-4000-8000-000000000003": {
+        "id": "f6a7b8c9-0006-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["This is exactly what I need. We also use GitHub for our front-end repo and VSCode across the team. Can you suggest how to connect GitHub with Linear for a smooth dev handoff?"] },
+          "create_time": 1732500120
+        },
+        "parent": "f6a7b8c9-0006-4000-8000-000000000002",
+        "children": ["f6a7b8c9-0006-4000-8000-000000000004"]
+      },
+      "f6a7b8c9-0006-4000-8000-000000000004": {
+        "id": "f6a7b8c9-0006-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["The Linear + GitHub integration is excellent. Here's the setup:\n\n**Integration Setup:**\n1. Install the Linear GitHub app on your repo\n2. Link your Linear workspace to the GitHub org\n3. Enable auto-linking of PRs to issues\n\n**Workflow:**\n- Designer creates Linear issue with Figma link\n- Dev picks up issue, creates branch from Linear (auto-names it)\n- PR auto-links back to Linear issue\n- Issue auto-moves to \"In Review\" when PR is opened\n- Issue auto-closes when PR merges\n\n**VSCode Tips:**\n- Install the Linear VSCode extension for issue management\n- Use GitLens for PR context\n\nThis keeps everything async and traceable. The design-to-code handoff becomes: Figma file in Linear issue -> GitHub branch -> PR -> merged."] },
+          "create_time": 1732500180
+        },
+        "parent": "f6a7b8c9-0006-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Vegan meal prep for the week",
+    "create_time": 1732600000,
+    "update_time": 1732601000,
+    "mapping": {
+      "a7b8c9d0-0007-4000-8000-000000000001": {
+        "id": "a7b8c9d0-0007-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need help with weekly meal prep. I'm vegetarian and I absolutely love Mediterranean food. I also enjoy Indian cuisine. For breakfast I usually just have an oat milk latte and some toast. Looking for easy lunches and dinners I can prep on Sunday."] },
+          "create_time": 1732600000
+        },
+        "parent": null,
+        "children": ["a7b8c9d0-0007-4000-8000-000000000002"]
+      },
+      "a7b8c9d0-0007-4000-8000-000000000002": {
+        "id": "a7b8c9d0-0007-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's a Mediterranean + Indian inspired vegetarian meal prep plan:\n\n**Sunday Prep (2 hours):**\n\n**Lunches:**\n- Mediterranean grain bowls: quinoa, roasted chickpeas, cucumber, tomato, feta, lemon tahini dressing (5 servings)\n- Greek-style lentil soup (freezes great, 4 servings)\n\n**Dinners:**\n- Chana masala with basmati rice (4 servings)\n- Baked falafel with hummus and pita (makes 20 falafel)\n- Palak paneer with naan (3 servings)\n\n**Snacks:**\n- Hummus + veggie sticks\n- Trail mix with Mediterranean nuts\n\n**Your Breakfast Routine:**\nYour oat milk latte + toast is solid! Consider adding avocado or nut butter for protein to fuel your mornings.\n\nAll of these reheat beautifully. Want the full recipes for any of these?"] },
+          "create_time": 1732600060
+        },
+        "parent": "a7b8c9d0-0007-4000-8000-000000000001",
+        "children": ["a7b8c9d0-0007-4000-8000-000000000003"]
+      },
+      "a7b8c9d0-0007-4000-8000-000000000003": {
+        "id": "a7b8c9d0-0007-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["These look amazing! Can I get the chana masala recipe? I like medium spice level - not too mild but nothing that will blow my head off. Also, where do you recommend buying spices in bulk? I usually shop at Whole Foods."] },
+          "create_time": 1732600120
+        },
+        "parent": "a7b8c9d0-0007-4000-8000-000000000002",
+        "children": ["a7b8c9d0-0007-4000-8000-000000000004"]
+      },
+      "a7b8c9d0-0007-4000-8000-000000000004": {
+        "id": "a7b8c9d0-0007-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's a medium-spice chana masala recipe:\n\n**Ingredients:**\n- 2 cans chickpeas, drained\n- 1 large onion, diced\n- 3 cloves garlic + 1 inch ginger\n- 1 can crushed tomatoes\n- 2 tsp garam masala, 1 tsp cumin, 1 tsp coriander\n- 1/2 tsp cayenne (medium heat)\n- Fresh cilantro\n\n**Method:**\n1. Saute onion until golden (8 min)\n2. Add garlic, ginger, spices (1 min)\n3. Add tomatoes, simmer 10 min\n4. Add chickpeas, simmer 15 min\n5. Garnish with cilantro and lemon\n\n**For spice sourcing:**\nWhole Foods bulk section is good but pricey. Try:\n- Penzeys Spices (online, great quality)\n- Local Indian grocery stores (much cheaper, fresher)\n- Trader Joe's has good cumin and garam masala\n\nThe Indian grocery route will save you 50-70% on spices!"] },
+          "create_time": 1732600180
+        },
+        "parent": "a7b8c9d0-0007-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Training plan for my first triathlon",
+    "create_time": 1732700000,
+    "update_time": 1732701000,
+    "mapping": {
+      "b8c9d0e1-0008-4000-8000-000000000001": {
+        "id": "b8c9d0e1-0008-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I want to train for my first sprint triathlon. I currently run 3x times per week and can do a 5K in about 24 minutes. I'm a decent swimmer but haven't biked seriously. I track all my runs on Strava. What does a beginner triathlon plan look like?"] },
+          "create_time": 1732700000
+        },
+        "parent": null,
+        "children": ["b8c9d0e1-0008-4000-8000-000000000002"]
+      },
+      "b8c9d0e1-0008-4000-8000-000000000002": {
+        "id": "b8c9d0e1-0008-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["A sprint triathlon (750m swim, 20K bike, 5K run) is a great first goal! Here's a 12-week plan:\n\n**Weeks 1-4 (Base Building):**\n- Swim: 2x/week, 20-30 min\n- Bike: 2x/week, 30-45 min\n- Run: 3x/week (keep your current routine)\n- Total: 7 sessions/week\n\n**Weeks 5-8 (Building):**\n- Swim: 2x/week, 30-40 min\n- Bike: 2x/week, 45-60 min (add hills)\n- Run: 3x/week with 1 brick workout (bike+run)\n\n**Weeks 9-11 (Peak):**\n- Add open water swim practice\n- Long bike: 1x 90 min\n- Practice transitions\n\n**Week 12 (Taper):**\n- Reduce volume by 40%\n- Light sessions only\n\n**Strava Tips:**\n- Log swim workouts manually\n- Use multisport feature on race day\n- Track weekly training load across all three sports\n\nYour running base is solid. The bike will come quickly. Swimming technique is key - want pool drill recommendations?"] },
+          "create_time": 1732700060
+        },
+        "parent": "b8c9d0e1-0008-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Holiday gift guide for my mom who loves gardening",
+    "create_time": 1732800000,
+    "update_time": 1732801000,
+    "mapping": {
+      "c9d0e1f2-0009-4000-8000-000000000001": {
+        "id": "c9d0e1f2-0009-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Need gift ideas for my mom for the holidays. She's an avid gardener and also loves mystery novels. Budget is $75-100. Last year I got her a new set of garden tools and she loved them. Looking for something more unique this year."] },
+          "create_time": 1732800000
+        },
+        "parent": null,
+        "children": ["c9d0e1f2-0009-4000-8000-000000000002"]
+      },
+      "c9d0e1f2-0009-4000-8000-000000000002": {
+        "id": "c9d0e1f2-0009-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here are unique gifts combining her love of gardening and mysteries:\n\n**Gardening Gifts:**\n- Botanical illustration print (framed, $40-60) - Beautiful art for her garden room\n- Heirloom seed subscription (3 months, $45) - New varieties each month\n- Custom garden journal with planting calendar ($35-50)\n- Terrain or Gardener's Supply Co. gift basket ($75-100)\n\n**Mystery + Garden Combo:**\n- Subscription to a mystery book box like \"My Thrill Club\" ($50 for 3 months) + a beautiful garden kneeling pad ($30)\n- The \"Elly Griffiths\" series (garden-mystery crossover) + quality garden gloves ($60 total)\n\n**Premium Option:**\n- A local botanical garden annual membership ($75-90) - Gift that lasts all year, and she can visit for inspiration\n\nThe botanical garden membership is my favorite - it's unique, experiential, and ties directly to her passion. Pair it with a good mystery novel and you're at $90."] },
+          "create_time": 1732800060
+        },
+        "parent": "c9d0e1f2-0009-4000-8000-000000000001",
+        "children": ["c9d0e1f2-0009-4000-8000-000000000003"]
+      },
+      "c9d0e1f2-0009-4000-8000-000000000003": {
+        "id": "c9d0e1f2-0009-4000-8000-000000000003",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["The botanical garden membership is genius! She would absolutely love that. Can you recommend some good mystery novels too? She likes cozy mysteries, not anything too dark."] },
+          "create_time": 1732800120
+        },
+        "parent": "c9d0e1f2-0009-4000-8000-000000000002",
+        "children": ["c9d0e1f2-0009-4000-8000-000000000004"]
+      },
+      "c9d0e1f2-0009-4000-8000-000000000004": {
+        "id": "c9d0e1f2-0009-4000-8000-000000000004",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Cozy mysteries with garden themes - perfect for your mom:\n\n- **The Sweetness at the Bottom of the Pie** by Alan Bradley - A young amateur detective in a charming English setting\n- **The Thursday Murder Club** by Richard Osman - Witty, warm, and utterly charming\n- **Agatha Raisin series** by M.C. Beaton - Set in a Cotswolds village with lots of garden scenes\n\nPair the botanical garden membership ($80) with one of these paperbacks ($15) and you're at $95 - right in your budget. Wrap the book inside a nice garden tote for extra charm!"] },
+          "create_time": 1732800180
+        },
+        "parent": "c9d0e1f2-0009-4000-8000-000000000003",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best lightweight travel backpacks under $200",
+    "create_time": 1732900000,
+    "update_time": 1732901000,
+    "mapping": {
+      "d0e1f2a3-0010-4000-8000-000000000001": {
+        "id": "d0e1f2a3-0010-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need a good travel backpack under $200 for a 3-week Southeast Asia trip. I'm an REI member so I get the dividend back. I usually wear size 10 shoes if that matters for fit. I prefer Patagonia gear when possible. Looking for something 40-50L that works as a carry-on."] },
+          "create_time": 1732900000
+        },
+        "parent": null,
+        "children": ["d0e1f2a3-0010-4000-8000-000000000002"]
+      },
+      "d0e1f2a3-0010-4000-8000-000000000002": {
+        "id": "d0e1f2a3-0010-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Great picks for SE Asia backpacking! Here are the best options:\n\n**Top Recommendations:**\n1. **Patagonia Black Hole MLC 45L** ($199) - Since you love Patagonia, this is ideal. Suitcase-style opening, carry-on compliant.\n2. **REI Ruckpack 40** ($159) - Great REI dividend value, excellent ventilation for hot climates.\n3. **Osprey Farpoint 40** ($185) - Industry favorite for travel backpacking.\n\n**Why the Patagonia MLC wins for SE Asia:**\n- Opens flat like a suitcase (huge advantage)\n- Durable recycled materials\n- Laptop sleeve works as daypack divider\n- Carry-on size for budget airlines (important in SE Asia)\n\nWith your REI membership, buying the Patagonia through REI gets you the 10% dividend back ($20) making it effectively $179. Your shoe size doesn't affect backpack fit, but your torso length does - are you average height or taller? That'll help me confirm the sizing."] },
+          "create_time": 1732900060
+        },
+        "parent": "d0e1f2a3-0010-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Help me write a product brief",
+    "create_time": 1733000000,
+    "update_time": 1733001000,
+    "mapping": {
+      "e1f2a3b4-0011-4000-8000-000000000001": {
+        "id": "e1f2a3b4-0011-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need to write a product brief for a new feature. I like to keep my writing concise and direct in tone. Our team uses Notion for all documentation and Slack for communication. Can you give me a template that's brief but covers everything important?"] },
+          "create_time": 1733000000
+        },
+        "parent": null,
+        "children": ["e1f2a3b4-0011-4000-8000-000000000002"]
+      },
+      "e1f2a3b4-0011-4000-8000-000000000002": {
+        "id": "e1f2a3b4-0011-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's a concise Notion product brief template designed for async teams:\n\n---\n# [Feature Name] - Product Brief\n\n**Owner:** [Name] | **Status:** Draft | **Updated:** [Date]\n\n## Problem (2-3 sentences max)\nWhat's broken? Who feels it? Why now?\n\n## Proposal (1 paragraph)\nWhat we're building and the core user flow.\n\n## Success Metrics\n| Metric | Target | Timeline |\n|--------|--------|----------|\n| Primary KPI | X% | 30 days |\n| Secondary KPI | Y | 60 days |\n\n## Scope\n- **In:** [3-5 bullets]\n- **Out:** [2-3 bullets]\n\n## Open Questions\n- [ ] Question 1\n- [ ] Question 2\n\n---\n\nThis fits on one Notion page and can be shared in Slack for async review. Each section forces brevity. Want me to fill this out for your specific feature?"] },
+          "create_time": 1733000060
+        },
+        "parent": "e1f2a3b4-0011-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Comparing hotels in Barcelona",
+    "create_time": 1733100000,
+    "update_time": 1733101000,
+    "mapping": {
+      "f2a3b4c5-0012-4000-8000-000000000001": {
+        "id": "f2a3b4c5-0012-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Heading to Barcelona for a week. I need hotel recommendations - I strongly prefer boutique hotels and want to avoid chain hotels. Budget $200-300 per night. I want to be walkable to restaurants and the Gothic Quarter. I always book a window seat on transatlantic flights - any tips for the flight too?"] },
+          "create_time": 1733100000
+        },
+        "parent": null,
+        "children": ["f2a3b4c5-0012-4000-8000-000000000002"]
+      },
+      "f2a3b4c5-0012-4000-8000-000000000002": {
+        "id": "f2a3b4c5-0012-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Barcelona has incredible boutique hotels. Here are my picks:\n\n**In/Near Gothic Quarter:**\n- **Hotel Neri** ($250-320) - 12th century palace, rooftop terrace\n- **Mercer Hotel Barcelona** ($280-350) - Roman wall ruins in the lobby\n- **Hotel Banys Orientals** ($180-240) - Great value boutique in Born\n\n**Eixample (walkable to Gothic):**\n- **Cotton House Hotel** ($220-290) - Former cotton guild, stunning interiors\n- **Hotel Praktik Bakery** ($150-200) - Has a bakery in the lobby!\n\n**Flight Tips for Window Seat Fans:**\n- US to Barcelona: Left side (window A) for views of the Pyrenees on approach\n- Book early for exit row windows on transatlantic\n- Overnight flights: window + neck pillow = best sleep\n\nHotel Neri is my top pick for location and boutique charm. It's steps from the cathedral. Want restaurant recommendations for the area?"] },
+          "create_time": 1733100060
+        },
+        "parent": "f2a3b4c5-0012-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Quick healthy lunch recipes",
+    "create_time": 1733200000,
+    "update_time": 1733201000,
+    "mapping": {
+      "a3b4c5d6-0013-4000-8000-000000000001": {
+        "id": "a3b4c5d6-0013-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need quick healthy lunch ideas I can make in under 20 minutes. I'm pescatarian so fish is fine but no meat. I love Mediterranean and Japanese food. I'd say my spice tolerance is medium - I enjoy flavor but nothing too intense. I do most of my grocery shopping at Trader Joe's."] },
+          "create_time": 1733200000
+        },
+        "parent": null,
+        "children": ["a3b4c5d6-0013-4000-8000-000000000002"]
+      },
+      "a3b4c5d6-0013-4000-8000-000000000002": {
+        "id": "a3b4c5d6-0013-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here are quick pescatarian lunches using Trader Joe's ingredients:\n\n**Mediterranean (5-15 min):**\n- TJ's Mediterranean hummus wrap: hummus + feta + cucumber + olives in a whole wheat wrap (5 min)\n- Quick Greek salmon bowl: TJ's frozen salmon fillet (microwave 4 min) + couscous + cherry tomatoes + tzatziki (12 min)\n- Tuna white bean salad: canned tuna + white beans + lemon + arugula (8 min)\n\n**Japanese-inspired (10-20 min):**\n- TJ's frozen shrimp gyoza + quick miso soup + rice (15 min)\n- Poke-style bowl: TJ's ahi tuna + sushi rice + avocado + soy sauce + sesame (15 min)\n- Soba noodle bowl: cold soba + edamame + cucumber + ponzu dressing (10 min)\n\n**Trader Joe's Secret Weapons:**\n- Frozen grilled fish fillets (ready in 4 min)\n- Pre-made sushi rice\n- Everything But The Bagel seasoning on literally anything\n\nAll medium-spice friendly. Want a weekly rotation plan?"] },
+          "create_time": 1733200060
+        },
+        "parent": "a3b4c5d6-0013-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Home office ergonomic setup",
+    "create_time": 1733300000,
+    "update_time": 1733301000,
+    "mapping": {
+      "b4c5d6e7-0014-4000-8000-000000000001": {
+        "id": "b4c5d6e7-0014-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I work from home full time and need to upgrade my office setup. I use a MacBook Pro with VSCode most of the day. I currently have a standing desk but my monitor situation is bad. I spend a lot of time in Figma and Slack for design reviews. What's a good ergonomic monitor setup?"] },
+          "create_time": 1733300000
+        },
+        "parent": null,
+        "children": ["b4c5d6e7-0014-4000-8000-000000000002"]
+      },
+      "b4c5d6e7-0014-4000-8000-000000000002": {
+        "id": "b4c5d6e7-0014-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["For a design-focused workflow with Figma + VSCode, here's my recommendation:\n\n**Monitor Setup:**\n- **Primary: LG 27UN850-W 27\" 4K** ($400) - USB-C direct to MacBook, great color accuracy for Figma\n- **Secondary: Same model or your MacBook** as a secondary for Slack/reference\n- **Monitor arm:** Ergotron LX ($180) - Frees up desk space, easy height adjustment\n\n**Ergonomic Essentials:**\n- Monitor at eye level, arm's length away\n- Top of screen at or slightly below eye level\n- 20-20-20 rule: every 20 min, look 20 feet away for 20 seconds\n\n**Desk Additions:**\n- Keyboard tray or split keyboard (Kinesis Advantage360)\n- Vertical mouse (Logitech MX Vertical)\n- Anti-fatigue mat for standing\n\n**For your workflow specifically:**\n- 4K resolution is crucial for Figma detail work\n- USB-C connection means one cable for power + display\n- Color accuracy matters more than refresh rate for design\n\nTotal setup: ~$600-800. Want me to compare specific monitor models?"] },
+          "create_time": 1733300060
+        },
+        "parent": "b4c5d6e7-0014-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Weekend trail running routes near Austin",
+    "create_time": 1733400000,
+    "update_time": 1733401000,
+    "mapping": {
+      "c5d6e7f8-0015-4000-8000-000000000001": {
+        "id": "c5d6e7f8-0015-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I'm looking for good trail running routes near Austin for my weekend long runs. I currently run 4x times per week - 3 road runs during the week and a longer trail run on Saturday. I log everything on Strava. Training for a half marathon in the spring. Any suggestions for 8-12 mile trails?"] },
+          "create_time": 1733400000
+        },
+        "parent": null,
+        "children": ["c5d6e7f8-0015-4000-8000-000000000002"]
+      },
+      "c5d6e7f8-0015-4000-8000-000000000002": {
+        "id": "c5d6e7f8-0015-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Austin is a trail runner's paradise! Here are the best routes for your 8-12 mile long runs:\n\n**Top Picks:**\n1. **Barton Creek Greenbelt** (10 mi out-and-back) - Technical terrain, beautiful creek crossings. Great for Strava segments.\n2. **Town Lake/Butler Trail** (10 mi loop) - Flat, scenic, perfect for pace work. Iconic Austin route.\n3. **Walnut Creek Metro Park** (8-12 mi loops) - Great singletrack, well-marked, popular with trail runners.\n4. **River Place Nature Trail** (9 mi out-and-back) - Hill training, challenging but rewarding views.\n\n**For Half Marathon Training Specifically:**\n- Tuesdays: Speed work on Town Lake (flat)\n- Saturdays: Long runs on Barton Creek or Walnut Creek (terrain variety)\n- The hills at River Place build strength for race day\n\n**Strava Tips:**\n- Check the Barton Creek Greenbelt segment leaderboards - very active community\n- Town Lake has the most popular Austin running segments\n\nWant a week-by-week trail running schedule for your half marathon training?"] },
+          "create_time": 1733400060
+        },
+        "parent": "c5d6e7f8-0015-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Valentine's Day gift for cooking enthusiast partner",
+    "create_time": 1733500000,
+    "update_time": 1733501000,
+    "mapping": {
+      "d6e7f8a9-0016-4000-8000-000000000001": {
+        "id": "d6e7f8a9-0016-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Valentine's Day is coming up and I need a gift for my partner who is really into cooking and ceramics. Budget around $150. She also loves candles. Last time I got her a ceramic mixing bowl set and she uses it constantly. Any ideas that combine her interests?"] },
+          "create_time": 1733500000
+        },
+        "parent": null,
+        "children": ["d6e7f8a9-0016-4000-8000-000000000002"]
+      },
+      "d6e7f8a9-0016-4000-8000-000000000002": {
+        "id": "d6e7f8a9-0016-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Since your partner loves cooking, ceramics, and candles, here are gifts that blend all three:\n\n**Top Combo Ideas:**\n1. **Handmade ceramic serving platter** ($80-100) from a local potter + **artisan soy candle set** ($40-50) = $120-150\n2. **East Fork Pottery baking dish** ($85) + **cooking-scented candle** (rosemary, basil) ($35) + **nice wooden spoon set** ($25) = $145\n3. **Pottery date night class** ($120 for two) + **gourmet cooking ingredient set** ($30) = $150\n\n**Premium Single Item:**\n- Le Creuset ceramic baking dish in a special color ($90-130)\n- Heath Ceramics serving bowl ($120-180)\n\nSince the mixing bowls were such a hit, I'd go with the East Fork baking dish combo. It expands her ceramic kitchen collection and the cooking candle adds a personal touch. The pottery class is great if you want to make it an experience.\n\nWant specific product links for any of these?"] },
+          "create_time": 1733500060
+        },
+        "parent": "d6e7f8a9-0016-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Packing list for Southeast Asia trip",
+    "create_time": 1733600000,
+    "update_time": 1733601000,
+    "mapping": {
+      "e7f8a9b0-0017-4000-8000-000000000001": {
+        "id": "e7f8a9b0-0017-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I'm going to Thailand and Vietnam for 3 weeks and need a packing list. I'm 32 waist, 30 inseam, medium shirt size. I prefer quick-dry fabrics but hate polyester - anything in merino wool or cotton blends is great. I usually buy from Patagonia, Uniqlo, and Smartwool. Shoe size 10."] },
+          "create_time": 1733600000
+        },
+        "parent": null,
+        "children": ["e7f8a9b0-0017-4000-8000-000000000002"]
+      },
+      "e7f8a9b0-0017-4000-8000-000000000002": {
+        "id": "e7f8a9b0-0017-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's your SE Asia packing list optimized for merino/cotton in your sizes:\n\n**Tops (Medium):**\n- 3x Smartwool Merino 150 tees ($65 each) - Antimicrobial, perfect for hot/humid\n- 2x Uniqlo Airism cotton blend tees ($15 each)\n- 1x Patagonia Capilene Cool Trail shirt ($45)\n\n**Bottoms (32/30):**\n- 2x Patagonia Quandary pants (32/30) - Quick dry, not polyester-feeling\n- 1x Patagonia Baggies shorts ($55)\n- 1x Uniqlo cotton-linen shorts ($30)\n\n**Outerwear:**\n- Patagonia Houdini jacket (packs to fist-size)\n\n**Footwear (Size 10):**\n- Trail runners for temples/hiking\n- Sandals (Chacos or Birkenstocks)\n\n**Gear:**\n- Packing cubes (compress merino nicely)\n- Quick-dry travel towel\n- Dry bag for boat trips\n\nTotal: ~$500-600 if buying new. The Smartwool tees are the MVP - you can wear each 2-3 days without washing in SE Asia heat. Want temple-appropriate outfit suggestions?"] },
+          "create_time": 1733600060
+        },
+        "parent": "e7f8a9b0-0017-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best coffee subscriptions",
+    "create_time": 1733700000,
+    "update_time": 1733701000,
+    "mapping": {
+      "f8a9b0c1-0018-4000-8000-000000000001": {
+        "id": "f8a9b0c1-0018-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I'm a bit of a coffee snob and want to find a good coffee subscription. I love pour-over and prefer light roast single origin beans. Currently spending about $20/month on beans from Whole Foods but want something better. Any recommendations?"] },
+          "create_time": 1733700000
+        },
+        "parent": null,
+        "children": ["f8a9b0c1-0018-4000-8000-000000000002"]
+      },
+      "f8a9b0c1-0018-4000-8000-000000000002": {
+        "id": "f8a9b0c1-0018-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["A fellow pour-over enthusiast! Here are the best subscriptions for light roast single origin:\n\n**Top Picks:**\n1. **Counter Culture** ($16-22/bag) - Exceptional light roasts, ships within days of roasting\n2. **Onyx Coffee Lab** ($18-24/bag) - Award-winning single origins, beautiful packaging\n3. **Trade Coffee** ($15-22/bag) - Curated from 55+ roasters, learns your preferences\n4. **Blue Bottle** ($18-24/bag) - Ships within 48 hours of roasting\n\n**For Pour-Over Specifically:**\n- Counter Culture's \"Single Origin\" subscription ($22/2 weeks) - Rotates origins seasonally\n- Onyx's \"Single Origin\" plan ($20/2 weeks) - Detailed tasting notes for each pour-over\n\n**Budget Comparison:**\n- Your current: ~$20/month from Whole Foods\n- Recommended: $35-45/month (12oz every 2 weeks)\n- Worth it: Night-and-day difference in freshness and complexity\n\nCounter Culture is my top pick for light roast pour-over. Their transparency about sourcing and roast dates is unmatched. Start with their Hologram blend to see if you like their style, then switch to single origin rotation."] },
+          "create_time": 1733700060
+        },
+        "parent": "f8a9b0c1-0018-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Recommend project management tools for a design team",
+    "create_time": 1733800000,
+    "update_time": 1733801000,
+    "mapping": {
+      "a9b0c1d2-0019-4000-8000-000000000001": {
+        "id": "a9b0c1d2-0019-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Our design team of 6 needs better project management. We currently use Jira but it feels too heavy for design work. We're already on Figma for design and Slack for communication. I prefer async communication and concise documentation. What would you recommend instead of Jira?"] },
+          "create_time": 1733800000
+        },
+        "parent": null,
+        "children": ["a9b0c1d2-0019-4000-8000-000000000002"]
+      },
+      "a9b0c1d2-0019-4000-8000-000000000002": {
+        "id": "a9b0c1d2-0019-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Jira is definitely overkill for most design teams. Here are better alternatives:\n\n**Top Recommendation: Linear**\n- Clean, fast, keyboard-driven\n- Great Figma integration\n- Cycles (sprints) without the Scrum overhead\n- Excellent Slack integration for async updates\n- $8/user/month = $48/month for your team of 6\n\n**Runner-up: Notion + Simple Project Boards**\n- If you want docs and tasks in one place\n- More flexible but less structured\n- Better for teams that prefer async documentation\n\n**Why Linear wins for design teams:**\n- Views optimized for visual work (not just developer sprints)\n- Issue templates for design reviews\n- Figma file links embed beautifully\n- Auto-sync with Slack channels\n- Much less configuration than Jira\n\n**Migration Path:**\n1. Export Jira issues as CSV\n2. Import into Linear (they have a Jira importer)\n3. Set up Figma and Slack integrations\n4. Train team in one 30-min session\n\nThe biggest win: your team will actually enjoy using it. Want help planning the migration?"] },
+          "create_time": 1733800060
+        },
+        "parent": "a9b0c1d2-0019-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Finding the right blazer for client meetings",
+    "create_time": 1733900000,
+    "update_time": 1733901000,
+    "mapping": {
+      "b0c1d2e3-0020-4000-8000-000000000001": {
+        "id": "b0c1d2e3-0020-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need a versatile blazer for client meetings. I wear medium shirt, 32 waist. I prefer slim fit and really like J.Crew and Bonobos. Budget around $300. I hate polyester - prefer cotton or wool blends. Something I can dress up with chinos or dress down with jeans."] },
+          "create_time": 1733900000
+        },
+        "parent": null,
+        "children": ["b0c1d2e3-0020-4000-8000-000000000002"]
+      },
+      "b0c1d2e3-0020-4000-8000-000000000002": {
+        "id": "b0c1d2e3-0020-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Great taste - here are slim fit blazers in natural fabrics within your budget:\n\n**J.Crew:**\n- **Ludlow Slim Blazer in Italian Wool** ($298) - Your best bet. 100% wool, true slim fit, timeless navy.\n- **Ludlow in Cotton-Linen** ($228) - Great for warmer months.\n\n**Bonobos:**\n- **Jetsetter Stretch Wool Blazer** ($275) - Slight stretch for comfort, still natural fiber dominant.\n- **Italian Knit Blazer** ($250) - Unique texture, very modern.\n\n**Dark Horse:**\n- **Everlane Italian Wool Blazer** ($198) - Incredible value for all-wool construction.\n\n**My Recommendation:**\nThe J.Crew Ludlow in Italian Wool is the gold standard for your requirements:\n- True slim fit in medium\n- 100% wool (zero polyester)\n- Works with chinos AND jeans\n- Under $300\n- Navy is the most versatile color\n\nSize tip: In J.Crew's Ludlow, medium slim typically fits 38R. Try on in-store if possible - their tailoring is free on full-price items. Want to see how to style it for different meeting contexts?"] },
+          "create_time": 1733900060
+        },
+        "parent": "b0c1d2e3-0020-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best sushi restaurants in Chicago",
+    "create_time": 1734000000,
+    "update_time": 1734001000,
+    "mapping": {
+      "c1d2e3f4-0021-4000-8000-000000000001": {
+        "id": "c1d2e3f4-0021-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I just moved to Chicago and I'm looking for the best sushi spots. I'm pescatarian so I eat fish but no meat. I'm also allergic to shellfish so I need places that are really careful about cross-contamination. Willing to spend up to $100/person for a special dinner."] },
+          "create_time": 1734000000
+        },
+        "parent": null,
+        "children": ["c1d2e3f4-0021-4000-8000-000000000002"]
+      },
+      "c1d2e3f4-0021-4000-8000-000000000002": {
+        "id": "c1d2e3f4-0021-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Welcome to Chicago! Here are sushi spots that handle shellfish allergies well:\n\n**High-End ($70-100/pp):**\n- **Kyoten** - Intimate 8-seat omakase. Chef Otsuka customizes everything, perfect for allergies.\n- **Mako** - Brand new, excellent allergy awareness, stunning omakase.\n- **Kai Zan** - BYOB omakase, brothers who run it are incredibly attentive to dietary needs.\n\n**Mid-Range ($40-60/pp):**\n- **Juno** - West Loop, great variety of fish-only rolls\n- **Arami** - Excellent sashimi selection, very allergy-conscious\n\n**Casual ($20-40/pp):**\n- **Sushi-san** - River North, fun atmosphere, staff trained on allergens\n\n**Important Tips for Shellfish Allergies:**\n- Always mention allergy when making reservation AND when seated\n- Omakase is actually safest - chef controls every ingredient\n- Avoid all-you-can-eat places (shared fryer risk)\n\nKai Zan is my top pick - BYOB saves money and the chefs literally build your meal around your restrictions. Book 2-3 weeks out."] },
+          "create_time": 1734000060
+        },
+        "parent": "c1d2e3f4-0021-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Merino wool base layers for winter running",
+    "create_time": 1734100000,
+    "update_time": 1734101000,
+    "mapping": {
+      "d2e3f4a5-0022-4000-8000-000000000001": {
+        "id": "d2e3f4a5-0022-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need merino wool base layers for winter running. I love merino because it doesn't stink like polyester. I'm medium shirt size and prefer slim fit. I run 4x times per week even in winter. Looking at Smartwool and Icebreaker - which is better? Budget under $100 per piece."] },
+          "create_time": 1734100000
+        },
+        "parent": null,
+        "children": ["d2e3f4a5-0022-4000-8000-000000000002"]
+      },
+      "d2e3f4a5-0022-4000-8000-000000000002": {
+        "id": "d2e3f4a5-0022-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Both are excellent, but they differ in key ways:\n\n**Smartwool:**\n- Merino 150 Base Layer ($80) - Lightweight, great for active running\n- More athletic/slim fit out of the box\n- Slightly more durable in wash\n- Better price point for running gear\n\n**Icebreaker:**\n- 200 Oasis Crew ($90) - Midweight, warmer\n- Slightly boxier fit (less ideal for slim preference)\n- Higher percentage merino (usually 100%)\n- Better for extreme cold\n\n**My Recommendation for Running 4x/Week:**\n- **Smartwool Merino 150** for runs above 25F\n- **Smartwool Merino 250** ($90) for runs below 25F\n- Both come in medium slim fit\n\n**Layering System:**\n- 25F+: Merino 150 tee + wind vest\n- 10-25F: Merino 250 + lightweight shell\n- Below 10F: Merino 250 + insulated running jacket\n\nBuy 2-3 pieces so you can rotate between runs (merino needs a day to air out between wears). At $80-90/piece, 3 pieces = $240-270 total. Worth it for a 4x/week runner."] },
+          "create_time": 1734100060
+        },
+        "parent": "d2e3f4a5-0022-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Async standup template for remote team",
+    "create_time": 1734200000,
+    "update_time": 1734201000,
+    "mapping": {
+      "e3f4a5b6-0023-4000-8000-000000000001": {
+        "id": "e3f4a5b6-0023-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I want to move our daily standups to async. We use Slack for messaging, Notion for docs, and Linear for task tracking. I prefer async communication because our team is spread across 3 time zones. The current daily 15-min sync meetings feel like a waste. How should I structure an async standup?"] },
+          "create_time": 1734200000
+        },
+        "parent": null,
+        "children": ["e3f4a5b6-0023-4000-8000-000000000002"]
+      },
+      "e3f4a5b6-0023-4000-8000-000000000002": {
+        "id": "e3f4a5b6-0023-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's a proven async standup system for your Slack + Notion + Linear stack:\n\n**Daily Async Standup (via Slack):**\nCreate a #standups channel with a Slack workflow that posts at 9am in each timezone:\n\nTemplate:\n- What I shipped yesterday (link Linear issues)\n- What I'm working on today (link Linear issues)\n- Blockers (tag someone if needed)\n\n**Weekly Sync (keep ONE meeting):**\n- 30-min weekly instead of 5x 15-min daily = net savings of 45 min\n- Use for decisions that need real-time discussion\n- Record it for async viewers\n\n**Notion Dashboard:**\n- Weekly team pulse (auto-populated from Linear)\n- Decision log (async proposals with deadlines)\n- Retrospective template (async-first)\n\n**Linear Automation:**\n- Issues auto-post to Slack when status changes\n- Cycle reports generate weekly summaries\n\nThis saves 60+ min/week per person across 3 time zones. The key is discipline - everyone posts by their local 10am. Want me to build the Slack workflow template?"] },
+          "create_time": 1734200060
+        },
+        "parent": "e3f4a5b6-0023-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Weekend getaway from Austin to Fredericksburg",
+    "create_time": 1734300000,
+    "update_time": 1734301000,
+    "mapping": {
+      "f4a5b6c7-0024-4000-8000-000000000001": {
+        "id": "f4a5b6c7-0024-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Planning a weekend wine trip from Austin to Fredericksburg. I'm pescatarian so I need restaurants that have good fish options. My partner loves cooking and wants to check out local food spots. We prefer boutique hotels or B&Bs over chains. Budget $250-300/night for lodging."] },
+          "create_time": 1734300000
+        },
+        "parent": null,
+        "children": ["f4a5b6c7-0024-4000-8000-000000000002"]
+      },
+      "f4a5b6c7-0024-4000-8000-000000000002": {
+        "id": "f4a5b6c7-0024-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Fredericksburg is the perfect weekend trip from Austin! Here's your plan:\n\n**Boutique Lodging:**\n- **Inn on Barons Creek** ($250-320) - Luxury B&B, beautiful grounds\n- **Hoffman Haus** ($220-280) - Historic boutique, walking distance to Main Street\n- **Cotton Gin Village** ($200-260) - Unique restored cabins, very charming\n\n**Dining (Pescatarian-Friendly):**\n- **Cabernet Grill** - Best fine dining in town, excellent fish dishes\n- **August E's** - New American with great seafood options\n- **Rather Sweet Bakery** - Your partner who loves cooking will adore this spot\n\n**Wine Tasting Itinerary:**\n- Saturday morning: Grape Creek Vineyards (great rosé)\n- Saturday afternoon: Becker Vineyards (iconic)\n- Sunday morning: William Chris Vineyards (natural wines)\n\n**Cooking Partner Bonus:**\n- Fischer & Wieser specialty food store - Amazing jams, sauces, local ingredients\n- Old German Bakerei - Authentic German pastries\n\nBook Inn on Barons Creek for the most romantic experience. It's a 90-minute drive from Austin. Want a detailed day-by-day itinerary?"] },
+          "create_time": 1734300060
+        },
+        "parent": "f4a5b6c7-0024-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Upgrade my pour-over coffee setup",
+    "create_time": 1734400000,
+    "update_time": 1734401000,
+    "mapping": {
+      "a5b6c7d8-0025-4000-8000-000000000001": {
+        "id": "a5b6c7d8-0025-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I'm a coffee snob who does pour-over every morning with light roast beans. I currently have a basic Hario V60 but want to upgrade my whole setup. I'm willing to invest up to $300 total. What should I prioritize?"] },
+          "create_time": 1734400000
+        },
+        "parent": null,
+        "children": ["a5b6c7d8-0025-4000-8000-000000000002"]
+      },
+      "a5b6c7d8-0025-4000-8000-000000000002": {
+        "id": "a5b6c7d8-0025-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["For light roast pour-over, here's where your $300 will have the most impact:\n\n**Priority 1: Grinder (biggest upgrade)**\n- **Timemore C3** hand grinder ($70) - Great entry burr grinder\n- **1Zpresso JX** ($130) - Best hand grinder for pour-over, precise grind settings for light roasts\n- **Baratza Encore ESP** ($170) - Electric, consistent grind\n\n**Priority 2: Kettle**\n- **Fellow Stagg EKG** ($165) - Temperature control crucial for light roasts (205F sweet spot)\n- **Hario Buono** ($40) - Budget gooseneck option\n\n**Priority 3: Scale**\n- **Timemore Black Mirror** ($60) - Built-in timer, 0.1g accuracy\n\n**My $300 Build:**\n- 1Zpresso JX grinder ($130)\n- Fellow Stagg EKG kettle ($165)\n- Total: $295\n\nKeep your V60 - it's excellent. The grinder and temperature-controlled kettle will transform your light roast extraction. The grinder is the single biggest upgrade you can make. Want brewing recipe recommendations for this setup?"] },
+          "create_time": 1734400060
+        },
+        "parent": "a5b6c7d8-0025-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Figma component library best practices",
+    "create_time": 1734500000,
+    "update_time": 1734501000,
+    "mapping": {
+      "b6c7d8e9-0026-4000-8000-000000000001": {
+        "id": "b6c7d8e9-0026-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I'm setting up a Figma component library for our team. We use Figma for all design work, Notion for documentation, and GitHub for code. I want the component library to be well-organized and easy for our 8 designers to use. We prefer concise documentation over long spec docs. What's the best structure?"] },
+          "create_time": 1734500000
+        },
+        "parent": null,
+        "children": ["b6c7d8e9-0026-4000-8000-000000000002"]
+      },
+      "b6c7d8e9-0026-4000-8000-000000000002": {
+        "id": "b6c7d8e9-0026-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's a battle-tested Figma library structure for a team of 8:\n\n**File Organization:**\n- Foundations (colors, typography, spacing, icons)\n- Components (buttons, inputs, cards, modals, navigation)\n- Patterns (forms, tables, empty states, onboarding flows)\n- Templates (page layouts, dashboards)\n\n**Component Structure:**\nEach component should have:\n- Variants panel (size, state, type)\n- Auto-layout for responsive behavior\n- Description in the component itself (not external docs)\n\n**Naming Convention:**\n- Category/Component/Variant: e.g., Input/Text Field/Default, Input/Text Field/Error\n- Consistent sizing: SM, MD, LG (not small, medium, large)\n\n**Concise Documentation (Notion):**\n- One Notion page per component category\n- Include: screenshot, usage guidelines (3 bullets max), do/don't examples\n- Link to Figma component and GitHub component\n\n**Version Control:**\n- Use Figma branching for major updates\n- Publish library changes weekly\n- Changelog in Notion (brief bullet points)\n\nThe key for 8 designers: consistency > completeness. Start with 20 well-built components rather than 100 messy ones. Want a specific component template to start from?"] },
+          "create_time": 1734500060
+        },
+        "parent": "b6c7d8e9-0026-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Italian cooking class recommendations",
+    "create_time": 1734600000,
+    "update_time": 1734601000,
+    "mapping": {
+      "c7d8e9f0-0027-4000-8000-000000000001": {
+        "id": "c7d8e9f0-0027-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I want to take an Italian cooking class with my partner. She's really into cooking and ceramics, and I think a pasta-making class would be amazing. We're in Austin. Also I'm vegetarian so it needs to be a class that can accommodate that. Budget around $150 for both of us."] },
+          "create_time": 1734600000
+        },
+        "parent": null,
+        "children": ["c7d8e9f0-0027-4000-8000-000000000002"]
+      },
+      "c7d8e9f0-0027-4000-8000-000000000002": {
+        "id": "c7d8e9f0-0027-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Austin has great Italian cooking classes! Here are vegetarian-friendly options:\n\n**Top Picks:**\n- **Dai Due Supper Club** ($80/person) - Farm-to-table pasta making, easily accommodates vegetarian\n- **Central Market Cooking School** ($60/person) - Regular pasta classes, always has a vegetarian option\n- **Cook Austin** ($70/person) - Intimate setting, customizable menus\n\n**Best for Your Situation:**\nCentral Market's \"Fresh Pasta Workshop\" is perfect:\n- $60/person ($120 total, under budget)\n- They do vegetarian ravioli and fresh fettuccine\n- BYOB (save money on wine)\n- Very hands-on and couples-friendly\n- Your partner who loves cooking will appreciate the technique focus\n\n**Bonus Idea:**\nWith the leftover $30 from your budget, grab a nice bottle of Italian wine and cook the pasta together at home the following weekend. It becomes two dates!\n\nClasses book up fast - check their website 2-3 weeks ahead. Would Saturday or Sunday work better for a cooking class?"] },
+          "create_time": 1734600060
+        },
+        "parent": "c7d8e9f0-0027-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Running watch recommendations for Strava",
+    "create_time": 1734700000,
+    "update_time": 1734701000,
+    "mapping": {
+      "d8e9f0a1-0028-4000-8000-000000000001": {
+        "id": "d8e9f0a1-0028-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need a GPS running watch that syncs well with Strava. I run 4x times per week and I'm training for a half marathon. Currently just using my phone for tracking which is annoying. Budget under $300. I want good heart rate monitoring and route tracking."] },
+          "create_time": 1734700000
+        },
+        "parent": null,
+        "children": ["d8e9f0a1-0028-4000-8000-000000000002"]
+      },
+      "d8e9f0a1-0028-4000-8000-000000000002": {
+        "id": "d8e9f0a1-0028-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here are the best running watches for Strava integration under $300:\n\n**Top Picks:**\n1. **Garmin Forerunner 265** ($300) - Best overall. AMOLED display, excellent GPS, auto-syncs to Strava.\n2. **Garmin Forerunner 55** ($200) - Budget pick, does everything you need.\n3. **COROS PACE 3** ($230) - Incredible battery life, great Strava sync.\n4. **Apple Watch Ultra** (above budget but worth mentioning)\n\n**For Half Marathon Training + Strava:**\nThe **Forerunner 265** is the clear winner:\n- Auto-upload runs to Strava (no manual sync)\n- Training readiness score (helps with 4x/week planning)\n- Heart rate zones calibrated for running\n- Route creation from Strava imported to watch\n- 13-day battery life\n\n**Half Marathon Specific Features:**\n- Race predictor estimates your finish time\n- Suggested daily workouts based on your training load\n- Recovery time advisor (critical when running 4x/week)\n\nDitch the phone and get the Garmin 265. Your Strava data quality will improve dramatically with proper GPS and wrist HR. Want setup tips for the Strava integration?"] },
+          "create_time": 1734700060
+        },
+        "parent": "d8e9f0a1-0028-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Slim fit chinos that don't use polyester",
+    "create_time": 1734800000,
+    "update_time": 1734801000,
+    "mapping": {
+      "e9f0a1b2-0029-4000-8000-000000000001": {
+        "id": "e9f0a1b2-0029-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I need to stock up on chinos. I'm 32 waist, 30 inseam and prefer slim fit. I absolutely hate polyester and avoid polyester in all my clothing. I shop mostly at J.Crew and Banana Republic. Looking for 3-4 pairs in different colors under $100 each. Any recommendations?"] },
+          "create_time": 1734800000
+        },
+        "parent": null,
+        "children": ["e9f0a1b2-0029-4000-8000-000000000002"]
+      },
+      "e9f0a1b2-0029-4000-8000-000000000002": {
+        "id": "e9f0a1b2-0029-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's your polyester-free chino lineup in 32/30 slim fit:\n\n**J.Crew (Your Go-To):**\n- **484 Slim Chino in Stretch Organic Cotton** ($79.50) - 97% cotton, 3% elastane. Zero polyester.\n  - Get in: Navy, British Khaki, Olive\n  - Best slim fit in the game for 32/30\n\n**Banana Republic:**\n- **Core Temp Slim Chino** ($89.50) - Cotton/Lyocell blend, moisture-wicking without polyester\n  - Get in: Stone, Navy\n\n**Other Great Options:**\n- **Everlane Slim Fit Chino** ($68) - 98% organic cotton\n- **Bonobos Stretch Washed Chino** ($98) - Cotton with just a touch of elastane\n\n**Recommended 4-Pair Rotation:**\n1. J.Crew 484 Navy ($79.50)\n2. J.Crew 484 British Khaki ($79.50)\n3. J.Crew 484 Olive ($79.50)\n4. Everlane Slate Grey ($68)\n\n**Total: ~$307 for 4 pairs** - All cotton-based, no polyester, slim fit, 32/30.\n\nJ.Crew frequently runs 30-40% off sales. Wait for one and you could get all 4 for under $250. Want to know about their current promotions?"] },
+          "create_time": 1734800060
+        },
+        "parent": "e9f0a1b2-0029-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Global Entry application tips",
+    "create_time": 1734900000,
+    "update_time": 1734901000,
+    "mapping": {
+      "f0a1b2c3-0030-4000-8000-000000000001": {
+        "id": "f0a1b2c3-0030-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I travel about 6 times per year for both work and adventure trips. I have TSA PreCheck but I'm thinking about upgrading to Global Entry since I've been doing more international travel lately. Is it worth it? I always fly window seat and try to book early to get my preferred spot."] },
+          "create_time": 1734900000
+        },
+        "parent": null,
+        "children": ["f0a1b2c3-0030-4000-8000-000000000002"]
+      },
+      "f0a1b2c3-0030-4000-8000-000000000002": {
+        "id": "f0a1b2c3-0030-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Absolutely worth it at 6 trips per year! Here's why:\n\n**Global Entry vs TSA PreCheck:**\n- Global Entry: $100/5 years = $20/year (INCLUDES TSA PreCheck)\n- TSA PreCheck alone: $85/5 years = $17/year\n- Extra $15 total for international fast-track = no-brainer\n\n**Benefits for Your Travel Style:**\n- Skip customs lines on international returns (saves 30-60 min)\n- TSA PreCheck included (keep your current benefits)\n- Works at 75+ countries for faster entry\n- Many premium credit cards reimburse the $100 fee\n\n**Application Tips:**\n1. Apply online at Global Entry website\n2. Conditional approval in 2-4 weeks\n3. Schedule interview at your nearest airport\n4. Bring passport + one other ID\n5. Interview takes 15 minutes\n\n**Pro tip for window seat lovers:** With Global Entry, you breeze through customs so fast you'll have time to grab food before connecting flights. Combined with your window seat for sleeping, you'll arrive refreshed.\n\nCheck if your credit card already covers the fee - many travel cards do. Want help finding which cards offer Global Entry reimbursement?"] },
+          "create_time": 1734900060
+        },
+        "parent": "f0a1b2c3-0030-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Notion workspace organization for product team",
+    "create_time": 1735000000,
+    "update_time": 1735001000,
+    "mapping": {
+      "a1b2c3d4-0031-4000-8000-000000000001": {
+        "id": "a1b2c3d4-0031-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["Our product team needs to reorganize our Notion workspace. We use Notion as our single source of truth, with Figma for design, Linear for issues, and GitHub for code. I like to keep everything concise and our team prefers async communication. How should we structure the workspace?"] },
+          "create_time": 1735000000
+        },
+        "parent": null,
+        "children": ["a1b2c3d4-0031-4000-8000-000000000002"]
+      },
+      "a1b2c3d4-0031-4000-8000-000000000002": {
+        "id": "a1b2c3d4-0031-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's a lean Notion workspace structure for an async product team:\n\n**Top-Level Structure (Sidebar):**\n\n1. **Home** - Team dashboard with embedded Linear cycle view and key links\n2. **Product** - Briefs, roadmap, strategy docs\n3. **Design** - Figma file directory, design principles, component docs\n4. **Engineering** - Architecture decisions, GitHub repo links, runbooks\n5. **Team** - Async standup archive, retros, team directory\n6. **Templates** - Product brief, RFC, design review, meeting notes\n\n**Key Principles:**\n- Every page has an owner and last-updated date\n- Max 3 levels of nesting\n- Use databases over nested pages (easier to search)\n- Link to Linear/Figma/GitHub instead of duplicating content\n\n**Async-First Features:**\n- Inline comments for async reviews\n- Toggle blocks for optional detail\n- Status callouts (Draft/In Review/Approved)\n- @mention teammates instead of scheduling meetings\n\nStart by migrating your top 10 most-used docs, not everything at once. Want me to build out any of these sections in detail?"] },
+          "create_time": 1735000060
+        },
+        "parent": "a1b2c3d4-0031-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Korean BBQ restaurants with vegetarian options",
+    "create_time": 1735100000,
+    "update_time": 1735101000,
+    "mapping": {
+      "b2c3d4e5-0032-4000-8000-000000000001": {
+        "id": "b2c3d4e5-0032-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["My friends want to go to Korean BBQ but I'm vegetarian. Are there any Korean restaurants in Austin that have good vegetarian options? I love Korean food - especially Korean fried tofu, bibimbap, and japchae. Would prefer somewhere not too expensive."] },
+          "create_time": 1735100000
+        },
+        "parent": null,
+        "children": ["b2c3d4e5-0032-4000-8000-000000000002"]
+      },
+      "b2c3d4e5-0032-4000-8000-000000000002": {
+        "id": "b2c3d4e5-0032-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Austin has some great Korean spots with vegetarian options:\n\n**Korean BBQ with Veggie Options:**\n- **Oseyo** - Has mushroom and tofu BBQ options alongside regular meat BBQ. Great for mixed groups.\n- **Korea House** - Excellent vegetarian bibimbap and japchae. Your friends can still get their BBQ fix.\n\n**Korean Restaurants (Not BBQ) with Great Vegetarian:**\n- **Charm Korean** - Amazing tofu stew, veggie kimbap, and they make a killer japchae\n- **Chi'Lantro** - Korean-Mexican fusion, great vegetarian bowl options\n\n**Best for Your Situation:**\nKorea House is the move - it has both traditional BBQ for your friends and excellent vegetarian dishes. Their dolsot bibimbap (stone pot) is incredible for vegetarians. Price point is moderate at $15-25/person.\n\nThe key is picking a place where the vegetarian dishes aren't just an afterthought. Korea House genuinely makes their tofu and vegetable dishes with the same care. Want to know what to order for a group?"] },
+          "create_time": 1735100060
+        },
+        "parent": "b2c3d4e5-0032-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Travel wardrobe capsule for frequent flyer",
+    "create_time": 1735200000,
+    "update_time": 1735201000,
+    "mapping": {
+      "c3d4e5f6-0033-4000-8000-000000000001": {
+        "id": "c3d4e5f6-0033-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I travel 6 times per year and I'm tired of overpacking. I'm 32 waist, 30 inseam, medium shirt, and prefer slim fit everything. I love merino wool for travel because it doesn't wrinkle or smell. Brands I trust: Patagonia, Smartwool, Wool & Prince, Outlier. Help me build a capsule travel wardrobe."] },
+          "create_time": 1735200000
+        },
+        "parent": null,
+        "children": ["c3d4e5f6-0033-4000-8000-000000000002"]
+      },
+      "c3d4e5f6-0033-4000-8000-000000000002": {
+        "id": "c3d4e5f6-0033-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["Here's a merino-focused capsule wardrobe for a 32/30 medium slim fit traveler:\n\n**The Core Kit (7 days from 11 pieces):**\n\n**Tops:**\n- 2x Wool & Prince Button-Down ($128 each) - Office to dinner in merino\n- 2x Smartwool Merino 150 Tee ($65 each) - Casual days\n- 1x Outlier Ultrafine Merino Tee ($110) - Premium option\n\n**Bottoms:**\n- 1x Outlier Slim Dungarees (32/30) ($198) - Technical pants that look like chinos\n- 1x Patagonia Quandary Pants (32/30) ($89) - Hiking to happy hour\n- 1x Shorts (Patagonia Baggies) ($55)\n\n**Layers:**\n- 1x Patagonia Nano Puff ($199) - Packable warmth\n- 1x Patagonia Houdini ($99) - Wind/rain shell\n\n**Why This Works:**\n- Everything mixes and matches\n- Merino can be worn 2-3 days without washing\n- Total: fits in a carry-on with room to spare\n- All slim fit in your sizes\n\n**Investment: ~$1,200** but lasts years with merino durability. The Wool & Prince shirts are the MVPs - they go from meetings to exploring without looking like \"travel clothes.\" Want a packing configuration?"] },
+          "create_time": 1735200060
+        },
+        "parent": "c3d4e5f6-0033-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best oat milk brands for lattes",
+    "create_time": 1735300000,
+    "update_time": 1735301000,
+    "mapping": {
+      "d4e5f6a7-0034-4000-8000-000000000001": {
+        "id": "d4e5f6a7-0034-4000-8000-000000000001",
+        "message": {
+          "author": { "role": "user" },
+          "content": { "content_type": "text", "parts": ["I drink an oat milk latte every morning and want to make better ones at home. I'm a bit of a coffee snob and do pour-over with light roast beans. What's the best oat milk for lattes? I usually buy from Whole Foods or Trader Joe's."] },
+          "create_time": 1735300000
+        },
+        "parent": null,
+        "children": ["d4e5f6a7-0034-4000-8000-000000000002"]
+      },
+      "d4e5f6a7-0034-4000-8000-000000000002": {
+        "id": "d4e5f6a7-0034-4000-8000-000000000002",
+        "message": {
+          "author": { "role": "assistant" },
+          "content": { "content_type": "text", "parts": ["For a pour-over latte with light roast, here are the best oat milks:\n\n**Top Tier (Available at Whole Foods):**\n1. **Oatly Barista Edition** ($5.49) - The gold standard. Steams beautifully, doesn't overpower light roast flavors.\n2. **Minor Figures Barista Oat** ($5.99) - Slightly lighter, lets the coffee shine through.\n3. **Chobani Extra Creamy Oat** ($4.49) - Best value, surprisingly good in lattes.\n\n**At Trader Joe's:**\n- **TJ's Non-Dairy Oat Beverage** ($3.49) - Decent but thin for lattes\n- **TJ's Barista Style Oat** ($3.99) - Much better, good foam\n\n**For Light Roast Pour-Over Specifically:**\nMinor Figures is your best bet - it's neutral enough to let the delicate light roast notes come through. Oatly Barista is creamier but can mask subtle flavors.\n\n**Pro Tips:**\n- Heat oat milk to 140-150F (not boiling - it breaks)\n- Froth with a simple handheld frother ($15)\n- Pour over your finished pour-over coffee for a clean latte\n\nYour morning routine: pour-over light roast + Minor Figures = cafe-quality oat milk latte at home."] },
+          "create_time": 1735300060
+        },
+        "parent": "d4e5f6a7-0034-4000-8000-000000000001",
+        "children": []
+      }
+    }
+  }
+]

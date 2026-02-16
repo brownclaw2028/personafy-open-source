@@ -1,0 +1,1302 @@
+[
+  {
+    "from": "lisa.j@company.com",
+    "subject": "Meeting: architecture discussion - August 11",
+    "body": "Lisa Johnson has invited you to: architecture discussion. When: Sunday, August 11 at 07:44 PM. Duration: 60 minutes. Video call via Zoom. Attendees: Alex Chen, Lisa Johnson, and 1 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_095",
+    "threadId": "thread_095",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-04T17:26:00Z"
+  },
+  {
+    "from": "reviews@uniqlo.com",
+    "subject": "How's your tech accessories? Leave a review!",
+    "body": "Hi Alex, how are you enjoying your tech accessories from Uniqlo? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in San Francisco make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_022",
+    "threadId": "thread_022",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-04T18:18:00Z"
+  },
+  {
+    "from": "delivery@allbirds.com",
+    "subject": "Delivered: Your Allbirds order #ALL-50857",
+    "body": "Your Allbirds package has been delivered! Order #ALL-50857 containing sustainable clothing was delivered to your address in San Francisco, CA today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your sustainable clothing!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_017",
+    "threadId": "thread_017",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-04T22:34:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Startup Funding",
+    "body": "Your daily digest: Top stories in startup funding. 3 articles curated for you based on your reading habits. Plus: local news from San Francisco, CA. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_067",
+    "threadId": "thread_067",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-06T21:52:00Z"
+  },
+  {
+    "from": "episodes@lexfridman.com",
+    "subject": "New Episode: Lex Fridman - technology ethics",
+    "body": "New episode of Lex Fridman: \"technology ethics\". Duration: 82 minutes. Listen now in your podcast app. Alex, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_065",
+    "threadId": "thread_065",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-07T02:14:00Z"
+  },
+  {
+    "from": "tom.a@company.com",
+    "subject": "Meeting: tech debt review - November 14",
+    "body": "Tom Anderson has invited you to: tech debt review. When: Thursday, November 14 at 08:39 AM. Duration: 45 minutes. Video call via Zoom. Attendees: Alex Chen, Tom Anderson, and 4 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_092",
+    "threadId": "thread_092",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-08T20:38:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Lo-Fi Mix is Ready",
+    "body": "Your weekly lo-fi mix is ready! 30 tracks curated just for you based on your listening in San Francisco. Featuring new releases and deep cuts. Discover your new favorite lo-fi track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_063",
+    "threadId": "thread_063",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-11T13:47:00Z"
+  },
+  {
+    "from": "reorder@vitaminshoppe.com",
+    "subject": "Running Low: Reorder B12",
+    "body": "Time to reorder your B12, Alex! Based on your usage, you're running low. Auto-refill available with free shipping to San Francisco, CA. Stay on track with your health routine.",
+    "labels": [
+      "health",
+      "promotions"
+    ],
+    "id": "email_085",
+    "threadId": "thread_085",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-14T06:33:00Z"
+  },
+  {
+    "from": "orders@allbirds.com",
+    "subject": "Order Confirmed: tech accessories from Allbirds #ALL-97684",
+    "body": "Hi Alex,\n\nYour order #ALL-97684 has been confirmed! You ordered: tech accessories (Size 32) from Allbirds for $182.76. Estimated delivery: December 09, 2024. Shipping to San Francisco, CA. Thank you for shopping with Allbirds!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_019",
+    "threadId": "thread_019",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-14T17:18:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Bangkok Kitchen for 3",
+    "body": "Reservation confirmed at Bangkok Kitchen! Date: Monday, August 19 at 07:51 AM. Party size: 3. Cuisine: Thai. Location: San Francisco, CA. Please arrive 10 minutes early. See you then, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_055",
+    "threadId": "thread_055",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-16T05:50:00Z"
+  },
+  {
+    "from": "reservations@airbnb.com",
+    "subject": "Hotel Booking Confirmed: Airbnb - Joshua Tree",
+    "body": "Booking Confirmed at Airbnb near Joshua Tree! Confirmation: HTL-172792. Check-in: June 07, 2024, Check-out: June 12, 2024 (5 nights). Rate: $201.46/night. Guest: Alex Chen. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_041",
+    "threadId": "thread_041",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-21T05:15:00Z"
+  },
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone liked your photo on Instagram. Check your Instagram profile for the latest updates. You have 4 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_096",
+    "threadId": "thread_096",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-24T07:53:00Z"
+  },
+  {
+    "from": "statements@capitalone.com",
+    "subject": "Capital One: Your October Statement is Ready",
+    "body": "Your October statement is ready, Alex. Log in to Capital One online banking to view your account summary. For security, account details are not included in this email.",
+    "labels": [
+      "finance",
+      "inbox"
+    ],
+    "id": "email_097",
+    "threadId": "thread_097",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-30T14:07:00Z"
+  },
+  {
+    "from": "orders@doordash.com",
+    "subject": "Your DoorDash order from Pita House is on its way!",
+    "body": "Your DoorDash order from Pita House is confirmed! Order: Hummus Plate, Greek Salad, Stuffed Grape Leaves, Falafel Wrap. Total: $42.40 (incl. delivery and tip). Estimated delivery: 25 minutes to San Francisco, CA. Enjoy your meal, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_052",
+    "threadId": "thread_052",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-06-30T17:14:00Z"
+  },
+  {
+    "from": "orders@uniqlo.com",
+    "subject": "Order Confirmed: running gear from Uniqlo #UNI-95909",
+    "body": "Hi Alex,\n\nYour order #UNI-95909 has been confirmed! You ordered: running gear (Size 10.5) from Uniqlo for $187.25. Estimated delivery: July 11, 2024. Shipping to San Francisco, CA. Thank you for shopping with Uniqlo!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_009",
+    "threadId": "thread_009",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-01T23:34:00Z"
+  },
+  {
+    "from": "shipping@uniqlo.com",
+    "subject": "Your Uniqlo order has shipped! #UNI-77839",
+    "body": "Great news, Alex! Your order of tech accessories from Uniqlo has shipped via FedEx. Tracking number: 133150983930103105. Order #UNI-77839 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_018",
+    "threadId": "thread_018",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-03T08:02:00Z"
+  },
+  {
+    "from": "reservations@airbnb.com",
+    "subject": "Hotel Booking Confirmed: Airbnb - Tokyo",
+    "body": "Booking Confirmed at Airbnb near Tokyo! Confirmation: HTL-212235. Check-in: August 16, 2024, Check-out: August 19, 2024 (3 nights). Rate: $177.85/night. Guest: Alex Chen. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_029",
+    "threadId": "thread_029",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-09T04:51:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Big Sur from $1139!",
+    "body": "Hi Alex, we found a great deal to Big Sur! Round-trip flights + hotel from $1139.18. Based on your travel history, we think you'd love this trip. Book by July 07 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_043",
+    "threadId": "thread_043",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-11T00:26:00Z"
+  },
+  {
+    "from": "notifications@typescript.com",
+    "subject": "[TypeScript] Notification from TypeScript",
+    "body": "[TypeScript] Notification from TypeScript. Click to view in TypeScript. This notification was sent to alex.chen@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_094",
+    "threadId": "thread_094",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-11T09:35:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Dental Cleaning - October 18",
+    "body": "Reminder: Your dental cleaning is scheduled for Friday, October 18 at 07:57 PM. Location: San Francisco Medical Center. Patient: Alex Chen. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_076",
+    "threadId": "thread_076",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-12T10:26:00Z"
+  },
+  {
+    "from": "receipts@reiadventureslodges.com",
+    "subject": "Receipt: Your stay at REI Adventures lodges - Big Sur",
+    "body": "Thank you for staying at REI Adventures lodges in Big Sur! Guest: Alex Chen. Stay: 5 nights at $303.86/night. Total (incl. tax): $1701.62. We hope you enjoyed your trip to Big Sur. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_042",
+    "threadId": "thread_042",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-15T17:04:00Z"
+  },
+  {
+    "from": "shipping@everlane.com",
+    "subject": "Your Everlane order has shipped! #EVE-38746",
+    "body": "Great news, Alex! Your order of tech accessories from Everlane has shipped via UPS. Tracking number: 871012269166978480. Order #EVE-38746 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_011",
+    "threadId": "thread_011",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-20T06:47:00Z"
+  },
+  {
+    "from": "reviews@allbirds.com",
+    "subject": "How's your running gear? Leave a review!",
+    "body": "Hi Alex, how are you enjoying your running gear from Allbirds? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in San Francisco make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_015",
+    "threadId": "thread_015",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-20T09:14:00Z"
+  },
+  {
+    "from": "bookings@united.com",
+    "subject": "Flight Confirmed: United UN993 to Portland",
+    "body": "Flight confirmation: United UN993 to Portland, window seat 6A, economy. Departure: September 29, 2024 at 07:12 AM from San Francisco. Confirmation code: FLT-582662. Total fare: $762.44. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_040",
+    "threadId": "thread_040",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-25T08:42:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Japanese Recipes You'll Love",
+    "body": "This week's top Japanese recipes (plant-based)! Featured: 5-ingredient japanese bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for San Francisco area. Your personalized meal plan is ready based on your plant-based preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_049",
+    "threadId": "thread_049",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-30T08:50:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Japanese Recipes You'll Love",
+    "body": "This week's top Japanese recipes (plant-based)! Featured: 5-ingredient japanese bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for San Francisco area. Your personalized meal plan is ready based on your plant-based preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_046",
+    "threadId": "thread_046",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-07-30T09:45:00Z"
+  },
+  {
+    "from": "promo@patagonia.com",
+    "subject": "20% off running gear at Patagonia - just for you!",
+    "body": "Hi Alex,\n\nExclusive offer just for you! Get 20% off running gear at Patagonia. Use code PATA20 at checkout. This offer is valid through August 11, 2024. Based on your interest in running gear, we think you'll love our latest collection. Shop now at patagonia.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_001",
+    "threadId": "thread_001",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-02T09:42:00Z"
+  },
+  {
+    "from": "checkin@alaska.com",
+    "subject": "Check-in Open: Alaska AL803 to Joshua Tree",
+    "body": "Check-in is now open for your Alaska flight AL803 to Joshua Tree. Your flight departs tomorrow from San Francisco. Cabin: economy. Don't forget to check in to get your window seat preference. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_031",
+    "threadId": "thread_031",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-03T03:35:00Z"
+  },
+  {
+    "from": "shipping@everlane.com",
+    "subject": "Your Everlane order has shipped! #EVE-57819",
+    "body": "Great news, Alex! Your order of sustainable clothing from Everlane has shipped via UPS. Tracking number: 553419283276483503. Order #EVE-57819 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_007",
+    "threadId": "thread_007",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-04T07:07:00Z"
+  },
+  {
+    "from": "summary@strava.com",
+    "subject": "Workout Complete: 74min yoga",
+    "body": "Great yoga session, Alex! Duration: 74 minutes. Calories burned: 219. You're making progress toward your goal: ultramarathon. Keep up the momentum! You've been active 6 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_081",
+    "threadId": "thread_081",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-04T10:07:00Z"
+  },
+  {
+    "from": "orders@patagonia.com",
+    "subject": "Order Confirmed: tech accessories from Patagonia #PAT-96163",
+    "body": "Hi Alex,\n\nYour order #PAT-96163 has been confirmed! You ordered: tech accessories (Size M) from Patagonia for $214.69. Estimated delivery: August 11, 2024. Shipping to San Francisco, CA. Thank you for shopping with Patagonia!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_025",
+    "threadId": "thread_025",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-04T15:07:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Bangkok Kitchen for 6",
+    "body": "Reservation confirmed at Bangkok Kitchen! Date: Saturday, June 22 at 09:32 AM. Party size: 6. Cuisine: Thai. Location: San Francisco, CA. Please arrive 10 minutes early. See you then, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_054",
+    "threadId": "thread_054",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-08T04:04:00Z"
+  },
+  {
+    "from": "tom.a@company.com",
+    "subject": "Meeting: code review - June 20",
+    "body": "Tom Anderson has invited you to: code review. When: Thursday, June 20 at 06:44 PM. Duration: 30 minutes. Video call via Zoom. Attendees: Alex Chen, Tom Anderson, and 1 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_089",
+    "threadId": "thread_089",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-08T17:08:00Z"
+  },
+  {
+    "from": "episodes@softwareengineeringdaily.com",
+    "subject": "New Episode: Software Engineering Daily - building resilient teams",
+    "body": "New episode of Software Engineering Daily: \"building resilient teams\". Duration: 59 minutes. Listen now in your podcast app. Alex, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_068",
+    "threadId": "thread_068",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-08T18:02:00Z"
+  },
+  {
+    "from": "episodes@softwareengineeringdaily.com",
+    "subject": "New Episode: Software Engineering Daily - sustainable living",
+    "body": "New episode of Software Engineering Daily: \"sustainable living\". Duration: 32 minutes. Listen now in your podcast app. Alex, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_071",
+    "threadId": "thread_071",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-11T05:37:00Z"
+  },
+  {
+    "from": "orders@uniqlo.com",
+    "subject": "Order Confirmed: tech accessories from Uniqlo #UNI-41385",
+    "body": "Hi Alex,\n\nYour order #UNI-41385 has been confirmed! You ordered: tech accessories (Size 32) from Uniqlo for $43.83. Estimated delivery: June 25, 2024. Shipping to San Francisco, CA. Thank you for shopping with Uniqlo!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_014",
+    "threadId": "thread_014",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-12T03:53:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Pad Thai Palace for 2",
+    "body": "Reservation confirmed at Pad Thai Palace! Date: Wednesday, June 12 at 10:27 PM. Party size: 2. Cuisine: Thai. Location: San Francisco, CA. Please arrive 10 minutes early. See you then, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_047",
+    "threadId": "thread_047",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-12T22:55:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Thai Recipes You'll Love",
+    "body": "This week's top Thai recipes (plant-based)! Featured: 5-ingredient thai bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for San Francisco area. Your personalized meal plan is ready based on your plant-based preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_058",
+    "threadId": "thread_058",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-13T14:07:00Z"
+  },
+  {
+    "from": "notifications@react.com",
+    "subject": "[React] Notification from React",
+    "body": "[React] Notification from React. Click to view in React. This notification was sent to alex.chen@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_090",
+    "threadId": "thread_090",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-13T14:56:00Z"
+  },
+  {
+    "from": "orders@doordash.com",
+    "subject": "Your DoorDash order from Pad Thai Palace is on its way!",
+    "body": "Your DoorDash order from Pad Thai Palace is confirmed! Order: Pad Thai, Mango Sticky Rice, Green Curry, Spring Rolls. Total: $50.92 (incl. delivery and tip). Estimated delivery: 37 minutes to San Francisco, CA. Enjoy your meal, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_056",
+    "threadId": "thread_056",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-18T19:47:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Jazz Mix is Ready",
+    "body": "Your weekly jazz mix is ready! 30 tracks curated just for you based on your listening in San Francisco. Featuring new releases and deep cuts. Discover your new favorite jazz track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_064",
+    "threadId": "thread_064",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-22T19:16:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Startup Funding",
+    "body": "Your daily digest: Top stories in startup funding. 3 articles curated for you based on your reading habits. Plus: local news from San Francisco, CA. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_075",
+    "threadId": "thread_075",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-22T21:06:00Z"
+  },
+  {
+    "from": "shipping@allbirds.com",
+    "subject": "Your Allbirds order has shipped! #ALL-54118",
+    "body": "Great news, Alex! Your order of running gear from Allbirds has shipped via UPS. Tracking number: 161559407816184959. Order #ALL-54118 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_005",
+    "threadId": "thread_005",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-24T11:44:00Z"
+  },
+  {
+    "from": "promo@allbirds.com",
+    "subject": "25% off running gear at Allbirds - just for you!",
+    "body": "Hi Alex,\n\nExclusive offer just for you! Get 25% off running gear at Allbirds. Use code ALLB25 at checkout. This offer is valid through November 07, 2024. Based on your interest in sustainable clothing, we think you'll love our latest collection. Shop now at allbirds.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_024",
+    "threadId": "thread_024",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-27T05:03:00Z"
+  },
+  {
+    "from": "episodes@lexfridman.com",
+    "subject": "New Episode: Lex Fridman - emerging market trends",
+    "body": "New episode of Lex Fridman: \"emerging market trends\". Duration: 63 minutes. Listen now in your podcast app. Alex, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_074",
+    "threadId": "thread_074",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-08-29T13:21:00Z"
+  },
+  {
+    "from": "promo@allbirds.com",
+    "subject": "20% off sustainable clothing at Allbirds - just for you!",
+    "body": "Hi Alex,\n\nExclusive offer just for you! Get 20% off sustainable clothing at Allbirds. Use code ALLB20 at checkout. This offer is valid through November 17, 2024. Based on your interest in sustainable clothing, we think you'll love our latest collection. Shop now at allbirds.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_016",
+    "threadId": "thread_016",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-01T05:19:00Z"
+  },
+  {
+    "from": "emily.zhang@company.com",
+    "subject": "Meeting: deployment planning - June 11",
+    "body": "Emily Zhang has invited you to: deployment planning. When: Tuesday, June 11 at 12:15 AM. Duration: 30 minutes. Video call via Zoom. Attendees: Alex Chen, Emily Zhang, and 5 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_086",
+    "threadId": "thread_086",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-01T19:48:00Z"
+  },
+  {
+    "from": "delivery@patagonia.com",
+    "subject": "Delivered: Your Patagonia order #PAT-65392",
+    "body": "Your Patagonia package has been delivered! Order #PAT-65392 containing running gear was delivered to your address in San Francisco, CA today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your running gear!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_004",
+    "threadId": "thread_004",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-17T23:35:00Z"
+  },
+  {
+    "from": "updates@criterionchannel.com",
+    "subject": "New This Week on Criterion Channel",
+    "body": "New on Criterion Channel this week: true crime series, limited series, new thriller series. We picked these based on your viewing history, Alex. Start watching now on Criterion Channel.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_072",
+    "threadId": "thread_072",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-20T20:52:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Ai Developments",
+    "body": "Your daily digest: Top stories in AI developments. 3 articles curated for you based on your reading habits. Plus: local news from San Francisco, CA. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_062",
+    "threadId": "thread_062",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-21T02:38:00Z"
+  },
+  {
+    "from": "bookings@united.com",
+    "subject": "Flight Confirmed: United UN136 to Tokyo",
+    "body": "Flight confirmation: United UN136 to Tokyo, window seat 31A, economy. Departure: September 03, 2024 at 06:35 PM from San Francisco. Confirmation code: FLT-233636. Total fare: $261.07. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_035",
+    "threadId": "thread_035",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-24T14:19:00Z"
+  },
+  {
+    "from": "checkin@alaska.com",
+    "subject": "Check-in Open: Alaska AL211 to Yosemite",
+    "body": "Check-in is now open for your Alaska flight AL211 to Yosemite. Your flight departs tomorrow from San Francisco. Cabin: economy. Don't forget to check in to get your window seat preference. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_044",
+    "threadId": "thread_044",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-24T22:38:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Eye Exam - October 30",
+    "body": "Reminder: Your eye exam is scheduled for Wednesday, October 30 at 06:42 PM. Location: San Francisco Medical Center. Patient: Alex Chen. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_080",
+    "threadId": "thread_080",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-25T02:20:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Pad Thai Palace for 4",
+    "body": "Reservation confirmed at Pad Thai Palace! Date: Thursday, September 19 at 02:42 AM. Party size: 4. Cuisine: Thai. Location: San Francisco, CA. Please arrive 10 minutes early. See you then, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_048",
+    "threadId": "thread_048",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-25T02:43:00Z"
+  },
+  {
+    "from": "orders@patagonia.com",
+    "subject": "Order Confirmed: running gear from Patagonia #PAT-96673",
+    "body": "Hi Alex,\n\nYour order #PAT-96673 has been confirmed! You ordered: running gear (Size M) from Patagonia for $99.07. Estimated delivery: June 24, 2024. Shipping to San Francisco, CA. Thank you for shopping with Patagonia!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_006",
+    "threadId": "thread_006",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-25T08:19:00Z"
+  },
+  {
+    "from": "orders@doordash.com",
+    "subject": "Your DoorDash order from Izakaya Zen is on its way!",
+    "body": "Your DoorDash order from Izakaya Zen is confirmed! Order: Miso Ramen, Tofu Teriyaki. Total: $21.67 (incl. delivery and tip). Estimated delivery: 39 minutes to San Francisco, CA. Enjoy your meal, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_059",
+    "threadId": "thread_059",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-28T22:19:00Z"
+  },
+  {
+    "from": "checkin@alaska.com",
+    "subject": "Check-in Open: Alaska AL546 to Big Sur",
+    "body": "Check-in is now open for your Alaska flight AL546 to Big Sur. Your flight departs tomorrow from San Francisco. Cabin: economy. Don't forget to check in to get your window seat preference. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_045",
+    "threadId": "thread_045",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-29T09:02:00Z"
+  },
+  {
+    "from": "shipping@everlane.com",
+    "subject": "Your Everlane order has shipped! #EVE-34890",
+    "body": "Great news, Alex! Your order of running gear from Everlane has shipped via FedEx. Tracking number: 309805009788208121. Order #EVE-34890 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_023",
+    "threadId": "thread_023",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-09-29T15:28:00Z"
+  },
+  {
+    "from": "promo@patagonia.com",
+    "subject": "30% off tech accessories at Patagonia - just for you!",
+    "body": "Hi Alex,\n\nExclusive offer just for you! Get 30% off tech accessories at Patagonia. Use code PATA30 at checkout. This offer is valid through December 28, 2024. Based on your interest in running gear, we think you'll love our latest collection. Shop now at patagonia.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_012",
+    "threadId": "thread_012",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-02T08:46:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Jazz Mix is Ready",
+    "body": "Your weekly jazz mix is ready! 30 tracks curated just for you based on your listening in San Francisco. Featuring new releases and deep cuts. Discover your new favorite jazz track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_073",
+    "threadId": "thread_073",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-04T02:30:00Z"
+  },
+  {
+    "from": "bookings@united.com",
+    "subject": "Flight Confirmed: United UN650 to Yosemite",
+    "body": "Flight confirmation: United UN650 to Yosemite, window seat 11A, economy. Departure: October 08, 2024 at 08:08 AM from San Francisco. Confirmation code: FLT-172132. Total fare: $849.94. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_027",
+    "threadId": "thread_027",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-04T02:36:00Z"
+  },
+  {
+    "from": "david.park@company.com",
+    "subject": "Meeting: standup sync - November 19",
+    "body": "David Park has invited you to: standup sync. When: Tuesday, November 19 at 03:36 AM. Duration: 45 minutes. Video call via Zoom. Attendees: Alex Chen, David Park, and 3 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_087",
+    "threadId": "thread_087",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-06T20:28:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Lo-Fi Mix is Ready",
+    "body": "Your weekly lo-fi mix is ready! 30 tracks curated just for you based on your listening in San Francisco. Featuring new releases and deep cuts. Discover your new favorite lo-fi track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_061",
+    "threadId": "thread_061",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-07T17:31:00Z"
+  },
+  {
+    "from": "summary@alltrails.com",
+    "subject": "Workout Complete: 55min rock climbing",
+    "body": "Great rock climbing session, Alex! Duration: 55 minutes. Calories burned: 535. You're making progress toward your goal: ultramarathon. Keep up the momentum! You've been active 6 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_083",
+    "threadId": "thread_083",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-10T00:42:00Z"
+  },
+  {
+    "from": "updates@netflix.com",
+    "subject": "New This Week on Netflix",
+    "body": "New on Netflix this week: new thriller series, comedy special. We picked these based on your viewing history, Alex. Start watching now on Netflix.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_070",
+    "threadId": "thread_070",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-11T20:28:00Z"
+  },
+  {
+    "from": "reports@applehealth.com",
+    "subject": "Weekly Health Report: 65,822 steps",
+    "body": "Your weekly health summary, Alex: Steps this week: 65,822. Average sleep: 6.0 hours/night. Active days: 7/7. Your most active day was Monday. Goal progress (ultramarathon): on track!",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_084",
+    "threadId": "thread_084",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-17T14:26:00Z"
+  },
+  {
+    "from": "orders@patagonia.com",
+    "subject": "Order Confirmed: sustainable clothing from Patagonia #PAT-36062",
+    "body": "Hi Alex,\n\nYour order #PAT-36062 has been confirmed! You ordered: sustainable clothing (Size 10.5) from Patagonia for $257.71. Estimated delivery: August 01, 2024. Shipping to San Francisco, CA. Thank you for shopping with Patagonia!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_003",
+    "threadId": "thread_003",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-20T16:22:00Z"
+  },
+  {
+    "from": "checkin@united.com",
+    "subject": "Check-in Open: United UN388 to Big Sur",
+    "body": "Check-in is now open for your United flight UN388 to Big Sur. Your flight departs tomorrow from San Francisco. Cabin: economy. Don't forget to check in to get your window seat preference. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_030",
+    "threadId": "thread_030",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-23T09:05:00Z"
+  },
+  {
+    "from": "checkin@alaska.com",
+    "subject": "Check-in Open: Alaska AL867 to Tokyo",
+    "body": "Check-in is now open for your Alaska flight AL867 to Tokyo. Your flight departs tomorrow from San Francisco. Cabin: economy. Don't forget to check in to get your window seat preference. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_037",
+    "threadId": "thread_037",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-24T19:03:00Z"
+  },
+  {
+    "from": "promo@patagonia.com",
+    "subject": "30% off tech accessories at Patagonia - just for you!",
+    "body": "Hi Alex,\n\nExclusive offer just for you! Get 30% off tech accessories at Patagonia. Use code PATA30 at checkout. This offer is valid through June 23, 2024. Based on your interest in running gear, we think you'll love our latest collection. Shop now at patagonia.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_002",
+    "threadId": "thread_002",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-27T11:30:00Z"
+  },
+  {
+    "from": "bookings@alaska.com",
+    "subject": "Flight Confirmed: Alaska AL466 to Yosemite",
+    "body": "Flight confirmation: Alaska AL466 to Yosemite, window seat 11A, economy. Departure: November 22, 2024 at 07:42 AM from San Francisco. Confirmation code: FLT-918011. Total fare: $227.10. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_036",
+    "threadId": "thread_036",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-29T13:19:00Z"
+  },
+  {
+    "from": "shipping@allbirds.com",
+    "subject": "Your Allbirds order has shipped! #ALL-10425",
+    "body": "Great news, Alex! Your order of tech accessories from Allbirds has shipped via USPS. Tracking number: 482814893252880957. Order #ALL-10425 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_013",
+    "threadId": "thread_013",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-29T16:38:00Z"
+  },
+  {
+    "from": "bookings@united.com",
+    "subject": "Flight Confirmed: United UN749 to Yosemite",
+    "body": "Flight confirmation: United UN749 to Yosemite, window seat 18A, economy. Departure: December 30, 2024 at 08:02 AM from San Francisco. Confirmation code: FLT-908577. Total fare: $152.66. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_033",
+    "threadId": "thread_033",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-10-31T19:14:00Z"
+  },
+  {
+    "from": "bookings@united.com",
+    "subject": "Flight Confirmed: United UN919 to Joshua Tree",
+    "body": "Flight confirmation: United UN919 to Joshua Tree, window seat 30A, economy. Departure: July 16, 2024 at 01:01 PM from San Francisco. Confirmation code: FLT-448321. Total fare: $284.52. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_038",
+    "threadId": "thread_038",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-04T23:06:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Big Sur from $484!",
+    "body": "Hi Alex, we found a great deal to Big Sur! Round-trip flights + hotel from $484.27. Based on your travel history, we think you'd love this trip. Book by September 28 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_028",
+    "threadId": "thread_028",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-09T21:03:00Z"
+  },
+  {
+    "from": "statements@capitalone.com",
+    "subject": "Capital One: Your November Statement is Ready",
+    "body": "Your November statement is ready, Alex. Log in to Capital One online banking to view your account summary. For security, account details are not included in this email.",
+    "labels": [
+      "finance",
+      "inbox"
+    ],
+    "id": "email_098",
+    "threadId": "thread_098",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-13T04:31:00Z"
+  },
+  {
+    "from": "orders@doordash.com",
+    "subject": "Your DoorDash order from Pita House is on its way!",
+    "body": "Your DoorDash order from Pita House is confirmed! Order: Greek Salad, Hummus Plate, Stuffed Grape Leaves, Falafel Wrap. Total: $48.78 (incl. delivery and tip). Estimated delivery: 41 minutes to San Francisco, CA. Enjoy your meal, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_053",
+    "threadId": "thread_053",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-13T04:58:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Athens Grill for 6",
+    "body": "Reservation confirmed at Athens Grill! Date: Thursday, September 12 at 10:18 PM. Party size: 6. Cuisine: Mediterranean. Location: San Francisco, CA. Please arrive 10 minutes early. See you then, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_051",
+    "threadId": "thread_051",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-17T06:27:00Z"
+  },
+  {
+    "from": "summary@alltrails.com",
+    "subject": "Workout Complete: 71min yoga",
+    "body": "Great yoga session, Alex! Duration: 71 minutes. Calories burned: 520. You're making progress toward your goal: ultramarathon. Keep up the momentum! You've been active 4 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_078",
+    "threadId": "thread_078",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-17T12:52:00Z"
+  },
+  {
+    "from": "updates@netflix.com",
+    "subject": "New This Week on Netflix",
+    "body": "New on Netflix this week: true crime series, limited series, comedy special. We picked these based on your viewing history, Alex. Start watching now on Netflix.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_066",
+    "threadId": "thread_066",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-20T18:37:00Z"
+  },
+  {
+    "from": "summary@strava.com",
+    "subject": "Workout Complete: 54min trail running",
+    "body": "Great trail running session, Alex! Duration: 54 minutes. Calories burned: 373. You're making progress toward your goal: ultramarathon. Keep up the momentum! You've been active 6 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_077",
+    "threadId": "thread_077",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-25T15:18:00Z"
+  },
+  {
+    "from": "shipping@everlane.com",
+    "subject": "Your Everlane order has shipped! #EVE-34957",
+    "body": "Great news, Alex! Your order of tech accessories from Everlane has shipped via UPS. Tracking number: 165667010651333872. Order #EVE-34957 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_020",
+    "threadId": "thread_020",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-26T04:40:00Z"
+  },
+  {
+    "from": "notifications@react.com",
+    "subject": "[React] Notification from React",
+    "body": "[React] Notification from React. Click to view in React. This notification was sent to alex.chen@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_091",
+    "threadId": "thread_091",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-26T15:07:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Mexican Recipes You'll Love",
+    "body": "This week's top Mexican recipes (plant-based)! Featured: 5-ingredient mexican bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for San Francisco area. Your personalized meal plan is ready based on your plant-based preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_060",
+    "threadId": "thread_060",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-27T12:17:00Z"
+  },
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone mentioned you in a post on Instagram. Check your Instagram profile for the latest updates. You have 12 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_100",
+    "threadId": "thread_100",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-11-28T08:26:00Z"
+  },
+  {
+    "from": "statements@capitalone.com",
+    "subject": "Capital One: Your June Statement is Ready",
+    "body": "Your June statement is ready, Alex. Log in to Capital One online banking to view your account summary. For security, account details are not included in this email.",
+    "labels": [
+      "finance",
+      "inbox"
+    ],
+    "id": "email_099",
+    "threadId": "thread_099",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-01T09:32:00Z"
+  },
+  {
+    "from": "delivery@uniqlo.com",
+    "subject": "Delivered: Your Uniqlo order #UNI-45093",
+    "body": "Your Uniqlo package has been delivered! Order #UNI-45093 containing tech accessories was delivered to your address in San Francisco, CA today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your tech accessories!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_008",
+    "threadId": "thread_008",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-02T06:20:00Z"
+  },
+  {
+    "from": "shipping@uniqlo.com",
+    "subject": "Your Uniqlo order has shipped! #UNI-42742",
+    "body": "Great news, Alex! Your order of tech accessories from Uniqlo has shipped via UPS. Tracking number: 781080132677360260. Order #UNI-42742 is on its way to San Francisco, CA. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_021",
+    "threadId": "thread_021",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-10T15:06:00Z"
+  },
+  {
+    "from": "notifications@typescript.com",
+    "subject": "[TypeScript] Notification from TypeScript",
+    "body": "[TypeScript] Notification from TypeScript. Click to view in TypeScript. This notification was sent to alex.chen@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_088",
+    "threadId": "thread_088",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-12T01:13:00Z"
+  },
+  {
+    "from": "reorder@vitaminshoppe.com",
+    "subject": "Running Low: Reorder Creatine",
+    "body": "Time to reorder your creatine, Alex! Based on your usage, you're running low. Auto-refill available with free shipping to San Francisco, CA. Stay on track with your health routine.",
+    "labels": [
+      "health",
+      "promotions"
+    ],
+    "id": "email_079",
+    "threadId": "thread_079",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-12T17:02:00Z"
+  },
+  {
+    "from": "episodes@lexfridman.com",
+    "subject": "New Episode: Lex Fridman - the psychology of creativity",
+    "body": "New episode of Lex Fridman: \"the psychology of creativity\". Duration: 44 minutes. Listen now in your podcast app. Alex, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_069",
+    "threadId": "thread_069",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-13T05:30:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Portland from $1002!",
+    "body": "Hi Alex, we found a great deal to Portland! Round-trip flights + hotel from $1002.04. Based on your travel history, we think you'd love this trip. Book by December 13 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_039",
+    "threadId": "thread_039",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-13T06:40:00Z"
+  },
+  {
+    "from": "checkin@alaska.com",
+    "subject": "Check-in Open: Alaska AL600 to Tokyo",
+    "body": "Check-in is now open for your Alaska flight AL600 to Tokyo. Your flight departs tomorrow from San Francisco. Cabin: economy. Don't forget to check in to get your window seat preference. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_032",
+    "threadId": "thread_032",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-13T13:38:00Z"
+  },
+  {
+    "from": "delivery@uniqlo.com",
+    "subject": "Delivered: Your Uniqlo order #UNI-86622",
+    "body": "Your Uniqlo package has been delivered! Order #UNI-86622 containing sustainable clothing was delivered to your address in San Francisco, CA today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your sustainable clothing!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_010",
+    "threadId": "thread_010",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-13T22:11:00Z"
+  },
+  {
+    "from": "summary@alltrails.com",
+    "subject": "Workout Complete: 61min rock climbing",
+    "body": "Great rock climbing session, Alex! Duration: 61 minutes. Calories burned: 258. You're making progress toward your goal: ultramarathon. Keep up the momentum! You've been active 6 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_082",
+    "threadId": "thread_082",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-15T12:55:00Z"
+  },
+  {
+    "from": "bookings@alaska.com",
+    "subject": "Flight Confirmed: Alaska AL859 to Joshua Tree",
+    "body": "Flight confirmation: Alaska AL859 to Joshua Tree, window seat 19A, economy. Departure: October 20, 2024 at 10:27 PM from San Francisco. Confirmation code: FLT-217308. Total fare: $570.68. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_034",
+    "threadId": "thread_034",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-16T16:24:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Mexican Recipes You'll Love",
+    "body": "This week's top Mexican recipes (plant-based)! Featured: 5-ingredient mexican bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for San Francisco area. Your personalized meal plan is ready based on your plant-based preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_050",
+    "threadId": "thread_050",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-20T20:37:00Z"
+  },
+  {
+    "from": "tom.a@company.com",
+    "subject": "Meeting: tech debt review - August 08",
+    "body": "Tom Anderson has invited you to: tech debt review. When: Thursday, August 08 at 10:54 AM. Duration: 30 minutes. Video call via Zoom. Attendees: Alex Chen, Tom Anderson, and 3 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_093",
+    "threadId": "thread_093",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-22T07:45:00Z"
+  },
+  {
+    "from": "bookings@alaska.com",
+    "subject": "Flight Confirmed: Alaska AL787 to Joshua Tree",
+    "body": "Flight confirmation: Alaska AL787 to Joshua Tree, window seat 25A, economy. Departure: August 16, 2024 at 02:20 PM from San Francisco. Confirmation code: FLT-176066. Total fare: $846.76. Check in opens 24 hours before departure. Passenger: Alex Chen.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_026",
+    "threadId": "thread_026",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-28T02:25:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Thai Basil for 2",
+    "body": "Reservation confirmed at Thai Basil! Date: Friday, November 15 at 10:00 PM. Party size: 2. Cuisine: Thai. Location: San Francisco, CA. Please arrive 10 minutes early. See you then, Alex!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_057",
+    "threadId": "thread_057",
+    "to": "alex.chen@gmail.com",
+    "date": "2024-12-29T18:58:00Z"
+  }
+]

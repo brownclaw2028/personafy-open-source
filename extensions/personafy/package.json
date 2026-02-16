@@ -1,0 +1,20 @@
+{
+  "name": "@openclaw/personafy",
+  "version": "2026.2.3",
+  "description": "OpenClaw privacy-first personal context vault plugin",
+  "type": "module",
+  "dependencies": {
+    "posthog-node": "^4.14.0"
+  },
+  "devDependencies": {
+    "openclaw": "workspace:*"
+  },
+  "peerDependencies": {
+    "openclaw": ">=2026.2.3"
+  },
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

@@ -1,0 +1,2960 @@
+[
+  {
+    "title": "STEM toys for a 6 year old",
+    "create_time": 1732514400.0,
+    "update_time": 1732514588.0,
+    "mapping": {
+      "root_priya_0": {
+        "id": "root_priya_0",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_0"
+        ]
+      },
+      "sys_priya_0": {
+        "id": "sys_priya_0",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1732514400.0
+        },
+        "parent": "root_priya_0",
+        "children": [
+          "user_priya_0_0"
+        ]
+      },
+      "user_priya_0_0": {
+        "id": "user_priya_0_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for STEM toys for my 6-year-old daughter. She loves building things. Budget $30-50."
+            ]
+          },
+          "create_time": 1732514400.0
+        },
+        "parent": "sys_priya_0",
+        "children": [
+          "asst_priya_0_0"
+        ]
+      },
+      "asst_priya_0_0": {
+        "id": "asst_priya_0_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1732514407.0
+        },
+        "parent": "user_priya_0_0",
+        "children": [
+          "user_priya_0_1"
+        ]
+      },
+      "user_priya_0_1": {
+        "id": "user_priya_0_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We have 3 kids (ages 6, 4, and 2). The older ones love Melissa & Doug toys."
+            ]
+          },
+          "create_time": 1732514466.0
+        },
+        "parent": "asst_priya_0_0",
+        "children": [
+          "asst_priya_0_1"
+        ]
+      },
+      "asst_priya_0_1": {
+        "id": "asst_priya_0_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1732514480.0
+        },
+        "parent": "user_priya_0_1",
+        "children": [
+          "user_priya_0_2"
+        ]
+      },
+      "user_priya_0_2": {
+        "id": "user_priya_0_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm a pediatrician so I value educational, screen-free activities."
+            ]
+          },
+          "create_time": 1732514515.0
+        },
+        "parent": "asst_priya_0_1",
+        "children": [
+          "asst_priya_0_2"
+        ]
+      },
+      "asst_priya_0_2": {
+        "id": "asst_priya_0_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about stem toys for a 6 year old! Here are my recommendations. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1732514528.0
+        },
+        "parent": "user_priya_0_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Weekly meal prep for family of 5",
+    "create_time": 1717822800.0,
+    "update_time": 1717822989.0,
+    "mapping": {
+      "root_priya_1": {
+        "id": "root_priya_1",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_1"
+        ]
+      },
+      "sys_priya_1": {
+        "id": "sys_priya_1",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717822800.0
+        },
+        "parent": "root_priya_1",
+        "children": [
+          "user_priya_1_0"
+        ]
+      },
+      "user_priya_1_0": {
+        "id": "user_priya_1_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need to meal prep for a family of 5. We're vegetarian. My daughter has a peanut allergy."
+            ]
+          },
+          "create_time": 1717822800.0
+        },
+        "parent": "sys_priya_1",
+        "children": [
+          "asst_priya_1_0"
+        ]
+      },
+      "asst_priya_1_0": {
+        "id": "asst_priya_1_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. Start with the essentials and build from there as you discover what works for you."
+            ]
+          },
+          "create_time": 1717822820.0
+        },
+        "parent": "user_priya_1_0",
+        "children": [
+          "user_priya_1_1"
+        ]
+      },
+      "user_priya_1_1": {
+        "id": "user_priya_1_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I batch cook on weekends. Love Indian, Mediterranean, Thai, and American comfort food."
+            ]
+          },
+          "create_time": 1717822855.0
+        },
+        "parent": "asst_priya_1_0",
+        "children": [
+          "asst_priya_1_1"
+        ]
+      },
+      "asst_priya_1_1": {
+        "id": "asst_priya_1_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717822880.0
+        },
+        "parent": "user_priya_1_1",
+        "children": [
+          "user_priya_1_2"
+        ]
+      },
+      "user_priya_1_2": {
+        "id": "user_priya_1_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use Instacart for groceries and HelloFresh occasionally. Have an Instant Pot."
+            ]
+          },
+          "create_time": 1717822910.0
+        },
+        "parent": "asst_priya_1_1",
+        "children": [
+          "asst_priya_1_2"
+        ]
+      },
+      "asst_priya_1_2": {
+        "id": "asst_priya_1_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1717822937.0
+        },
+        "parent": "user_priya_1_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Family vacation spots East Coast",
+    "create_time": 1728277200.0,
+    "update_time": 1728277391.0,
+    "mapping": {
+      "root_priya_2": {
+        "id": "root_priya_2",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_2"
+        ]
+      },
+      "sys_priya_2": {
+        "id": "sys_priya_2",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1728277200.0
+        },
+        "parent": "root_priya_2",
+        "children": [
+          "user_priya_2_0"
+        ]
+      },
+      "user_priya_2_0": {
+        "id": "user_priya_2_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning summer vacation for family of 5. Kids are 6, 4, and 2."
+            ]
+          },
+          "create_time": 1728277200.0
+        },
+        "parent": "sys_priya_2",
+        "children": [
+          "asst_priya_2_0"
+        ]
+      },
+      "asst_priya_2_0": {
+        "id": "asst_priya_2_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1728277217.0
+        },
+        "parent": "user_priya_2_0",
+        "children": [
+          "user_priya_2_1"
+        ]
+      },
+      "user_priya_2_1": {
+        "id": "user_priya_2_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We usually fly JetBlue or Southwest, economy plus. I prefer aisle seats - easier with kids."
+            ]
+          },
+          "create_time": 1728277258.0
+        },
+        "parent": "asst_priya_2_0",
+        "children": [
+          "asst_priya_2_1"
+        ]
+      },
+      "asst_priya_2_1": {
+        "id": "asst_priya_2_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1728277286.0
+        },
+        "parent": "user_priya_2_1",
+        "children": [
+          "user_priya_2_2"
+        ]
+      },
+      "user_priya_2_2": {
+        "id": "user_priya_2_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Love Disney World, Cape Cod, and zoo trips. Stay at Hilton or VRBO for space."
+            ]
+          },
+          "create_time": 1728277336.0
+        },
+        "parent": "asst_priya_2_1",
+        "children": [
+          "asst_priya_2_2"
+        ]
+      },
+      "asst_priya_2_2": {
+        "id": "asst_priya_2_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that destination, here's an itinerary suggestion based on your travel style. Consider your budget and long-term goals when making your decision. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1728277343.0
+        },
+        "parent": "user_priya_2_2",
+        "children": [
+          "user_priya_2_3"
+        ]
+      },
+      "user_priya_2_3": {
+        "id": "user_priya_2_3",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget-conscious but willing to spend for good family experiences. 2-3 trips per year."
+            ]
+          },
+          "create_time": 1728277376.0
+        },
+        "parent": "asst_priya_2_2",
+        "children": [
+          "asst_priya_2_3"
+        ]
+      },
+      "asst_priya_2_3": {
+        "id": "asst_priya_2_3",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great choice for a trip! Let me help you plan the details. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1728277381.0
+        },
+        "parent": "user_priya_2_3",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Morning routine with 3 kids",
+    "create_time": 1721710800.0,
+    "update_time": 1721710989.0,
+    "mapping": {
+      "root_priya_3": {
+        "id": "root_priya_3",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_3"
+        ]
+      },
+      "sys_priya_3": {
+        "id": "sys_priya_3",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1721710800.0
+        },
+        "parent": "root_priya_3",
+        "children": [
+          "user_priya_3_0"
+        ]
+      },
+      "user_priya_3_0": {
+        "id": "user_priya_3_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I wake up at 5:30am. I'm a pediatrician with 3 young kids. How do I optimize my morning?"
+            ]
+          },
+          "create_time": 1721710800.0
+        },
+        "parent": "sys_priya_3",
+        "children": [
+          "asst_priya_3_0"
+        ]
+      },
+      "asst_priya_3_0": {
+        "id": "asst_priya_3_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1721710829.0
+        },
+        "parent": "user_priya_3_0",
+        "children": [
+          "user_priya_3_1"
+        ]
+      },
+      "user_priya_3_1": {
+        "id": "user_priya_3_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Currently: wake, quick workout (home HIIT or Apple Fitness+), pack lunches, get kids ready, commute."
+            ]
+          },
+          "create_time": 1721710874.0
+        },
+        "parent": "asst_priya_3_0",
+        "children": [
+          "asst_priya_3_1"
+        ]
+      },
+      "asst_priya_3_1": {
+        "id": "asst_priya_3_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1721710897.0
+        },
+        "parent": "user_priya_3_1",
+        "children": [
+          "user_priya_3_2"
+        ]
+      },
+      "user_priya_3_2": {
+        "id": "user_priya_3_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I meditate with Calm app 3x/week but want to make it daily. Also take multivitamin, iron, calcium, vitamin D."
+            ]
+          },
+          "create_time": 1721710912.0
+        },
+        "parent": "asst_priya_3_1",
+        "children": [
+          "asst_priya_3_2"
+        ]
+      },
+      "asst_priya_3_2": {
+        "id": "asst_priya_3_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about morning routine with 3 kids! Here are my recommendations. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1721710942.0
+        },
+        "parent": "user_priya_3_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Instant Pot vegetarian recipes",
+    "create_time": 1717995600.0,
+    "update_time": 1717995753.0,
+    "mapping": {
+      "root_priya_4": {
+        "id": "root_priya_4",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_4"
+        ]
+      },
+      "sys_priya_4": {
+        "id": "sys_priya_4",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717995600.0
+        },
+        "parent": "root_priya_4",
+        "children": [
+          "user_priya_4_0"
+        ]
+      },
+      "user_priya_4_0": {
+        "id": "user_priya_4_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need Instant Pot recipes for a busy vegetarian family. Peanut-free due to daughter's allergy."
+            ]
+          },
+          "create_time": 1717995600.0
+        },
+        "parent": "sys_priya_4",
+        "children": [
+          "asst_priya_4_0"
+        ]
+      },
+      "asst_priya_4_0": {
+        "id": "asst_priya_4_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1717995622.0
+        },
+        "parent": "user_priya_4_0",
+        "children": [
+          "user_priya_4_1"
+        ]
+      },
+      "user_priya_4_1": {
+        "id": "user_priya_4_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I love Indian dal, Mediterranean stews, and Thai curries. Cook in batches for the week."
+            ]
+          },
+          "create_time": 1717995637.0
+        },
+        "parent": "asst_priya_4_0",
+        "children": [
+          "asst_priya_4_1"
+        ]
+      },
+      "asst_priya_4_1": {
+        "id": "asst_priya_4_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1717995663.0
+        },
+        "parent": "user_priya_4_1",
+        "children": [
+          "user_priya_4_2"
+        ]
+      },
+      "user_priya_4_2": {
+        "id": "user_priya_4_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Have meal prep containers (set of 20) from Amazon. Also use a label maker to organize."
+            ]
+          },
+          "create_time": 1717995684.0
+        },
+        "parent": "asst_priya_4_1",
+        "children": [
+          "asst_priya_4_2"
+        ]
+      },
+      "asst_priya_4_2": {
+        "id": "asst_priya_4_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1717995707.0
+        },
+        "parent": "user_priya_4_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Children's book recommendations",
+    "create_time": 1724994000.0,
+    "update_time": 1724994178.0,
+    "mapping": {
+      "root_priya_5": {
+        "id": "root_priya_5",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_5"
+        ]
+      },
+      "sys_priya_5": {
+        "id": "sys_priya_5",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1724994000.0
+        },
+        "parent": "root_priya_5",
+        "children": [
+          "user_priya_5_0"
+        ]
+      },
+      "user_priya_5_0": {
+        "id": "user_priya_5_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for book recommendations for kids ages 2-6. We read together every night."
+            ]
+          },
+          "create_time": 1724994000.0
+        },
+        "parent": "sys_priya_5",
+        "children": [
+          "asst_priya_5_0"
+        ]
+      },
+      "asst_priya_5_0": {
+        "id": "asst_priya_5_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1724994017.0
+        },
+        "parent": "user_priya_5_0",
+        "children": [
+          "user_priya_5_1"
+        ]
+      },
+      "user_priya_5_1": {
+        "id": "user_priya_5_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We love Melissa & Doug products. My kids enjoy science and nature themes."
+            ]
+          },
+          "create_time": 1724994066.0
+        },
+        "parent": "asst_priya_5_0",
+        "children": [
+          "asst_priya_5_1"
+        ]
+      },
+      "asst_priya_5_1": {
+        "id": "asst_priya_5_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1724994079.0
+        },
+        "parent": "user_priya_5_1",
+        "children": [
+          "user_priya_5_2"
+        ]
+      },
+      "user_priya_5_2": {
+        "id": "user_priya_5_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm a pediatrician and want books that are both fun and educational."
+            ]
+          },
+          "create_time": 1724994092.0
+        },
+        "parent": "asst_priya_5_1",
+        "children": [
+          "asst_priya_5_2"
+        ]
+      },
+      "asst_priya_5_2": {
+        "id": "asst_priya_5_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1724994119.0
+        },
+        "parent": "user_priya_5_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Home organization for families",
+    "create_time": 1728450000.0,
+    "update_time": 1728450152.0,
+    "mapping": {
+      "root_priya_6": {
+        "id": "root_priya_6",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_6"
+        ]
+      },
+      "sys_priya_6": {
+        "id": "sys_priya_6",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1728450000.0
+        },
+        "parent": "root_priya_6",
+        "children": [
+          "user_priya_6_0"
+        ]
+      },
+      "user_priya_6_0": {
+        "id": "user_priya_6_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need to organize our 4BR colonial house in Boston. 3 kids create a lot of chaos."
+            ]
+          },
+          "create_time": 1728450000.0
+        },
+        "parent": "sys_priya_6",
+        "children": [
+          "asst_priya_6_0"
+        ]
+      },
+      "asst_priya_6_0": {
+        "id": "asst_priya_6_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Consider your budget and long-term goals when making your decision. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1728450013.0
+        },
+        "parent": "user_priya_6_0",
+        "children": [
+          "user_priya_6_1"
+        ]
+      },
+      "user_priya_6_1": {
+        "id": "user_priya_6_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have a label maker, storage bins, and a family calendar whiteboard."
+            ]
+          },
+          "create_time": 1728450036.0
+        },
+        "parent": "asst_priya_6_0",
+        "children": [
+          "asst_priya_6_1"
+        ]
+      },
+      "asst_priya_6_1": {
+        "id": "asst_priya_6_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Start with the essentials and build from there as you discover what works for you."
+            ]
+          },
+          "create_time": 1728450059.0
+        },
+        "parent": "user_priya_6_1",
+        "children": [
+          "user_priya_6_2"
+        ]
+      },
+      "user_priya_6_2": {
+        "id": "user_priya_6_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We have Alexa, Nest thermostat, and Arlo cameras. Want a more organized system."
+            ]
+          },
+          "create_time": 1728450098.0
+        },
+        "parent": "asst_priya_6_1",
+        "children": [
+          "asst_priya_6_2"
+        ]
+      },
+      "asst_priya_6_2": {
+        "id": "asst_priya_6_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1728450125.0
+        },
+        "parent": "user_priya_6_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Swim lessons for toddlers",
+    "create_time": 1718686800.0,
+    "update_time": 1718686957.0,
+    "mapping": {
+      "root_priya_7": {
+        "id": "root_priya_7",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_7"
+        ]
+      },
+      "sys_priya_7": {
+        "id": "sys_priya_7",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1718686800.0
+        },
+        "parent": "root_priya_7",
+        "children": [
+          "user_priya_7_0"
+        ]
+      },
+      "user_priya_7_0": {
+        "id": "user_priya_7_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for swim lessons for my 2-year-old and 4-year-old in the Boston area."
+            ]
+          },
+          "create_time": 1718686800.0
+        },
+        "parent": "sys_priya_7",
+        "children": [
+          "asst_priya_7_0"
+        ]
+      },
+      "asst_priya_7_0": {
+        "id": "asst_priya_7_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Consider your budget and long-term goals when making your decision. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1718686806.0
+        },
+        "parent": "user_priya_7_0",
+        "children": [
+          "user_priya_7_1"
+        ]
+      },
+      "user_priya_7_1": {
+        "id": "user_priya_7_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My older daughter (6) already swims. We go as a family on weekends."
+            ]
+          },
+          "create_time": 1718686842.0
+        },
+        "parent": "asst_priya_7_0",
+        "children": [
+          "asst_priya_7_1"
+        ]
+      },
+      "asst_priya_7_1": {
+        "id": "asst_priya_7_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1718686848.0
+        },
+        "parent": "user_priya_7_1",
+        "children": [
+          "user_priya_7_2"
+        ]
+      },
+      "user_priya_7_2": {
+        "id": "user_priya_7_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Swimming is one of my fitness activities along with morning walks and home HIIT."
+            ]
+          },
+          "create_time": 1718686878.0
+        },
+        "parent": "asst_priya_7_1",
+        "children": [
+          "asst_priya_7_2"
+        ]
+      },
+      "asst_priya_7_2": {
+        "id": "asst_priya_7_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your fitness goals, here's a balanced approach that should work well. Many enthusiasts in your situation have found great results with this approach. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1718686906.0
+        },
+        "parent": "user_priya_7_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Vegetarian Indian cooking shortcuts",
+    "create_time": 1728795600.0,
+    "update_time": 1728795744.0,
+    "mapping": {
+      "root_priya_8": {
+        "id": "root_priya_8",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_8"
+        ]
+      },
+      "sys_priya_8": {
+        "id": "sys_priya_8",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1728795600.0
+        },
+        "parent": "root_priya_8",
+        "children": [
+          "user_priya_8_0"
+        ]
+      },
+      "user_priya_8_0": {
+        "id": "user_priya_8_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need faster Indian cooking methods. I love making dal, paneer, and biryani but they take time."
+            ]
+          },
+          "create_time": 1728795600.0
+        },
+        "parent": "sys_priya_8",
+        "children": [
+          "asst_priya_8_0"
+        ]
+      },
+      "asst_priya_8_0": {
+        "id": "asst_priya_8_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1728795626.0
+        },
+        "parent": "user_priya_8_0",
+        "children": [
+          "user_priya_8_1"
+        ]
+      },
+      "user_priya_8_1": {
+        "id": "user_priya_8_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Instant Pot helps but I need more shortcuts for weeknight dinners. Family of 5."
+            ]
+          },
+          "create_time": 1728795680.0
+        },
+        "parent": "asst_priya_8_0",
+        "children": [
+          "asst_priya_8_1"
+        ]
+      },
+      "asst_priya_8_1": {
+        "id": "asst_priya_8_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1728795690.0
+        },
+        "parent": "user_priya_8_1",
+        "children": [
+          "user_priya_8_2"
+        ]
+      },
+      "user_priya_8_2": {
+        "id": "user_priya_8_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I batch cook on weekends. Chai latte is my daily coffee alternative."
+            ]
+          },
+          "create_time": 1728795703.0
+        },
+        "parent": "asst_priya_8_1",
+        "children": [
+          "asst_priya_8_2"
+        ]
+      },
+      "asst_priya_8_2": {
+        "id": "asst_priya_8_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1728795716.0
+        },
+        "parent": "user_priya_8_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Work-life balance as a doctor mom",
+    "create_time": 1724648400.0,
+    "update_time": 1724648593.0,
+    "mapping": {
+      "root_priya_9": {
+        "id": "root_priya_9",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_9"
+        ]
+      },
+      "sys_priya_9": {
+        "id": "sys_priya_9",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1724648400.0
+        },
+        "parent": "root_priya_9",
+        "children": [
+          "user_priya_9_0"
+        ]
+      },
+      "user_priya_9_0": {
+        "id": "user_priya_9_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm a pediatrician working 4 days/week with 3 kids ages 6, 4, and 2."
+            ]
+          },
+          "create_time": 1724648400.0
+        },
+        "parent": "sys_priya_9",
+        "children": [
+          "asst_priya_9_0"
+        ]
+      },
+      "asst_priya_9_0": {
+        "id": "asst_priya_9_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1724648428.0
+        },
+        "parent": "user_priya_9_0",
+        "children": [
+          "user_priya_9_1"
+        ]
+      },
+      "user_priya_9_1": {
+        "id": "user_priya_9_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use Google Workspace for work, Epic EHR system, and Doximity for medical networking."
+            ]
+          },
+          "create_time": 1724648481.0
+        },
+        "parent": "asst_priya_9_0",
+        "children": [
+          "asst_priya_9_1"
+        ]
+      },
+      "asst_priya_9_1": {
+        "id": "asst_priya_9_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about work-life balance as a doctor mom! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1724648489.0
+        },
+        "parent": "user_priya_9_1",
+        "children": [
+          "user_priya_9_2"
+        ]
+      },
+      "user_priya_9_2": {
+        "id": "user_priya_9_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I wake at 5:30am and try to exercise (home HIIT or walk) before the kids wake up."
+            ]
+          },
+          "create_time": 1724648530.0
+        },
+        "parent": "asst_priya_9_1",
+        "children": [
+          "asst_priya_9_2"
+        ]
+      },
+      "asst_priya_9_2": {
+        "id": "asst_priya_9_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1724648558.0
+        },
+        "parent": "user_priya_9_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Birthday party ideas for 6 year old",
+    "create_time": 1717390800.0,
+    "update_time": 1717390981.0,
+    "mapping": {
+      "root_priya_10": {
+        "id": "root_priya_10",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_10"
+        ]
+      },
+      "sys_priya_10": {
+        "id": "sys_priya_10",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717390800.0
+        },
+        "parent": "root_priya_10",
+        "children": [
+          "user_priya_10_0"
+        ]
+      },
+      "user_priya_10_0": {
+        "id": "user_priya_10_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning my daughter's 6th birthday. She loves science and building things."
+            ]
+          },
+          "create_time": 1717390800.0
+        },
+        "parent": "sys_priya_10",
+        "children": [
+          "asst_priya_10_0"
+        ]
+      },
+      "asst_priya_10_0": {
+        "id": "asst_priya_10_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1717390826.0
+        },
+        "parent": "user_priya_10_0",
+        "children": [
+          "user_priya_10_1"
+        ]
+      },
+      "user_priya_10_1": {
+        "id": "user_priya_10_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want a STEM-themed party. Budget $200. We're in Boston."
+            ]
+          },
+          "create_time": 1717390840.0
+        },
+        "parent": "asst_priya_10_0",
+        "children": [
+          "asst_priya_10_1"
+        ]
+      },
+      "asst_priya_10_1": {
+        "id": "asst_priya_10_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about birthday party ideas for 6 year old! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717390854.0
+        },
+        "parent": "user_priya_10_1",
+        "children": [
+          "user_priya_10_2"
+        ]
+      },
+      "user_priya_10_2": {
+        "id": "user_priya_10_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "She loves her Melissa & Doug toys and our hamster Mr. Whiskers."
+            ]
+          },
+          "create_time": 1717390914.0
+        },
+        "parent": "asst_priya_10_1",
+        "children": [
+          "asst_priya_10_2"
+        ]
+      },
+      "asst_priya_10_2": {
+        "id": "asst_priya_10_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717390942.0
+        },
+        "parent": "user_priya_10_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Family board games for all ages",
+    "create_time": 1718168400.0,
+    "update_time": 1718168537.0,
+    "mapping": {
+      "root_priya_11": {
+        "id": "root_priya_11",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_11"
+        ]
+      },
+      "sys_priya_11": {
+        "id": "sys_priya_11",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1718168400.0
+        },
+        "parent": "root_priya_11",
+        "children": [
+          "user_priya_11_0"
+        ]
+      },
+      "user_priya_11_0": {
+        "id": "user_priya_11_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need board games for family game night. Kids are 6, 4, and 2."
+            ]
+          },
+          "create_time": 1718168400.0
+        },
+        "parent": "sys_priya_11",
+        "children": [
+          "asst_priya_11_0"
+        ]
+      },
+      "asst_priya_11_0": {
+        "id": "asst_priya_11_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1718168422.0
+        },
+        "parent": "user_priya_11_0",
+        "children": [
+          "user_priya_11_1"
+        ]
+      },
+      "user_priya_11_1": {
+        "id": "user_priya_11_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We play Mario Kart on the Switch too. Want more screen-free options."
+            ]
+          },
+          "create_time": 1718168439.0
+        },
+        "parent": "asst_priya_11_0",
+        "children": [
+          "asst_priya_11_1"
+        ]
+      },
+      "asst_priya_11_1": {
+        "id": "asst_priya_11_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1718168457.0
+        },
+        "parent": "user_priya_11_1",
+        "children": [
+          "user_priya_11_2"
+        ]
+      },
+      "user_priya_11_2": {
+        "id": "user_priya_11_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget $30-100. Shop mostly on Amazon and Target."
+            ]
+          },
+          "create_time": 1718168479.0
+        },
+        "parent": "asst_priya_11_1",
+        "children": [
+          "asst_priya_11_2"
+        ]
+      },
+      "asst_priya_11_2": {
+        "id": "asst_priya_11_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about family board games for all ages! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1718168495.0
+        },
+        "parent": "user_priya_11_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Healthy school lunches for kids",
+    "create_time": 1732255200.0,
+    "update_time": 1732255338.0,
+    "mapping": {
+      "root_priya_12": {
+        "id": "root_priya_12",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_12"
+        ]
+      },
+      "sys_priya_12": {
+        "id": "sys_priya_12",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1732255200.0
+        },
+        "parent": "root_priya_12",
+        "children": [
+          "user_priya_12_0"
+        ]
+      },
+      "user_priya_12_0": {
+        "id": "user_priya_12_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need school lunch ideas. Vegetarian, peanut-free due to daughter's allergy."
+            ]
+          },
+          "create_time": 1732255200.0
+        },
+        "parent": "sys_priya_12",
+        "children": [
+          "asst_priya_12_0"
+        ]
+      },
+      "asst_priya_12_0": {
+        "id": "asst_priya_12_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1732255223.0
+        },
+        "parent": "user_priya_12_0",
+        "children": [
+          "user_priya_12_1"
+        ]
+      },
+      "user_priya_12_1": {
+        "id": "user_priya_12_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use lunch boxes from Amazon and meal prep containers. Pack the night before."
+            ]
+          },
+          "create_time": 1732255248.0
+        },
+        "parent": "asst_priya_12_0",
+        "children": [
+          "asst_priya_12_1"
+        ]
+      },
+      "asst_priya_12_1": {
+        "id": "asst_priya_12_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1732255255.0
+        },
+        "parent": "user_priya_12_1",
+        "children": [
+          "user_priya_12_2"
+        ]
+      },
+      "user_priya_12_2": {
+        "id": "user_priya_12_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids like Indian flavors, pasta, and Mediterranean-style wraps."
+            ]
+          },
+          "create_time": 1732255298.0
+        },
+        "parent": "asst_priya_12_1",
+        "children": [
+          "asst_priya_12_2"
+        ]
+      },
+      "asst_priya_12_2": {
+        "id": "asst_priya_12_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Quality over quantity is usually the best strategy here. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1732255323.0
+        },
+        "parent": "user_priya_12_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best pediatric medical apps",
+    "create_time": 1723698000.0,
+    "update_time": 1723698169.0,
+    "mapping": {
+      "root_priya_13": {
+        "id": "root_priya_13",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_13"
+        ]
+      },
+      "sys_priya_13": {
+        "id": "sys_priya_13",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723698000.0
+        },
+        "parent": "root_priya_13",
+        "children": [
+          "user_priya_13_0"
+        ]
+      },
+      "user_priya_13_0": {
+        "id": "user_priya_13_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for medical reference apps. I use UpToDate and Doximity for work."
+            ]
+          },
+          "create_time": 1723698000.0
+        },
+        "parent": "sys_priya_13",
+        "children": [
+          "asst_priya_13_0"
+        ]
+      },
+      "asst_priya_13_0": {
+        "id": "asst_priya_13_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1723698022.0
+        },
+        "parent": "user_priya_13_0",
+        "children": [
+          "user_priya_13_1"
+        ]
+      },
+      "user_priya_13_1": {
+        "id": "user_priya_13_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want something quick for clinic. Work on an Epic EHR system."
+            ]
+          },
+          "create_time": 1723698080.0
+        },
+        "parent": "asst_priya_13_0",
+        "children": [
+          "asst_priya_13_1"
+        ]
+      },
+      "asst_priya_13_1": {
+        "id": "asst_priya_13_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723698085.0
+        },
+        "parent": "user_priya_13_1",
+        "children": [
+          "user_priya_13_2"
+        ]
+      },
+      "user_priya_13_2": {
+        "id": "user_priya_13_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also interested in patient education apps to share with parents."
+            ]
+          },
+          "create_time": 1723698131.0
+        },
+        "parent": "asst_priya_13_1",
+        "children": [
+          "asst_priya_13_2"
+        ]
+      },
+      "asst_priya_13_2": {
+        "id": "asst_priya_13_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. The key is finding what aligns with your lifestyle and preferences. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1723698158.0
+        },
+        "parent": "user_priya_13_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Budget optimization for families",
+    "create_time": 1731132000.0,
+    "update_time": 1731132167.0,
+    "mapping": {
+      "root_priya_14": {
+        "id": "root_priya_14",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_14"
+        ]
+      },
+      "sys_priya_14": {
+        "id": "sys_priya_14",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1731132000.0
+        },
+        "parent": "root_priya_14",
+        "children": [
+          "user_priya_14_0"
+        ]
+      },
+      "user_priya_14_0": {
+        "id": "user_priya_14_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need to optimize our family budget. 5 people, Boston is expensive."
+            ]
+          },
+          "create_time": 1731132000.0
+        },
+        "parent": "sys_priya_14",
+        "children": [
+          "asst_priya_14_0"
+        ]
+      },
+      "asst_priya_14_0": {
+        "id": "asst_priya_14_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1731132020.0
+        },
+        "parent": "user_priya_14_0",
+        "children": [
+          "user_priya_14_1"
+        ]
+      },
+      "user_priya_14_1": {
+        "id": "user_priya_14_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We shop at Costco and Target mostly. Use Instacart for delivery."
+            ]
+          },
+          "create_time": 1731132057.0
+        },
+        "parent": "asst_priya_14_0",
+        "children": [
+          "asst_priya_14_1"
+        ]
+      },
+      "asst_priya_14_1": {
+        "id": "asst_priya_14_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about budget optimization for families! Here are my recommendations. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1731132086.0
+        },
+        "parent": "user_priya_14_1",
+        "children": [
+          "user_priya_14_2"
+        ]
+      },
+      "user_priya_14_2": {
+        "id": "user_priya_14_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm value-oriented - Amazon Basics and Primary (kids) for clothing."
+            ]
+          },
+          "create_time": 1731132135.0
+        },
+        "parent": "asst_priya_14_1",
+        "children": [
+          "asst_priya_14_2"
+        ]
+      },
+      "asst_priya_14_2": {
+        "id": "asst_priya_14_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1731132152.0
+        },
+        "parent": "user_priya_14_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Fitness routine for busy moms",
+    "create_time": 1721797200.0,
+    "update_time": 1721797337.0,
+    "mapping": {
+      "root_priya_15": {
+        "id": "root_priya_15",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_15"
+        ]
+      },
+      "sys_priya_15": {
+        "id": "sys_priya_15",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1721797200.0
+        },
+        "parent": "root_priya_15",
+        "children": [
+          "user_priya_15_0"
+        ]
+      },
+      "user_priya_15_0": {
+        "id": "user_priya_15_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I need a realistic fitness routine. Pediatrician, 3 kids, wake at 5:30am."
+            ]
+          },
+          "create_time": 1721797200.0
+        },
+        "parent": "sys_priya_15",
+        "children": [
+          "asst_priya_15_0"
+        ]
+      },
+      "asst_priya_15_0": {
+        "id": "asst_priya_15_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1721797217.0
+        },
+        "parent": "user_priya_15_0",
+        "children": [
+          "user_priya_15_1"
+        ]
+      },
+      "user_priya_15_1": {
+        "id": "user_priya_15_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Currently: morning walks, home HIIT with Apple Fitness+, swim with kids on weekends."
+            ]
+          },
+          "create_time": 1721797229.0
+        },
+        "parent": "asst_priya_15_0",
+        "children": [
+          "asst_priya_15_1"
+        ]
+      },
+      "asst_priya_15_1": {
+        "id": "asst_priya_15_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1721797239.0
+        },
+        "parent": "user_priya_15_1",
+        "children": [
+          "user_priya_15_2"
+        ]
+      },
+      "user_priya_15_2": {
+        "id": "user_priya_15_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Goal is having energy for the kids. Also use Calm for meditation."
+            ]
+          },
+          "create_time": 1721797292.0
+        },
+        "parent": "asst_priya_15_1",
+        "children": [
+          "asst_priya_15_2"
+        ]
+      },
+      "asst_priya_15_2": {
+        "id": "asst_priya_15_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1721797308.0
+        },
+        "parent": "user_priya_15_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "PBS Kids shows recommendation",
+    "create_time": 1731391200.0,
+    "update_time": 1731391365.0,
+    "mapping": {
+      "root_priya_16": {
+        "id": "root_priya_16",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_16"
+        ]
+      },
+      "sys_priya_16": {
+        "id": "sys_priya_16",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1731391200.0
+        },
+        "parent": "root_priya_16",
+        "children": [
+          "user_priya_16_0"
+        ]
+      },
+      "user_priya_16_0": {
+        "id": "user_priya_16_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "What are the best PBS Kids shows for different ages? My kids are 6, 4, and 2."
+            ]
+          },
+          "create_time": 1731391200.0
+        },
+        "parent": "sys_priya_16",
+        "children": [
+          "asst_priya_16_0"
+        ]
+      },
+      "asst_priya_16_0": {
+        "id": "asst_priya_16_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. The key is finding what aligns with your lifestyle and preferences. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1731391225.0
+        },
+        "parent": "user_priya_16_0",
+        "children": [
+          "user_priya_16_1"
+        ]
+      },
+      "user_priya_16_1": {
+        "id": "user_priya_16_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We have Disney+, Netflix, and PBS Kids. I limit screen time to 1 hour/day."
+            ]
+          },
+          "create_time": 1731391279.0
+        },
+        "parent": "asst_priya_16_0",
+        "children": [
+          "asst_priya_16_1"
+        ]
+      },
+      "asst_priya_16_1": {
+        "id": "asst_priya_16_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1731391302.0
+        },
+        "parent": "user_priya_16_1",
+        "children": [
+          "user_priya_16_2"
+        ]
+      },
+      "user_priya_16_2": {
+        "id": "user_priya_16_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Prefer educational content. My 6-year-old loves science topics."
+            ]
+          },
+          "create_time": 1731391313.0
+        },
+        "parent": "asst_priya_16_1",
+        "children": [
+          "asst_priya_16_2"
+        ]
+      },
+      "asst_priya_16_2": {
+        "id": "asst_priya_16_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about pbs kids shows recommendation! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1731391343.0
+        },
+        "parent": "user_priya_16_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Planning a trip to Disney World",
+    "create_time": 1721624400.0,
+    "update_time": 1721624545.0,
+    "mapping": {
+      "root_priya_17": {
+        "id": "root_priya_17",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_17"
+        ]
+      },
+      "sys_priya_17": {
+        "id": "sys_priya_17",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1721624400.0
+        },
+        "parent": "root_priya_17",
+        "children": [
+          "user_priya_17_0"
+        ]
+      },
+      "user_priya_17_0": {
+        "id": "user_priya_17_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Taking the family to Disney World. 3 kids ages 6, 4, 2. First time for the younger ones."
+            ]
+          },
+          "create_time": 1721624400.0
+        },
+        "parent": "sys_priya_17",
+        "children": [
+          "asst_priya_17_0"
+        ]
+      },
+      "asst_priya_17_0": {
+        "id": "asst_priya_17_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1721624409.0
+        },
+        "parent": "user_priya_17_0",
+        "children": [
+          "user_priya_17_1"
+        ]
+      },
+      "user_priya_17_1": {
+        "id": "user_priya_17_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Flying JetBlue, aisle seats. Looking at hotels near the park."
+            ]
+          },
+          "create_time": 1721624457.0
+        },
+        "parent": "asst_priya_17_0",
+        "children": [
+          "asst_priya_17_1"
+        ]
+      },
+      "asst_priya_17_1": {
+        "id": "asst_priya_17_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great choice for a trip! Let me help you plan the details. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1721624466.0
+        },
+        "parent": "user_priya_17_1",
+        "children": [
+          "user_priya_17_2"
+        ]
+      },
+      "user_priya_17_2": {
+        "id": "user_priya_17_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget-conscious but want the kids to have a magical experience."
+            ]
+          },
+          "create_time": 1721624516.0
+        },
+        "parent": "asst_priya_17_1",
+        "children": [
+          "asst_priya_17_2"
+        ]
+      },
+      "asst_priya_17_2": {
+        "id": "asst_priya_17_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1721624530.0
+        },
+        "parent": "user_priya_17_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Parenting books recommendation",
+    "create_time": 1719118800.0,
+    "update_time": 1719118966.0,
+    "mapping": {
+      "root_priya_18": {
+        "id": "root_priya_18",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_18"
+        ]
+      },
+      "sys_priya_18": {
+        "id": "sys_priya_18",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1719118800.0
+        },
+        "parent": "root_priya_18",
+        "children": [
+          "user_priya_18_0"
+        ]
+      },
+      "user_priya_18_0": {
+        "id": "user_priya_18_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for parenting books. I listen to The Pediatric Insider and Parenting Unplugged podcasts."
+            ]
+          },
+          "create_time": 1719118800.0
+        },
+        "parent": "sys_priya_18",
+        "children": [
+          "asst_priya_18_0"
+        ]
+      },
+      "asst_priya_18_0": {
+        "id": "asst_priya_18_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1719118819.0
+        },
+        "parent": "user_priya_18_0",
+        "children": [
+          "user_priya_18_1"
+        ]
+      },
+      "user_priya_18_1": {
+        "id": "user_priya_18_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want evidence-based advice for managing 3 kids under 7."
+            ]
+          },
+          "create_time": 1719118864.0
+        },
+        "parent": "asst_priya_18_0",
+        "children": [
+          "asst_priya_18_1"
+        ]
+      },
+      "asst_priya_18_1": {
+        "id": "asst_priya_18_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1719118890.0
+        },
+        "parent": "user_priya_18_1",
+        "children": [
+          "user_priya_18_2"
+        ]
+      },
+      "user_priya_18_2": {
+        "id": "user_priya_18_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I track reading in a list but don't get much time to read."
+            ]
+          },
+          "create_time": 1719118930.0
+        },
+        "parent": "asst_priya_18_1",
+        "children": [
+          "asst_priya_18_2"
+        ]
+      },
+      "asst_priya_18_2": {
+        "id": "asst_priya_18_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1719118939.0
+        },
+        "parent": "user_priya_18_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Garden activities for kids",
+    "create_time": 1729054800.0,
+    "update_time": 1729054947.0,
+    "mapping": {
+      "root_priya_19": {
+        "id": "root_priya_19",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_priya_19"
+        ]
+      },
+      "sys_priya_19": {
+        "id": "sys_priya_19",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1729054800.0
+        },
+        "parent": "root_priya_19",
+        "children": [
+          "user_priya_19_0"
+        ]
+      },
+      "user_priya_19_0": {
+        "id": "user_priya_19_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to start a small garden with my kids in our Boston backyard."
+            ]
+          },
+          "create_time": 1729054800.0
+        },
+        "parent": "sys_priya_19",
+        "children": [
+          "asst_priya_19_0"
+        ]
+      },
+      "asst_priya_19_0": {
+        "id": "asst_priya_19_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1729054810.0
+        },
+        "parent": "user_priya_19_0",
+        "children": [
+          "user_priya_19_1"
+        ]
+      },
+      "user_priya_19_1": {
+        "id": "user_priya_19_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have a 4BR colonial with a decent yard. Mr. Whiskers (hamster) lives inside."
+            ]
+          },
+          "create_time": 1729054862.0
+        },
+        "parent": "asst_priya_19_0",
+        "children": [
+          "asst_priya_19_1"
+        ]
+      },
+      "asst_priya_19_1": {
+        "id": "asst_priya_19_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1729054877.0
+        },
+        "parent": "user_priya_19_1",
+        "children": [
+          "user_priya_19_2"
+        ]
+      },
+      "user_priya_19_2": {
+        "id": "user_priya_19_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The kids love being outdoors. Want something educational too."
+            ]
+          },
+          "create_time": 1729054889.0
+        },
+        "parent": "asst_priya_19_1",
+        "children": [
+          "asst_priya_19_2"
+        ]
+      },
+      "asst_priya_19_2": {
+        "id": "asst_priya_19_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1729054917.0
+        },
+        "parent": "user_priya_19_2",
+        "children": []
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "alex",
+    "name": "Alex Chen",
+    "avatar_color": "#6366f1",
+    "tagline": "Minimalist runner who codes",
+    "summary_stats": { "emails": 100, "orders": 20, "conversations": 20 }
+  },
+  {
+    "id": "sarah",
+    "name": "Sarah Mitchell",
+    "avatar_color": "#ec4899",
+    "tagline": "Luxury traveler and wine enthusiast",
+    "summary_stats": { "emails": 100, "orders": 20, "conversations": 20 }
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan Rivera",
+    "avatar_color": "#f59e0b",
+    "tagline": "Vintage collector and festival foodie",
+    "summary_stats": { "emails": 100, "orders": 20, "conversations": 20 }
+  },
+  {
+    "id": "priya",
+    "name": "Dr. Priya Sharma",
+    "avatar_color": "#10b981",
+    "tagline": "Health-conscious mom of 3 who optimizes everything",
+    "summary_stats": { "emails": 100, "orders": 20, "conversations": 20 }
+  },
+  {
+    "id": "marcus",
+    "name": "Marcus Thompson",
+    "avatar_color": "#8b5cf6",
+    "tagline": "Woodworker, bookworm, and garden enthusiast",
+    "summary_stats": { "emails": 100, "orders": 20, "conversations": 20 }
+  }
+]

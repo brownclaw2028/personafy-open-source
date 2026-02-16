@@ -1,0 +1,893 @@
+[
+  {
+    "orderId": "502-3418856-7291034",
+    "orderDate": "2024-01-15T00:00:00Z",
+    "items": [
+      {
+        "name": "SK-II Facial Treatment Essence 7.7oz",
+        "category": "Luxury Beauty",
+        "price": 185.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.7,
+        "reviewCount": 12450
+      }
+    ],
+    "total": 185.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-01-18T00:00:00Z"
+  },
+  {
+    "orderId": "718-5023941-8356127",
+    "orderDate": "2024-02-03T00:00:00Z",
+    "items": [
+      {
+        "name": "Riedel Veritas Cabernet/Merlot Wine Glasses - Set of 2",
+        "category": "Wine Accessories",
+        "price": 69.0,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.8,
+        "reviewCount": 3420
+      },
+      {
+        "name": "Vintorio Wine Aerator Pourer",
+        "category": "Wine Accessories",
+        "price": 15.99,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.5,
+        "reviewCount": 8975
+      }
+    ],
+    "total": 84.99,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-02-06T00:00:00Z"
+  },
+  {
+    "orderId": "345-8921054-1637482",
+    "orderDate": "2024-02-22T00:00:00Z",
+    "items": [
+      {
+        "name": "A Year in Provence - Peter Mayle (Paperback)",
+        "category": "Books",
+        "price": 13.99,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.6,
+        "reviewCount": 5230
+      },
+      {
+        "name": "The Wine Bible, 3rd Edition - Karen MacNeil",
+        "category": "Books",
+        "price": 22.49,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.8,
+        "reviewCount": 7812
+      }
+    ],
+    "total": 36.48,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-02-25T00:00:00Z"
+  },
+  {
+    "orderId": "263-7450182-9034561",
+    "orderDate": "2024-03-10T00:00:00Z",
+    "items": [
+      {
+        "name": "Diptyque Baies Scented Candle 6.5oz",
+        "category": "Home Decor",
+        "price": 72.0,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.7,
+        "reviewCount": 2180
+      },
+      {
+        "name": "Barefoot Dreams CozyChic Throw Blanket - Oyster",
+        "category": "Home Decor",
+        "price": 147.0,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.9,
+        "reviewCount": 11340
+      }
+    ],
+    "total": 219.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-03-13T00:00:00Z"
+  },
+  {
+    "orderId": "891-2036745-4518293",
+    "orderDate": "2024-04-05T00:00:00Z",
+    "items": [
+      {
+        "name": "Sunday Riley Good Genes All-In-One Lactic Acid Treatment 1.7oz",
+        "category": "Luxury Beauty",
+        "price": 122.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.4,
+        "reviewCount": 6890
+      }
+    ],
+    "total": 122.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-04-08T00:00:00Z"
+  },
+  {
+    "orderId": "654-1298037-6472815",
+    "orderDate": "2024-04-28T00:00:00Z",
+    "items": [
+      {
+        "name": "Le Creuset Stoneware Heritage Rectangular Dish - White, 4qt",
+        "category": "Kitchen",
+        "price": 79.95,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.8,
+        "reviewCount": 4560
+      },
+      {
+        "name": "TRUFF Black Truffle Oil 6oz",
+        "category": "Gourmet Food",
+        "price": 24.99,
+        "quantity": 1,
+        "imageCategory": "food"
+      }
+    ],
+    "total": 104.94,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-05-01T00:00:00Z"
+  },
+  {
+    "orderId": "124-9570420-9450005",
+    "orderDate": "2024-06-07T00:00:00Z",
+    "items": [
+      {
+        "name": "Smythson Panama Notebook - Nile Blue",
+        "category": "Stationery",
+        "price": 75.0,
+        "quantity": 1,
+        "imageCategory": "office",
+        "starRating": 4.6,
+        "reviewCount": 890
+      }
+    ],
+    "total": 75.0,
+    "shippingAddress": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-11T00:00:00Z"
+  },
+  {
+    "orderId": "910-3085740-3114501",
+    "orderDate": "2024-06-28T00:00:00Z",
+    "items": [
+      {
+        "name": "La Mer Moisturizing Cream 2oz",
+        "category": "Luxury Beauty",
+        "price": 380.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.5,
+        "reviewCount": 9870
+      }
+    ],
+    "total": 380.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-01T00:00:00Z"
+  },
+  {
+    "orderId": "437-6081254-3920178",
+    "orderDate": "2024-07-14T00:00:00Z",
+    "items": [
+      {
+        "name": "Johnstons of Elgin Cashmere Scarf - Camel",
+        "category": "Accessories",
+        "price": 195.0,
+        "quantity": 1,
+        "imageCategory": "clothing"
+      },
+      {
+        "name": "Ray-Ban RB2140 Original Wayfarer Polarized - Tortoise",
+        "category": "Accessories",
+        "price": 213.0,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.6,
+        "reviewCount": 14200
+      }
+    ],
+    "total": 408.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-17T00:00:00Z"
+  },
+  {
+    "orderId": "292-4632651-7438717",
+    "orderDate": "2024-08-28T00:00:00Z",
+    "items": [
+      {
+        "name": "Lunya Washable Silk Set - Dusty Rose, Size S",
+        "category": "Sleepwear",
+        "price": 238.0,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.3,
+        "reviewCount": 2140
+      }
+    ],
+    "total": 238.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-31T00:00:00Z"
+  },
+  {
+    "orderId": "230-2446662-3585444",
+    "orderDate": "2024-08-31T00:00:00Z",
+    "items": [
+      {
+        "name": "Coravin Timeless Three+ Wine Preservation System",
+        "category": "Wine Accessories",
+        "price": 199.95,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.4,
+        "reviewCount": 3780
+      }
+    ],
+    "total": 199.95,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-04T00:00:00Z"
+  },
+  {
+    "orderId": "189-1560511-2559492",
+    "orderDate": "2024-09-07T00:00:00Z",
+    "items": [
+      {
+        "name": "Breville Barista Express Espresso Machine",
+        "category": "Kitchen Appliances",
+        "price": 699.95,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.6,
+        "reviewCount": 14750
+      }
+    ],
+    "total": 699.95,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-12T00:00:00Z"
+  },
+  {
+    "orderId": "455-1869756-4117281",
+    "orderDate": "2024-09-10T00:00:00Z",
+    "items": [
+      {
+        "name": "White + Warren Cashmere Travel Wrap - Heather Grey",
+        "category": "Accessories",
+        "price": 298.0,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.7,
+        "reviewCount": 1250
+      }
+    ],
+    "total": 298.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-13T00:00:00Z"
+  },
+  {
+    "orderId": "613-2027115-2610408",
+    "orderDate": "2024-09-26T00:00:00Z",
+    "items": [
+      {
+        "name": "Jo Malone English Pear & Freesia Cologne 3.4oz",
+        "category": "Fragrance",
+        "price": 152.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.8,
+        "reviewCount": 5690
+      }
+    ],
+    "total": 152.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-29T00:00:00Z"
+  },
+  {
+    "orderId": "214-6797451-5420669",
+    "orderDate": "2024-10-08T00:00:00Z",
+    "items": [
+      {
+        "name": "Tom Ford Lip Color - Scarlet Rouge",
+        "category": "Beauty",
+        "price": 58.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.5,
+        "reviewCount": 3210
+      },
+      {
+        "name": "Charlotte Tilbury Flawless Setting Spray",
+        "category": "Beauty",
+        "price": 38.0,
+        "quantity": 1,
+        "imageCategory": "beauty"
+      }
+    ],
+    "total": 96.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-11T00:00:00Z"
+  },
+  {
+    "orderId": "282-4149975-1857272",
+    "orderDate": "2024-10-16T00:00:00Z",
+    "items": [
+      {
+        "name": "Theory Etiennette Blazer in Good Wool - Navy, Size 4",
+        "category": "Clothing",
+        "price": 455.0,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.3,
+        "reviewCount": 870
+      }
+    ],
+    "total": 455.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-19T00:00:00Z"
+  },
+  {
+    "orderId": "926-6159381-2827722",
+    "orderDate": "2024-10-25T00:00:00Z",
+    "items": [
+      {
+        "name": "Riedel Vinum Pinot Noir Glasses - Set of 4",
+        "category": "Wine Accessories",
+        "price": 119.0,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.7,
+        "reviewCount": 2890
+      }
+    ],
+    "total": 119.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-28T00:00:00Z"
+  },
+  {
+    "orderId": "138-3458992-1042269",
+    "orderDate": "2024-10-29T00:00:00Z",
+    "items": [
+      {
+        "name": "Coutale Sommelier Prestige Corkscrew",
+        "category": "Wine Accessories",
+        "price": 34.95,
+        "quantity": 1,
+        "imageCategory": "kitchen"
+      }
+    ],
+    "total": 34.95,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-31T00:00:00Z"
+  },
+  {
+    "orderId": "700-7856893-6492019",
+    "orderDate": "2024-10-31T00:00:00Z",
+    "items": [
+      {
+        "name": "Bose QuietComfort Ultra Headphones",
+        "category": "Electronics",
+        "price": 429.0,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.6,
+        "reviewCount": 11230
+      }
+    ],
+    "total": 429.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-03T00:00:00Z"
+  },
+  {
+    "orderId": "339-6031740-4723455",
+    "orderDate": "2024-11-19T00:00:00Z",
+    "items": [
+      {
+        "name": "Tory Burch Perry Triple-Compartment Tote - Black",
+        "category": "Handbags",
+        "price": 348.0,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.5,
+        "reviewCount": 4120
+      }
+    ],
+    "total": 348.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-22T00:00:00Z"
+  },
+  {
+    "orderId": "689-7768976-5367457",
+    "orderDate": "2024-11-23T00:00:00Z",
+    "items": [
+      {
+        "name": "Away The Carry-On - Aluminum Edition",
+        "category": "Luggage",
+        "price": 475.0,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.4,
+        "reviewCount": 6780
+      }
+    ],
+    "total": 475.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-27T00:00:00Z"
+  },
+  {
+    "orderId": "648-8126025-8433592",
+    "orderDate": "2024-11-24T00:00:00Z",
+    "items": [
+      {
+        "name": "NewAir 29-Bottle Wine Fridge - Stainless Steel",
+        "category": "Appliances",
+        "price": 299.99,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.3,
+        "reviewCount": 5430
+      }
+    ],
+    "total": 299.99,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-29T00:00:00Z"
+  },
+  {
+    "orderId": "645-9356921-5345064",
+    "orderDate": "2024-12-01T00:00:00Z",
+    "items": [
+      {
+        "name": "Dyson Airwrap Complete Long - Nickel/Copper",
+        "category": "Hair Care",
+        "price": 599.99,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.5,
+        "reviewCount": 9340
+      }
+    ],
+    "total": 599.99,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-05T00:00:00Z"
+  },
+  {
+    "orderId": "311-7789072-4254584",
+    "orderDate": "2024-12-01T00:00:00Z",
+    "items": [
+      {
+        "name": "Wusthof Classic 8-Piece Knife Block Set",
+        "category": "Kitchen",
+        "price": 549.95,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.8,
+        "reviewCount": 7640
+      }
+    ],
+    "total": 549.95,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-06T00:00:00Z"
+  },
+  {
+    "orderId": "117-6664676-2988790",
+    "orderDate": "2024-12-06T00:00:00Z",
+    "items": [
+      {
+        "name": "Drunk Elephant T.L.C. Framboos Glycolic Night Serum",
+        "category": "Beauty",
+        "price": 90.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.4,
+        "reviewCount": 8120
+      }
+    ],
+    "total": 90.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-09T00:00:00Z"
+  },
+  {
+    "orderId": "819-8654344-6704445",
+    "orderDate": "2024-12-11T00:00:00Z",
+    "items": [
+      {
+        "name": "Le Creuset Signature Enameled Cast-Iron Dutch Oven 5.5qt - Marseille",
+        "category": "Kitchen",
+        "price": 379.95,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.9,
+        "reviewCount": 13200
+      }
+    ],
+    "total": 379.95,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-15T00:00:00Z"
+  },
+  {
+    "orderId": "572-4019835-6281740",
+    "orderDate": "2025-01-12T00:00:00Z",
+    "items": [
+      {
+        "name": "Zwilling J.A. Henckels Pro 7-Inch Santoku Knife",
+        "category": "Kitchen",
+        "price": 149.99,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.7,
+        "reviewCount": 4890
+      },
+      {
+        "name": "Maldon Sea Salt Flakes 8.5oz",
+        "category": "Gourmet Food",
+        "price": 8.49,
+        "quantity": 2,
+        "imageCategory": "food",
+        "starRating": 4.9,
+        "reviewCount": 14600
+      }
+    ],
+    "total": 166.97,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-01-15T00:00:00Z"
+  },
+  {
+    "orderId": "803-2157604-9340182",
+    "orderDate": "2025-02-08T00:00:00Z",
+    "items": [
+      {
+        "name": "Salt, Fat, Acid, Heat - Samin Nosrat (Hardcover)",
+        "category": "Books",
+        "price": 24.99,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.8,
+        "reviewCount": 11430
+      },
+      {
+        "name": "Under the Tuscan Sun - Frances Mayes (Paperback)",
+        "category": "Books",
+        "price": 14.99,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.5,
+        "reviewCount": 6340
+      }
+    ],
+    "total": 39.98,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-02-11T00:00:00Z"
+  },
+  {
+    "orderId": "156-7893241-5028367",
+    "orderDate": "2025-03-20T00:00:00Z",
+    "items": [
+      {
+        "name": "Away The Large - Navy",
+        "category": "Luggage",
+        "price": 295.0,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.5,
+        "reviewCount": 5120
+      },
+      {
+        "name": "Royce New York RFID Blocking Passport Case - Tan",
+        "category": "Travel Accessories",
+        "price": 85.0,
+        "quantity": 1,
+        "imageCategory": "clothing"
+      }
+    ],
+    "total": 380.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-03-24T00:00:00Z"
+  },
+  {
+    "orderId": "421-6503298-7145830",
+    "orderDate": "2025-05-02T00:00:00Z",
+    "items": [
+      {
+        "name": "La Mer The Concentrate 1.7oz",
+        "category": "Luxury Beauty",
+        "price": 420.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.6,
+        "reviewCount": 4350
+      }
+    ],
+    "total": 420.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-05-05T00:00:00Z"
+  },
+  {
+    "orderId": "287-1940563-8204719",
+    "orderDate": "2025-06-18T00:00:00Z",
+    "items": [
+      {
+        "name": "Maison Francis Kurkdjian Baccarat Rouge 540 EDP 2.4oz",
+        "category": "Fragrance",
+        "price": 325.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.7,
+        "reviewCount": 8940
+      },
+      {
+        "name": "Voluspa Japonica French Cade Lavender Candle 16oz",
+        "category": "Home Decor",
+        "price": 38.0,
+        "quantity": 1,
+        "imageCategory": "home"
+      }
+    ],
+    "total": 363.0,
+    "shippingAddress": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-06-22T00:00:00Z"
+  },
+  {
+    "orderId": "934-5271806-3059247",
+    "orderDate": "2025-08-10T00:00:00Z",
+    "items": [
+      {
+        "name": "Rifle Paper Co. Bon Voyage Art Print 11x14",
+        "category": "Home Decor",
+        "price": 40.0,
+        "quantity": 1,
+        "imageCategory": "home"
+      },
+      {
+        "name": "West Elm Luster Velvet Pillow Cover 20x20 - Dusty Blush",
+        "category": "Home Decor",
+        "price": 49.50,
+        "quantity": 2,
+        "imageCategory": "home",
+        "starRating": 4.4,
+        "reviewCount": 1870
+      }
+    ],
+    "total": 139.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-08-14T00:00:00Z"
+  },
+  {
+    "orderId": "768-3420195-1876534",
+    "orderDate": "2025-10-25T00:00:00Z",
+    "items": [
+      {
+        "name": "Sabatier Olivewood Wine & Cheese Board Set",
+        "category": "Kitchen",
+        "price": 64.99,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.6,
+        "reviewCount": 2340
+      },
+      {
+        "name": "Urbani White Truffle Oil 3.4oz",
+        "category": "Gourmet Food",
+        "price": 29.95,
+        "quantity": 1,
+        "imageCategory": "food",
+        "starRating": 4.3,
+        "reviewCount": 1450
+      },
+      {
+        "name": "Riedel Decanter Amadeo",
+        "category": "Wine Accessories",
+        "price": 329.0,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.8,
+        "reviewCount": 680
+      }
+    ],
+    "total": 423.94,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-10-29T00:00:00Z"
+  },
+  {
+    "orderId": "615-8042713-2493056",
+    "orderDate": "2025-12-14T00:00:00Z",
+    "items": [
+      {
+        "name": "Hermès Carré 90 Silk Scarf - Les Clés",
+        "category": "Accessories",
+        "price": 460.0,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.9,
+        "reviewCount": 310
+      },
+      {
+        "name": "Celine Triomphe 01 Sunglasses - Black",
+        "category": "Accessories",
+        "price": 530.0,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.7,
+        "reviewCount": 520
+      }
+    ],
+    "total": 990.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Arriving Friday",
+    "deliveryDate": null
+  },
+  {
+    "orderId": "349-5108672-4920183",
+    "orderDate": "2025-12-20T00:00:00Z",
+    "items": [
+      {
+        "name": "SK-II GenOptics Aura Essence 1.6oz",
+        "category": "Luxury Beauty",
+        "price": 240.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.5,
+        "reviewCount": 3670
+      },
+      {
+        "name": "Sunday Riley C.E.O. Vitamin C Rich Hydration Cream 1.7oz",
+        "category": "Luxury Beauty",
+        "price": 65.0,
+        "quantity": 1,
+        "imageCategory": "beauty",
+        "starRating": 4.3,
+        "reviewCount": 5240
+      }
+    ],
+    "total": 305.0,
+    "shippingAddress": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "status": "Shipped",
+    "deliveryDate": null
+  }
+]

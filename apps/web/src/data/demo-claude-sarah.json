@@ -1,0 +1,322 @@
+[
+  {
+    "uuid": "21b4f7d9-f983-4658-82d8-f8c5b91fc0b0",
+    "name": "Burgundy wine tasting guide",
+    "created_at": "2024-11-10T14:41:00Z",
+    "updated_at": "2024-11-10T14:46:07Z",
+    "chat_messages": [
+      {
+        "uuid": "8dd7663c-ab5d-4794-8e85-3460ddb98c36",
+        "text": "I'm planning a wine tasting trip to Napa Valley. I mostly drink Pinot Noir and love Burgundy and Barolo. Can you help me plan tastings at the best wineries? My budget is premium -- I don't mind splurging.",
+        "sender": "human",
+        "created_at": "2024-11-10T14:41:00Z"
+      },
+      {
+        "uuid": "90addd27-9fa5-4aa7-a554-adadf87966cb",
+        "text": "Napa has incredible Pinot Noir producers! For your palate, I'd recommend: Domaine Carneros for sparkling and Pinot, Etude Wines (known for their Carneros Pinot), and Bouchaine Vineyards. Since you love Burgundy-style wines, also check out Hanzell Vineyards in Sonoma -- it's worth the short drive. For Barolo lovers, some Napa producers make excellent Nebbiolo. Book tastings in advance, especially weekends.",
+        "sender": "assistant",
+        "created_at": "2024-11-10T14:42:50Z"
+      },
+      {
+        "uuid": "ec71ed06-c676-4fe5-938c-31bc6640a0a2",
+        "text": "How many wineries should I visit per day? I'm also looking for a luxury hotel nearby -- I usually stay at Ritz-Carlton or Four Seasons.",
+        "sender": "human",
+        "created_at": "2024-11-10T14:44:03Z"
+      },
+      {
+        "uuid": "35751f48-04ff-4262-b9b5-2e5061b061b8",
+        "text": "I'd recommend 3-4 wineries per day max to avoid palate fatigue. Start mornings with lighter wines (sparkling, whites) and progress to reds. For luxury stays: The Four Seasons Calistoga is stunning, with a spa and vineyard views. Meadowood has an incredible restaurant. Both are premium options that match your taste.",
+        "sender": "assistant",
+        "created_at": "2024-11-10T14:45:06Z"
+      }
+    ]
+  },
+  {
+    "uuid": "7d2c3b23-d7df-4fc2-8bd7-ceb489df3795",
+    "name": "Executive presentation best practices",
+    "created_at": "2024-01-20T19:35:00Z",
+    "updated_at": "2024-01-20T19:41:07Z",
+    "chat_messages": [
+      {
+        "uuid": "e9310552-70fa-42c4-9481-e38956c39afa",
+        "text": "I'm a VP of Marketing and I have a board presentation coming up. I need to present our Q3 ROI analysis. I use HubSpot and Google Analytics for our data. What's the best way to structure this?",
+        "sender": "human",
+        "created_at": "2024-01-20T19:35:00Z"
+      },
+      {
+        "uuid": "4582cfc1-43cd-46b3-80b3-1a0fc5dbc3e2",
+        "text": "For a board presentation, lead with impact. Here's a proven structure: 1) Executive summary (2 slides) -- headline metrics and key takeaway, 2) Revenue impact -- tie marketing spend directly to pipeline and closed revenue, 3) Channel performance -- break down ROI by channel using your Google Analytics and HubSpot data, 4) Competitive landscape (brief), 5) Next quarter strategy and budget request. Keep it to 15-20 slides. Use Notion for your prep notes and share decks via Figma for design polish.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T19:36:50Z"
+      },
+      {
+        "uuid": "6a035f81-cf4d-4b6c-8302-9054de8dd099",
+        "text": "That's helpful. I work hybrid and have a meeting-heavy schedule. How do I practice effectively with limited time?",
+        "sender": "human",
+        "created_at": "2024-01-20T19:37:54Z"
+      },
+      {
+        "uuid": "4869314c-88f6-4d86-bbdb-2ea320372a84",
+        "text": "With a hybrid, meeting-heavy schedule, try the '3x rule': practice your opening 3 times (it sets the tone), run through the full deck once with a timer, and do one dry run with a trusted colleague. Record yourself on Zoom for self-review. Focus on the first 2 minutes and the Q&A prep -- boards care most about your confidence and data accuracy.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T19:39:10Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2b1d6eef-ed53-4afe-88ea-eaa818ba236f",
+    "name": "Peloton training plan for stress management",
+    "created_at": "2024-11-20T20:33:00Z",
+    "updated_at": "2024-11-20T20:38:30Z",
+    "chat_messages": [
+      {
+        "uuid": "c1715a78-d940-4586-9dbb-4724c41c8992",
+        "text": "I've been using my Peloton 4 times a week mainly for stress management. I also do pilates and occasional hiking. I use the Peloton app and Apple Fitness+. Can you help me build a weekly routine?",
+        "sender": "human",
+        "created_at": "2024-11-20T20:33:00Z"
+      },
+      {
+        "uuid": "e6c85013-14b2-4298-9b85-d759f4df7fcb",
+        "text": "For stress management with 4x/week on Peloton, here's an optimal split: Monday -- 30min Power Zone ride (structured effort without overthinking), Wednesday -- 20min Low Impact + 10min meditation ride, Friday -- 45min scenic ride or live class, Saturday -- 30min Pilates on Apple Fitness+ or Peloton. Add hiking on alternate Sundays for outdoor time. This mix keeps cortisol in check while maintaining fitness.",
+        "sender": "assistant",
+        "created_at": "2024-11-20T20:34:29Z"
+      },
+      {
+        "uuid": "590cdf7e-6b08-4668-a31c-1b6381c6ca6c",
+        "text": "I also take collagen, omega-3, and vitamin C supplements. Should I adjust anything for recovery?",
+        "sender": "human",
+        "created_at": "2024-11-20T20:36:12Z"
+      },
+      {
+        "uuid": "de21eb7f-5635-4667-8528-63d1f0f7c931",
+        "text": "Your supplement stack is solid for recovery! Collagen supports joint health (great for cycling), omega-3 reduces inflammation, and vitamin C aids recovery. Consider adding magnesium before bed -- it helps with both muscle recovery and sleep quality. Since you're a night owl (sleeping 11pm-7am based on most marketing VPs I know), the evening magnesium could help improve sleep quality too.",
+        "sender": "assistant",
+        "created_at": "2024-11-20T20:37:06Z"
+      }
+    ]
+  },
+  {
+    "uuid": "d9fdf2d1-fdd3-4ede-81ae-375b1e920ff4",
+    "name": "Paris fine dining recommendations",
+    "created_at": "2024-09-16T10:44:00Z",
+    "updated_at": "2024-09-16T10:48:40Z",
+    "chat_messages": [
+      {
+        "uuid": "64ffc010-30b0-4101-a9a3-5c21bd831760",
+        "text": "I'm heading to Paris next month. I love French and Italian cuisine, especially farm-to-table and Japanese omakase when I can find it. I'll be staying at the Four Seasons. Looking for memorable dining experiences -- price is not an issue.",
+        "sender": "human",
+        "created_at": "2024-09-16T10:44:00Z"
+      },
+      {
+        "uuid": "a58c8638-9fa9-491e-8166-9da5defd0bcc",
+        "text": "Paris will delight your palate! Must-book restaurants: Le Comptoir for seasonal French, Septime for modern farm-to-table, and for omakase, try Sushi Shunei or Jin -- both are world-class. Near the Four Seasons George V: Le Cinq (their own Michelin-starred restaurant), and Pavyllon by Yannick Alleno. For Italian, Ober Mamma in the 11th is amazing. Book at least 2-3 weeks ahead for the starred restaurants.",
+        "sender": "assistant",
+        "created_at": "2024-09-16T10:44:52Z"
+      },
+      {
+        "uuid": "d68c3c86-1a30-4078-89c5-95c85aa48cc1",
+        "text": "Any good wine bars? I want to explore some natural wines. I'm also a Delta SkyMiles Platinum member and Marriott Bonvoy Gold -- any lounge tips for CDG?",
+        "sender": "human",
+        "created_at": "2024-09-16T10:45:24Z"
+      },
+      {
+        "uuid": "a551ff01-bee3-4923-a7df-005c97f55a34",
+        "text": "For natural wine bars: Le Verre Vole in the 10th, Septime La Cave (sister wine bar to Septime), and Frenchie Bar a Vins near Sentier. For CDG: as Delta SkyMiles Platinum, you have access to the Air France lounge in Terminal 2E. It's quite good with champagne and hot food. Your Marriott Bonvoy Gold won't help at CDG specifically, but the Four Seasons concierge can arrange private transfers to skip the taxi line.",
+        "sender": "assistant",
+        "created_at": "2024-09-16T10:46:24Z"
+      }
+    ]
+  },
+  {
+    "uuid": "224e155f-58df-4ad7-b13c-1476b5ebb793",
+    "name": "Premium skincare routine for 40s",
+    "created_at": "2024-06-02T16:46:00Z",
+    "updated_at": "2024-06-02T16:51:58Z",
+    "chat_messages": [
+      {
+        "uuid": "303ec0f2-f2d3-4ad9-92d5-ec914b3100ff",
+        "text": "I'm 45 and looking to upgrade my skincare routine. I currently use basic products but want to invest in premium skincare. I already take collagen and vitamin C supplements. I do monthly spa visits and quarterly wellness retreats.",
+        "sender": "human",
+        "created_at": "2024-06-02T16:46:00Z"
+      },
+      {
+        "uuid": "49023c26-0ad4-4980-8d0a-27968b90b691",
+        "text": "At 45, investing in quality skincare pays dividends. Here's a premium routine: Morning -- gentle cleanser, vitamin C serum (SkinCeuticals CE Ferulic), hyaluronic acid, SPF 50 (Supergoop Unseen). Evening -- double cleanse (oil then gel), retinol (start with 0.25% and build up), peptide cream (Augustinus Bader The Rich Cream), eye cream. Weekly: exfoliate 2x with an enzyme mask. Your collagen supplements support this from within.",
+        "sender": "assistant",
+        "created_at": "2024-06-02T16:46:50Z"
+      },
+      {
+        "uuid": "84192f7c-a362-4bcd-bc8d-f619cf26cc63",
+        "text": "What about treatments? I have my spa days and want to know what to ask for. My budget for skincare is premium.",
+        "sender": "human",
+        "created_at": "2024-06-02T16:48:20Z"
+      },
+      {
+        "uuid": "2c6e98a8-9b67-4428-881f-fabbc14ae4b6",
+        "text": "For your monthly spa: alternate between microneedling (collagen induction) and hydrafacials. For quarterly retreats: ask about LED light therapy and professional-grade peels. Between visits: at-home LED masks like the Dr. Dennis Gross SpectraLite are worth the investment. These treatments complement your topical routine and supplements beautifully.",
+        "sender": "assistant",
+        "created_at": "2024-06-02T16:49:58Z"
+      }
+    ]
+  },
+  {
+    "uuid": "191a2360-6c0b-4e93-89b4-3c649f739881",
+    "name": "Marketing ROI analysis framework",
+    "created_at": "2024-03-27T11:49:00Z",
+    "updated_at": "2024-03-27T11:55:13Z",
+    "chat_messages": [
+      {
+        "uuid": "64afbb03-af17-4532-9752-4c141b555533",
+        "text": "I need to build a better ROI framework for our marketing team. We use HubSpot for CRM and Google Analytics for web. Our current reporting in Notion is too manual. What approach do you recommend?",
+        "sender": "human",
+        "created_at": "2024-03-27T11:49:00Z"
+      },
+      {
+        "uuid": "ea9284bc-e6a5-43f0-bcef-2987bca8b2b7",
+        "text": "A solid marketing ROI framework starts with attribution. Here's what I recommend: 1) Set up multi-touch attribution in Google Analytics 4 -- go beyond last-click. 2) Connect HubSpot deal data to campaign spend using UTM parameters. 3) Build a dashboard that shows CAC by channel, LTV:CAC ratio, and pipeline velocity. 4) In Notion, create a monthly review template that pulls key metrics automatically.",
+        "sender": "assistant",
+        "created_at": "2024-03-27T11:50:18Z"
+      },
+      {
+        "uuid": "2db9b4be-1a03-4ecd-95ba-0f4748d6c303",
+        "text": "How do I present this to the board without overwhelming them with data? I'm used to working with Slack and Figma for deck collaboration.",
+        "sender": "human",
+        "created_at": "2024-03-27T11:51:23Z"
+      },
+      {
+        "uuid": "24893039-c331-4d26-809d-52ad5e669aa9",
+        "text": "Board members want outcomes, not methodology. Structure your presentation as: one 'money slide' showing total marketing-sourced revenue vs. spend, then 3 channel-level slides showing what's working and what you're cutting. Use Figma to design clean, visual slides. Collaborate in Slack channels for async feedback from your team before presenting.",
+        "sender": "assistant",
+        "created_at": "2024-03-27T11:52:46Z"
+      }
+    ]
+  },
+  {
+    "uuid": "9e078402-618e-461b-b160-c89db2916e5e",
+    "name": "Modern farmhouse decor ideas",
+    "created_at": "2024-09-28T18:09:00Z",
+    "updated_at": "2024-09-28T18:13:05Z",
+    "chat_messages": [
+      {
+        "uuid": "1ed68390-4770-466f-9847-6f647ea218c6",
+        "text": "I live in a 3BR condo in Chicago with a modern farmhouse style. I have a golden retriever named Bailey and smart home devices like Nest, Sonos, and Ring doorbell. Looking for decor refresh ideas.",
+        "sender": "human",
+        "created_at": "2024-09-28T18:09:00Z"
+      },
+      {
+        "uuid": "441479fc-4c24-4610-9730-3ad2f0b7468c",
+        "text": "Love the modern farmhouse aesthetic! For a refresh: consider reclaimed wood floating shelves in the living room, a statement light fixture over the dining table (Schoolhouse Electric has beautiful options), and linen curtains for a soft, lived-in feel. With Bailey, choose performance fabrics for sofas -- Crypton or indoor/outdoor fabrics that resist pet hair and stains. Your Sonos would look great on those floating shelves.",
+        "sender": "assistant",
+        "created_at": "2024-09-28T18:10:04Z"
+      },
+      {
+        "uuid": "05a95116-e381-43a7-a68c-3402c062206f",
+        "text": "What about the kitchen? I love my Le Creuset collection and want to display it properly.",
+        "sender": "human",
+        "created_at": "2024-09-28T18:10:43Z"
+      },
+      {
+        "uuid": "48b508f2-de8a-4000-a2a3-9b472ea0d473",
+        "text": "A Le Creuset display is perfect for modern farmhouse! Install an open shelving unit or a dedicated pot rack above your kitchen island. The classic French ovens in Flame or Marseille look stunning against white shiplap. Add a reclaimed wood cutting board display and some herbs in mason jars. The farmhouse aesthetic loves functional beauty, and Le Creuset is exactly that.",
+        "sender": "assistant",
+        "created_at": "2024-09-28T18:12:21Z"
+      }
+    ]
+  },
+  {
+    "uuid": "0045fdca-baa7-463f-b02b-c753150426d8",
+    "name": "Planning an elegant dinner party",
+    "created_at": "2024-07-08T20:38:00Z",
+    "updated_at": "2024-07-08T20:44:18Z",
+    "chat_messages": [
+      {
+        "uuid": "f95c48b4-ee82-4997-afe8-7db769463c0f",
+        "text": "I'm hosting a dinner party for 8 at my Chicago condo. I want to cook something impressive using my Le Creuset. My guests include some foodies who appreciate French and Italian cuisine. I typically cook on weekends.",
+        "sender": "human",
+        "created_at": "2024-07-08T20:38:00Z"
+      },
+      {
+        "uuid": "5b6cff03-4713-41e7-9d3d-a68080c168fb",
+        "text": "For an impressive Le Creuset dinner party: Start with a charcuterie and cheese board with wine pairings. Main: Coq au Vin in your Dutch oven -- it's a showstopper and can be prepped the day before. Sides: roasted root vegetables and a simple arugula salad with shaved parmesan. Dessert: individual pots de creme made in your Le Creuset ramekins. Wine: open with a Burgundy (Pinot Noir) and finish with a Barolo for the cheese course.",
+        "sender": "assistant",
+        "created_at": "2024-07-08T20:39:34Z"
+      },
+      {
+        "uuid": "4d30f79f-0e7f-4a6a-ac69-9774a495a9b9",
+        "text": "What about the table setting? I want it to feel elevated but not stuffy. I'll have soft jazz playing on my Sonos.",
+        "sender": "human",
+        "created_at": "2024-07-08T20:41:07Z"
+      },
+      {
+        "uuid": "755c8732-6b49-4355-9332-570be58d3d7b",
+        "text": "Jazz on Sonos sets the perfect mood! For the table: linen napkins in a neutral tone, simple white plates (Crate & Barrel or Williams Sonoma), brass candlesticks with tapered candles, and a low centerpiece of seasonal greenery. Keep it unfussy -- let the food be the star. Dim your smart lights to warm tones. Place cards add a personal touch without being formal.",
+        "sender": "assistant",
+        "created_at": "2024-07-08T20:42:01Z"
+      }
+    ]
+  },
+  {
+    "uuid": "9918d375-a707-49ca-9c76-04c3d524ee33",
+    "name": "Maximizing Delta SkyMiles",
+    "created_at": "2024-03-15T16:22:00Z",
+    "updated_at": "2024-03-15T16:27:58Z",
+    "chat_messages": [
+      {
+        "uuid": "31b6a0bd-5fff-4ef0-b3bd-162db298af88",
+        "text": "I'm Delta SkyMiles Platinum and fly about 8-10 times a year. I usually fly business class on Delta and American. I also have Marriott Bonvoy Gold. How do I maximize my points for a trip to Tuscany?",
+        "sender": "human",
+        "created_at": "2024-03-15T16:22:00Z"
+      },
+      {
+        "uuid": "edfe3ce5-30b8-4f57-b1d8-545a6539496e",
+        "text": "With Platinum status and 8-10 flights/year, you're in great shape! Strategy: 1) Book Delta One for transatlantic to Tuscany -- check Virgin Atlantic for partner availability (often better availability). 2) Transfer Amex points to Delta if you have an Amex card. 3) Use your Marriott Bonvoy Gold for hotels in Tuscany, but consider upgrading to Platinum for suite upgrades at properties like the St. Regis Florence. 4) Book shoulder season (late September/October) for better award availability.",
+        "sender": "assistant",
+        "created_at": "2024-03-15T16:23:13Z"
+      },
+      {
+        "uuid": "a70b921b-22d3-4747-b848-d04cd06871a2",
+        "text": "What about using points for experiences? I prefer aisle seats for long flights so I can stretch.",
+        "sender": "human",
+        "created_at": "2024-03-15T16:24:19Z"
+      },
+      {
+        "uuid": "7213cf37-2397-4d96-8092-2079e057bc06",
+        "text": "For experiences: Delta's partnership with Airbnb Experiences lets you use miles for food tours and cooking classes in Tuscany. Book aisle seats in Delta One -- the suite-style seats give you easy aisle access plus a door for privacy. Consider bidding on upgrades using miles if business class isn't available initially. Your Platinum status gives you complimentary upgrades when available too.",
+        "sender": "assistant",
+        "created_at": "2024-03-15T16:25:05Z"
+      }
+    ]
+  },
+  {
+    "uuid": "899acc1a-ac4e-413b-b91b-932c4523d1ec",
+    "name": "Le Creuset Dutch oven recipes",
+    "created_at": "2024-10-27T17:55:00Z",
+    "updated_at": "2024-10-27T18:00:28Z",
+    "chat_messages": [
+      {
+        "uuid": "8effa9b4-15ee-4a41-9b56-09a146223085",
+        "text": "I just got a new Le Creuset 7.25 qt Dutch oven in Flame. I cook mostly on weekends and love French and Italian cuisine. What are the best recipes to break it in?",
+        "sender": "human",
+        "created_at": "2024-10-27T17:55:00Z"
+      },
+      {
+        "uuid": "5f5028ca-c3d0-4c4d-9b98-60eec8433864",
+        "text": "Congratulations on the Le Creuset! The 7.25 qt is the most versatile size. Start with these classics: 1) Beef bourguignon -- the quintessential Dutch oven recipe. 2) No-knead artisan bread -- the Le Creuset creates an amazing crust. 3) Osso buco for Italian comfort. 4) Cassoulet for a weekend project. 5) Ratatouille -- beautiful in that Flame color.",
+        "sender": "assistant",
+        "created_at": "2024-10-27T17:55:57Z"
+      },
+      {
+        "uuid": "41d0cf02-72b9-49ab-b750-d782a72067da",
+        "text": "I love the bread idea! I also want to try hosting a dinner party using it. I use Caviar and Uber Eats when I don't cook, but I want to cook more on weekends.",
+        "sender": "human",
+        "created_at": "2024-10-27T17:57:09Z"
+      },
+      {
+        "uuid": "3964edfd-900e-4668-ae5f-d0f72ff57e6a",
+        "text": "The no-knead bread is life-changing -- mix at night, bake in the morning. For your dinner party, the Dutch oven becomes a gorgeous serving piece right on the table. Try a classic French onion soup or a braised short rib. The Flame color makes a stunning centerpiece. To reduce delivery orders, try Sunday batch cooking in the Le Creuset: a big stew or braise that gives you meals for 3-4 days.",
+        "sender": "assistant",
+        "created_at": "2024-10-27T17:58:09Z"
+      }
+    ]
+  }
+]

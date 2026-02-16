@@ -1,0 +1,172 @@
+[
+  {
+    "id": "73bf2868-8e83-45ee-979b-557c484605c9",
+    "title": "Kids Activity Schedule",
+    "type": "database",
+    "content": "## Weekly Activity Schedule - 3 Kids\n\n### Ages: 4, 7, 10\n\n### Monday\n- 4yo: Preschool, afternoon playdate\n- 7yo: School, soccer practice 4-5pm\n- 10yo: School, coding club 3:30-4:30\n\n### Tuesday\n- All: School\n- Evening: Family game night (Mario Kart!)\n\n### Wednesday\n- 4yo: Preschool\n- 7yo: Piano lesson 4pm\n- 10yo: STEM club at school\n\n### Thursday\n- All: School\n- 10yo: Swim team practice\n\n### Friday\n- All: School, Pizza Friday tradition\n- Family movie night (Disney+, Netflix, PBS Kids)\n\n### Weekend\n- Saturday morning: swimming lessons for 7yo\n- Sunday: family outing (Museum of Science, park, etc.)\n\n### Managed with: Google Workspace calendar, Alexa reminders",
+    "icon": "\ud83d\udcc5",
+    "created_time": "2024-04-01T10:58:00Z",
+    "last_edited_time": "2024-05-28T12:58:00Z",
+    "properties": {
+      "Category": "Family",
+      "Status": "Active"
+    },
+    "tags": [
+      "family",
+      "schedule"
+    ]
+  },
+  {
+    "id": "fa69cf85-3500-4e8b-9fb1-31972d382dbb",
+    "title": "Meal Prep Rotation",
+    "type": "database",
+    "content": "## Family Meal Prep - Vegetarian\n\n### Diet: Vegetarian (whole family)\n### Allergy: Daughter has peanut allergy (school is nut-free)\n\n### Weekend Batch Cooking (Sunday, 2 hours)\n1. Big pot of dal (red lentil) -- freezes well\n2. Mediterranean hummus + roasted vegetables\n3. Veggie chili or mac and cheese base\n4. Coconut curry paste (mild for kids, add heat for adults)\n5. Paneer tikka marinade\n\n### Weeknight Quick Meals (20 min or less)\n- Pressure cooker dal: 20 min\n- Paneer tikka in air fryer: 15 min\n- Chana masala with canned chickpeas: 15 min\n- Aloo gobi shortcut: parboil in microwave, saut\u00e9 with spices\n\n### School Lunch Ideas (Peanut-Free!)\n- Cheese quesadillas with hidden veggie puree\n- Pasta salad with cherry tomatoes and mozzarella\n- Mini samosas (freeze ahead)\n- Paratha rolls with paneer and veggies\n- Rice with mild dal in thermos\n\n### Grocery: Instacart delivery, HelloFresh for variety\n### Cuisines: Indian, Mediterranean, American comfort, Thai\n### Coffee: Chai latte every morning",
+    "icon": "\ud83e\udd57",
+    "created_time": "2024-06-04T06:15:00Z",
+    "last_edited_time": "2024-08-28T13:15:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "d5c94105-bc9c-4bb1-b009-a66440ae68cd",
+    "title": "Family Vacation Planning",
+    "type": "page",
+    "content": "## Family Vacation Ideas\n\n### Travel Style: Family-friendly\n### Family: 2 adults + 3 kids (ages 4, 7, 10)\n\n### Trip 1: San Diego (Spring Break)\n- San Diego Zoo (2-day pass)\n- La Jolla Cove tide pools\n- LEGOLAND\n- Coronado Beach\n- VRBO in Mission Beach\n- Budget dining: $50-80/meal for 5 (vegetarian)\n\n### Trip 2: Cape Cod (Summer)\n- Beach week in Chatham or Provincetown\n- Whale watching\n- Sand castle competitions\n- Rent a VRBO house\n\n### Trip 3: Disney World (Winter)\n- 4-5 day trip\n- Value resort or VRBO\n- Download Disney app for Genie+\n\n### Travel Logistics\n- Fly JetBlue or Southwest\n- Economy plus, aisle seats (easier with kids)\n- Frequency: 2-3 family trips per year\n\n### Past Favorites\n- Boston Children's Museum\n- Museum of Science\n- Cape Cod beaches",
+    "icon": "\ud83c\udf34",
+    "created_time": "2024-10-13T22:41:00Z",
+    "last_edited_time": "2024-12-27T04:41:00Z",
+    "properties": {
+      "Category": "Travel",
+      "Status": "Planning"
+    },
+    "tags": [
+      "travel",
+      "family"
+    ]
+  },
+  {
+    "id": "5320e008-5e1b-466e-b874-ff3496110b6e",
+    "title": "Medical Reference Notes",
+    "type": "page",
+    "content": "## Clinical Reference Notes\n\n### Work Setup\n- Pediatrician, in-office 4 days/week\n- EHR: Epic (SmartPhrases for efficiency)\n- Clinical references: UpToDate\n- Professional network: Doximity\n- Admin: Google Workspace\n\n### Asthma Management Protocol\n- NAEPP stepwise approach\n- Written action plan for every patient (green/yellow/red zones)\n- Follow-up every 3-6 months for well-controlled\n- Teach inhaler technique at every visit\n- Epic SmartPhrase for asthma action plan\n\n### Parent Education Resources\n- AAP free downloadable handouts (multilingual)\n- Short video demos of inhaler technique (share via Doximity)\n- QR codes on printed handouts\n- Google Docs for collaborative care plans\n\n### Continuing Education\n- UpToDate during chart review time\n- Podcasts during commute: The Pediatric Insider, Parenting Unplugged\n- Annual conferences",
+    "icon": "\ud83d\udc69\u200d\u2695\ufe0f",
+    "created_time": "2024-02-28T16:40:00Z",
+    "last_edited_time": "2024-06-01T17:40:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Reference"
+    },
+    "tags": [
+      "work",
+      "medical"
+    ]
+  },
+  {
+    "id": "2b062116-6bfe-4f10-afd6-bca53da9c6ea",
+    "title": "Home Organization System",
+    "type": "page",
+    "content": "## Home Organization - 4BR Colonial House\n\n### Location: Boston, MA\n### Style: Organized/functional\n\n### Toy Management\n- One-in-one-out rule\n- Toy rotation: store half, swap monthly\n- Color-coded bins per child\n- Picture labels for 4-year-old\n\n### Kids' Rooms (Shared)\n- Bunk beds with under-bed storage\n- Each child has own color-coded section\n- Daily 5-minute tidy routine (Alexa timer game)\n\n### Mr. Whiskers (Hamster) Station\n- Dedicated drawer unit for supplies\n- Food, bedding, cleaning supplies in one spot\n\n### Entryway\n- Hooks for 3 backpacks\n- Shoe bins (one per kid)\n- Mail sorter\n\n### Smart Home\n- Alexa: reminders, timers, family routines\n- Nest thermostat: scheduled temperatures\n- Arlo cameras: check rooms remotely\n\n### Weekly Family Clean-Up\nAlexa reminder Sunday 4pm. Make it a game!",
+    "icon": "\ud83c\udfe0",
+    "created_time": "2024-02-03T11:13:00Z",
+    "last_edited_time": "2024-02-12T23:13:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "Active"
+    },
+    "tags": [
+      "home",
+      "organization"
+    ]
+  },
+  {
+    "id": "4b913182-ec6a-4502-ab0c-ca3fddd0eff5",
+    "title": "Gift Ideas for Family",
+    "type": "page",
+    "content": "## Gift Ideas\n\n### For Kids (ages 4, 7, 10)\n- Educational STEM toys, books\n- 4yo: Magna-Tiles ($40-60), Play-Doh science lab\n- 7yo: LEGO Education sets ($50-80), Nat Geo kits\n- 10yo: Raspberry Pi starter kit ($80), Snap Circuits\n- KiwiCo subscription ($25/month)\n- Budget: $30-100 per kid\n\n### For Husband\n- Tech gadgets (smart home devices)\n- Running gear\n- Raspberry Pi projects together\n\n### For Parents (India)\n- Traditional Indian sweets\n- Photo frames with grandkids' photos\n- Budget: $30-100\n\n### Shopping Style: Practical/value-oriented\nStores: Amazon, Costco, Target, Primary (kids)\nAlways check: peanut-free for daughter's gifts",
+    "icon": "\ud83c\udf81",
+    "created_time": "2024-06-13T17:46:00Z",
+    "last_edited_time": "2024-08-25T18:46:00Z",
+    "properties": {
+      "Category": "Gifts",
+      "Status": "Active"
+    },
+    "tags": [
+      "gifts",
+      "family"
+    ]
+  },
+  {
+    "id": "5655f03f-20f2-47b3-bfcc-3dfc0f07c061",
+    "title": "School Lunch Ideas",
+    "type": "page",
+    "content": "## School Lunch Rotation - Peanut Free\n\n### Requirements\n- Vegetarian\n- Peanut-free (daughter's allergy, school is nut-free)\n- Kid-friendly\n- Easy to prep in morning\n\n### Week 1\n- Mon: Cheese quesadilla + fruit + yogurt\n- Tue: Pasta salad + cherry tomatoes + mozzarella sticks\n- Wed: Mini samosas (from freezer batch) + raita dip\n- Thu: Paratha roll with paneer + cucumber sticks\n- Fri: Pizza day at school\n\n### Week 2\n- Mon: Veggie wrap with hummus + carrot sticks\n- Tue: Rice with mild dal (thermos) + naan\n- Wed: Cheese and veggie pinwheels\n- Thu: Indian besan pancakes + fruit\n- Fri: Pizza day at school\n\n### Snacks (Peanut-Free)\n- Masala roasted chickpeas\n- Mango lassi popsicles (homemade)\n- Sunflower seed butter + apple slices\n- Aloo tikki (potato patties, from freezer)\n\n### Containers: Amazon Basics bento-style with dividers",
+    "icon": "\ud83c\udf71",
+    "created_time": "2024-05-13T06:02:00Z",
+    "last_edited_time": "2024-11-08T12:02:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "kids"
+    ]
+  },
+  {
+    "id": "40a1f631-3007-491c-891a-5880c56d17af",
+    "title": "Fitness Routine (Busy Mom)",
+    "type": "page",
+    "content": "## Fitness for Busy Pediatrician Mom\n\n### Goal: Energy for the kids!\n### Wake up: 5:30 AM (early bird schedule)\n### Frequency: 3-4x per week\n\n### Weekly Schedule\n- Mon & Wed: Morning walks (30 min before kids wake)\n- Tue & Thu: Home HIIT workout (Apple Fitness+, 20 min)\n- Sat: Swimming with kids at community pool\n- Sun: Family walk or bike ride\n\n### Apps\n- Apple Fitness+ (primary)\n- Calm app (meditation 3x/week)\n\n### Supplements\n- Multivitamin\n- Iron\n- Calcium\n- Vitamin D\n\n### Wellness\n- Annual physical checkup\n- Meditation 3x/week with Calm\n- Sleep: early bird (5:30am wake), target 10pm bedtime\n\n### Notes\nKeep workouts short and effective.\nInvolve kids when possible (swimming, walks, bike rides).",
+    "icon": "\ud83d\udcaa",
+    "created_time": "2024-09-13T18:56:00Z",
+    "last_edited_time": "2024-12-28T14:19:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "491ec424-fb22-4621-9fb1-d3007b77a12d",
+    "title": "Reading List (Parenting)",
+    "type": "database",
+    "content": "## Parenting & Personal Reading\n\n### Currently Reading\n- \"The Whole-Brain Child\" by Daniel Siegel\n- \"Hunt, Gather, Parent\" by Michaeleen Doucleff\n\n### Completed\n- \"How to Talk So Kids Will Listen\"\n- \"Raising Good Humans\"\n- \"Cribsheet\" by Emily Oster\n\n### To Read\n- \"The Montessori Toddler\"\n- \"Simplicity Parenting\"\n- \"Elevating Child Care\" by Janet Lansbury\n\n### Kids' Book Favorites (Diverse & STEM)\n- 4yo: \"Ada Twist, Scientist\", \"Binny's Diwali\"\n- 7yo: \"Rosie Revere, Engineer\", \"Amina's Voice\"\n- 10yo: \"Hidden Figures YR Edition\", \"Pashmina\"\n\n### Podcasts\n- The Pediatric Insider\n- Parenting Unplugged\n\n### Streaming for Family\nDisney+, Netflix, PBS Kids\nFamily Mario Kart on Switch!",
+    "icon": "\ud83d\udcda",
+    "created_time": "2024-05-02T18:16:00Z",
+    "last_edited_time": "2024-05-12T19:16:00Z",
+    "properties": {
+      "Category": "Personal",
+      "Status": "Active"
+    },
+    "tags": [
+      "reading",
+      "parenting"
+    ]
+  },
+  {
+    "id": "52334619-264c-4cf0-b54b-541dc5da78cf",
+    "title": "Health Checkup Tracker",
+    "type": "database",
+    "content": "## Family Health Tracker\n\n### Priya (Me)\n- Annual physical: February\n- Dental: Every 6 months (April, October)\n- Eye exam: September\n- Supplements: multivitamin, iron, calcium, vitamin D\n- Meditation: 3x/week (Calm app)\n- Sleep: 5:30am wake, 10pm target bed\n\n### Kids (Ages 4, 7, 10)\n- Well-child visits: scheduled with pediatric group\n- Dental: every 6 months\n- Daughter peanut allergy: carry EpiPen always\n- All vaccinations up to date\n\n### Husband\n- Annual physical: March\n- Encouraged to join Apple Fitness+ workouts\n\n### Mr. Whiskers (Hamster)\n- Vet check: annually\n- Cage cleaning: weekly\n\n### Insurance\n- Family plan through hospital\n- Use Instacart for pharmacy delivery when needed\n\n### Emergency Contacts\n- Pediatric group: on speed dial\n- EpiPen locations: home, school, car, grandparents",
+    "icon": "\ud83c\udfe5",
+    "created_time": "2024-01-06T15:19:00Z",
+    "last_edited_time": "2024-01-19T00:19:00Z",
+    "properties": {
+      "Category": "Health",
+      "Status": "Active"
+    },
+    "tags": [
+      "health",
+      "family"
+    ]
+  }
+]

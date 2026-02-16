@@ -1,0 +1,172 @@
+[
+  {
+    "id": "7f0e6211-b557-4414-a7c5-d6129d7a39ff",
+    "title": "Design Portfolio Plan",
+    "type": "page",
+    "content": "## Portfolio Revamp Plan\n\n### Tools\n- Figma for design and prototyping\n- Adobe Creative Suite for production\n- Procreate for illustrations\n- Notion for project management\n- Arc browser for research\n\n### Portfolio Structure\n1. Hero section with bold statement\n2. Case studies (8-10 projects, show process)\n3. Personal work section (vinyl covers, vintage posters)\n4. About page (eclectic/bohemian vibe)\n5. Contact section\n\n### Projects to Feature\n- Brand identity for Austin coffee shop\n- Music festival poster series\n- Vinyl record cover redesigns\n- Sustainable fashion brand assets\n- Mobile app UI for plant care\n\n### Style Direction\nEclectic, vintage-inspired, bold typography.\nReflect my love for vinyl, plants, and Austin culture.\n\n### Work Style\nRemote, coffee shop warrior. Freelance graphic designer.",
+    "icon": "\ud83c\udfa8",
+    "created_time": "2024-05-13T11:18:00Z",
+    "last_edited_time": "2024-06-13T13:18:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "In Progress"
+    },
+    "tags": [
+      "work",
+      "portfolio"
+    ]
+  },
+  {
+    "id": "c413d5dd-4c0f-46a1-bb8e-d06454387838",
+    "title": "Vinyl Collection Log",
+    "type": "database",
+    "content": "## Vinyl Collection - 200+ Records\n\n### Genres\n- Indie rock\n- Shoegaze (My Bloody Valentine, Slowdive)\n- Latin alternative (Cafe Tacvba, Natalia Lafourcade)\n- Techno (Aphex Twin, Burial)\n\n### Recent Additions\n- Slowdive - \"Souvlaki\" (original pressing!)\n- Japanese Breakfast - \"Jubilee\"\n- Khruangbin - \"Mordechai\"\n- Rosalia - \"El Mal Querer\"\n\n### Organization System\nGenre-based, then alphabetical within genres.\nStored in Kallax shelves (room divider in studio apartment).\nTurntable: Audio-Technica LP120XUSB.\n\n### Wish List\n- Cocteau Twins - \"Heaven or Las Vegas\"\n- Deafheaven - \"Sunbather\" (pink vinyl)\n- Boards of Canada - \"Music Has the Right to Children\"\n\n### Listening: Spotify Premium for discovery, vinyl for deep listening.\n### Shopping: Depop, Discogs, Austin record shops",
+    "icon": "\ud83c\udfb5",
+    "created_time": "2024-05-11T17:37:00Z",
+    "last_edited_time": "2024-10-13T03:37:00Z",
+    "properties": {
+      "Category": "Entertainment",
+      "Status": "Active"
+    },
+    "tags": [
+      "music",
+      "collection"
+    ]
+  },
+  {
+    "id": "7d8328a5-155a-4713-bb89-8e36ac9a7916",
+    "title": "Plant Care Schedule",
+    "type": "database",
+    "content": "## Houseplant Care - 15+ Plants\n\n### Living in studio apartment in Austin, TX\n\n### Plant Inventory\n| Plant | Location | Water | Light |\n|-------|----------|-------|-------|\n| Pothos (3) | Hanging planters | Weekly | Indirect |\n| Snake plant (2) | Bookshelf | Every 2-3 weeks | Low |\n| Fiddle leaf fig | Window | Weekly | Bright indirect |\n| Monstera | Corner | Weekly | Bright indirect |\n| Succulents (5) | Windowsill | Every 2 weeks | Direct |\n| Spider plant | Hanging | Weekly | Indirect |\n| Calathea | Shelf | 2x week | Indirect |\n\n### Pet Safety (cat: Pixel)\n- TOXIC to cats: pothos, snake plant -- keep in hanging planters!\n- Safe: spider plant, calathea, succulents\n- Cat grass planter for Pixel to nibble\n\n### Notes\nAustin heat = more frequent watering in summer.\nFertilize monthly spring through fall.\nWall-mounted planters to save floor space.",
+    "icon": "\ud83c\udf31",
+    "created_time": "2024-10-16T14:37:00Z",
+    "last_edited_time": "2024-12-17T23:37:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "Active"
+    },
+    "tags": [
+      "plants",
+      "home"
+    ]
+  },
+  {
+    "id": "c9d5d8be-7b24-4639-aa7d-7239e88a0eeb",
+    "title": "Austin Food Guide",
+    "type": "database",
+    "content": "## Best Austin Food - Pescatarian Guide\n\n### Diet: Pescatarian\n### Allergy: Tree nuts (always ask!)\n\n### Food Trucks (Favorites)\n- Chi'Lantro: Korean-Tex-Mex fusion (skip nut toppings)\n- Veracruz All Natural: migas tacos with shrimp\n- Dee Dee Thai: nut-allergy friendly\n- Taste of Ethiopia: lentil stew on East Riverside\n\n### Restaurants\n- Uchi: incredible Japanese (omakase!)\n- Ramen Tatsu-Ya: best ramen in Austin\n- Nixta Taqueria: handmade tortillas\n- Lenoir: farm-to-table, hot weather menu\n\n### Delivery Apps\n- DoorDash (most food trucks available)\n- Grubhub (for Chi'Lantro and Veracruz)\n\n### Coffee\nCold brew, black. Favorite shops:\n- Fleet Coffee on E 5th\n- Houndstooth Coffee\n- Merit Coffee\n\n### Cuisines: Korean, Tex-Mex, Vietnamese, Ethiopian",
+    "icon": "\ud83c\udf2e",
+    "created_time": "2024-11-14T22:27:00Z",
+    "last_edited_time": "2024-12-24T20:05:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "austin"
+    ]
+  },
+  {
+    "id": "27c4e031-6e9e-4984-bc97-90abef80af78",
+    "title": "Vintage Shopping Spots",
+    "type": "page",
+    "content": "## Vintage & Thrift Shopping Guide\n\n### My Sizes\n- Waist: 30, Inseam: 30\n- Shirt: S (EU 46-48)\n- Shoe: 9 (EU 42)\n\n### Austin Spots\n- South Congress vintage shops\n- East Side thrift stores\n- Treasure City Thrift\n\n### Online\n- Depop (saved searches for my sizes)\n- ThriftUp\n- Etsy (independent designers)\n- Urban Outfitters (sale only)\n\n### Berlin Trip Spots\n- Humana (multiple locations)\n- Mauerpark Sunday flea market\n- Garage (pay by weight!)\n- Made in Berlin\n\n### Budget\n- $25-75 per find\n- Budget-conscious shopping\n- Support sustainable fashion\n\n### Favorite Brands\nDr. Martens, vintage Levi's, vintage band tees.\nStyle: vintage/thrift, eclectic/bohemian.",
+    "icon": "\ud83d\udecd\ufe0f",
+    "created_time": "2024-03-26T08:50:00Z",
+    "last_edited_time": "2024-07-13T08:50:00Z",
+    "properties": {
+      "Category": "Shopping",
+      "Status": "Active"
+    },
+    "tags": [
+      "shopping",
+      "vintage"
+    ]
+  },
+  {
+    "id": "d6489e7b-9951-49fe-8faa-40475242a14a",
+    "title": "Festival Calendar 2024",
+    "type": "database",
+    "content": "## Festival & Events Calendar 2024\n\n### Confirmed\n- **SXSW** (March) - Austin, free showcases\n- **ACL Fest** (October) - Austin, 3-day pass\n- **Levitation** (November) - Austin psych fest\n\n### Hoping to Attend\n- Primavera Sound - Barcelona or Buenos Aires\n- Desert Daze - California\n- Day for Night - Houston\n\n### Packing List (Carry-On Only)\n- 2 vintage band tees\n- Shorts + one light layer\n- Dr. Martens or comfortable sneakers\n- Portable charger\n- Earplugs (protect hearing for shoegaze!)\n- Small crossbody bag\n\n### Travel\n- Fly Southwest or Spirit (budget)\n- Stay at hostels or Airbnb\n- Budget: minimal\n\n### Music Preferences\nIndie, shoegaze, Latin alternative, techno.\nSpotify Premium for pre-festival playlist building.",
+    "icon": "\ud83c\udfaa",
+    "created_time": "2024-11-03T12:39:00Z",
+    "last_edited_time": "2024-12-28T16:02:00Z",
+    "properties": {
+      "Category": "Entertainment",
+      "Status": "Active"
+    },
+    "tags": [
+      "music",
+      "events"
+    ]
+  },
+  {
+    "id": "34871dde-9317-43bf-8848-3015215882c2",
+    "title": "Recipe Experiments",
+    "type": "database",
+    "content": "## Cooking Experiments - Pescatarian\n\n### Diet: Pescatarian\n### Allergy: Tree nuts\n### Cooking frequency: 2-3x per week, experimenting\n\n### Successful Recipes\n1. **Gochujang Salmon Bowl** - Korean inspired\n   - Salmon, rice, pickled veg, gochujang glaze\n   - Nut-free, 25 min\n\n2. **Shrimp Pho** - Vietnamese\n   - Homemade broth, rice noodles, shrimp\n   - No nut sauces, 40 min\n\n3. **Fish Tacos** - Tex-Mex\n   - Mango salsa, cabbage slaw, chipotle crema\n   - 15 min weeknight go-to\n\n4. **Misir Wot** - Ethiopian\n   - Red lentil stew, naturally nut-free\n   - Batch cook and freeze\n\n### Meal Prep\n- Sunday: cook lentil stew, prep rice, pickle vegetables\n- Reduces DoorDash/Grubhub orders\n\n### Delivery when lazy: DoorDash, Grubhub",
+    "icon": "\ud83d\udc1f",
+    "created_time": "2024-05-12T21:18:00Z",
+    "last_edited_time": "2024-10-20T03:18:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "id": "e28df03b-7670-4a0b-b904-a623c841f68d",
+    "title": "Cycling Routes Austin",
+    "type": "page",
+    "content": "## Austin Cycling Routes\n\n### Fitness Goals: Flexibility and fun\nActivities: skateboarding, cycling, yoga (3x/week total)\nApp: Nike Training Club\n\n### Favorite Routes\n1. **Lady Bird Lake Trail** - 10 miles, flat, scenic\n2. **Veloway** - 3.1 mile loop, bike-only, speed work\n3. **Barton Creek Greenbelt** - Technical mountain biking\n4. **Shoal Creek Trail** - North Austin to downtown\n5. **Pfluger Bridge** - Beautiful connector route\n\n### Weekend Adventures\n- Lake Travis loop (35 miles)\n- Ride to Dripping Springs\n- Hill Country exploration\n\n### Bike Shops\n- Mellow Johnny's (downtown)\n- Bicycle Sport Shop (South Lamar)\n- The Peddler (vintage bikes -- my vibe!)\n\n### Gear\n- Need a tune-up soon\n- Looking for a vintage road bike",
+    "icon": "\ud83d\udeb2",
+    "created_time": "2024-03-08T16:19:00Z",
+    "last_edited_time": "2024-06-24T21:19:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "cycling"
+    ]
+  },
+  {
+    "id": "2b33834e-34d2-48f9-99a2-87f9575563b0",
+    "title": "Side Project Ideas",
+    "type": "page",
+    "content": "## Side Project Ideas\n\n### 1. Vinyl Cover Redesign Series\n- Redesign classic album covers in my style\n- Post on Dribbble and Instagram\n- Could become a print series on Etsy\n\n### 2. Austin Food Truck Map\n- Interactive map of Austin food trucks\n- Filter by cuisine and dietary needs\n- Pescatarian and allergy-friendly filters\n- Build in Figma, develop with simple web stack\n\n### 3. Sustainable Fashion Newsletter\n- Curate vintage finds weekly\n- Tips for thrift shopping\n- Depop and Etsy highlights\n- Monetize with affiliate links\n\n### 4. Plant Care App\n- Track watering schedules\n- Pet toxicity warnings\n- Photo progress journal\n- Design in Figma, prototype in Procreate\n\n### Tools: Figma, Adobe Creative Suite, Procreate, Notion\nBudget: minimal (side projects are passion-driven)",
+    "icon": "\ud83d\udca1",
+    "created_time": "2024-06-21T06:15:00Z",
+    "last_edited_time": "2024-12-14T18:15:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Brainstorming"
+    },
+    "tags": [
+      "work",
+      "ideas"
+    ]
+  },
+  {
+    "id": "78ef565f-d02b-44bd-b8c3-64edfe1cc32b",
+    "title": "Monthly Budget Tracker",
+    "type": "database",
+    "content": "## Monthly Budget - Freelance Designer\n\n### Income: Variable (freelance)\n### Style: Budget-conscious\n\n### Fixed Costs\n- Studio apartment rent (Austin)\n- Figma subscription\n- Adobe Creative Suite\n- Spotify Premium\n- YouTube Premium\n- Google Home Mini (one-time)\n\n### Variable\n- Groceries: $250/mo (pescatarian, cook 2-3x/week)\n- DoorDash/Grubhub: $100/mo (trying to reduce)\n- Coffee shops (work): $80/mo (cold brew, black)\n- Vintage shopping: $50-100/mo (Depop, thrift)\n- Vinyl records: $30-50/mo\n- Plant supplies: $20/mo\n\n### Savings Goals\n- Berlin trip fund\n- New vintage road bike\n- Festival season budget\n\n### Notes\nUse Etsy sales to fund vinyl habit.\nBudget $25-75 for gifts (friends/family).",
+    "icon": "\ud83d\udcb0",
+    "created_time": "2024-11-02T10:21:00Z",
+    "last_edited_time": "2024-11-25T12:21:00Z",
+    "properties": {
+      "Category": "Finance",
+      "Status": "Active"
+    },
+    "tags": [
+      "finance",
+      "personal"
+    ]
+  }
+]

@@ -1,0 +1,869 @@
+[
+  {
+    "orderId": "743-6979517-4439956",
+    "orderDate": "2024-06-06T00:00:00Z",
+    "items": [
+      {
+        "name": "Seed Needs Heirloom Tomato Seed Collection (10 Varieties)",
+        "category": "Garden",
+        "price": 14.99,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.5,
+        "reviewCount": 3842
+      }
+    ],
+    "total": 14.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-10T00:00:00Z"
+  },
+  {
+    "orderId": "692-3995483-2884514",
+    "orderDate": "2024-06-09T00:00:00Z",
+    "items": [
+      {
+        "name": "Stanley Classic Vacuum Insulated Wide Mouth Bottle 1.5qt",
+        "category": "Drinkware",
+        "price": 45.00,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.7,
+        "reviewCount": 12483
+      }
+    ],
+    "total": 45.00,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-13T00:00:00Z"
+  },
+  {
+    "orderId": "730-9418581-4766434",
+    "orderDate": "2024-06-19T00:00:00Z",
+    "items": [
+      {
+        "name": "Woodlink Deluxe Cedar Bird Feeder with Suet Cages",
+        "category": "Bird Supplies",
+        "price": 49.99,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.3,
+        "reviewCount": 1567
+      }
+    ],
+    "total": 49.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-23T00:00:00Z"
+  },
+  {
+    "orderId": "371-6553934-1719907",
+    "orderDate": "2024-06-22T00:00:00Z",
+    "items": [
+      {
+        "name": "Yost F.S.V. 9-Inch Quick-Release Front Vise",
+        "category": "Woodworking Tools",
+        "price": 89.99,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.6,
+        "reviewCount": 2891
+      }
+    ],
+    "total": 89.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-27T00:00:00Z"
+  },
+  {
+    "orderId": "669-6393389-4106814",
+    "orderDate": "2024-06-23T00:00:00Z",
+    "items": [
+      {
+        "name": "Greenes Fence Cedar Raised Garden Kit 4x8x10.5\"",
+        "category": "Garden",
+        "price": 129.99,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.4,
+        "reviewCount": 5210
+      }
+    ],
+    "total": 129.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-28T00:00:00Z"
+  },
+  {
+    "orderId": "201-6102985-1443146",
+    "orderDate": "2024-06-29T00:00:00Z",
+    "items": [
+      {
+        "name": "The Hidden Life of Trees by Peter Wohlleben",
+        "category": "Books",
+        "price": 13.99,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.6,
+        "reviewCount": 14230
+      }
+    ],
+    "total": 13.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-02T00:00:00Z"
+  },
+  {
+    "orderId": "290-7018128-1118557",
+    "orderDate": "2024-07-08T00:00:00Z",
+    "items": [
+      {
+        "name": "Narex Premium Wood Chisel Set - 4 Piece (1/4\" to 1\")",
+        "category": "Woodworking Tools",
+        "price": 67.95,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.8,
+        "reviewCount": 4712
+      }
+    ],
+    "total": 67.95,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-12T00:00:00Z"
+  },
+  {
+    "orderId": "206-4374354-4548270",
+    "orderDate": "2024-07-27T00:00:00Z",
+    "items": [
+      {
+        "name": "Shogun: The First Novel of the Asian Saga by James Clavell",
+        "category": "Books",
+        "price": 18.99,
+        "quantity": 1,
+        "imageCategory": "books"
+      }
+    ],
+    "total": 18.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-30T00:00:00Z"
+  },
+  {
+    "orderId": "143-7660588-1659950",
+    "orderDate": "2024-08-02T00:00:00Z",
+    "items": [
+      {
+        "name": "Wendell Berry: Collected Poems 1957-2012",
+        "category": "Books",
+        "price": 19.95,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.7,
+        "reviewCount": 892
+      }
+    ],
+    "total": 19.95,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-05T00:00:00Z"
+  },
+  {
+    "orderId": "384-7674672-4125350",
+    "orderDate": "2024-08-06T00:00:00Z",
+    "items": [
+      {
+        "name": "Peterson Field Guide to Birds of North America 2nd Ed",
+        "category": "Books",
+        "price": 26.95,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.8,
+        "reviewCount": 6341
+      }
+    ],
+    "total": 26.95,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-09T00:00:00Z"
+  },
+  {
+    "orderId": "975-3060817-7953433",
+    "orderDate": "2024-08-23T00:00:00Z",
+    "items": [
+      {
+        "name": "FCMP Outdoor IM4000 Dual-Chamber Tumbling Composter",
+        "category": "Garden",
+        "price": 109.99,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.4,
+        "reviewCount": 8923
+      }
+    ],
+    "total": 109.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-28T00:00:00Z"
+  },
+  {
+    "orderId": "518-2947361-8830215",
+    "orderDate": "2024-09-05T00:00:00Z",
+    "items": [
+      {
+        "name": "Spiegelau Craft Beer IPA Glass Set of 4",
+        "category": "Kitchen",
+        "price": 34.95,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.7,
+        "reviewCount": 3205
+      },
+      {
+        "name": "HopsHolster Stainless Steel Bottle Opener with Walnut Handle",
+        "category": "Kitchen",
+        "price": 18.99,
+        "quantity": 1,
+        "imageCategory": "kitchen"
+      }
+    ],
+    "total": 53.94,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-09T00:00:00Z"
+  },
+  {
+    "orderId": "751-9135149-1282064",
+    "orderDate": "2024-09-20T00:00:00Z",
+    "items": [
+      {
+        "name": "Carhartt Washed Duck Insulated Active Jac - Men's L, Brown",
+        "category": "Clothing",
+        "price": 129.99,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.7,
+        "reviewCount": 11482
+      }
+    ],
+    "total": 129.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-24T00:00:00Z"
+  },
+  {
+    "orderId": "160-1192442-2398664",
+    "orderDate": "2024-09-27T00:00:00Z",
+    "items": [
+      {
+        "name": "Felco F-2 Classic Manual Hand Pruner",
+        "category": "Garden Tools",
+        "price": 64.95,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.8,
+        "reviewCount": 9874
+      }
+    ],
+    "total": 64.95,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-30T00:00:00Z"
+  },
+  {
+    "orderId": "934-3593400-8388246",
+    "orderDate": "2024-10-12T00:00:00Z",
+    "items": [
+      {
+        "name": "Oregon Cutting Systems Sharpening Kit",
+        "category": "Outdoor Tools",
+        "price": 24.95,
+        "quantity": 1,
+        "imageCategory": "outdoors"
+      },
+      {
+        "name": "Duluth Trading Men's Fire Hose Flex Cargo Pants - 36x32",
+        "category": "Clothing",
+        "price": 79.50,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.5,
+        "reviewCount": 7231
+      }
+    ],
+    "total": 104.45,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-16T00:00:00Z"
+  },
+  {
+    "orderId": "462-8391075-3349821",
+    "orderDate": "2024-10-20T00:00:00Z",
+    "items": [
+      {
+        "name": "Blue Wilderness High Protein Dry Dog Food 24lb - Chicken",
+        "category": "Pet Supplies",
+        "price": 52.98,
+        "quantity": 1,
+        "imageCategory": "pets",
+        "starRating": 4.6,
+        "reviewCount": 14102
+      },
+      {
+        "name": "KONG Classic Dog Toy - Large",
+        "category": "Pet Supplies",
+        "price": 13.99,
+        "quantity": 1,
+        "imageCategory": "pets",
+        "starRating": 4.7,
+        "reviewCount": 11350
+      }
+    ],
+    "total": 66.97,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-24T00:00:00Z"
+  },
+  {
+    "orderId": "855-4422048-8423006",
+    "orderDate": "2024-10-30T00:00:00Z",
+    "items": [
+      {
+        "name": "Cultures for Health Sourdough Starter Kit",
+        "category": "Kitchen",
+        "price": 19.99,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.3,
+        "reviewCount": 2104
+      }
+    ],
+    "total": 19.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-02T00:00:00Z"
+  },
+  {
+    "orderId": "436-8709401-7252870",
+    "orderDate": "2024-11-17T00:00:00Z",
+    "items": [
+      {
+        "name": "Lodge Pre-Seasoned Cast Iron Skillet 12-Inch",
+        "category": "Kitchen",
+        "price": 39.90,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.7,
+        "reviewCount": 14890
+      }
+    ],
+    "total": 39.90,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-20T00:00:00Z"
+  },
+  {
+    "orderId": "840-4449145-8516618",
+    "orderDate": "2024-11-18T00:00:00Z",
+    "items": [
+      {
+        "name": "Veritas Low-Angle Block Plane",
+        "category": "Woodworking Tools",
+        "price": 169.00,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.9,
+        "reviewCount": 1842
+      }
+    ],
+    "total": 169.00,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-22T00:00:00Z"
+  },
+  {
+    "orderId": "189-8151703-9044193",
+    "orderDate": "2024-11-26T00:00:00Z",
+    "items": [
+      {
+        "name": "Gyokucho Ryoba Japanese Pull Saw 210mm",
+        "category": "Woodworking Tools",
+        "price": 38.00,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.6,
+        "reviewCount": 1293
+      }
+    ],
+    "total": 38.00,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-30T00:00:00Z"
+  },
+  {
+    "orderId": "623-5591047-2718394",
+    "orderDate": "2024-12-05T00:00:00Z",
+    "items": [
+      {
+        "name": "Moby-Dick by Herman Melville (Penguin Classics Deluxe Edition)",
+        "category": "Books",
+        "price": 17.00,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.5,
+        "reviewCount": 8412
+      },
+      {
+        "name": "East of Eden by John Steinbeck",
+        "category": "Books",
+        "price": 15.29,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.8,
+        "reviewCount": 11653
+      }
+    ],
+    "total": 32.29,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-08T00:00:00Z"
+  },
+  {
+    "orderId": "272-6388123-9242146",
+    "orderDate": "2024-12-20T00:00:00Z",
+    "items": [
+      {
+        "name": "Nikon Monarch M5 8x42 Binoculars",
+        "category": "Optics",
+        "price": 249.95,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.7,
+        "reviewCount": 3417
+      }
+    ],
+    "total": 249.95,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-23T00:00:00Z"
+  },
+  {
+    "orderId": "687-7885079-7817215",
+    "orderDate": "2024-12-22T00:00:00Z",
+    "items": [
+      {
+        "name": "L.L.Bean Ultrasoft Comfort Flannel Sheet Set Queen - Plaid",
+        "category": "Bedding",
+        "price": 99.00,
+        "quantity": 1,
+        "imageCategory": "home"
+      }
+    ],
+    "total": 99.00,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-26T00:00:00Z"
+  },
+  {
+    "orderId": "315-4728190-6653281",
+    "orderDate": "2025-01-08T00:00:00Z",
+    "items": [
+      {
+        "name": "The Complete Manual of Woodworking by Albert Jackson",
+        "category": "Books",
+        "price": 24.49,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.7,
+        "reviewCount": 2934
+      },
+      {
+        "name": "General Finishes Arm-R-Seal Urethane Topcoat Semi-Gloss Pint",
+        "category": "Woodworking Supplies",
+        "price": 21.99,
+        "quantity": 1,
+        "imageCategory": "home"
+      }
+    ],
+    "total": 46.48,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-01-12T00:00:00Z"
+  },
+  {
+    "orderId": "587-1034926-4482750",
+    "orderDate": "2025-01-19T00:00:00Z",
+    "items": [
+      {
+        "name": "Northern Brewer Brew Share Enjoy Homebrew Starter Kit",
+        "category": "Kitchen",
+        "price": 109.99,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.4,
+        "reviewCount": 5647
+      }
+    ],
+    "total": 109.99,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-01-24T00:00:00Z"
+  },
+  {
+    "orderId": "741-6820153-9917432",
+    "orderDate": "2025-02-02T00:00:00Z",
+    "items": [
+      {
+        "name": "Salomon X Ultra 4 Mid GTX Hiking Boot - Men's 10.5, Dark Earth",
+        "category": "Footwear",
+        "price": 164.95,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.6,
+        "reviewCount": 4821
+      }
+    ],
+    "total": 164.95,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-02-06T00:00:00Z"
+  },
+  {
+    "orderId": "928-3751640-1128473",
+    "orderDate": "2025-02-14T00:00:00Z",
+    "items": [
+      {
+        "name": "Furinno Luder 5-Tier Open Bookcase, Espresso",
+        "category": "Furniture",
+        "price": 67.99,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.3,
+        "reviewCount": 9230
+      },
+      {
+        "name": "TaoTronics LED Desk Lamp with USB Charging Port, Warm White",
+        "category": "Lighting",
+        "price": 35.99,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.5,
+        "reviewCount": 7812
+      }
+    ],
+    "total": 103.98,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-02-18T00:00:00Z"
+  },
+  {
+    "orderId": "153-9204817-5536289",
+    "orderDate": "2025-03-01T00:00:00Z",
+    "items": [
+      {
+        "name": "Burpee Organic Raised Bed Mix 1.5 cu ft",
+        "category": "Garden",
+        "price": 13.97,
+        "quantity": 3,
+        "imageCategory": "outdoors"
+      },
+      {
+        "name": "Botanical Interests Organic Sugar Snap Pea Seeds",
+        "category": "Garden",
+        "price": 3.69,
+        "quantity": 1,
+        "imageCategory": "outdoors"
+      },
+      {
+        "name": "Botanical Interests Organic Basil Genovese Seeds",
+        "category": "Garden",
+        "price": 3.29,
+        "quantity": 1,
+        "imageCategory": "outdoors"
+      }
+    ],
+    "total": 48.89,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-03-05T00:00:00Z"
+  },
+  {
+    "orderId": "492-7135862-0384519",
+    "orderDate": "2025-03-15T00:00:00Z",
+    "items": [
+      {
+        "name": "Ruffwear Front Range Dog Harness - Medium, Campfire Orange",
+        "category": "Pet Supplies",
+        "price": 39.95,
+        "quantity": 1,
+        "imageCategory": "pets",
+        "starRating": 4.7,
+        "reviewCount": 8934
+      },
+      {
+        "name": "Furhaven Orthopedic Dog Bed - Large, Espresso",
+        "category": "Pet Supplies",
+        "price": 44.99,
+        "quantity": 1,
+        "imageCategory": "pets",
+        "starRating": 4.5,
+        "reviewCount": 13210
+      }
+    ],
+    "total": 84.94,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-03-19T00:00:00Z"
+  },
+  {
+    "orderId": "816-4503297-6128740",
+    "orderDate": "2025-04-03T00:00:00Z",
+    "items": [
+      {
+        "name": "Count of Monte Cristo by Alexandre Dumas (Penguin Classics)",
+        "category": "Books",
+        "price": 14.99,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.8,
+        "reviewCount": 10421
+      },
+      {
+        "name": "The Square Foot Gardening Guide by Mel Bartholomew",
+        "category": "Books",
+        "price": 16.99,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.6,
+        "reviewCount": 5893
+      }
+    ],
+    "total": 31.98,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-04-06T00:00:00Z"
+  },
+  {
+    "orderId": "349-8421563-7205918",
+    "orderDate": "2025-05-10T00:00:00Z",
+    "items": [
+      {
+        "name": "Petzl Actik Core Rechargeable Headlamp 600 Lumens",
+        "category": "Outdoor Gear",
+        "price": 79.95,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.7,
+        "reviewCount": 3104
+      },
+      {
+        "name": "Sea to Summit Aeros Premium Pillow - Regular",
+        "category": "Camping",
+        "price": 49.95,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.4,
+        "reviewCount": 2587
+      }
+    ],
+    "total": 129.90,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-05-14T00:00:00Z"
+  },
+  {
+    "orderId": "705-2938471-1593826",
+    "orderDate": "2025-06-18T00:00:00Z",
+    "items": [
+      {
+        "name": "Fiskars Ergo D-Handle Steel Garden Fork",
+        "category": "Garden Tools",
+        "price": 42.98,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.5,
+        "reviewCount": 4201
+      },
+      {
+        "name": "Tierra Garden Haws Deluxe Watering Can 2.3 Gallon - Green",
+        "category": "Garden Tools",
+        "price": 49.99,
+        "quantity": 1,
+        "imageCategory": "outdoors"
+      }
+    ],
+    "total": 92.97,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-06-22T00:00:00Z"
+  },
+  {
+    "orderId": "238-6104953-8472061",
+    "orderDate": "2025-08-22T00:00:00Z",
+    "items": [
+      {
+        "name": "Ooni Karu 12 Multi-Fuel Pizza Oven",
+        "category": "Outdoor Cooking",
+        "price": 399.00,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.6,
+        "reviewCount": 6740
+      }
+    ],
+    "total": 399.00,
+    "shippingAddress": {
+      "city": "Boulder",
+      "state": "CO"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-08-27T00:00:00Z"
+  },
+  {
+    "orderId": "671-3294185-5017632",
+    "orderDate": "2025-10-11T00:00:00Z",
+    "items": [
+      {
+        "name": "Leather Coaster Set of 6 with Holder - Rustic Brown",
+        "category": "Home Decor",
+        "price": 22.95,
+        "quantity": 1,
+        "imageCategory": "home"
+      },
+      {
+        "name": "War and Peace by Leo Tolstoy (Vintage Classics)",
+        "category": "Books",
+        "price": 16.00,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.7,
+        "reviewCount": 7520
+      }
+    ],
+    "total": 38.95,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Arriving Monday",
+    "deliveryDate": null
+  },
+  {
+    "orderId": "894-7561023-3948175",
+    "orderDate": "2025-10-15T00:00:00Z",
+    "items": [
+      {
+        "name": "Lie-Nielsen No. 4 Bronze Smoothing Plane",
+        "category": "Woodworking Tools",
+        "price": 375.00,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.9,
+        "reviewCount": 612
+      }
+    ],
+    "total": 375.00,
+    "shippingAddress": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "status": "Shipped",
+    "deliveryDate": null
+  }
+]

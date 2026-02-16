@@ -1,0 +1,871 @@
+[
+  {
+    "orderId": "392-3414798-8760003",
+    "orderDate": "2024-06-10T00:00:00Z",
+    "items": [
+      {
+        "name": "Hoka Speedgoat 5 - Men's Size 10.5",
+        "category": "Running Shoes",
+        "price": 154.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.7,
+        "reviewCount": 8432
+      }
+    ],
+    "total": 154.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-13T00:00:00Z"
+  },
+  {
+    "orderId": "584-7961274-2403382",
+    "orderDate": "2024-06-11T00:00:00Z",
+    "items": [
+      {
+        "name": "Black Diamond Momentum Climbing Shoes - Men's 10.5",
+        "category": "Outdoor Gear",
+        "price": 89.95,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.5,
+        "reviewCount": 3217
+      }
+    ],
+    "total": 89.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-14T00:00:00Z"
+  },
+  {
+    "orderId": "997-5498425-7174889",
+    "orderDate": "2024-06-13T00:00:00Z",
+    "items": [
+      {
+        "name": "Strava Summit Annual Subscription Gift Card",
+        "category": "Digital",
+        "price": 59.99,
+        "quantity": 1,
+        "imageCategory": "digital"
+      }
+    ],
+    "total": 59.99,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-13T00:00:00Z"
+  },
+  {
+    "orderId": "959-3780422-5968736",
+    "orderDate": "2024-06-16T00:00:00Z",
+    "items": [
+      {
+        "name": "Hario V60 Ceramic Pour Over Coffee Dripper",
+        "category": "Kitchen",
+        "price": 29.50,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.8,
+        "reviewCount": 12450
+      },
+      {
+        "name": "Hario V60 Paper Filters 100-Pack",
+        "category": "Kitchen",
+        "price": 8.50,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.7,
+        "reviewCount": 9870
+      }
+    ],
+    "total": 38.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-19T00:00:00Z"
+  },
+  {
+    "orderId": "150-2026944-4130953",
+    "orderDate": "2024-06-17T00:00:00Z",
+    "items": [
+      {
+        "name": "Yamazaki Home Minimalist Wall Shelf - White",
+        "category": "Furniture",
+        "price": 45.00,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.4,
+        "reviewCount": 1893
+      }
+    ],
+    "total": 45.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-20T00:00:00Z"
+  },
+  {
+    "orderId": "264-9597154-9321117",
+    "orderDate": "2024-06-25T00:00:00Z",
+    "items": [
+      {
+        "name": "Keychron K2 Wireless Mechanical Keyboard - Brown Switch",
+        "category": "Electronics",
+        "price": 89.00,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.6,
+        "reviewCount": 5621
+      }
+    ],
+    "total": 89.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-06-28T00:00:00Z"
+  },
+  {
+    "orderId": "890-7490296-9500612",
+    "orderDate": "2024-07-03T00:00:00Z",
+    "items": [
+      {
+        "name": "Ergotron LX 27-inch Monitor Arm",
+        "category": "Electronics",
+        "price": 179.99,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.8,
+        "reviewCount": 14230
+      }
+    ],
+    "total": 179.99,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-06T00:00:00Z"
+  },
+  {
+    "orderId": "968-2344719-6361026",
+    "orderDate": "2024-07-03T00:00:00Z",
+    "items": [
+      {
+        "name": "Allbirds Tree Dashers - Men's 10.5, Natural White",
+        "category": "Running Shoes",
+        "price": 135.00,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.3,
+        "reviewCount": 2104
+      }
+    ],
+    "total": 135.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-07T00:00:00Z"
+  },
+  {
+    "orderId": "413-6829501-3748290",
+    "orderDate": "2024-07-22T00:00:00Z",
+    "items": [
+      {
+        "name": "Salomon Sense Ride 5 Trail Running Shoes - Men's 10.5",
+        "category": "Running Shoes",
+        "price": 139.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.6,
+        "reviewCount": 4519
+      },
+      {
+        "name": "Darn Tough Merino Wool Run No Show Tab Ultra-Lightweight Socks",
+        "category": "Running Accessories",
+        "price": 18.00,
+        "quantity": 2,
+        "imageCategory": "fitness",
+        "starRating": 4.8,
+        "reviewCount": 7893
+      }
+    ],
+    "total": 175.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-07-25T00:00:00Z"
+  },
+  {
+    "orderId": "688-4050763-7323755",
+    "orderDate": "2024-08-09T00:00:00Z",
+    "items": [
+      {
+        "name": "Muji Acrylic Desk Organizer 3-Compartment",
+        "category": "Home & Office",
+        "price": 24.90,
+        "quantity": 1,
+        "imageCategory": "office"
+      }
+    ],
+    "total": 24.90,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-12T00:00:00Z"
+  },
+  {
+    "orderId": "178-9761946-2728736",
+    "orderDate": "2024-08-10T00:00:00Z",
+    "items": [
+      {
+        "name": "Vega Sport Premium Protein Powder - Chocolate 45 Servings",
+        "category": "Health & Nutrition",
+        "price": 54.99,
+        "quantity": 1,
+        "imageCategory": "food",
+        "starRating": 4.2,
+        "reviewCount": 6741
+      }
+    ],
+    "total": 54.99,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-13T00:00:00Z"
+  },
+  {
+    "orderId": "606-7066170-8281201",
+    "orderDate": "2024-08-16T00:00:00Z",
+    "items": [
+      {
+        "name": "Sony WF-1000XM5 Wireless Earbuds",
+        "category": "Electronics",
+        "price": 279.99,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.5,
+        "reviewCount": 11287
+      }
+    ],
+    "total": 279.99,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-19T00:00:00Z"
+  },
+  {
+    "orderId": "752-4190338-6027451",
+    "orderDate": "2024-08-28T00:00:00Z",
+    "items": [
+      {
+        "name": "Baratza Encore ESP Coffee Grinder - Black",
+        "category": "Kitchen Appliance",
+        "price": 169.95,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.6,
+        "reviewCount": 9321
+      },
+      {
+        "name": "Onyx Coffee Lab Monarch Blend 12oz Whole Bean",
+        "category": "Grocery",
+        "price": 18.50,
+        "quantity": 2,
+        "imageCategory": "food",
+        "starRating": 4.7,
+        "reviewCount": 1245
+      }
+    ],
+    "total": 206.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-08-31T00:00:00Z"
+  },
+  {
+    "orderId": "787-2615384-8603253",
+    "orderDate": "2024-09-03T00:00:00Z",
+    "items": [
+      {
+        "name": "Nike Pegasus Trail 4 - Men's Size 10.5",
+        "category": "Running Shoes",
+        "price": 139.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.4,
+        "reviewCount": 5870
+      }
+    ],
+    "total": 139.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-06T00:00:00Z"
+  },
+  {
+    "orderId": "280-1968349-2800268",
+    "orderDate": "2024-09-09T00:00:00Z",
+    "items": [
+      {
+        "name": "Anker 341 USB-C Hub (7-in-1)",
+        "category": "Electronics",
+        "price": 33.99,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.5,
+        "reviewCount": 8934
+      }
+    ],
+    "total": 33.99,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-12T00:00:00Z"
+  },
+  {
+    "orderId": "690-7247410-8282454",
+    "orderDate": "2024-09-19T00:00:00Z",
+    "items": [
+      {
+        "name": "Sunday Afternoons Ultra Adventure Hat SPF 50",
+        "category": "Running Accessories",
+        "price": 36.00,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.3,
+        "reviewCount": 2756
+      }
+    ],
+    "total": 36.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-09-22T00:00:00Z"
+  },
+  {
+    "orderId": "539-8120467-1935082",
+    "orderDate": "2024-09-30T00:00:00Z",
+    "items": [
+      {
+        "name": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+        "category": "Books",
+        "price": 12.99,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.7,
+        "reviewCount": 14580
+      },
+      {
+        "name": "The Design of Everyday Things (Revised and Expanded Edition)",
+        "category": "Books",
+        "price": 16.49,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.6,
+        "reviewCount": 11340
+      }
+    ],
+    "total": 29.48,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-03T00:00:00Z"
+  },
+  {
+    "orderId": "780-8361662-3798746",
+    "orderDate": "2024-10-14T00:00:00Z",
+    "items": [
+      {
+        "name": "Uniqlo Heattech Extra Warm Crew Neck T-Shirt - M, Black",
+        "category": "Clothing",
+        "price": 19.90,
+        "quantity": 1,
+        "imageCategory": "clothing",
+        "starRating": 4.4,
+        "reviewCount": 3412
+      },
+      {
+        "name": "Uniqlo Heattech Extra Warm Crew Neck T-Shirt - M, Navy",
+        "category": "Clothing",
+        "price": 19.90,
+        "quantity": 1,
+        "imageCategory": "clothing"
+      }
+    ],
+    "total": 39.80,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-10-17T00:00:00Z"
+  },
+  {
+    "orderId": "610-1321402-9624806",
+    "orderDate": "2024-11-01T00:00:00Z",
+    "items": [
+      {
+        "name": "Goodr OG Sunglasses - Flamingo On A Booze Cruise",
+        "category": "Running Accessories",
+        "price": 25.00,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.5,
+        "reviewCount": 4621
+      }
+    ],
+    "total": 25.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-04T00:00:00Z"
+  },
+  {
+    "orderId": "568-6557872-6539540",
+    "orderDate": "2024-11-07T00:00:00Z",
+    "items": [
+      {
+        "name": "Patagonia Nano Puff Jacket - Men's M, Black",
+        "category": "Outerwear",
+        "price": 199.00,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.7,
+        "reviewCount": 9120
+      }
+    ],
+    "total": 199.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-11T00:00:00Z"
+  },
+  {
+    "orderId": "821-5073914-4620378",
+    "orderDate": "2024-11-18T00:00:00Z",
+    "items": [
+      {
+        "name": "Logitech Brio 4K Ultra HD Webcam",
+        "category": "Electronics",
+        "price": 139.99,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.4,
+        "reviewCount": 7823
+      },
+      {
+        "name": "Anker USB-C to Lightning Cable 6ft (2-Pack)",
+        "category": "Electronics",
+        "price": 18.99,
+        "quantity": 1,
+        "imageCategory": "electronics"
+      }
+    ],
+    "total": 158.98,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-11-21T00:00:00Z"
+  },
+  {
+    "orderId": "290-2180295-2900889",
+    "orderDate": "2024-12-04T00:00:00Z",
+    "items": [
+      {
+        "name": "Nathan VaporAir 2.0 Hydration Pack - 7L",
+        "category": "Running Accessories",
+        "price": 149.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.3,
+        "reviewCount": 1876
+      }
+    ],
+    "total": 149.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-07T00:00:00Z"
+  },
+  {
+    "orderId": "347-6820145-9174523",
+    "orderDate": "2024-12-19T00:00:00Z",
+    "items": [
+      {
+        "name": "Muji Aroma Diffuser - Compact, White",
+        "category": "Home",
+        "price": 49.50,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.3,
+        "reviewCount": 2891
+      },
+      {
+        "name": "Muji Essential Oil - Lavender 10ml",
+        "category": "Home",
+        "price": 11.90,
+        "quantity": 1,
+        "imageCategory": "home"
+      }
+    ],
+    "total": 61.40,
+    "shippingAddress": {
+      "city": "Portland",
+      "state": "OR"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-22T00:00:00Z"
+  },
+  {
+    "orderId": "698-2024068-2578714",
+    "orderDate": "2024-12-26T00:00:00Z",
+    "items": [
+      {
+        "name": "Bragg Nutritional Yeast Seasoning 4.5oz",
+        "category": "Grocery",
+        "price": 7.49,
+        "quantity": 1,
+        "imageCategory": "food"
+      },
+      {
+        "name": "Manitoba Harvest Hemp Hearts 16oz",
+        "category": "Grocery",
+        "price": 12.99,
+        "quantity": 1,
+        "imageCategory": "food",
+        "starRating": 4.6,
+        "reviewCount": 5430
+      }
+    ],
+    "total": 20.48,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-29T00:00:00Z"
+  },
+  {
+    "orderId": "227-7305855-3574764",
+    "orderDate": "2024-12-27T00:00:00Z",
+    "items": [
+      {
+        "name": "Anker Nano II 65W USB-C Charger",
+        "category": "Electronics",
+        "price": 35.99,
+        "quantity": 1,
+        "imageCategory": "electronics",
+        "starRating": 4.7,
+        "reviewCount": 10254
+      }
+    ],
+    "total": 35.99,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2024-12-30T00:00:00Z"
+  },
+  {
+    "orderId": "461-3907254-8291045",
+    "orderDate": "2025-01-08T00:00:00Z",
+    "items": [
+      {
+        "name": "Brooks Ghost 16 - Men's Size 10.5, Black/Ebony",
+        "category": "Running Shoes",
+        "price": 139.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.7,
+        "reviewCount": 6842
+      }
+    ],
+    "total": 139.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-01-11T00:00:00Z"
+  },
+  {
+    "orderId": "915-2740183-5629407",
+    "orderDate": "2025-01-15T00:00:00Z",
+    "items": [
+      {
+        "name": "Grovemade Matte Desk Pad - Large, Charcoal",
+        "category": "Office",
+        "price": 90.00,
+        "quantity": 1,
+        "imageCategory": "office",
+        "starRating": 4.5,
+        "reviewCount": 872
+      }
+    ],
+    "total": 90.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-01-18T00:00:00Z"
+  },
+  {
+    "orderId": "703-5918462-0384719",
+    "orderDate": "2025-01-24T00:00:00Z",
+    "items": [
+      {
+        "name": "Salomon ADV Skin 12 Set Hydration Vest - Men's M",
+        "category": "Running Accessories",
+        "price": 159.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.6,
+        "reviewCount": 2340
+      },
+      {
+        "name": "Salomon Soft Flask 500ml (2-Pack)",
+        "category": "Running Accessories",
+        "price": 30.00,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.7,
+        "reviewCount": 3210
+      }
+    ],
+    "total": 189.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-01-27T00:00:00Z"
+  },
+  {
+    "orderId": "274-8401956-7213680",
+    "orderDate": "2025-02-02T00:00:00Z",
+    "items": [
+      {
+        "name": "Designing Data-Intensive Applications by Martin Kleppmann",
+        "category": "Books",
+        "price": 38.49,
+        "quantity": 1,
+        "imageCategory": "books",
+        "starRating": 4.8,
+        "reviewCount": 8930
+      }
+    ],
+    "total": 38.49,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-02-05T00:00:00Z"
+  },
+  {
+    "orderId": "638-1029475-3901826",
+    "orderDate": "2025-02-14T00:00:00Z",
+    "items": [
+      {
+        "name": "Counter Culture Coffee Hologram Blend 12oz Whole Bean",
+        "category": "Grocery",
+        "price": 16.50,
+        "quantity": 2,
+        "imageCategory": "food",
+        "starRating": 4.5,
+        "reviewCount": 987
+      },
+      {
+        "name": "Fellow Atmos Vacuum Canister - Matte Black, 0.7L",
+        "category": "Kitchen",
+        "price": 32.00,
+        "quantity": 1,
+        "imageCategory": "kitchen",
+        "starRating": 4.6,
+        "reviewCount": 2145
+      }
+    ],
+    "total": 65.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-02-17T00:00:00Z"
+  },
+  {
+    "orderId": "502-7391048-6250391",
+    "orderDate": "2025-03-05T00:00:00Z",
+    "items": [
+      {
+        "name": "Yamazaki Tower Leaning Ladder Rack - White",
+        "category": "Furniture",
+        "price": 78.00,
+        "quantity": 1,
+        "imageCategory": "home",
+        "starRating": 4.4,
+        "reviewCount": 1532
+      },
+      {
+        "name": "Muji Wall-Mounted CD Player - White",
+        "category": "Electronics",
+        "price": 125.00,
+        "quantity": 1,
+        "imageCategory": "electronics"
+      }
+    ],
+    "total": 203.00,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-03-08T00:00:00Z"
+  },
+  {
+    "orderId": "186-4520937-8417260",
+    "orderDate": "2025-03-22T00:00:00Z",
+    "items": [
+      {
+        "name": "Kindle Unlimited 6-Month Subscription",
+        "category": "Digital",
+        "price": 71.94,
+        "quantity": 1,
+        "imageCategory": "digital"
+      }
+    ],
+    "total": 71.94,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-03-22T00:00:00Z"
+  },
+  {
+    "orderId": "829-6104583-2740198",
+    "orderDate": "2025-04-10T00:00:00Z",
+    "items": [
+      {
+        "name": "Black Diamond Crag Climbing Gloves - Men's M",
+        "category": "Outdoor Gear",
+        "price": 29.95,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.3,
+        "reviewCount": 1456
+      },
+      {
+        "name": "Petzl Bandi Chalk Bag - Grey",
+        "category": "Outdoor Gear",
+        "price": 19.95,
+        "quantity": 1,
+        "imageCategory": "outdoors",
+        "starRating": 4.5,
+        "reviewCount": 892
+      }
+    ],
+    "total": 49.90,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Delivered",
+    "deliveryDate": "2025-04-13T00:00:00Z"
+  },
+  {
+    "orderId": "374-9201856-1038274",
+    "orderDate": "2025-04-28T00:00:00Z",
+    "items": [
+      {
+        "name": "Salomon Speedcross 6 Trail Running Shoes - Men's 10.5",
+        "category": "Running Shoes",
+        "price": 144.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.6,
+        "reviewCount": 3780
+      },
+      {
+        "name": "Injinji Trail Midweight Mini-Crew Toe Socks (3-Pack)",
+        "category": "Running Accessories",
+        "price": 49.95,
+        "quantity": 1,
+        "imageCategory": "fitness",
+        "starRating": 4.4,
+        "reviewCount": 2614
+      }
+    ],
+    "total": 194.90,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Shipped",
+    "deliveryDate": null
+  },
+  {
+    "orderId": "612-3845021-9472630",
+    "orderDate": "2025-05-01T00:00:00Z",
+    "items": [
+      {
+        "name": "Amazon Fresh - Subscribe & Save: Onyx Coffee Lab Southern Weather 12oz Whole Bean",
+        "category": "Grocery Subscription",
+        "price": 17.95,
+        "quantity": 1,
+        "imageCategory": "food"
+      }
+    ],
+    "total": 17.95,
+    "shippingAddress": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "status": "Arriving Thursday",
+    "deliveryDate": null
+  }
+]

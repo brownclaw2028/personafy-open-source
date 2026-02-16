@@ -1,0 +1,172 @@
+[
+  {
+    "id": "6457fd25-1365-47ab-95f6-7847f03b07d5",
+    "title": "Wine Journal 2024",
+    "type": "database",
+    "content": "## Wine Tasting Notes 2024\n\n### Preferences\nPrimary: Pinot Noir, Burgundy, Barolo\nSecondary: Champagne, Sancerre\n\n### January - Domaine de la Romanee-Conti 2018\n- Region: Burgundy, France\n- Tasting: Cherry, earth, mushroom, long finish\n- Rating: 98/100\n- Paired with: Aged Comte cheese\n\n### February - Giacomo Conterno Barolo 2016\n- Region: Piedmont, Italy\n- Tasting: Rose petal, tar, dried cherry\n- Rating: 95/100\n- Paired with: Osso buco in Le Creuset\n\n### March - Kistler Pinot Noir 2020\n- Region: Sonoma Coast\n- Tasting: Red fruit, vanilla, silky tannins\n- Rating: 92/100\n\n### Wine Trip Plans\n- Napa Valley: Domaine Carneros, Etude, Bouchaine\n- Tuscany: partner trip (using Delta SkyMiles)\n\n### Budget: Premium - willing to splurge on special bottles",
+    "icon": "\ud83c\udf77",
+    "created_time": "2024-08-21T11:08:00Z",
+    "last_edited_time": "2024-11-27T19:08:00Z",
+    "properties": {
+      "Category": "Food & Drink",
+      "Status": "Active"
+    },
+    "tags": [
+      "wine",
+      "journal"
+    ]
+  },
+  {
+    "id": "479da393-d1df-451a-9a1f-6b63c7d322c3",
+    "title": "Travel Bucket List",
+    "type": "page",
+    "content": "## Travel Bucket List\n\n### Upcoming\n1. **Paris** - Fine dining, wine bars, Four Seasons stay\n2. **Tuscany** - Wine region tour, villa rental\n3. **Napa Valley** - Weekend wine tasting\n4. **Aspen** - Winter ski trip\n\n### Dream Trips\n- Tulum - beach + wellness retreat\n- Tokyo - omakase tour\n- Provence - lavender season\n\n### Travel Style\n- Luxury: Ritz-Carlton, Four Seasons\n- Fly Delta business class (SkyMiles Platinum)\n- Also fly American for domestic\n- Marriott Bonvoy Gold for hotels\n- Prefer aisle seat for long flights\n\n### Frequency: 8-10 trips per year\n\n### Always Pack\n- Premium skincare routine\n- Wine opener\n- Bailey's favorite toys (golden retriever)",
+    "icon": "\u2708\ufe0f",
+    "created_time": "2024-12-22T21:24:00Z",
+    "last_edited_time": "2024-12-21T18:19:00Z",
+    "properties": {
+      "Category": "Travel",
+      "Status": "Active"
+    },
+    "tags": [
+      "travel",
+      "goals"
+    ]
+  },
+  {
+    "id": "0a7f28b0-616d-4f05-a1c9-7862613abd2d",
+    "title": "Fitness Routine",
+    "type": "page",
+    "content": "## Weekly Fitness Routine\n\n### Goal: Stress Management\n\n### Schedule (4x/week)\n- Monday: 30min Peloton Power Zone\n- Wednesday: 20min Low Impact + Meditation ride\n- Friday: 45min Peloton scenic ride\n- Saturday: Pilates (studio or Apple Fitness+)\n\n### Apps\n- Peloton app (primary)\n- Apple Fitness+ (supplementary)\n\n### Supplements\n- Collagen peptides (morning)\n- Omega-3 fish oil\n- Vitamin C\n\n### Wellness\n- Monthly spa visit\n- Quarterly wellness retreat\n- Night owl schedule: 11pm-7am\n\n### Hiking\n- Occasional weekend hikes\n- Starved Rock State Park (favorite)\n- Waterfall Canyon trail",
+    "icon": "\ud83d\udeb4",
+    "created_time": "2024-02-02T12:07:00Z",
+    "last_edited_time": "2024-05-09T17:07:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "b9927860-9d28-4f52-a7fc-834e46ecb74e",
+    "title": "Home Renovation Plans",
+    "type": "page",
+    "content": "## 3BR Condo Renovation - Modern Farmhouse\n\n### Living Room\n- Reclaimed wood floating shelves (for Sonos + decor)\n- Statement light fixture over dining table\n- Linen curtains (soft, lived-in feel)\n- Pet-friendly performance fabric sofa (for Bailey)\n\n### Kitchen\n- Open shelving for Le Creuset collection display\n- Pot rack above island\n- Reclaimed wood cutting board display\n- Herb mason jars on windowsill\n- White shiplap accent wall\n\n### Smart Home\n- Nest thermostat (installed)\n- Sonos in 3 rooms\n- Ring doorbell\n- Considering Hue lights for accent lighting\n\n### Pet Considerations\n- Golden retriever Bailey needs durable fabrics\n- Crypton or indoor/outdoor upholstery\n- Easy-clean floor in entryway\n\n### Style: Modern farmhouse\n### Budget: Premium",
+    "icon": "\ud83c\udfe1",
+    "created_time": "2024-09-11T07:25:00Z",
+    "last_edited_time": "2024-11-14T11:25:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "In Progress"
+    },
+    "tags": [
+      "home",
+      "planning"
+    ]
+  },
+  {
+    "id": "4b36d4a5-4e6c-458b-bed7-0a1063a2c5a7",
+    "title": "Marketing Reading List",
+    "type": "database",
+    "content": "## Marketing & Business Reading\n\n### Currently Reading\n- \"Crossing the Chasm\" by Geoffrey Moore\n- \"Made to Stick\" by Chip & Dan Heath\n\n### Completed 2024\n- \"Building a StoryBrand\" by Donald Miller\n- \"Influence\" by Robert Cialdini\n- \"Hooked\" by Nir Eyal\n\n### To Read\n- \"Obviously Awesome\" by April Dunford\n- \"The Long Game\" by Dorie Clark\n- \"Unreasonable Hospitality\" by Will Guidara\n\n### Work Context\nVP of Marketing at Chicago firm\nTools: HubSpot, Google Analytics, Notion, Slack, Figma\nStyle: hybrid work, meeting-heavy\nPodcasts: How I Built This, The Daily\n\n### Notes\nFocus on ROI frameworks and attribution modeling.\nNeed to improve board presentation skills.",
+    "icon": "\ud83d\udcca",
+    "created_time": "2024-09-02T13:00:00Z",
+    "last_edited_time": "2024-12-28T18:25:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Active"
+    },
+    "tags": [
+      "work",
+      "reading"
+    ]
+  },
+  {
+    "id": "9bbc9203-0e84-4d4e-bfea-39f745b4248b",
+    "title": "Gift Guide - Luxury",
+    "type": "page",
+    "content": "## Gift Guide 2024\n\n### For Partner\n- Wine subscription (premium Burgundy/Barolo quarterly)\n- Luxury watch (considering Omega or TAG Heuer)\n- Budget: $200-500\n\n### For Parents\n- Gourmet food basket (artisan cheese, charcuterie)\n- Garden tools (high-quality pruners, kneeling pad)\n- Budget: $100-200\n\n### For Self\n- Le Creuset new pieces (braiser, baking dish)\n- Skincare upgrade (SkinCeuticals CE Ferulic)\n- Nordstrom shopping trip\n\n### For Bailey (golden retriever)\n- Organic treats\n- New plush bed\n- Kong toys\n\n### Shopping Style: Luxury\nBrands: Nordstrom, Reformation, Theory, Tory Burch, Le Creuset\nBudget range: $100-500 for special occasions",
+    "icon": "\ud83c\udf81",
+    "created_time": "2024-12-17T21:59:00Z",
+    "last_edited_time": "2024-12-27T13:18:00Z",
+    "properties": {
+      "Category": "Gifts",
+      "Status": "Active"
+    },
+    "tags": [
+      "gifts",
+      "shopping"
+    ]
+  },
+  {
+    "id": "fad968db-8c3a-4677-afd1-6b80a3b94acc",
+    "title": "Skincare Routine",
+    "type": "page",
+    "content": "## Premium Skincare Routine\n\n### Morning\n1. Gentle cleanser\n2. Vitamin C serum (SkinCeuticals CE Ferulic)\n3. Hyaluronic acid\n4. SPF 50 (Supergoop Unseen Sunscreen)\n\n### Evening\n1. Double cleanse: oil cleanser then gel\n2. Retinol (0.5% strength, building up)\n3. Peptide cream (Augustinus Bader The Rich Cream)\n4. Eye cream\n\n### Weekly\n- Exfoliate 2x with enzyme mask\n- Sheet mask 1x\n\n### Monthly\n- Alternating: microneedling or hydrafacial at spa\n\n### Supplements (Supporting Skin Health)\n- Collagen peptides daily\n- Omega-3\n- Vitamin C\n\n### Budget: Premium - invest in quality\n### Age: 45, focus on anti-aging and glow",
+    "icon": "\u2728",
+    "created_time": "2024-01-28T08:09:00Z",
+    "last_edited_time": "2024-07-14T20:09:00Z",
+    "properties": {
+      "Category": "Health",
+      "Status": "Active"
+    },
+    "tags": [
+      "health",
+      "beauty"
+    ]
+  },
+  {
+    "id": "34fdc68d-b775-4cff-9939-d2e79ae2d5f4",
+    "title": "Dinner Party Menus",
+    "type": "database",
+    "content": "## Dinner Party Menu Collection\n\n### French Bistro Night (8 guests)\n- Appetizer: Charcuterie & cheese board\n- Wine: Burgundy Pinot Noir\n- Main: Coq au Vin in Le Creuset Dutch oven\n- Sides: Roasted root vegetables, arugula salad\n- Dessert: Pots de creme in Le Creuset ramekins\n- Music: Soft jazz on Sonos\n\n### Italian Night (6 guests)\n- Appetizer: Bruschetta with heirloom tomatoes\n- Wine: Barolo\n- Main: Osso buco\n- Dessert: Tiramisu\n- Table setting: linen napkins, brass candlesticks\n\n### Casual Sunday Brunch\n- Quiche Lorraine\n- Fresh fruit & pastries\n- Mimosas with fresh-squeezed orange juice\n- Cappuccino (single origin beans)\n\n### Cooking Style: Weekends only\nCuisines: French, Italian, Japanese omakase, farm-to-table\nDelivery for weeknights: Uber Eats, Caviar",
+    "icon": "\ud83c\udf7d\ufe0f",
+    "created_time": "2024-01-12T15:10:00Z",
+    "last_edited_time": "2024-07-03T15:10:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "entertaining"
+    ]
+  },
+  {
+    "id": "bcbd6163-8d62-49ea-a83f-b24304b7bea3",
+    "title": "Career Goals 2024",
+    "type": "page",
+    "content": "## Career Goals - VP of Marketing\n\n### Q1-Q2 Goals\n- Build ROI framework using HubSpot + Google Analytics\n- Reduce CAC by 15%\n- Improve board presentation skills\n\n### Q3-Q4 Goals\n- Launch brand refresh campaign\n- Explore AI tools for marketing automation\n- Mentor 2 junior team members\n\n### Tools to Master\n- Advanced HubSpot workflows\n- Google Analytics 4 attribution\n- Figma for presentation design\n- Notion for team documentation\n\n### Professional Development\n- Attend 2 marketing conferences\n- How I Built This live event\n- Executive coaching quarterly\n\n### Work Style\n- Hybrid office (3 days in, 2 remote)\n- Meeting-heavy schedule\n- Use Slack for team communication\n- Notion for project documentation",
+    "icon": "\ud83c\udfaf",
+    "created_time": "2024-11-23T18:05:00Z",
+    "last_edited_time": "2024-12-27T16:07:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Active"
+    },
+    "tags": [
+      "work",
+      "goals"
+    ]
+  },
+  {
+    "id": "a7fc28bd-bd59-4771-9e01-c21f9afe35f8",
+    "title": "Bailey's Care Guide",
+    "type": "page",
+    "content": "## Bailey - Golden Retriever Care\n\n### Basic Info\n- Breed: Golden Retriever\n- Age: 4 years\n- Weight: 65 lbs\n- Vet: Lincoln Park Animal Hospital\n\n### Daily Routine\n- Morning walk: 30 min\n- Evening walk: 45 min\n- Feeding: 2x daily, high-quality kibble + fresh toppers\n\n### Health\n- Annual checkup: February\n- Flea/tick: monthly preventative\n- Supplements: joint supplement, fish oil\n\n### Favorite Activities\n- Hiking (Starved Rock, Waterfall Canyon)\n- Dog park in Lincoln Park\n- Swimming (summer lake visits)\n\n### Gear\n- Harness: Ruffwear Front Range\n- Bed: Casper dog bed\n- Toys: Kong, rope toys, tennis balls\n\n### Pet-Proofing Home\n- Performance fabric furniture\n- Nest camera for monitoring when away\n- Baby gate for kitchen during cooking",
+    "icon": "\ud83d\udc15",
+    "created_time": "2024-01-14T10:13:00Z",
+    "last_edited_time": "2024-01-29T15:13:00Z",
+    "properties": {
+      "Category": "Pet Care",
+      "Status": "Active"
+    },
+    "tags": [
+      "pet",
+      "health"
+    ]
+  }
+]

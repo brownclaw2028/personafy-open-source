@@ -1,0 +1,322 @@
+[
+  {
+    "uuid": "6a9bc615-c4ac-4702-8316-cfb13f8ad230",
+    "name": "Mastering dovetail joints",
+    "created_at": "2024-02-25T06:08:00Z",
+    "updated_at": "2024-02-25T06:13:01Z",
+    "chat_messages": [
+      {
+        "uuid": "04224698-7023-494a-b0b9-bf52c9cabfe4",
+        "text": "I've been woodworking for 15 years and I still struggle with consistent dovetail joints. I use hand tools mostly -- chisels from Rockler Woodworking. Any tips for getting tighter joints?",
+        "sender": "human",
+        "created_at": "2024-02-25T06:08:00Z"
+      },
+      {
+        "uuid": "82a71784-5a8f-4eec-8bf9-487ee38bafec",
+        "text": "After 15 years, it's often about refinement rather than fundamentals. Tips for tighter dovetails: 1) Mark your baseline with a cutting gauge, not a pencil -- the scored line gives your chisel a registration point. 2) Saw to the waste side of the line, then pare to the line. 3) Use a sharp marking knife (not pencil) for transferring pins to tails. 4) Keep your chisels razor sharp -- hone before every session. 5) Try the 'Rob Cosman method' of undercutting the baseline slightly for a visual gap-free fit. Since you shop at Rockler, their premium chisels are worth the upgrade if you haven't already.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T06:09:23Z"
+      },
+      {
+        "uuid": "918f75cb-6dfe-4c06-b279-eef2f083d1fc",
+        "text": "I've been thinking about making a jewelry box for my wife with hand-cut dovetails. I usually listen to the Woodworking Masterclass podcast while I work in my workshop. What wood would you recommend?",
+        "sender": "human",
+        "created_at": "2024-02-25T06:09:56Z"
+      },
+      {
+        "uuid": "ce8eb070-0223-403a-a3c1-7b6e4f80c492",
+        "text": "A dovetail jewelry box is a beautiful gift! Wood recommendations: 1) Walnut -- gorgeous contrast for the end grain in dovetails, easy to work with hand tools. 2) Cherry -- ages beautifully and has a warm tone. 3) For the bottom panel, use figured maple for contrast. Dimensions: about 10x7x4 inches is ideal for jewelry. Line the interior with felt or suede. Add small dividers for rings and necklaces. Your wife will treasure something handmade from your workshop.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T06:11:11Z"
+      }
+    ]
+  },
+  {
+    "uuid": "8b4774fe-35fb-44a5-b4e2-4c3624132f01",
+    "name": "Best heirloom tomato varieties for Oregon",
+    "created_at": "2024-10-18T06:29:00Z",
+    "updated_at": "2024-10-18T06:34:44Z",
+    "chat_messages": [
+      {
+        "uuid": "78efb434-6c4d-443e-9ca2-bcad0ff12f38",
+        "text": "I'm planning my garden for spring in Portland, Oregon. I grow heirloom tomatoes in raised beds and want to try some new varieties. I also have fruit trees and a pollinator garden. What varieties do well in the Pacific Northwest?",
+        "sender": "human",
+        "created_at": "2024-10-18T06:29:00Z"
+      },
+      {
+        "uuid": "3a28ed99-766b-4977-83c6-b14f17469324",
+        "text": "Oregon's shorter growing season means choosing varieties that ripen reliably. Top picks for Portland: 1) Stupice -- Czech variety, early ripener, great flavor. 2) Black Krim -- stunning dark tomato, does well in PNW. 3) Sungold (technically a hybrid but everyone grows it) -- cherry tomato, incredibly sweet. 4) Brandywine -- classic heirloom, needs the warmest spot in your garden. 5) Green Zebra -- tangy, unique, reliable in cooler summers. Start seeds indoors in March for transplanting in late May.",
+        "sender": "assistant",
+        "created_at": "2024-10-18T06:29:55Z"
+      },
+      {
+        "uuid": "7c26a196-3eb8-4cc1-88e9-ddd41121348a",
+        "text": "What about companion planting? I want to support my pollinator garden and help the tomatoes. I also compost and want to build the soil.",
+        "sender": "human",
+        "created_at": "2024-10-18T06:30:35Z"
+      },
+      {
+        "uuid": "b5832a43-80d4-426c-9e5e-d9291b086ee8",
+        "text": "Companion planting for your tomato beds: plant basil alongside (improves flavor and repels aphids), marigolds as a border (deters nematodes and attracts pollinators), and borage nearby (attracts bees and adds trace minerals when composted). For your pollinator garden, plant bee balm, lavender, and native Oregon wildflowers near the tomatoes. Composting tip: add crushed eggshells to your compost for calcium, which prevents blossom end rot in tomatoes.",
+        "sender": "assistant",
+        "created_at": "2024-10-18T06:32:02Z"
+      }
+    ]
+  },
+  {
+    "uuid": "88ad490b-31b6-4511-9d7a-84c29f137876",
+    "name": "Historical fiction recommendations",
+    "created_at": "2024-05-07T21:51:00Z",
+    "updated_at": "2024-05-07T21:55:07Z",
+    "chat_messages": [
+      {
+        "uuid": "9b1233a9-2456-4a65-9390-378970323213",
+        "text": "I read 2-3 books per week and I love historical fiction, nature writing, and biography. I just finished 'The Pillars of the Earth' and want something equally epic. I also enjoy listening to Fresh Air and The Moth podcasts.",
+        "sender": "human",
+        "created_at": "2024-05-07T21:51:00Z"
+      },
+      {
+        "uuid": "3776782f-ddb6-46d1-9454-b06981e4b047",
+        "text": "With that reading pace and taste, here are some epic picks: 1) 'Shantaram' by Gregory David Roberts -- sweeping adventure in 1980s Bombay. 2) 'The Name of the Rose' by Umberto Eco -- medieval mystery meets intellectual thriller. 3) 'Wolf Hall' by Hilary Mantel -- Tudor England brought vividly to life. 4) 'All the Light We Cannot See' by Anthony Doerr -- WWII, beautifully written. 5) 'The Overstory' by Richard Powers -- blends nature writing with narrative fiction (right up your alley).",
+        "sender": "assistant",
+        "created_at": "2024-05-07T21:51:36Z"
+      },
+      {
+        "uuid": "5e780a4e-1480-4b86-a2e5-9849ceba299e",
+        "text": "The Overstory sounds perfect for me since I love nature. I volunteer at the library and want to start a book club. Any nature writing recommendations too?",
+        "sender": "human",
+        "created_at": "2024-05-07T21:52:57Z"
+      },
+      {
+        "uuid": "85be4658-2f24-4174-b698-bc2996745186",
+        "text": "For your library book club, nature writing picks: 1) 'Braiding Sweetgrass' by Robin Wall Kimmerer -- indigenous wisdom meets botany. 2) 'H is for Hawk' by Helen Macdonald -- grief and falconry. 3) 'The Hidden Life of Trees' by Peter Wohlleben -- you'll never look at your garden the same. 4) 'Pilgrim at Tinker Creek' by Annie Dillard -- classic. For the book club, start with 'Braiding Sweetgrass' -- it generates incredible discussion. Fresh Air actually did a great interview with Kimmerer.",
+        "sender": "assistant",
+        "created_at": "2024-05-07T21:53:33Z"
+      }
+    ]
+  },
+  {
+    "uuid": "eb974af5-12f9-48f9-b827-f79decf51743",
+    "name": "Backyard bird identification in Oregon",
+    "created_at": "2024-12-21T10:41:00Z",
+    "updated_at": "2024-12-21T10:45:59Z",
+    "chat_messages": [
+      {
+        "uuid": "f97fae94-5090-4531-b8f6-4d6371fc2f43",
+        "text": "I've gotten into bird watching from my backyard in Portland. I have bird feeders and a pollinator garden. I can identify the common ones but want to get better. What birds should I look for this season?",
+        "sender": "human",
+        "created_at": "2024-12-21T10:41:00Z"
+      },
+      {
+        "uuid": "66fd9df1-e827-46aa-9f1e-fd53cafebe4f",
+        "text": "Portland is a birding paradise! Common year-round residents you should know: Black-capped Chickadee, Dark-eyed Junco, Spotted Towhee, and Anna's Hummingbird. Seasonal visitors to watch for: Varied Thrush (winter -- stunning orange and black), Cedar Waxwings (spring/summer), and Western Tanagers (summer -- bright yellow and red). Your pollinator garden probably attracts hummingbirds. Tip: keep a simple journal of what you see and when.",
+        "sender": "assistant",
+        "created_at": "2024-12-21T10:41:52Z"
+      },
+      {
+        "uuid": "f975babf-530b-4f1c-bf73-73952c41690e",
+        "text": "I'd love to keep a bird sighting journal. I have two cats -- Hemingway and Fitzgerald -- so I keep them inside. Any feeder recommendations to attract more species?",
+        "sender": "human",
+        "created_at": "2024-12-21T10:43:30Z"
+      },
+      {
+        "uuid": "91c7d46e-35d7-456f-9c48-9c1e9a049cae",
+        "text": "Smart keeping Hemingway and Fitzgerald inside -- outdoor cats are the #1 threat to songbirds! Feeder strategy: 1) Platform feeder with sunflower seeds (attracts the widest variety). 2) Suet feeder for woodpeckers and nuthatches. 3) Nyjer feeder for goldfinches. 4) Hummingbird feeder (4:1 water to sugar, no red dye). Place feeders at different heights and locations. For your journal, note the species, time, weather, and behavior. Over time you'll see patterns in what visits when.",
+        "sender": "assistant",
+        "created_at": "2024-12-21T10:44:34Z"
+      }
+    ]
+  },
+  {
+    "uuid": "5b98f960-a9a1-479d-8622-7942d380e359",
+    "name": "Sourdough bread troubleshooting",
+    "created_at": "2024-10-01T14:16:00Z",
+    "updated_at": "2024-10-01T14:22:22Z",
+    "chat_messages": [
+      {
+        "uuid": "60724c95-3c70-444a-ab69-705bd80306e3",
+        "text": "I bake sourdough almost daily and my starter is about 3 years old. Lately my loaves have been coming out dense with poor oven spring. I feed my starter with King Arthur bread flour. What am I doing wrong?",
+        "sender": "human",
+        "created_at": "2024-10-01T14:16:00Z"
+      },
+      {
+        "uuid": "c3344e76-320f-43af-b767-d81b121dd459",
+        "text": "With a 3-year-old starter, it's likely not the starter itself. Common causes of dense loaves with poor oven spring: 1) Overproofing -- the dough may be going too long, especially if your kitchen is warm. Try the poke test and catch it earlier. 2) Shaping tension -- practice tighter pre-shaping and final shaping. 3) Steam: if you're not using a Dutch oven, your oven isn't steamy enough for the first 20 minutes. 4) Flour hydration -- try reducing hydration by 5% to see if you get better structure. How's your bulk fermentation time?",
+        "sender": "assistant",
+        "created_at": "2024-10-01T14:17:48Z"
+      },
+      {
+        "uuid": "be4dfcf8-31f9-4b5e-8857-52c736f39068",
+        "text": "I do about 5-6 hours of bulk fermentation at room temperature. I use a Dutch oven for baking. I love pairing fresh bread with my garden tomatoes and homemade jam.",
+        "sender": "human",
+        "created_at": "2024-10-01T14:18:48Z"
+      },
+      {
+        "uuid": "eb567885-8173-4a2b-8c77-e434f8f4eb17",
+        "text": "5-6 hours at Portland room temp (60-68F) should be fine, but in summer it might be too long. Try using the windowpane test: stretch a small piece of dough -- if it holds without tearing, bulk is done. Other tips: cold retard in the fridge overnight after shaping gives better flavor AND oven spring. Score confidently with a sharp lame. For your tomato-and-bread pairing, try adding a touch of olive oil and fresh basil from your garden. Chef's kiss!",
+        "sender": "assistant",
+        "created_at": "2024-10-01T14:20:10Z"
+      }
+    ]
+  },
+  {
+    "uuid": "c17bc072-beeb-4f14-b71b-6ef1b20a7764",
+    "name": "Workshop organization ideas",
+    "created_at": "2024-02-27T12:51:00Z",
+    "updated_at": "2024-02-27T12:57:49Z",
+    "chat_messages": [
+      {
+        "uuid": "b2d09541-2bbe-48d8-bdfe-534d0b2afe86",
+        "text": "My workshop is attached to my craftsman house in Portland and it's getting cluttered. I have a good collection of hand tools and power tools from Duluth Trading and Rockler. I need a better organization system.",
+        "sender": "human",
+        "created_at": "2024-02-27T12:51:00Z"
+      },
+      {
+        "uuid": "b82f7123-b8be-4290-b769-d44859f03f97",
+        "text": "A craftsman house workshop deserves craftsman organization! Here's a system: 1) French cleat wall -- the most flexible tool storage system. Make cleats from plywood and custom holders for each tool. 2) Dedicated hand tool wall: chisels in a rack, hand saws on pegs, planes on a shelf. 3) Mobile bases for power tools -- roll them out when needed, store against walls. 4) Lumber rack: build a vertical rack for boards and sheet goods. 5) Finishing station: separate area with good ventilation for stains and finishes.",
+        "sender": "assistant",
+        "created_at": "2024-02-27T12:52:17Z"
+      },
+      {
+        "uuid": "1342591d-f789-42cf-8717-5a0c25549cb5",
+        "text": "I love the French cleat idea -- I can make those myself! My wife says I need to keep the sawdust under control too. I have a dust collection system but it's not great.",
+        "sender": "human",
+        "created_at": "2024-02-27T12:53:44Z"
+      },
+      {
+        "uuid": "82986e2b-6c37-4cd9-8831-8c83f7edb98e",
+        "text": "French cleats are a satisfying weekend project! For dust collection: 1) Upgrade to a two-stage system with a Thien baffle separator before your shop vac/collector. 2) Add blast gates at each tool connection. 3) Floor sweep near your workbench catches fine dust. 4) Air filtration: a ceiling-mounted air cleaner runs while you work. Budget option: build a box fan air filter with furnace filters. Good dust control protects your lungs and keeps sawdust out of the house -- your wife will appreciate that!",
+        "sender": "assistant",
+        "created_at": "2024-02-27T12:55:30Z"
+      }
+    ]
+  },
+  {
+    "uuid": "f54a8644-1117-4d8b-a117-e455ff566417",
+    "name": "Advanced composting techniques",
+    "created_at": "2024-05-26T17:59:00Z",
+    "updated_at": "2024-05-26T18:04:15Z",
+    "chat_messages": [
+      {
+        "uuid": "77ada7ec-02b3-4b3b-b46c-b811533f8b62",
+        "text": "I've been composting for years but want to improve my system. I have raised garden beds, fruit trees, and a pollinator garden in Portland. Currently using a three-bin system. How do I make better compost faster?",
+        "sender": "human",
+        "created_at": "2024-05-26T17:59:00Z"
+      },
+      {
+        "uuid": "4b8b2a4a-d95e-4b71-8999-f8673076d1a6",
+        "text": "Three-bin system is great! To speed things up: 1) Carbon-to-nitrogen ratio: aim for 30:1 (browns:greens by volume = roughly 3:1). 2) Chop materials smaller -- run leaves through a mower, break down kitchen scraps. 3) Turn weekly in the active bin. 4) Moisture level should feel like a wrung-out sponge. 5) Add compost activator: a shovelful of finished compost into a new pile inoculates it with microbes. With Portland's climate, you can compost year-round but winter batches are slower.",
+        "sender": "assistant",
+        "created_at": "2024-05-26T18:00:55Z"
+      },
+      {
+        "uuid": "1d0cdd67-4f2c-4632-bbf3-9bafa97b818e",
+        "text": "What about composting with worms? I've heard vermicomposting is great for garden soil. I also want to feed my heirloom tomato beds specifically.",
+        "sender": "human",
+        "created_at": "2024-05-26T18:02:18Z"
+      },
+      {
+        "uuid": "d345cb65-9a37-4c63-98e6-0bb9c33ccc45",
+        "text": "Vermicomposting is excellent for your tomatoes! Set up a worm bin in your workshop or garage (red wigglers, not earthworms). Worm castings are like black gold -- concentrated nutrients. Mix 1:3 with regular compost for tomato beds. Feed worms kitchen scraps minus citrus and onions. For your heirloom tomatoes specifically: worm casting tea (steep castings in water) applied biweekly during fruiting is incredible. Your fruit trees will love it too.",
+        "sender": "assistant",
+        "created_at": "2024-05-26T18:02:56Z"
+      }
+    ]
+  },
+  {
+    "uuid": "dd267c12-dedd-45db-9bfb-8b3e56b6ddb9",
+    "name": "Spring garden planning for Oregon",
+    "created_at": "2024-02-20T07:43:00Z",
+    "updated_at": "2024-02-20T07:49:03Z",
+    "chat_messages": [
+      {
+        "uuid": "a2870ddb-28b8-4d5f-86d5-fca8d80ab2d4",
+        "text": "It's time to plan my spring garden in Portland. I have raised beds, fruit trees (apple and pear), and a dedicated pollinator garden. I'm retired so I have time to really invest in it this year. I also love growing herbs for cooking.",
+        "sender": "human",
+        "created_at": "2024-02-20T07:43:00Z"
+      },
+      {
+        "uuid": "c4c242cb-0e0d-495e-b368-92655589f01d",
+        "text": "With retirement giving you more garden time, here's an ambitious spring plan: Raised beds: succession plant lettuce every 2 weeks starting March. Start tomato and pepper seeds indoors now. Direct sow peas, carrots, and radishes in March. Plant potatoes on St. Patrick's Day (PNW tradition). Fruit trees: prune apple and pear in February before bud break. Pollinator garden: add native Oregon species like Oregon grape, red flowering currant, and camas lily. Herbs: basil, cilantro, dill, and parsley in a dedicated bed near the kitchen.",
+        "sender": "assistant",
+        "created_at": "2024-02-20T07:44:47Z"
+      },
+      {
+        "uuid": "5dfc94b5-256e-4070-bee7-d6041978ef55",
+        "text": "I want to try growing some interesting herbs beyond the basics. I cook daily and love making sourdough. Also need plants that attract birds.",
+        "sender": "human",
+        "created_at": "2024-02-20T07:46:15Z"
+      },
+      {
+        "uuid": "c68b943d-c7d1-46b0-9912-f13e861573d3",
+        "text": "Interesting herbs for the adventurous cook: lemon verbena (incredible tea), Thai basil (stir-fries), lovage (celery-like, great in soups), shiso (Japanese herb, pairs with your sourdough), and Mexican oregano. For bird attraction: sunflowers (seed heads for finches), elderberry (berries for thrushes), and native honeysuckle (hummingbirds). Plant the sunflowers along the garden edge -- they attract both pollinators and seed-eating birds.",
+        "sender": "assistant",
+        "created_at": "2024-02-20T07:46:53Z"
+      }
+    ]
+  },
+  {
+    "uuid": "b420a3e9-2ce8-4fe8-bbbe-ba71adf34f29",
+    "name": "Volunteering as a teaching mentor",
+    "created_at": "2024-01-14T07:50:00Z",
+    "updated_at": "2024-01-14T07:55:37Z",
+    "chat_messages": [
+      {
+        "uuid": "4e0a547d-b0c0-4dbd-b4c5-fb8dccd08ff2",
+        "text": "I'm a retired high school teacher and I want to volunteer as a teaching mentor at local schools and the library. I spent 30 years teaching history. I also volunteer at the library already. How do I get started with mentoring?",
+        "sender": "human",
+        "created_at": "2024-01-14T07:50:00Z"
+      },
+      {
+        "uuid": "a14b0683-9d27-4d87-a601-45f1a417f8f1",
+        "text": "Your 30 years of teaching experience is invaluable! Getting started: 1) Contact Portland Public Schools' volunteer coordinator -- they always need mentors. 2) SMART (Start Making A Reader Today) is an Oregon-specific program that pairs volunteers with young readers. 3) For the library, propose a 'history alive' program where you bring historical topics to life for kids. 4) SCORE (Service Corps of Retired Executives) if you want to mentor adults too. Start with one commitment and build -- sustainability is key.",
+        "sender": "assistant",
+        "created_at": "2024-01-14T07:51:09Z"
+      },
+      {
+        "uuid": "d6cd717c-0981-4c93-bb43-7b4146a2f53f",
+        "text": "I love the history alive idea. I could tie it into my love of historical fiction and nature. My grandkids love when I tell them stories about history. I also make handmade wooden toys for them.",
+        "sender": "human",
+        "created_at": "2024-01-14T07:52:42Z"
+      },
+      {
+        "uuid": "6e234bc3-9457-4877-bc54-049d7c3f818b",
+        "text": "A 'History Through Nature' program would be unique and perfect for Portland! Ideas: teach about Lewis & Clark expedition using local landscapes, Oregon Trail history through hands-on activities, indigenous peoples' relationship with Pacific Northwest ecology. Bring in your handmade wooden toys as props -- kids learn better with tangible objects. Your grandkids can be your test audience. Consider partnering with the Oregon Historical Society for materials and credibility.",
+        "sender": "assistant",
+        "created_at": "2024-01-14T07:54:13Z"
+      }
+    ]
+  },
+  {
+    "uuid": "a3e56423-6ef4-4106-92b5-44d3850505bb",
+    "name": "Portland craft beer guide",
+    "created_at": "2024-03-24T21:38:00Z",
+    "updated_at": "2024-03-24T21:44:07Z",
+    "chat_messages": [
+      {
+        "uuid": "0405508d-e530-4e4a-aca4-becc12765dc3",
+        "text": "I live in Portland and love craft beer. I mainly drink at local breweries. I also enjoy dark roast coffee from local roasters. Can you recommend some breweries I might not know about?",
+        "sender": "human",
+        "created_at": "2024-03-24T21:38:00Z"
+      },
+      {
+        "uuid": "55759bfd-20c6-401a-87ca-f68b43d90d9f",
+        "text": "Portland's craft beer scene is vast! Beyond the well-known ones, try: 1) Wayfinder Beer (excellent lagers and Czech-style pilsners). 2) Culmination Brewing (innovative small batches). 3) Great Notion (hazies and pastry stouts if you're adventurous). 4) Upright Brewing (farmhouse ales in the basement of the Leftbank building). 5) Von Ebert at Glendoveer (great beer AND disc golf). For coffee: try Sterling Coffee Roasters, Heart Coffee, and Coava -- all excellent dark roasts.",
+        "sender": "assistant",
+        "created_at": "2024-03-24T21:39:35Z"
+      },
+      {
+        "uuid": "028daef6-2731-4389-ac9e-222f26f78b24",
+        "text": "I usually pair beer with BBQ or farm-to-table food. Any brewery + food combos you'd recommend? I prefer to support local and eat sustainably.",
+        "sender": "human",
+        "created_at": "2024-03-24T21:41:16Z"
+      },
+      {
+        "uuid": "31081e24-d538-4e00-a8cf-9b54cd103f6c",
+        "text": "Perfect Portland pairings: 1) Podnah's Pit BBQ + any local IPA (the brisket is legendary). 2) Ox Restaurant (farm-to-table Argentine grill) + Upright Brewing farmhouse ale. 3) Lardo (pork-focused) + Wayfinder pilsner. 4) Screen Door (Southern comfort) + Great Notion stout. For the most sustainable option, Culmination Brewing sources local ingredients and their taproom has great food. Many Portland breweries partner with local farms -- ask your bartender about sourcing.",
+        "sender": "assistant",
+        "created_at": "2024-03-24T21:42:07Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "personafy-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personafy Desktop — local-first privacy vault for AI agents",
+  "main": "dist-electron/main.js",
+  "scripts": {
+    "prebuild": "cd ../web && npm run build && cp -r dist ../desktop/web-dist",
+    "build:electron": "tsc -p tsconfig.json",
+    "dev": "npm run prebuild && npm run build:electron && electron .",
+    "build:mac": "npm run prebuild && npm run build:electron && electron-builder --mac",
+    "build:win": "npm run prebuild && npm run build:electron && electron-builder --win",
+    "build:linux": "npm run prebuild && npm run build:electron && electron-builder --linux"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "electron": "^35.7.5",
+    "electron-builder": "^26.7.0",
+    "electron-updater": "^6.3.9",
+    "typescript": "~5.9.3"
+  }
+}

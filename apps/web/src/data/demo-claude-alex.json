@@ -1,0 +1,322 @@
+[
+  {
+    "uuid": "41f60be0-7cef-4aa3-aaed-cf4a4599a084",
+    "name": "TypeScript utility types deep dive",
+    "created_at": "2024-02-10T16:01:00Z",
+    "updated_at": "2024-02-10T16:05:58Z",
+    "chat_messages": [
+      {
+        "uuid": "1d6608f7-02d3-4789-bbf8-322a12847494",
+        "text": "I've been working in TypeScript for about 3 years and I use VS Code with the TypeScript language server. What are some advanced utility types I should know? I prefer async-first patterns and work mostly in React codebases.",
+        "sender": "human",
+        "created_at": "2024-02-10T16:01:00Z"
+      },
+      {
+        "uuid": "4fa0336c-f4d2-4f48-9e22-010bcec2d5ef",
+        "text": "Great question! Since you work with React and TypeScript, here are some utility types that will level up your code. First, `Partial<T>` and `Required<T>` are essentials for component props. Then there's `Pick<T, K>` and `Omit<T, K>` for creating prop subsets. For async patterns, `Awaited<T>` is fantastic for unwrapping Promise types. Since you mentioned React, `ComponentProps<typeof Component>` is incredibly useful for extending component props. And `Record<K, V>` is great for typed dictionaries. Want me to dive deeper into any of these?",
+        "sender": "assistant",
+        "created_at": "2024-02-10T16:02:06Z"
+      },
+      {
+        "uuid": "110edc17-9ffb-4863-a62d-3f4c09274947",
+        "text": "Yes, tell me more about conditional types. I use Linear for project management and I'm thinking about building a type-safe API client for our team.",
+        "sender": "human",
+        "created_at": "2024-02-10T16:03:59Z"
+      },
+      {
+        "uuid": "bca9e904-e565-4a21-8b89-c9f745869e99",
+        "text": "Conditional types are powerful for building type-safe API clients! The basic syntax is `T extends U ? X : Y`. Here's a practical example for your API client...",
+        "sender": "assistant",
+        "created_at": "2024-02-10T16:04:46Z"
+      }
+    ]
+  },
+  {
+    "uuid": "b7a115ef-c2bf-468a-991b-8be9fe19dbb5",
+    "name": "Trail running nutrition tips",
+    "created_at": "2024-07-03T19:09:00Z",
+    "updated_at": "2024-07-03T19:14:43Z",
+    "chat_messages": [
+      {
+        "uuid": "083c2879-ec46-4de3-8ea4-3d37b350c341",
+        "text": "I'm training for my first ultra marathon and need nutrition advice. I follow a plant-based diet and currently run about 50 miles per week in my Hoka Speedgoats. I track everything on Strava.",
+        "sender": "human",
+        "created_at": "2024-07-03T19:09:00Z"
+      },
+      {
+        "uuid": "c66c7e86-5b46-4bc0-807a-17c2521739ea",
+        "text": "That's great that you're training for an ultra! With a plant-based diet and that mileage base, nutrition timing is crucial. For long runs over 90 minutes, aim for 200-300 calories per hour from easily digestible sources. Some plant-based options include: dates and nut butter wraps, Medjool dates with sea salt, plant-based gels like Huma or Spring Energy, and homemade rice balls with miso. Pre-run, I'd suggest oats with banana and almond butter about 2 hours before. Post-run, a smoothie with Vega protein, banana, and spinach works great for recovery.",
+        "sender": "assistant",
+        "created_at": "2024-07-03T19:09:52Z"
+      },
+      {
+        "uuid": "056f89f8-16fe-4c7a-a951-40eb18004d45",
+        "text": "What about hydration? I usually run trails around Marin and it gets warm. I use a Salomon soft flask. Also, should I take creatine as a supplement? I already take vitamin D and B12.",
+        "sender": "human",
+        "created_at": "2024-07-03T19:11:02Z"
+      },
+      {
+        "uuid": "b2fda54c-6303-486d-88ac-b3b05126362c",
+        "text": "For trail running in Marin's heat, hydration is critical. With your Salomon soft flask, aim for 16-24oz per hour depending on temperature. Add electrolytes -- look for plant-based options like Skratch Labs or Nuun. On creatine, there's actually growing evidence it helps endurance athletes too, not just strength training. Since you're already on D and B12 (smart for plant-based), adding 3-5g of creatine monohydrate daily could support your training.",
+        "sender": "assistant",
+        "created_at": "2024-07-03T19:12:14Z"
+      }
+    ]
+  },
+  {
+    "uuid": "bb673969-a1ce-4fb5-9e1e-716f8970646a",
+    "name": "Minimalist apartment organization",
+    "created_at": "2024-10-26T14:37:00Z",
+    "updated_at": "2024-10-26T14:43:49Z",
+    "chat_messages": [
+      {
+        "uuid": "e8dc4e64-7e20-4ae3-8f53-50fba9ca0d27",
+        "text": "I live in a 1BR apartment in San Francisco and I'm going for a minimalist Japanese style. I have Sonos speakers and Hue lights already. What else would help create that aesthetic?",
+        "sender": "human",
+        "created_at": "2024-10-26T14:37:00Z"
+      },
+      {
+        "uuid": "27ec9993-59f1-4611-b5ac-dddfe96963c4",
+        "text": "Love the minimalist Japanese direction! With your Sonos and Hue setup, you've got great foundations for ambiance. Here are some suggestions for your 1BR: Consider a low-profile platform bed -- Japanese futon-style or a simple walnut frame. For storage, look at muji-style modular shelving that doubles as room dividers. A simple tatami mat area for meditation would tie the theme together. For lighting, set your Hue bulbs to warm tones (2700K) in the evening. Plants like a single bonsai or snake plant add life without clutter.",
+        "sender": "assistant",
+        "created_at": "2024-10-26T14:38:17Z"
+      },
+      {
+        "uuid": "7ffdf292-3fea-418f-8453-7ef1c9e201c1",
+        "text": "Great ideas. I meditate daily using Headspace so a dedicated space would be nice. What about my desk setup? I work remote as a software engineer.",
+        "sender": "human",
+        "created_at": "2024-10-26T14:40:07Z"
+      },
+      {
+        "uuid": "6a1c79ff-35bd-4a58-8b35-72ba6c8cf78b",
+        "text": "For a remote software engineer with a minimalist aesthetic, I'd suggest a clean standing desk in walnut or white oak. Cable management is key -- use under-desk trays and a single power strip. A monitor arm keeps your desk surface clean. Since you use Headspace for daily meditation, you could position a small cushion area near the window for natural light during morning sessions.",
+        "sender": "assistant",
+        "created_at": "2024-10-26T14:41:56Z"
+      }
+    ]
+  },
+  {
+    "uuid": "8deb93bd-7499-411a-9598-827324b80cdb",
+    "name": "Strava training plan for ultra",
+    "created_at": "2024-02-18T18:03:00Z",
+    "updated_at": "2024-02-18T18:07:49Z",
+    "chat_messages": [
+      {
+        "uuid": "e71a640f-9cc9-4f9d-83e1-82eee1ed1749",
+        "text": "I'm using Strava to track my runs 5 times a week. Can you help me build a training plan for a 50K ultra? I'm an early bird and usually wake up at 6am. My current long run is about 15 miles.",
+        "sender": "human",
+        "created_at": "2024-02-18T18:03:00Z"
+      },
+      {
+        "uuid": "a886b6a8-8b13-4606-9bd0-51589fcf0a28",
+        "text": "With your 5x/week schedule and 6am wake-up, here's a solid 16-week 50K plan. Your current 15-mile long run is a great starting point. The plan peaks at about 55-60 miles per week. Week structure: Monday rest, Tuesday speed work (tempo or intervals), Wednesday easy 6-8mi, Thursday hills, Friday easy 5mi, Saturday long run (building from 16 to 28mi), Sunday recovery yoga or light jog.",
+        "sender": "assistant",
+        "created_at": "2024-02-18T18:03:33Z"
+      },
+      {
+        "uuid": "51787e46-49d8-4eda-8588-8aed8542c3ff",
+        "text": "That sounds solid. I also do rock climbing on Wednesdays and yoga on rest days. Should I adjust anything?",
+        "sender": "human",
+        "created_at": "2024-02-18T18:05:23Z"
+      },
+      {
+        "uuid": "9f459a49-0291-49fa-aed0-8d072b0bd6c1",
+        "text": "Great cross-training! Climbing builds grip and core strength useful for technical trails. I'd move your Wednesday easy run to morning (since you wake at 6am anyway) and climb in the evening. Keep yoga on Monday rest day. The only concern is fatigue -- if climbing affects your Thursday hills session, consider making Wednesday a lighter climbing day during peak training weeks.",
+        "sender": "assistant",
+        "created_at": "2024-02-18T18:06:31Z"
+      }
+    ]
+  },
+  {
+    "uuid": "1a4d7cd8-de09-423d-b1df-4cea66b7c672",
+    "name": "Quick vegan weeknight meals",
+    "created_at": "2024-01-20T17:39:00Z",
+    "updated_at": "2024-01-20T17:45:47Z",
+    "chat_messages": [
+      {
+        "uuid": "33531265-706a-466b-b476-0fd747426582",
+        "text": "I cook about 3-4 times a week and follow a plant-based diet. I love Japanese, Thai, Mexican, and Mediterranean cuisines. Can you give me some quick weeknight recipes?",
+        "sender": "human",
+        "created_at": "2024-01-20T17:39:00Z"
+      },
+      {
+        "uuid": "a51cb882-3e08-4c52-b8ba-5342454d2a8d",
+        "text": "Here are some go-to weeknight recipes that fit your cuisine preferences. Japanese: Miso ramen with tofu, mushrooms, and bok choy -- 20 minutes. Thai: Green curry with vegetables and coconut milk over jasmine rice -- 25 minutes. Mexican: Black bean tacos with pickled onions, avocado, and cilantro-lime slaw -- 15 minutes. Mediterranean: Shakshuka-style chickpea stew with crusty bread -- 20 minutes.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T17:40:12Z"
+      },
+      {
+        "uuid": "399e70e1-a9cb-4433-b40b-bc3d84c37b5d",
+        "text": "These are great. I usually order from DoorDash when I'm too tired but I want to cook more. What about meal prep on Sundays?",
+        "sender": "human",
+        "created_at": "2024-01-20T17:42:02Z"
+      },
+      {
+        "uuid": "05cfbde9-fdfe-4571-a60f-fb1d0714675c",
+        "text": "Sunday meal prep is a game-changer for cutting DoorDash spending! Here's a 2-hour prep session: Cook a big batch of rice and quinoa, roast a sheet pan of seasonal vegetables, make a large pot of dal or lentil soup, prep overnight oats with banana and almond butter for pre-run breakfasts, and make a big batch of hummus. These components mix-and-match into different meals throughout the week.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T17:43:35Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2cc32b79-1857-467d-bac6-f3bad8248a03",
+    "name": "Best vegan restaurants in SF",
+    "created_at": "2024-10-07T08:57:00Z",
+    "updated_at": "2024-10-07T09:04:02Z",
+    "chat_messages": [
+      {
+        "uuid": "21dcb20a-b146-4740-908e-189c1774622e",
+        "text": "I'm looking for great plant-based restaurant options in San Francisco. I love Japanese and Thai food especially. My usual go-to delivery is DoorDash but I want to eat out more. Budget is mid-range.",
+        "sender": "human",
+        "created_at": "2024-10-07T08:57:00Z"
+      },
+      {
+        "uuid": "152c41bd-29e7-4eac-9a50-0de5cb7775ad",
+        "text": "SF has an incredible plant-based scene! For Japanese, check out Shizen -- they do amazing vegan sushi and ramen. For Thai, Kin Khao has several great vegan options. Here are more picks: Gracias Madre for upscale Mexican, Wildseed for modern Californian, and Nourish Cafe for casual bowls. For mid-range budgets, most of these have entrees in the $15-25 range.",
+        "sender": "assistant",
+        "created_at": "2024-10-07T08:58:20Z"
+      },
+      {
+        "uuid": "b5473e58-c132-4e4c-a91c-63e3b21cdfc2",
+        "text": "Shizen sounds perfect. I've heard good things about their omakase. Any other neighborhoods I should explore? I'm in the Mission area.",
+        "sender": "human",
+        "created_at": "2024-10-07T09:00:15Z"
+      },
+      {
+        "uuid": "638e6a82-e67f-4343-9959-b9d3db28d439",
+        "text": "The Mission is perfect for plant-based dining! Beyond Shizen (which is actually in the Castro, short walk from Mission), explore Valencia Street for cafes. The Sunset has great Asian options. Also check the Inner Richmond for Burmese and Vietnamese restaurants with solid vegan options.",
+        "sender": "assistant",
+        "created_at": "2024-10-07T09:01:42Z"
+      }
+    ]
+  },
+  {
+    "uuid": "e275aa47-66f8-4fb6-843d-037861d605a8",
+    "name": "Mechanical keyboard for coding",
+    "created_at": "2024-07-06T22:56:00Z",
+    "updated_at": "2024-07-06T23:02:37Z",
+    "chat_messages": [
+      {
+        "uuid": "970b086b-5235-42b1-927e-39e207b26167",
+        "text": "I'm a software engineer working remote and I want to upgrade my keyboard. I use VS Code daily and prefer a minimalist setup. I've been looking at the Keychron Q1 and the HHKB. Budget is around $200-300.",
+        "sender": "human",
+        "created_at": "2024-07-06T22:56:00Z"
+      },
+      {
+        "uuid": "6a349853-b126-417a-b8c2-d8aed5e5dd91",
+        "text": "Both great choices for a minimalist coding setup! The Keychron Q1 Pro is a 75% layout with hot-swappable switches, QMK/VIA support, and aluminum construction -- around $200. The HHKB Professional Hybrid is a 60% with Topre switches, Bluetooth, and that legendary typing feel -- around $280. For VS Code work, consider: the HHKB's compact layout means less hand movement but has a learning curve with its unique layout. The Q1 is more conventional. If you like customization, Q1 wins. If you want that premium typing experience, HHKB.",
+        "sender": "assistant",
+        "created_at": "2024-07-06T22:57:52Z"
+      },
+      {
+        "uuid": "e2defb14-701a-48cf-9d48-cf2b5244b937",
+        "text": "I think the HHKB fits my minimalist Japanese apartment aesthetic better. Do I need anything else for my setup?",
+        "sender": "human",
+        "created_at": "2024-07-06T22:58:51Z"
+      },
+      {
+        "uuid": "f07efeaa-f434-42b7-901c-1977373e233c",
+        "text": "The HHKB would look stunning in a minimalist Japanese setup! Pair it with: a simple desk mat in dark grey or natural leather, a wooden wrist rest (walnut matches Japanese aesthetic), and keep your desk clean with a monitor arm.",
+        "sender": "assistant",
+        "created_at": "2024-07-06T23:00:34Z"
+      }
+    ]
+  },
+  {
+    "uuid": "ae60b18f-0047-4325-b546-8f5889e8d5dc",
+    "name": "React performance optimization",
+    "created_at": "2024-07-19T07:55:00Z",
+    "updated_at": "2024-07-19T08:00:07Z",
+    "chat_messages": [
+      {
+        "uuid": "ea8ee180-db32-4eeb-a3f0-986fd9504964",
+        "text": "I'm working on a React app using TypeScript and we have performance issues with re-renders. We use React 19 and I've been profiling with Chrome DevTools. Our team uses Slack for async communication and Linear for tickets.",
+        "sender": "human",
+        "created_at": "2024-07-19T07:55:00Z"
+      },
+      {
+        "uuid": "aa8dc6ce-967c-44df-8e28-2fc2a6d00285",
+        "text": "React 19 has some built-in improvements, but here's a systematic approach to fixing re-renders. First, use React DevTools Profiler to identify which components re-render most. Common fixes: 1) Memoize expensive computations with useMemo, 2) Use React.memo for pure display components, 3) Move state down -- keep state close to where it's used, 4) Use useCallback for event handlers passed as props.",
+        "sender": "assistant",
+        "created_at": "2024-07-19T07:56:29Z"
+      },
+      {
+        "uuid": "3aace406-9310-4baf-a89e-be553ba3b682",
+        "text": "We also have a lot of context providers. Is there a better state management pattern? I prefer concise, direct approaches.",
+        "sender": "human",
+        "created_at": "2024-07-19T07:57:06Z"
+      },
+      {
+        "uuid": "9f0b2e55-15de-4fcd-8c9a-55db0fd629ea",
+        "text": "Context provider proliferation is a common React performance killer. Consider: splitting your contexts into smaller, focused pieces (e.g., separate UserContext from ThemeContext). For frequently changing state, consider Zustand -- it's minimal and TypeScript-friendly. For server state, React Query handles caching and revalidation elegantly. Since you prefer direct approaches, Zustand is probably your best bet -- it's essentially a hook-based store with zero boilerplate.",
+        "sender": "assistant",
+        "created_at": "2024-07-19T07:58:04Z"
+      }
+    ]
+  },
+  {
+    "uuid": "508ed515-d03d-4dad-8839-a6f3a70c591d",
+    "name": "Rock climbing gear for intermediate",
+    "created_at": "2024-08-26T22:53:00Z",
+    "updated_at": "2024-08-26T22:59:23Z",
+    "chat_messages": [
+      {
+        "uuid": "0d9cd29b-97fc-4f74-a18a-7263b1646563",
+        "text": "I've been climbing for about a year, mostly bouldering at the gym and some outdoor sport climbing. I'm looking to upgrade my gear. I wear size 10.5 shoe and prefer Patagonia for outdoor clothing. Budget is mid-range.",
+        "sender": "human",
+        "created_at": "2024-08-26T22:53:00Z"
+      },
+      {
+        "uuid": "be71018e-7682-4e9d-a8d3-df47fec00bd1",
+        "text": "For intermediate climbing, here's a gear upgrade path. Shoes: since you wear 10.5, try the La Sportiva Solution or Scarpa Instinct in your gym -- climbing shoes should fit snug. For outdoor sport climbing: a good harness like the Petzl Adjama, a GriGri+ for belaying, and quickdraw sets. Since you like Patagonia, their Houdini jacket is perfect for crag days -- packable windbreaker.",
+        "sender": "assistant",
+        "created_at": "2024-08-26T22:54:21Z"
+      },
+      {
+        "uuid": "3eff8d30-62a0-4fb0-8b23-acb090d3c953",
+        "text": "What about a crash pad for bouldering? I go to spots around Joshua Tree and Yosemite sometimes. I usually travel with just carry-on when I fly United or Alaska.",
+        "sender": "human",
+        "created_at": "2024-08-26T22:55:39Z"
+      },
+      {
+        "uuid": "f4213d80-5cd7-496f-9552-406a0ff6f745",
+        "text": "For bouldering trips to Joshua Tree and Yosemite, the Organic Big Pad or Metolius Session II are top picks. Since you're carry-on only on United/Alaska, you'll likely need to check the pad or drive. For road trips from SF, consider a pad with backpack straps for the approach. Pro tip: the Organic pads fold to fit in most car trunks easily.",
+        "sender": "assistant",
+        "created_at": "2024-08-26T22:56:57Z"
+      }
+    ]
+  },
+  {
+    "uuid": "25d5565f-8dc4-4333-9663-980614ec11e1",
+    "name": "Planning a trip to Tokyo and Kyoto",
+    "created_at": "2024-07-11T13:00:00Z",
+    "updated_at": "2024-07-11T13:06:27Z",
+    "chat_messages": [
+      {
+        "uuid": "223f0d6b-be53-458e-93fb-da826801d220",
+        "text": "I'm planning my first trip to Japan -- Tokyo and Kyoto. I usually fly United or Alaska, prefer window seats and economy class. I love Japanese food (plant-based) and minimalist design. Planning about 10 days.",
+        "sender": "human",
+        "created_at": "2024-07-11T13:00:00Z"
+      },
+      {
+        "uuid": "c6a7c53b-9d60-4e1f-9767-dbf1111f5f4f",
+        "text": "Japan is perfect for you! For a 10-day itinerary: Tokyo (5 days) then Kyoto (5 days) connected by the Shinkansen. Flights: United has direct SFO-NRT. For plant-based dining in Tokyo, check out T's TanTan in Tokyo Station (vegan ramen), Ain Soph Ripple in Shinjuku, and Afuri for yuzu shio ramen with veggie options. In Kyoto, try Shigetsu at Tenryu-ji temple for shojin ryori (Buddhist vegetarian cuisine).",
+        "sender": "assistant",
+        "created_at": "2024-07-11T13:01:55Z"
+      },
+      {
+        "uuid": "19715f9c-cc5a-401e-9496-32689ba13d51",
+        "text": "Amazing recommendations. I want to visit some minimalist design shops and maybe find inspiration for my apartment. I also want to do some trail running. I usually book Airbnbs.",
+        "sender": "human",
+        "created_at": "2024-07-11T13:03:17Z"
+      },
+      {
+        "uuid": "a052530b-22a4-4d01-aacf-80de8966e610",
+        "text": "For design inspiration: visit Muji's flagship in Ginza, D&Department in Shibuya, Kapital in Ebisu, and the 21_21 Design Sight museum. For trail running, the Kamakura trails are accessible from Tokyo (1hr train), and in Kyoto the Fushimi Inari trail is incredible at sunrise. For Airbnb, look in Shimokitazawa (Tokyo) or near Philosopher's Path (Kyoto) for that minimalist Japanese aesthetic you love.",
+        "sender": "assistant",
+        "created_at": "2024-07-11T13:05:11Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2922 @@
+[
+  {
+    "title": "Best trail running shoes for ultras",
+    "create_time": 1726203600.0,
+    "update_time": 1726203764.0,
+    "mapping": {
+      "root_alex_0": {
+        "id": "root_alex_0",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_0"
+        ]
+      },
+      "sys_alex_0": {
+        "id": "sys_alex_0",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1726203600.0
+        },
+        "parent": "root_alex_0",
+        "children": [
+          "user_alex_0_0"
+        ]
+      },
+      "user_alex_0_0": {
+        "id": "user_alex_0_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm training for my first 50K ultra and need shoe advice. I currently run in Hoka Speedgoat 5 size 10.5 and love them, but wondering about alternatives for different terrain."
+            ]
+          },
+          "create_time": 1726203600.0
+        },
+        "parent": "sys_alex_0",
+        "children": [
+          "asst_alex_0_0"
+        ]
+      },
+      "asst_alex_0_0": {
+        "id": "asst_alex_0_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question! For trail running, shoe choice really depends on the terrain and distance. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1726203621.0
+        },
+        "parent": "user_alex_0_0",
+        "children": [
+          "user_alex_0_1"
+        ]
+      },
+      "user_alex_0_1": {
+        "id": "user_alex_0_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Thanks! I mostly run trails around Marin and Big Sur. I do about 50 miles per week on a plant-based diet. What about nutrition for long runs?"
+            ]
+          },
+          "create_time": 1726203645.0
+        },
+        "parent": "asst_alex_0_0",
+        "children": [
+          "asst_alex_0_1"
+        ]
+      },
+      "asst_alex_0_1": {
+        "id": "asst_alex_0_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. The key is finding what aligns with your lifestyle and preferences. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1726203659.0
+        },
+        "parent": "user_alex_0_1",
+        "children": [
+          "user_alex_0_2"
+        ]
+      },
+      "user_alex_0_2": {
+        "id": "user_alex_0_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use Strava to track all my runs. My goal pace is around 10 min/mile for the ultra. Any training plan suggestions?"
+            ]
+          },
+          "create_time": 1726203705.0
+        },
+        "parent": "asst_alex_0_1",
+        "children": [
+          "asst_alex_0_2"
+        ]
+      },
+      "asst_alex_0_2": {
+        "id": "asst_alex_0_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about best trail running shoes for ultras! Here are my recommendations. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1726203710.0
+        },
+        "parent": "user_alex_0_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Minimalist apartment design ideas",
+    "create_time": 1723870800.0,
+    "update_time": 1723870972.0,
+    "mapping": {
+      "root_alex_1": {
+        "id": "root_alex_1",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_1"
+        ]
+      },
+      "sys_alex_1": {
+        "id": "sys_alex_1",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723870800.0
+        },
+        "parent": "root_alex_1",
+        "children": [
+          "user_alex_1_0"
+        ]
+      },
+      "user_alex_1_0": {
+        "id": "user_alex_1_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm redesigning my 1BR apartment in San Francisco with a Japanese minimalist aesthetic. Think Muji meets mid-century. Budget around $3000."
+            ]
+          },
+          "create_time": 1723870800.0
+        },
+        "parent": "sys_alex_1",
+        "children": [
+          "asst_alex_1_0"
+        ]
+      },
+      "asst_alex_1_0": {
+        "id": "asst_alex_1_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great approach to your portfolio. Let me share some strategies that work well for freelancers. Quality over quantity is usually the best strategy here. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1723870827.0
+        },
+        "parent": "user_alex_1_0",
+        "children": [
+          "user_alex_1_1"
+        ]
+      },
+      "user_alex_1_1": {
+        "id": "user_alex_1_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I already have Sonos speakers and Hue lights. Looking for furniture that's functional but clean. Maybe a platform bed frame?"
+            ]
+          },
+          "create_time": 1723870886.0
+        },
+        "parent": "asst_alex_1_0",
+        "children": [
+          "asst_alex_1_1"
+        ]
+      },
+      "asst_alex_1_1": {
+        "id": "asst_alex_1_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1723870913.0
+        },
+        "parent": "user_alex_1_1",
+        "children": [
+          "user_alex_1_2"
+        ]
+      },
+      "user_alex_1_2": {
+        "id": "user_alex_1_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Love those suggestions. I also need a desk setup for remote work - I use a standing desk with my MacBook and external monitor."
+            ]
+          },
+          "create_time": 1723870944.0
+        },
+        "parent": "asst_alex_1_1",
+        "children": [
+          "asst_alex_1_2"
+        ]
+      },
+      "asst_alex_1_2": {
+        "id": "asst_alex_1_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1723870958.0
+        },
+        "parent": "user_alex_1_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best vegan protein sources for athletes",
+    "create_time": 1730178000.0,
+    "update_time": 1730178126.0,
+    "mapping": {
+      "root_alex_2": {
+        "id": "root_alex_2",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_2"
+        ]
+      },
+      "sys_alex_2": {
+        "id": "sys_alex_2",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1730178000.0
+        },
+        "parent": "root_alex_2",
+        "children": [
+          "user_alex_2_0"
+        ]
+      },
+      "user_alex_2_0": {
+        "id": "user_alex_2_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "As a plant-based runner training for an ultra, I need to up my protein. Currently getting about 80g/day from tofu, tempeh, and Vega protein powder."
+            ]
+          },
+          "create_time": 1730178000.0
+        },
+        "parent": "sys_alex_2",
+        "children": [
+          "asst_alex_2_0"
+        ]
+      },
+      "asst_alex_2_0": {
+        "id": "asst_alex_2_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great gardening question! Let me share some tips specific to your region. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1730178008.0
+        },
+        "parent": "user_alex_2_0",
+        "children": [
+          "user_alex_2_1"
+        ]
+      },
+      "user_alex_2_1": {
+        "id": "user_alex_2_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I usually do oat milk lattes with light roast coffee in the morning. Should I add protein to that?"
+            ]
+          },
+          "create_time": 1730178058.0
+        },
+        "parent": "asst_alex_2_0",
+        "children": [
+          "asst_alex_2_1"
+        ]
+      },
+      "asst_alex_2_1": {
+        "id": "asst_alex_2_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about best vegan protein sources for athletes! Here are my recommendations. Many enthusiasts in your situation have found great results with this approach. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1730178072.0
+        },
+        "parent": "user_alex_2_1",
+        "children": [
+          "user_alex_2_2"
+        ]
+      },
+      "user_alex_2_2": {
+        "id": "user_alex_2_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "What about meal prep? I cook about 3-4 times a week. Favorite cuisines are Japanese, Thai, and Mexican."
+            ]
+          },
+          "create_time": 1730178088.0
+        },
+        "parent": "asst_alex_2_1",
+        "children": [
+          "asst_alex_2_2"
+        ]
+      },
+      "asst_alex_2_2": {
+        "id": "asst_alex_2_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1730178108.0
+        },
+        "parent": "user_alex_2_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "TypeScript best practices for React",
+    "create_time": 1722920400.0,
+    "update_time": 1722920624.0,
+    "mapping": {
+      "root_alex_3": {
+        "id": "root_alex_3",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_3"
+        ]
+      },
+      "sys_alex_3": {
+        "id": "sys_alex_3",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1722920400.0
+        },
+        "parent": "root_alex_3",
+        "children": [
+          "user_alex_3_0"
+        ]
+      },
+      "user_alex_3_0": {
+        "id": "user_alex_3_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Working on a React 19 project using TypeScript, Vite, and Tailwind. What are the current best practices for type-safe state management?"
+            ]
+          },
+          "create_time": 1722920400.0
+        },
+        "parent": "sys_alex_3",
+        "children": [
+          "asst_alex_3_0"
+        ]
+      },
+      "asst_alex_3_0": {
+        "id": "asst_alex_3_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about typescript best practices for react! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1722920428.0
+        },
+        "parent": "user_alex_3_0",
+        "children": [
+          "user_alex_3_1"
+        ]
+      },
+      "user_alex_3_1": {
+        "id": "user_alex_3_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use VS Code with the TypeScript extension, ESLint, and Prettier. My team uses Linear for project management and GitHub for version control."
+            ]
+          },
+          "create_time": 1722920481.0
+        },
+        "parent": "asst_alex_3_0",
+        "children": [
+          "asst_alex_3_1"
+        ]
+      },
+      "asst_alex_3_1": {
+        "id": "asst_alex_3_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Consider your budget and long-term goals when making your decision. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1722920507.0
+        },
+        "parent": "user_alex_3_1",
+        "children": [
+          "user_alex_3_2"
+        ]
+      },
+      "user_alex_3_2": {
+        "id": "user_alex_3_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We're async-first and remote. I find that good types reduce the need for Slack messages about API contracts."
+            ]
+          },
+          "create_time": 1722920564.0
+        },
+        "parent": "asst_alex_3_1",
+        "children": [
+          "asst_alex_3_2"
+        ]
+      },
+      "asst_alex_3_2": {
+        "id": "asst_alex_3_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1722920591.0
+        },
+        "parent": "user_alex_3_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Planning a trip to Tokyo",
+    "create_time": 1727586000.0,
+    "update_time": 1727586143.0,
+    "mapping": {
+      "root_alex_4": {
+        "id": "root_alex_4",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_4"
+        ]
+      },
+      "sys_alex_4": {
+        "id": "sys_alex_4",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1727586000.0
+        },
+        "parent": "root_alex_4",
+        "children": [
+          "user_alex_4_0"
+        ]
+      },
+      "user_alex_4_0": {
+        "id": "user_alex_4_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning a 2-week trip to Tokyo and Kyoto. I usually fly United economy window seat. Budget is mid-range, prefer Airbnb or simple hotels."
+            ]
+          },
+          "create_time": 1727586000.0
+        },
+        "parent": "sys_alex_4",
+        "children": [
+          "asst_alex_4_0"
+        ]
+      },
+      "asst_alex_4_0": {
+        "id": "asst_alex_4_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great choice for a trip! Let me help you plan the details. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1727586025.0
+        },
+        "parent": "user_alex_4_0",
+        "children": [
+          "user_alex_4_1"
+        ]
+      },
+      "user_alex_4_1": {
+        "id": "user_alex_4_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm a trail runner so I'd love to find running routes. Also interested in minimalist design stores, Japanese coffee shops, and vegan restaurants."
+            ]
+          },
+          "create_time": 1727586044.0
+        },
+        "parent": "asst_alex_4_0",
+        "children": [
+          "asst_alex_4_1"
+        ]
+      },
+      "asst_alex_4_1": {
+        "id": "asst_alex_4_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The Hoka Speedgoat is a solid choice for ultras. Here are some alternatives to consider. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1727586056.0
+        },
+        "parent": "user_alex_4_1",
+        "children": [
+          "user_alex_4_2"
+        ]
+      },
+      "user_alex_4_2": {
+        "id": "user_alex_4_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I usually travel 4-5 times a year. This would be my first time in Japan. Any tips for a solo traveler?"
+            ]
+          },
+          "create_time": 1727586105.0
+        },
+        "parent": "asst_alex_4_1",
+        "children": [
+          "asst_alex_4_2"
+        ]
+      },
+      "asst_alex_4_2": {
+        "id": "asst_alex_4_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that destination, here's an itinerary suggestion based on your travel style. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1727586133.0
+        },
+        "parent": "user_alex_4_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Rock climbing gear for beginners",
+    "create_time": 1722142800.0,
+    "update_time": 1722142930.0,
+    "mapping": {
+      "root_alex_5": {
+        "id": "root_alex_5",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_5"
+        ]
+      },
+      "sys_alex_5": {
+        "id": "sys_alex_5",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1722142800.0
+        },
+        "parent": "root_alex_5",
+        "children": [
+          "user_alex_5_0"
+        ]
+      },
+      "user_alex_5_0": {
+        "id": "user_alex_5_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I've been bouldering at the gym for 6 months and want to start outdoor climbing. I'm in the Bay Area so lots of options."
+            ]
+          },
+          "create_time": 1722142800.0
+        },
+        "parent": "sys_alex_5",
+        "children": [
+          "asst_alex_5_0"
+        ]
+      },
+      "asst_alex_5_0": {
+        "id": "asst_alex_5_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1722142805.0
+        },
+        "parent": "user_alex_5_0",
+        "children": [
+          "user_alex_5_1"
+        ]
+      },
+      "user_alex_5_1": {
+        "id": "user_alex_5_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I already do yoga 2x/week for flexibility which helps. What shoes and harness do you recommend for someone with size 10.5 feet?"
+            ]
+          },
+          "create_time": 1722142849.0
+        },
+        "parent": "asst_alex_5_0",
+        "children": [
+          "asst_alex_5_1"
+        ]
+      },
+      "asst_alex_5_1": {
+        "id": "asst_alex_5_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The Hoka Speedgoat is a solid choice for ultras. Here are some alternatives to consider. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1722142863.0
+        },
+        "parent": "user_alex_5_1",
+        "children": [
+          "user_alex_5_2"
+        ]
+      },
+      "user_alex_5_2": {
+        "id": "user_alex_5_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget-wise I'm thinking mid-range. I shop at REI and Patagonia mostly."
+            ]
+          },
+          "create_time": 1722142898.0
+        },
+        "parent": "asst_alex_5_1",
+        "children": [
+          "asst_alex_5_2"
+        ]
+      },
+      "asst_alex_5_2": {
+        "id": "asst_alex_5_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1722142906.0
+        },
+        "parent": "user_alex_5_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best mechanical keyboards for coding",
+    "create_time": 1730610000.0,
+    "update_time": 1730610201.0,
+    "mapping": {
+      "root_alex_6": {
+        "id": "root_alex_6",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_6"
+        ]
+      },
+      "sys_alex_6": {
+        "id": "sys_alex_6",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1730610000.0
+        },
+        "parent": "root_alex_6",
+        "children": [
+          "user_alex_6_0"
+        ]
+      },
+      "user_alex_6_0": {
+        "id": "user_alex_6_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for a quiet mechanical keyboard for coding. I work from home and need something ergonomic. Currently using the built-in MacBook keyboard."
+            ]
+          },
+          "create_time": 1730610000.0
+        },
+        "parent": "sys_alex_6",
+        "children": [
+          "asst_alex_6_0"
+        ]
+      },
+      "asst_alex_6_0": {
+        "id": "asst_alex_6_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. Start with the essentials and build from there as you discover what works for you. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1730610027.0
+        },
+        "parent": "user_alex_6_0",
+        "children": [
+          "user_alex_6_1"
+        ]
+      },
+      "user_alex_6_1": {
+        "id": "user_alex_6_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I code in TypeScript/React all day. Want something with good tactile feedback but won't annoy my neighbors in this apartment."
+            ]
+          },
+          "create_time": 1730610080.0
+        },
+        "parent": "asst_alex_6_0",
+        "children": [
+          "asst_alex_6_1"
+        ]
+      },
+      "asst_alex_6_1": {
+        "id": "asst_alex_6_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. I'd recommend trying a few different options to see what works best for your specific situation. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1730610104.0
+        },
+        "parent": "user_alex_6_1",
+        "children": [
+          "user_alex_6_2"
+        ]
+      },
+      "user_alex_6_2": {
+        "id": "user_alex_6_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Thinking about the Keychron Q1 or HHKB. I like the minimalist aesthetic."
+            ]
+          },
+          "create_time": 1730610125.0
+        },
+        "parent": "asst_alex_6_1",
+        "children": [
+          "asst_alex_6_2"
+        ]
+      },
+      "asst_alex_6_2": {
+        "id": "asst_alex_6_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1730610150.0
+        },
+        "parent": "user_alex_6_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Morning routine optimization",
+    "create_time": 1723698000.0,
+    "update_time": 1723698169.0,
+    "mapping": {
+      "root_alex_7": {
+        "id": "root_alex_7",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_7"
+        ]
+      },
+      "sys_alex_7": {
+        "id": "sys_alex_7",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723698000.0
+        },
+        "parent": "root_alex_7",
+        "children": [
+          "user_alex_7_0"
+        ]
+      },
+      "user_alex_7_0": {
+        "id": "user_alex_7_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I wake up at 6am and want to optimize my morning. Currently: meditate with Headspace (10 min), make oat milk latte, run, shower, code."
+            ]
+          },
+          "create_time": 1723698000.0
+        },
+        "parent": "sys_alex_7",
+        "children": [
+          "asst_alex_7_0"
+        ]
+      },
+      "asst_alex_7_0": {
+        "id": "asst_alex_7_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about morning routine optimization! Here are my recommendations. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1723698025.0
+        },
+        "parent": "user_alex_7_0",
+        "children": [
+          "user_alex_7_1"
+        ]
+      },
+      "user_alex_7_1": {
+        "id": "user_alex_7_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I take vitamin D, B12, and creatine supplements. Should I take them morning or evening?"
+            ]
+          },
+          "create_time": 1723698035.0
+        },
+        "parent": "asst_alex_7_0",
+        "children": [
+          "asst_alex_7_1"
+        ]
+      },
+      "asst_alex_7_1": {
+        "id": "asst_alex_7_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1723698053.0
+        },
+        "parent": "user_alex_7_1",
+        "children": [
+          "user_alex_7_2"
+        ]
+      },
+      "user_alex_7_2": {
+        "id": "user_alex_7_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "On non-running days I do yoga or climb. I find the early start helps with my remote async-first work schedule."
+            ]
+          },
+          "create_time": 1723698103.0
+        },
+        "parent": "asst_alex_7_1",
+        "children": [
+          "asst_alex_7_2"
+        ]
+      },
+      "asst_alex_7_2": {
+        "id": "asst_alex_7_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question! For trail running, shoe choice really depends on the terrain and distance. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723698129.0
+        },
+        "parent": "user_alex_7_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Gift ideas for partner who likes ceramics",
+    "create_time": 1723006800.0,
+    "update_time": 1723006981.0,
+    "mapping": {
+      "root_alex_8": {
+        "id": "root_alex_8",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_8"
+        ]
+      },
+      "sys_alex_8": {
+        "id": "sys_alex_8",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723006800.0
+        },
+        "parent": "root_alex_8",
+        "children": [
+          "user_alex_8_0"
+        ]
+      },
+      "user_alex_8_0": {
+        "id": "user_alex_8_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My partner loves handmade ceramics and experiences. Birthday coming up, budget $50-150. We're in San Francisco."
+            ]
+          },
+          "create_time": 1723006800.0
+        },
+        "parent": "sys_alex_8",
+        "children": [
+          "asst_alex_8_0"
+        ]
+      },
+      "asst_alex_8_0": {
+        "id": "asst_alex_8_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723006807.0
+        },
+        "parent": "user_alex_8_0",
+        "children": [
+          "user_alex_8_1"
+        ]
+      },
+      "user_alex_8_1": {
+        "id": "user_alex_8_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "She also enjoys Japanese aesthetic things and cooking. Maybe a pottery class?"
+            ]
+          },
+          "create_time": 1723006851.0
+        },
+        "parent": "asst_alex_8_0",
+        "children": [
+          "asst_alex_8_1"
+        ]
+      },
+      "asst_alex_8_1": {
+        "id": "asst_alex_8_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723006881.0
+        },
+        "parent": "user_alex_8_1",
+        "children": [
+          "user_alex_8_2"
+        ]
+      },
+      "user_alex_8_2": {
+        "id": "user_alex_8_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Last year I got her a Criterion Channel subscription which she loved."
+            ]
+          },
+          "create_time": 1723006922.0
+        },
+        "parent": "asst_alex_8_1",
+        "children": [
+          "asst_alex_8_2"
+        ]
+      },
+      "asst_alex_8_2": {
+        "id": "asst_alex_8_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723006936.0
+        },
+        "parent": "user_alex_8_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best podcast recommendations for runners",
+    "create_time": 1727154000.0,
+    "update_time": 1727154138.0,
+    "mapping": {
+      "root_alex_9": {
+        "id": "root_alex_9",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_9"
+        ]
+      },
+      "sys_alex_9": {
+        "id": "sys_alex_9",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1727154000.0
+        },
+        "parent": "root_alex_9",
+        "children": [
+          "user_alex_9_0"
+        ]
+      },
+      "user_alex_9_0": {
+        "id": "user_alex_9_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I listen to Lex Fridman and Software Engineering Daily during long runs. Looking for more podcasts, especially about science or running."
+            ]
+          },
+          "create_time": 1727154000.0
+        },
+        "parent": "sys_alex_9",
+        "children": [
+          "asst_alex_9_0"
+        ]
+      },
+      "asst_alex_9_0": {
+        "id": "asst_alex_9_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The Hoka Speedgoat is a solid choice for ultras. Here are some alternatives to consider. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1727154007.0
+        },
+        "parent": "user_alex_9_0",
+        "children": [
+          "user_alex_9_1"
+        ]
+      },
+      "user_alex_9_1": {
+        "id": "user_alex_9_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My runs are usually 1-2 hours on trails. I use AirPods Pro. Also open to music - I like indie rock, lo-fi, and jazz."
+            ]
+          },
+          "create_time": 1727154025.0
+        },
+        "parent": "asst_alex_9_0",
+        "children": [
+          "asst_alex_9_1"
+        ]
+      },
+      "asst_alex_9_1": {
+        "id": "asst_alex_9_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about best podcast recommendations for runners! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1727154051.0
+        },
+        "parent": "user_alex_9_1",
+        "children": [
+          "user_alex_9_2"
+        ]
+      },
+      "user_alex_9_2": {
+        "id": "user_alex_9_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I've been thinking about trying audiobooks too. Any good ones about ultrarunning or nature?"
+            ]
+          },
+          "create_time": 1727154086.0
+        },
+        "parent": "asst_alex_9_1",
+        "children": [
+          "asst_alex_9_2"
+        ]
+      },
+      "asst_alex_9_2": {
+        "id": "asst_alex_9_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The Hoka Speedgoat is a solid choice for ultras. Here are some alternatives to consider. Start with the essentials and build from there as you discover what works for you. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1727154111.0
+        },
+        "parent": "user_alex_9_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Vegan meal prep for the week",
+    "create_time": 1729918800.0,
+    "update_time": 1729918988.0,
+    "mapping": {
+      "root_alex_10": {
+        "id": "root_alex_10",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_10"
+        ]
+      },
+      "sys_alex_10": {
+        "id": "sys_alex_10",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1729918800.0
+        },
+        "parent": "root_alex_10",
+        "children": [
+          "user_alex_10_0"
+        ]
+      },
+      "user_alex_10_0": {
+        "id": "user_alex_10_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need to meal prep for the week. Plant-based, high protein for running. I like Japanese, Thai, and Mexican flavors."
+            ]
+          },
+          "create_time": 1729918800.0
+        },
+        "parent": "sys_alex_10",
+        "children": [
+          "asst_alex_10_0"
+        ]
+      },
+      "asst_alex_10_0": {
+        "id": "asst_alex_10_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question! For trail running, shoe choice really depends on the terrain and distance. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1729918829.0
+        },
+        "parent": "user_alex_10_0",
+        "children": [
+          "user_alex_10_1"
+        ]
+      },
+      "user_alex_10_1": {
+        "id": "user_alex_10_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I usually cook 3-4 times a week. Love using my Hario V60 for coffee in the morning. Want to try more tofu recipes."
+            ]
+          },
+          "create_time": 1729918871.0
+        },
+        "parent": "asst_alex_10_0",
+        "children": [
+          "asst_alex_10_1"
+        ]
+      },
+      "asst_alex_10_1": {
+        "id": "asst_alex_10_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. I'd recommend trying a few different options to see what works best for your specific situation. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1729918887.0
+        },
+        "parent": "user_alex_10_1",
+        "children": [
+          "user_alex_10_2"
+        ]
+      },
+      "user_alex_10_2": {
+        "id": "user_alex_10_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I order from DoorDash maybe once a week when I'm too tired to cook after long runs."
+            ]
+          },
+          "create_time": 1729918932.0
+        },
+        "parent": "asst_alex_10_1",
+        "children": [
+          "asst_alex_10_2"
+        ]
+      },
+      "asst_alex_10_2": {
+        "id": "asst_alex_10_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1729918952.0
+        },
+        "parent": "user_alex_10_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "React performance optimization",
+    "create_time": 1732514400.0,
+    "update_time": 1732514517.0,
+    "mapping": {
+      "root_alex_11": {
+        "id": "root_alex_11",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_11"
+        ]
+      },
+      "sys_alex_11": {
+        "id": "sys_alex_11",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1732514400.0
+        },
+        "parent": "root_alex_11",
+        "children": [
+          "user_alex_11_0"
+        ]
+      },
+      "user_alex_11_0": {
+        "id": "user_alex_11_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My React app is getting slow with large lists. Using React 19 with TypeScript. Any tips for virtual scrolling without external libraries?"
+            ]
+          },
+          "create_time": 1732514400.0
+        },
+        "parent": "sys_alex_11",
+        "children": [
+          "asst_alex_11_0"
+        ]
+      },
+      "asst_alex_11_0": {
+        "id": "asst_alex_11_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1732514409.0
+        },
+        "parent": "user_alex_11_0",
+        "children": [
+          "user_alex_11_1"
+        ]
+      },
+      "user_alex_11_1": {
+        "id": "user_alex_11_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm using Vite for bundling and already have code splitting. The main bottleneck is a list of 500+ items."
+            ]
+          },
+          "create_time": 1732514433.0
+        },
+        "parent": "asst_alex_11_0",
+        "children": [
+          "asst_alex_11_1"
+        ]
+      },
+      "asst_alex_11_1": {
+        "id": "asst_alex_11_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. Quality over quantity is usually the best strategy here. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1732514457.0
+        },
+        "parent": "user_alex_11_1",
+        "children": [
+          "user_alex_11_2"
+        ]
+      },
+      "user_alex_11_2": {
+        "id": "user_alex_11_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I work at a startup and we use Figma for design, Linear for tasks, and deploy on Vercel."
+            ]
+          },
+          "create_time": 1732514487.0
+        },
+        "parent": "asst_alex_11_1",
+        "children": [
+          "asst_alex_11_2"
+        ]
+      },
+      "asst_alex_11_2": {
+        "id": "asst_alex_11_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great approach to your portfolio. Let me share some strategies that work well for freelancers. The key is finding what aligns with your lifestyle and preferences. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1732514502.0
+        },
+        "parent": "user_alex_11_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Camping gear essentials for Big Sur",
+    "create_time": 1726117200.0,
+    "update_time": 1726117381.0,
+    "mapping": {
+      "root_alex_12": {
+        "id": "root_alex_12",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_12"
+        ]
+      },
+      "sys_alex_12": {
+        "id": "sys_alex_12",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1726117200.0
+        },
+        "parent": "root_alex_12",
+        "children": [
+          "user_alex_12_0"
+        ]
+      },
+      "user_alex_12_0": {
+        "id": "user_alex_12_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning a weekend camping trip to Big Sur. Never been car camping before, usually just do trail running there."
+            ]
+          },
+          "create_time": 1726117200.0
+        },
+        "parent": "sys_alex_12",
+        "children": [
+          "asst_alex_12_0"
+        ]
+      },
+      "asst_alex_12_0": {
+        "id": "asst_alex_12_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The Hoka Speedgoat is a solid choice for ultras. Here are some alternatives to consider. Start with the essentials and build from there as you discover what works for you."
+            ]
+          },
+          "create_time": 1726117225.0
+        },
+        "parent": "user_alex_12_0",
+        "children": [
+          "user_alex_12_1"
+        ]
+      },
+      "user_alex_12_1": {
+        "id": "user_alex_12_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I need a tent, sleeping bag, and cooking setup. Minimalist gear preferred. Budget mid-range."
+            ]
+          },
+          "create_time": 1726117275.0
+        },
+        "parent": "asst_alex_12_0",
+        "children": [
+          "asst_alex_12_1"
+        ]
+      },
+      "asst_alex_12_1": {
+        "id": "asst_alex_12_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1726117303.0
+        },
+        "parent": "user_alex_12_1",
+        "children": [
+          "user_alex_12_2"
+        ]
+      },
+      "user_alex_12_2": {
+        "id": "user_alex_12_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'll be running the trails during the day. Plant-based food that's easy to prepare at camp?"
+            ]
+          },
+          "create_time": 1726117323.0
+        },
+        "parent": "asst_alex_12_1",
+        "children": [
+          "asst_alex_12_2"
+        ]
+      },
+      "asst_alex_12_2": {
+        "id": "asst_alex_12_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question! For trail running, shoe choice really depends on the terrain and distance. Consider your budget and long-term goals when making your decision. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1726117350.0
+        },
+        "parent": "user_alex_12_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "How to start sourdough baking",
+    "create_time": 1724043600.0,
+    "update_time": 1724043719.0,
+    "mapping": {
+      "root_alex_13": {
+        "id": "root_alex_13",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_13"
+        ]
+      },
+      "sys_alex_13": {
+        "id": "sys_alex_13",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1724043600.0
+        },
+        "parent": "root_alex_13",
+        "children": [
+          "user_alex_13_0"
+        ]
+      },
+      "user_alex_13_0": {
+        "id": "user_alex_13_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to try sourdough bread baking. I'm plant-based so no butter in the recipe. Live in a small SF apartment."
+            ]
+          },
+          "create_time": 1724043600.0
+        },
+        "parent": "sys_alex_13",
+        "children": [
+          "asst_alex_13_0"
+        ]
+      },
+      "asst_alex_13_0": {
+        "id": "asst_alex_13_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1724043605.0
+        },
+        "parent": "user_alex_13_0",
+        "children": [
+          "user_alex_13_1"
+        ]
+      },
+      "user_alex_13_1": {
+        "id": "user_alex_13_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have a small kitchen but do cook 3-4x per week. Mostly Asian and Mexican dishes."
+            ]
+          },
+          "create_time": 1724043625.0
+        },
+        "parent": "asst_alex_13_0",
+        "children": [
+          "asst_alex_13_1"
+        ]
+      },
+      "asst_alex_13_1": {
+        "id": "asst_alex_13_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1724043636.0
+        },
+        "parent": "user_alex_13_1",
+        "children": [
+          "user_alex_13_2"
+        ]
+      },
+      "user_alex_13_2": {
+        "id": "user_alex_13_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Any equipment I need? I try to keep my apartment minimal - Japanese aesthetic."
+            ]
+          },
+          "create_time": 1724043652.0
+        },
+        "parent": "asst_alex_13_1",
+        "children": [
+          "asst_alex_13_2"
+        ]
+      },
+      "asst_alex_13_2": {
+        "id": "asst_alex_13_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Quality over quantity is usually the best strategy here. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1724043669.0
+        },
+        "parent": "user_alex_13_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best headphones for running",
+    "create_time": 1723957200.0,
+    "update_time": 1723957389.0,
+    "mapping": {
+      "root_alex_14": {
+        "id": "root_alex_14",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_14"
+        ]
+      },
+      "sys_alex_14": {
+        "id": "sys_alex_14",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723957200.0
+        },
+        "parent": "root_alex_14",
+        "children": [
+          "user_alex_14_0"
+        ]
+      },
+      "user_alex_14_0": {
+        "id": "user_alex_14_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need wireless headphones for trail running. Sweat-proof, good battery for 3+ hour runs. Currently using AirPods but they fall out on trails."
+            ]
+          },
+          "create_time": 1723957200.0
+        },
+        "parent": "sys_alex_14",
+        "children": [
+          "asst_alex_14_0"
+        ]
+      },
+      "asst_alex_14_0": {
+        "id": "asst_alex_14_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question! For trail running, shoe choice really depends on the terrain and distance. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1723957217.0
+        },
+        "parent": "user_alex_14_0",
+        "children": [
+          "user_alex_14_1"
+        ]
+      },
+      "user_alex_14_1": {
+        "id": "user_alex_14_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I run about 50 miles/week. Listen to podcasts and indie rock/lo-fi music."
+            ]
+          },
+          "create_time": 1723957270.0
+        },
+        "parent": "asst_alex_14_0",
+        "children": [
+          "asst_alex_14_1"
+        ]
+      },
+      "asst_alex_14_1": {
+        "id": "asst_alex_14_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723957294.0
+        },
+        "parent": "user_alex_14_1",
+        "children": [
+          "user_alex_14_2"
+        ]
+      },
+      "user_alex_14_2": {
+        "id": "user_alex_14_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget $100-200. I shop mostly online or at REI."
+            ]
+          },
+          "create_time": 1723957338.0
+        },
+        "parent": "asst_alex_14_1",
+        "children": [
+          "asst_alex_14_2"
+        ]
+      },
+      "asst_alex_14_2": {
+        "id": "asst_alex_14_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Consider your budget and long-term goals when making your decision."
+            ]
+          },
+          "create_time": 1723957361.0
+        },
+        "parent": "user_alex_14_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Book recommendations for a minimalist",
+    "create_time": 1717563600.0,
+    "update_time": 1717563708.0,
+    "mapping": {
+      "root_alex_15": {
+        "id": "root_alex_15",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_15"
+        ]
+      },
+      "sys_alex_15": {
+        "id": "sys_alex_15",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717563600.0
+        },
+        "parent": "root_alex_15",
+        "children": [
+          "user_alex_15_0"
+        ]
+      },
+      "user_alex_15_0": {
+        "id": "user_alex_15_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for books about minimalism, Japanese design, or nature. I read mostly on Kindle."
+            ]
+          },
+          "create_time": 1717563600.0
+        },
+        "parent": "sys_alex_15",
+        "children": [
+          "asst_alex_15_0"
+        ]
+      },
+      "asst_alex_15_0": {
+        "id": "asst_alex_15_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For design work, here are some tips that can really elevate your workflow. I'd recommend trying a few different options to see what works best for your specific situation. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1717563606.0
+        },
+        "parent": "user_alex_15_0",
+        "children": [
+          "user_alex_15_1"
+        ]
+      },
+      "user_alex_15_1": {
+        "id": "user_alex_15_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Recently loved 'Goodbye, Things' by Fumio Sasaki. Also enjoy science and tech books."
+            ]
+          },
+          "create_time": 1717563617.0
+        },
+        "parent": "asst_alex_15_0",
+        "children": [
+          "asst_alex_15_1"
+        ]
+      },
+      "asst_alex_15_1": {
+        "id": "asst_alex_15_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1717563627.0
+        },
+        "parent": "user_alex_15_1",
+        "children": [
+          "user_alex_15_2"
+        ]
+      },
+      "user_alex_15_2": {
+        "id": "user_alex_15_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I listen to audiobooks during runs too. Just finished Born to Run."
+            ]
+          },
+          "create_time": 1717563644.0
+        },
+        "parent": "asst_alex_15_1",
+        "children": [
+          "asst_alex_15_2"
+        ]
+      },
+      "asst_alex_15_2": {
+        "id": "asst_alex_15_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717563674.0
+        },
+        "parent": "user_alex_15_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Strava training plan for 50K",
+    "create_time": 1725426000.0,
+    "update_time": 1725426144.0,
+    "mapping": {
+      "root_alex_16": {
+        "id": "root_alex_16",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_16"
+        ]
+      },
+      "sys_alex_16": {
+        "id": "sys_alex_16",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1725426000.0
+        },
+        "parent": "root_alex_16",
+        "children": [
+          "user_alex_16_0"
+        ]
+      },
+      "user_alex_16_0": {
+        "id": "user_alex_16_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Using Strava to train for a 50K ultra. Currently at 50 miles/week. Need a structured plan for the next 3 months."
+            ]
+          },
+          "create_time": 1725426000.0
+        },
+        "parent": "sys_alex_16",
+        "children": [
+          "asst_alex_16_0"
+        ]
+      },
+      "asst_alex_16_0": {
+        "id": "asst_alex_16_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1725426012.0
+        },
+        "parent": "user_alex_16_0",
+        "children": [
+          "user_alex_16_1"
+        ]
+      },
+      "user_alex_16_1": {
+        "id": "user_alex_16_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I also rock climb 2x/week and do yoga. Run mostly trails in Marin and around the Bay."
+            ]
+          },
+          "create_time": 1725426041.0
+        },
+        "parent": "asst_alex_16_0",
+        "children": [
+          "asst_alex_16_1"
+        ]
+      },
+      "asst_alex_16_1": {
+        "id": "asst_alex_16_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1725426054.0
+        },
+        "parent": "user_alex_16_1",
+        "children": [
+          "user_alex_16_2"
+        ]
+      },
+      "user_alex_16_2": {
+        "id": "user_alex_16_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My Hoka Speedgoat 5 size 10.5 have about 300 miles. When should I replace them?"
+            ]
+          },
+          "create_time": 1725426094.0
+        },
+        "parent": "asst_alex_16_1",
+        "children": [
+          "asst_alex_16_2"
+        ]
+      },
+      "asst_alex_16_2": {
+        "id": "asst_alex_16_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Start with the essentials and build from there as you discover what works for you. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1725426104.0
+        },
+        "parent": "user_alex_16_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Sustainable clothing brands",
+    "create_time": 1723438800.0,
+    "update_time": 1723438957.0,
+    "mapping": {
+      "root_alex_17": {
+        "id": "root_alex_17",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_17"
+        ]
+      },
+      "sys_alex_17": {
+        "id": "sys_alex_17",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723438800.0
+        },
+        "parent": "root_alex_17",
+        "children": [
+          "user_alex_17_0"
+        ]
+      },
+      "user_alex_17_0": {
+        "id": "user_alex_17_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for sustainable clothing brands. I love Patagonia, Allbirds, Uniqlo, and Everlane. Want more options."
+            ]
+          },
+          "create_time": 1723438800.0
+        },
+        "parent": "sys_alex_17",
+        "children": [
+          "asst_alex_17_0"
+        ]
+      },
+      "asst_alex_17_0": {
+        "id": "asst_alex_17_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For birdwatching, having the right setup makes a huge difference. Here's what I suggest. Consider your budget and long-term goals when making your decision."
+            ]
+          },
+          "create_time": 1723438830.0
+        },
+        "parent": "user_alex_17_0",
+        "children": [
+          "user_alex_17_1"
+        ]
+      },
+      "user_alex_17_1": {
+        "id": "user_alex_17_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Style is minimalist casual. I'm a size M shirt, 32 waist, 10.5 shoe. Mostly basics and activewear."
+            ]
+          },
+          "create_time": 1723438868.0
+        },
+        "parent": "asst_alex_17_0",
+        "children": [
+          "asst_alex_17_1"
+        ]
+      },
+      "asst_alex_17_1": {
+        "id": "asst_alex_17_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The Hoka Speedgoat is a solid choice for ultras. Here are some alternatives to consider. Start with the essentials and build from there as you discover what works for you. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1723438888.0
+        },
+        "parent": "user_alex_17_1",
+        "children": [
+          "user_alex_17_2"
+        ]
+      },
+      "user_alex_17_2": {
+        "id": "user_alex_17_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget is mid-range. I prefer quality over quantity."
+            ]
+          },
+          "create_time": 1723438905.0
+        },
+        "parent": "asst_alex_17_1",
+        "children": [
+          "asst_alex_17_2"
+        ]
+      },
+      "asst_alex_17_2": {
+        "id": "asst_alex_17_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1723438935.0
+        },
+        "parent": "user_alex_17_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best coffee brewing methods",
+    "create_time": 1722747600.0,
+    "update_time": 1722747755.0,
+    "mapping": {
+      "root_alex_18": {
+        "id": "root_alex_18",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_18"
+        ]
+      },
+      "sys_alex_18": {
+        "id": "sys_alex_18",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1722747600.0
+        },
+        "parent": "root_alex_18",
+        "children": [
+          "user_alex_18_0"
+        ]
+      },
+      "user_alex_18_0": {
+        "id": "user_alex_18_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use a Hario V60 for pour-over coffee. Light roast with oat milk. Want to explore other brewing methods."
+            ]
+          },
+          "create_time": 1722747600.0
+        },
+        "parent": "sys_alex_18",
+        "children": [
+          "asst_alex_18_0"
+        ]
+      },
+      "asst_alex_18_0": {
+        "id": "asst_alex_18_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Consider your budget and long-term goals when making your decision. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1722747612.0
+        },
+        "parent": "user_alex_18_0",
+        "children": [
+          "user_alex_18_1"
+        ]
+      },
+      "user_alex_18_1": {
+        "id": "user_alex_18_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My small apartment kitchen limits what I can have. Already have the V60 and a hand grinder."
+            ]
+          },
+          "create_time": 1722747644.0
+        },
+        "parent": "asst_alex_18_0",
+        "children": [
+          "asst_alex_18_1"
+        ]
+      },
+      "asst_alex_18_1": {
+        "id": "asst_alex_18_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1722747650.0
+        },
+        "parent": "user_alex_18_1",
+        "children": [
+          "user_alex_18_2"
+        ]
+      },
+      "user_alex_18_2": {
+        "id": "user_alex_18_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I drink 2 cups in the morning before my run. Is that too much caffeine before a long trail run?"
+            ]
+          },
+          "create_time": 1722747687.0
+        },
+        "parent": "asst_alex_18_1",
+        "children": [
+          "asst_alex_18_2"
+        ]
+      },
+      "asst_alex_18_2": {
+        "id": "asst_alex_18_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about best coffee brewing methods! Here are my recommendations. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1722747701.0
+        },
+        "parent": "user_alex_18_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Remote work setup for developers",
+    "create_time": 1726808400.0,
+    "update_time": 1726808558.0,
+    "mapping": {
+      "root_alex_19": {
+        "id": "root_alex_19",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_alex_19"
+        ]
+      },
+      "sys_alex_19": {
+        "id": "sys_alex_19",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1726808400.0
+        },
+        "parent": "root_alex_19",
+        "children": [
+          "user_alex_19_0"
+        ]
+      },
+      "user_alex_19_0": {
+        "id": "user_alex_19_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Setting up a better home office. Remote software engineer. Use MacBook Pro, VS Code, and multiple terminal windows."
+            ]
+          },
+          "create_time": 1726808400.0
+        },
+        "parent": "sys_alex_19",
+        "children": [
+          "asst_alex_19_0"
+        ]
+      },
+      "asst_alex_19_0": {
+        "id": "asst_alex_19_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1726808408.0
+        },
+        "parent": "user_alex_19_0",
+        "children": [
+          "user_alex_19_1"
+        ]
+      },
+      "user_alex_19_1": {
+        "id": "user_alex_19_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Current setup is a standing desk in my 1BR apartment. Need better lighting and maybe a second monitor."
+            ]
+          },
+          "create_time": 1726808437.0
+        },
+        "parent": "asst_alex_19_0",
+        "children": [
+          "asst_alex_19_1"
+        ]
+      },
+      "asst_alex_19_1": {
+        "id": "asst_alex_19_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about remote work setup for developers! Here are my recommendations. Consider your budget and long-term goals when making your decision. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1726808442.0
+        },
+        "parent": "user_alex_19_1",
+        "children": [
+          "user_alex_19_2"
+        ]
+      },
+      "user_alex_19_2": {
+        "id": "user_alex_19_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Keep it minimal - no RGB gaming stuff. Clean Japanese aesthetic. Budget $500-1000."
+            ]
+          },
+          "create_time": 1726808494.0
+        },
+        "parent": "asst_alex_19_1",
+        "children": [
+          "asst_alex_19_2"
+        ]
+      },
+      "asst_alex_19_2": {
+        "id": "asst_alex_19_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1726808520.0
+        },
+        "parent": "user_alex_19_2",
+        "children": []
+      }
+    }
+  }
+]

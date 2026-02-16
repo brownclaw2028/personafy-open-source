@@ -1,0 +1,1302 @@
+[
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Adele Mix is Ready",
+    "body": "Your weekly Adele mix is ready! 30 tracks curated just for you based on your listening in Chicago. Featuring new releases and deep cuts. Discover your new favorite Adele track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_173",
+    "threadId": "thread_173",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-07T23:11:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Marketing Trends",
+    "body": "Your daily digest: Top stories in marketing trends. 3 articles curated for you based on your reading habits. Plus: local news from Chicago, IL. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_161",
+    "threadId": "thread_161",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-08T04:54:00Z"
+  },
+  {
+    "from": "bookings@american.com",
+    "subject": "Flight Confirmed: American AM758 to Aspen",
+    "body": "Flight confirmation: American AM758 to Aspen, aisle seat 35C, business. Departure: June 08, 2024 at 01:30 AM from Chicago. Confirmation code: FLT-546980. Total fare: $785.47. Check in opens 24 hours before departure. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_134",
+    "threadId": "thread_134",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-11T10:59:00Z"
+  },
+  {
+    "from": "episodes@thedaily.com",
+    "subject": "New Episode: The Daily - emerging market trends",
+    "body": "New episode of The Daily: \"emerging market trends\". Duration: 43 minutes. Listen now in your podcast app. Sarah, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_164",
+    "threadId": "thread_164",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-18T07:49:00Z"
+  },
+  {
+    "from": "orders@ubereats.com",
+    "subject": "Your Uber Eats order from Maison Paris is on its way!",
+    "body": "Your Uber Eats order from Maison Paris is confirmed! Order: Ratatouille, Croque Monsieur, Quiche Lorraine, French Onion Soup. Total: $32.04 (incl. delivery and tip). Estimated delivery: 36 minutes to Chicago, IL. Enjoy your meal, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_150",
+    "threadId": "thread_150",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-21T10:42:00Z"
+  },
+  {
+    "from": "notifications@figma.com",
+    "subject": "[Figma] Design file updated by David Park",
+    "body": "[Figma] Design file updated by David Park. Click to view in Figma. This notification was sent to sarah.mitchell@outlook.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_195",
+    "threadId": "thread_195",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-23T02:19:00Z"
+  },
+  {
+    "from": "summary@applefitness+.com",
+    "subject": "Workout Complete: 32min pilates",
+    "body": "Great pilates session, Sarah! Duration: 32 minutes. Calories burned: 435. You're making progress toward your goal: stress management. Keep up the momentum! You've been active 6 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_182",
+    "threadId": "thread_182",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-23T21:54:00Z"
+  },
+  {
+    "from": "promo@nordstrom.com",
+    "subject": "20% off kitchen gadgets at Nordstrom - just for you!",
+    "body": "Hi Sarah,\n\nExclusive offer just for you! Get 20% off kitchen gadgets at Nordstrom. Use code NORD20 at checkout. This offer is valid through September 04, 2024. Based on your interest in kitchen gadgets, we think you'll love our latest collection. Shop now at nordstrom.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_107",
+    "threadId": "thread_107",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-06-29T15:38:00Z"
+  },
+  {
+    "from": "shipping@toryburch.com",
+    "subject": "Your Tory Burch order has shipped! #TOR-51704",
+    "body": "Great news, Sarah! Your order of designer clothing from Tory Burch has shipped via USPS. Tracking number: 766270289517187026. Order #TOR-51704 is on its way to Chicago, IL. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_104",
+    "threadId": "thread_104",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-02T01:15:00Z"
+  },
+  {
+    "from": "checkin@american.com",
+    "subject": "Check-in Open: American AM420 to Aspen",
+    "body": "Check-in is now open for your American flight AM420 to Aspen. Your flight departs tomorrow from Chicago. Cabin: business. Don't forget to check in to get your aisle seat preference. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_141",
+    "threadId": "thread_141",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-02T11:27:00Z"
+  },
+  {
+    "from": "summary@applefitness+.com",
+    "subject": "Workout Complete: 56min pilates",
+    "body": "Great pilates session, Sarah! Duration: 56 minutes. Calories burned: 348. You're making progress toward your goal: stress management. Keep up the momentum! You've been active 6 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_180",
+    "threadId": "thread_180",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-05T02:28:00Z"
+  },
+  {
+    "from": "updates@appletvplus.com",
+    "subject": "New This Week on Apple TV+",
+    "body": "New on Apple TV+ this week: critically acclaimed drama, comedy special. We picked these based on your viewing history, Sarah. Start watching now on Apple TV+.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_170",
+    "threadId": "thread_170",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-06T16:23:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Le Petit Chef for 5",
+    "body": "Reservation confirmed at Le Petit Chef! Date: Thursday, November 21 at 09:37 PM. Party size: 5. Cuisine: French. Location: Chicago, IL. Please arrive 10 minutes early. See you then, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_153",
+    "threadId": "thread_153",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-13T22:28:00Z"
+  },
+  {
+    "from": "notifications@slack.com",
+    "subject": "[Slack] Lisa Johnson mentioned you in a thread",
+    "body": "[Slack] Lisa Johnson mentioned you in a thread. Click to view in Slack. This notification was sent to sarah.mitchell@outlook.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_188",
+    "threadId": "thread_188",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-15T11:32:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Annual Physical - December 20",
+    "body": "Reminder: Your annual physical is scheduled for Friday, December 20 at 08:41 PM. Location: Chicago Medical Center. Patient: Sarah Mitchell. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_181",
+    "threadId": "thread_181",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-15T22:28:00Z"
+  },
+  {
+    "from": "receipts@marriottbonvoy.com",
+    "subject": "Receipt: Your stay at Marriott Bonvoy - Tuscany",
+    "body": "Thank you for staying at Marriott Bonvoy in Tuscany! Guest: Sarah Mitchell. Stay: 3 nights at $132.98/night. Total (incl. tax): $446.81. We hope you enjoyed your trip to Tuscany. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_130",
+    "threadId": "thread_130",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-17T04:04:00Z"
+  },
+  {
+    "from": "notifications@googleanalytics.com",
+    "subject": "[Google Analytics] Notification from Google Analytics",
+    "body": "[Google Analytics] Notification from Google Analytics. Click to view in Google Analytics. This notification was sent to sarah.mitchell@outlook.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_189",
+    "threadId": "thread_189",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-07-28T03:12:00Z"
+  },
+  {
+    "from": "orders@toryburch.com",
+    "subject": "Order Confirmed: wine accessories from Tory Burch #TOR-97881",
+    "body": "Hi Sarah,\n\nYour order #TOR-97881 has been confirmed! You ordered: wine accessories (Size 8) from Tory Burch for $333.55. Estimated delivery: October 21, 2024. Shipping to Chicago, IL. Thank you for shopping with Tory Burch!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_122",
+    "threadId": "thread_122",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-01T23:42:00Z"
+  },
+  {
+    "from": "checkin@american.com",
+    "subject": "Check-in Open: American AM711 to Aspen",
+    "body": "Check-in is now open for your American flight AM711 to Aspen. Your flight departs tomorrow from Chicago. Cabin: business. Don't forget to check in to get your aisle seat preference. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_137",
+    "threadId": "thread_137",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-04T01:48:00Z"
+  },
+  {
+    "from": "reviews@theory.com",
+    "subject": "How's your kitchen gadgets? Leave a review!",
+    "body": "Hi Sarah, how are you enjoying your kitchen gadgets from Theory? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Chicago make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_120",
+    "threadId": "thread_120",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-04T23:01:00Z"
+  },
+  {
+    "from": "updates@hbomax.com",
+    "subject": "New This Week on HBO Max",
+    "body": "New on HBO Max this week: comedy special, limited series, anime classic. We picked these based on your viewing history, Sarah. Start watching now on HBO Max.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_172",
+    "threadId": "thread_172",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-11T07:07:00Z"
+  },
+  {
+    "from": "shipping@lecreuset.com",
+    "subject": "Your Le Creuset order has shipped! #LE -10336",
+    "body": "Great news, Sarah! Your order of wine accessories from Le Creuset has shipped via FedEx. Tracking number: 499727875588675339. Order #LE -10336 is on its way to Chicago, IL. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_103",
+    "threadId": "thread_103",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-13T07:19:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Annual Physical - June 11",
+    "body": "Reminder: Your annual physical is scheduled for Tuesday, June 11 at 07:45 AM. Location: Chicago Medical Center. Patient: Sarah Mitchell. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_178",
+    "threadId": "thread_178",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-13T22:58:00Z"
+  },
+  {
+    "from": "reservations@ritzcarlton.com",
+    "subject": "Hotel Booking Confirmed: Ritz-Carlton - Tuscany",
+    "body": "Booking Confirmed at Ritz-Carlton near Tuscany! Confirmation: HTL-881886. Check-in: June 14, 2024, Check-out: June 19, 2024 (5 nights). Rate: $274.65/night. Guest: Sarah Mitchell. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_132",
+    "threadId": "thread_132",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-15T06:02:00Z"
+  },
+  {
+    "from": "orders@caviar.com",
+    "subject": "Your Caviar order from Bistro Lyon is on its way!",
+    "body": "Your Caviar order from Bistro Lyon is confirmed! Order: Ratatouille, Quiche Lorraine. Total: $17.49 (incl. delivery and tip). Estimated delivery: 27 minutes to Chicago, IL. Enjoy your meal, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_151",
+    "threadId": "thread_151",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-15T09:28:00Z"
+  },
+  {
+    "from": "orders@caviar.com",
+    "subject": "Your Caviar order from Chef's Counter is on its way!",
+    "body": "Your Caviar order from Chef's Counter is confirmed! Order: Wagyu Tataki, Chef's Selection Sushi. Total: $43.32 (incl. delivery and tip). Estimated delivery: 37 minutes to Chicago, IL. Enjoy your meal, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_149",
+    "threadId": "thread_149",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-15T10:06:00Z"
+  },
+  {
+    "from": "notifications@slack.com",
+    "subject": "[Slack] New message in #general",
+    "body": "[Slack] New message in #general. Click to view in Slack. This notification was sent to sarah.mitchell@outlook.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_186",
+    "threadId": "thread_186",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-16T05:45:00Z"
+  },
+  {
+    "from": "checkin@american.com",
+    "subject": "Check-in Open: American AM175 to Aspen",
+    "body": "Check-in is now open for your American flight AM175 to Aspen. Your flight departs tomorrow from Chicago. Cabin: business. Don't forget to check in to get your aisle seat preference. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_135",
+    "threadId": "thread_135",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-19T16:25:00Z"
+  },
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone sent you a connection request on Instagram. Check your Instagram profile for the latest updates. You have 9 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_200",
+    "threadId": "thread_200",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-21T20:04:00Z"
+  },
+  {
+    "from": "summary@peloton.com",
+    "subject": "Workout Complete: 39min hiking",
+    "body": "Great hiking session, Sarah! Duration: 39 minutes. Calories burned: 320. You're making progress toward your goal: stress management. Keep up the momentum! You've been active 3 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_183",
+    "threadId": "thread_183",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-21T21:22:00Z"
+  },
+  {
+    "from": "delivery@nordstrom.com",
+    "subject": "Delivered: Your Nordstrom order #NOR-81364",
+    "body": "Your Nordstrom package has been delivered! Order #NOR-81364 containing wine accessories was delivered to your address in Chicago, IL today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your wine accessories!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_125",
+    "threadId": "thread_125",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-25T04:02:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Omakase Sushi Bar for 2",
+    "body": "Reservation confirmed at Omakase Sushi Bar! Date: Saturday, July 27 at 12:38 PM. Party size: 2. Cuisine: Japanese omakase. Location: Chicago, IL. Please arrive 10 minutes early. See you then, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_154",
+    "threadId": "thread_154",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-29T14:02:00Z"
+  },
+  {
+    "from": "reviews@toryburch.com",
+    "subject": "How's your wine accessories? Leave a review!",
+    "body": "Hi Sarah, how are you enjoying your wine accessories from Tory Burch? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Chicago make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_112",
+    "threadId": "thread_112",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-30T07:36:00Z"
+  },
+  {
+    "from": "receipts@marriottbonvoy.com",
+    "subject": "Receipt: Your stay at Marriott Bonvoy - Tuscany",
+    "body": "Thank you for staying at Marriott Bonvoy in Tuscany! Guest: Sarah Mitchell. Stay: 2 nights at $219.44/night. Total (incl. tax): $491.55. We hope you enjoyed your trip to Tuscany. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_126",
+    "threadId": "thread_126",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-30T17:21:00Z"
+  },
+  {
+    "from": "checkin@delta.com",
+    "subject": "Check-in Open: Delta DE562 to Aspen",
+    "body": "Check-in is now open for your Delta flight DE562 to Aspen. Your flight departs tomorrow from Chicago. Cabin: business. Don't forget to check in to get your aisle seat preference. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_139",
+    "threadId": "thread_139",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-31T01:55:00Z"
+  },
+  {
+    "from": "orders@nordstrom.com",
+    "subject": "Order Confirmed: designer clothing from Nordstrom #NOR-49893",
+    "body": "Hi Sarah,\n\nYour order #NOR-49893 has been confirmed! You ordered: designer clothing (Size 28) from Nordstrom for $348.68. Estimated delivery: July 02, 2024. Shipping to Chicago, IL. Thank you for shopping with Nordstrom!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_121",
+    "threadId": "thread_121",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-08-31T02:22:00Z"
+  },
+  {
+    "from": "shipping@theory.com",
+    "subject": "Your Theory order has shipped! #THE-48696",
+    "body": "Great news, Sarah! Your order of wine accessories from Theory has shipped via UPS. Tracking number: 640909743953394210. Order #THE-48696 is on its way to Chicago, IL. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_115",
+    "threadId": "thread_115",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-01T02:33:00Z"
+  },
+  {
+    "from": "notifications@hubspot.com",
+    "subject": "[HubSpot] Campaign performance report ready",
+    "body": "[HubSpot] Campaign performance report ready. Click to view in HubSpot. This notification was sent to sarah.mitchell@outlook.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_192",
+    "threadId": "thread_192",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-01T17:36:00Z"
+  },
+  {
+    "from": "orders@caviar.com",
+    "subject": "Your Caviar order from Nonno's Kitchen is on its way!",
+    "body": "Your Caviar order from Nonno's Kitchen is confirmed! Order: Bruschetta, Margherita Pizza, Pasta Primavera. Total: $57.22 (incl. delivery and tip). Estimated delivery: 32 minutes to Chicago, IL. Enjoy your meal, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_159",
+    "threadId": "thread_159",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-02T16:51:00Z"
+  },
+  {
+    "from": "mike.t@company.com",
+    "subject": "Meeting: budget meeting - October 20",
+    "body": "Mike Torres has invited you to: budget meeting. When: Sunday, October 20 at 03:45 AM. Duration: 30 minutes. Conference Room C. Attendees: Sarah Mitchell, Mike Torres, and 3 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_193",
+    "threadId": "thread_193",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-03T14:51:00Z"
+  },
+  {
+    "from": "reservations@marriottbonvoy.com",
+    "subject": "Hotel Booking Confirmed: Marriott Bonvoy - Aspen",
+    "body": "Booking Confirmed at Marriott Bonvoy near Aspen! Confirmation: HTL-208633. Check-in: December 02, 2024, Check-out: December 08, 2024 (6 nights). Rate: $195.61/night. Guest: Sarah Mitchell. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_145",
+    "threadId": "thread_145",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-03T16:17:00Z"
+  },
+  {
+    "from": "receipts@ritzcarlton.com",
+    "subject": "Receipt: Your stay at Ritz-Carlton - Paris",
+    "body": "Thank you for staying at Ritz-Carlton in Paris! Guest: Sarah Mitchell. Stay: 2 nights at $127.97/night. Total (incl. tax): $286.65. We hope you enjoyed your trip to Paris. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_143",
+    "threadId": "thread_143",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-07T10:11:00Z"
+  },
+  {
+    "from": "updates@appletvplus.com",
+    "subject": "New This Week on Apple TV+",
+    "body": "New on Apple TV+ this week: award-winning documentary, anime classic. We picked these based on your viewing history, Sarah. Start watching now on Apple TV+.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_166",
+    "threadId": "thread_166",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-07T18:02:00Z"
+  },
+  {
+    "from": "delivery@reformation.com",
+    "subject": "Delivered: Your Reformation order #REF-83048",
+    "body": "Your Reformation package has been delivered! Order #REF-83048 containing kitchen gadgets was delivered to your address in Chicago, IL today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your kitchen gadgets!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_118",
+    "threadId": "thread_118",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-08T15:02:00Z"
+  },
+  {
+    "from": "episodes@howibuiltthis.com",
+    "subject": "New Episode: How I Built This - emerging market trends",
+    "body": "New episode of How I Built This: \"emerging market trends\". Duration: 61 minutes. Listen now in your podcast app. Sarah, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_171",
+    "threadId": "thread_171",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-10T10:41:00Z"
+  },
+  {
+    "from": "notifications@linkedin.com",
+    "subject": "[LinkedIn] New activity on your profile",
+    "body": "Someone liked your photo on LinkedIn. Check your LinkedIn profile for the latest updates. You have 12 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_196",
+    "threadId": "thread_196",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-10T22:46:00Z"
+  },
+  {
+    "from": "checkin@american.com",
+    "subject": "Check-in Open: American AM803 to Napa Valley",
+    "body": "Check-in is now open for your American flight AM803 to Napa Valley. Your flight departs tomorrow from Chicago. Cabin: business. Don't forget to check in to get your aisle seat preference. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_142",
+    "threadId": "thread_142",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-11T23:28:00Z"
+  },
+  {
+    "from": "promo@reformation.com",
+    "subject": "10% off kitchen gadgets at Reformation - just for you!",
+    "body": "Hi Sarah,\n\nExclusive offer just for you! Get 10% off kitchen gadgets at Reformation. Use code REFO10 at checkout. This offer is valid through September 11, 2024. Based on your interest in kitchen gadgets, we think you'll love our latest collection. Shop now at reformation.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_113",
+    "threadId": "thread_113",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-15T05:42:00Z"
+  },
+  {
+    "from": "delivery@reformation.com",
+    "subject": "Delivered: Your Reformation order #REF-71537",
+    "body": "Your Reformation package has been delivered! Order #REF-71537 containing designer clothing was delivered to your address in Chicago, IL today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your designer clothing!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_105",
+    "threadId": "thread_105",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-16T20:50:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Omakase Sushi Bar for 3",
+    "body": "Reservation confirmed at Omakase Sushi Bar! Date: Friday, December 13 at 08:36 AM. Party size: 3. Cuisine: Japanese omakase. Location: Chicago, IL. Please arrive 10 minutes early. See you then, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_147",
+    "threadId": "thread_147",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-17T02:27:00Z"
+  },
+  {
+    "from": "promo@toryburch.com",
+    "subject": "15% off premium skincare at Tory Burch - just for you!",
+    "body": "Hi Sarah,\n\nExclusive offer just for you! Get 15% off premium skincare at Tory Burch. Use code TORY15 at checkout. This offer is valid through July 02, 2024. Based on your interest in kitchen gadgets, we think you'll love our latest collection. Shop now at toryburch.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_102",
+    "threadId": "thread_102",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-17T03:49:00Z"
+  },
+  {
+    "from": "shipping@reformation.com",
+    "subject": "Your Reformation order has shipped! #REF-79621",
+    "body": "Great news, Sarah! Your order of premium skincare from Reformation has shipped via FedEx. Tracking number: 922219693792374740. Order #REF-79621 is on its way to Chicago, IL. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_111",
+    "threadId": "thread_111",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-18T00:39:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Pasta Fresca for 6",
+    "body": "Reservation confirmed at Pasta Fresca! Date: Tuesday, October 15 at 10:14 PM. Party size: 6. Cuisine: Italian. Location: Chicago, IL. Please arrive 10 minutes early. See you then, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_156",
+    "threadId": "thread_156",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-20T08:40:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Market Analysis",
+    "body": "Your daily digest: Top stories in market analysis. 3 articles curated for you based on your reading habits. Plus: local news from Chicago, IL. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_163",
+    "threadId": "thread_163",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-21T01:08:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Market Analysis",
+    "body": "Your daily digest: Top stories in market analysis. 3 articles curated for you based on your reading habits. Plus: local news from Chicago, IL. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_169",
+    "threadId": "thread_169",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-22T02:36:00Z"
+  },
+  {
+    "from": "summary@peloton.com",
+    "subject": "Workout Complete: 77min Peloton",
+    "body": "Great Peloton session, Sarah! Duration: 77 minutes. Calories burned: 202. You're making progress toward your goal: stress management. Keep up the momentum! You've been active 5 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_177",
+    "threadId": "thread_177",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-23T06:39:00Z"
+  },
+  {
+    "from": "updates@hbomax.com",
+    "subject": "New This Week on HBO Max",
+    "body": "New on HBO Max this week: comedy special, anime classic, critically acclaimed drama. We picked these based on your viewing history, Sarah. Start watching now on HBO Max.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_168",
+    "threadId": "thread_168",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-09-24T11:23:00Z"
+  },
+  {
+    "from": "statements@bankofamerica.com",
+    "subject": "Bank of America: Your July Statement is Ready",
+    "body": "Your July statement is ready, Sarah. Log in to Bank of America online banking to view your account summary. For security, account details are not included in this email.",
+    "labels": [
+      "finance",
+      "inbox"
+    ],
+    "id": "email_197",
+    "threadId": "thread_197",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-01T16:26:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Dermatology Appointment - October 13",
+    "body": "Reminder: Your dermatology appointment is scheduled for Sunday, October 13 at 04:39 PM. Location: Chicago Medical Center. Patient: Sarah Mitchell. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_179",
+    "threadId": "thread_179",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-04T06:07:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Classical Mix is Ready",
+    "body": "Your weekly classical mix is ready! 30 tracks curated just for you based on your listening in Chicago. Featuring new releases and deep cuts. Discover your new favorite classical track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_174",
+    "threadId": "thread_174",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-06T16:24:00Z"
+  },
+  {
+    "from": "bookings@american.com",
+    "subject": "Flight Confirmed: American AM669 to Napa Valley",
+    "body": "Flight confirmation: American AM669 to Napa Valley, aisle seat 6C, business. Departure: October 29, 2024 at 05:35 PM from Chicago. Confirmation code: FLT-228168. Total fare: $397.23. Check in opens 24 hours before departure. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_144",
+    "threadId": "thread_144",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-06T22:31:00Z"
+  },
+  {
+    "from": "delivery@toryburch.com",
+    "subject": "Delivered: Your Tory Burch order #TOR-28449",
+    "body": "Your Tory Burch package has been delivered! Order #TOR-28449 containing designer clothing was delivered to your address in Chicago, IL today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your designer clothing!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_117",
+    "threadId": "thread_117",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-08T17:01:00Z"
+  },
+  {
+    "from": "promo@theory.com",
+    "subject": "15% off designer clothing at Theory - just for you!",
+    "body": "Hi Sarah,\n\nExclusive offer just for you! Get 15% off designer clothing at Theory. Use code THEO15 at checkout. This offer is valid through October 04, 2024. Based on your interest in designer clothing, we think you'll love our latest collection. Shop now at theory.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_109",
+    "threadId": "thread_109",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-10T18:15:00Z"
+  },
+  {
+    "from": "delivery@nordstrom.com",
+    "subject": "Delivered: Your Nordstrom order #NOR-40771",
+    "body": "Your Nordstrom package has been delivered! Order #NOR-40771 containing designer clothing was delivered to your address in Chicago, IL today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your designer clothing!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_108",
+    "threadId": "thread_108",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-16T00:40:00Z"
+  },
+  {
+    "from": "reorder@vitaminshoppe.com",
+    "subject": "Running Low: Reorder Vitamin C",
+    "body": "Time to reorder your vitamin C, Sarah! Based on your usage, you're running low. Auto-refill available with free shipping to Chicago, IL. Stay on track with your health routine.",
+    "labels": [
+      "health",
+      "promotions"
+    ],
+    "id": "email_185",
+    "threadId": "thread_185",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-17T09:57:00Z"
+  },
+  {
+    "from": "shipping@toryburch.com",
+    "subject": "Your Tory Burch order has shipped! #TOR-85965",
+    "body": "Great news, Sarah! Your order of designer clothing from Tory Burch has shipped via FedEx. Tracking number: 214562328588424745. Order #TOR-85965 is on its way to Chicago, IL. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_116",
+    "threadId": "thread_116",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-18T16:50:00Z"
+  },
+  {
+    "from": "david.park@company.com",
+    "subject": "Meeting: budget meeting - September 24",
+    "body": "David Park has invited you to: budget meeting. When: Tuesday, September 24 at 04:09 PM. Duration: 30 minutes. Conference Room B. Attendees: Sarah Mitchell, David Park, and 2 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_194",
+    "threadId": "thread_194",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-20T04:39:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Adele Mix is Ready",
+    "body": "Your weekly Adele mix is ready! 30 tracks curated just for you based on your listening in Chicago. Featuring new releases and deep cuts. Discover your new favorite Adele track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_175",
+    "threadId": "thread_175",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-22T03:16:00Z"
+  },
+  {
+    "from": "notifications@twitter.com",
+    "subject": "[Twitter] New activity on your profile",
+    "body": "Someone liked your photo on Twitter. Check your Twitter profile for the latest updates. You have 2 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_199",
+    "threadId": "thread_199",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-26T02:08:00Z"
+  },
+  {
+    "from": "promo@theory.com",
+    "subject": "10% off wine accessories at Theory - just for you!",
+    "body": "Hi Sarah,\n\nExclusive offer just for you! Get 10% off wine accessories at Theory. Use code THEO10 at checkout. This offer is valid through August 09, 2024. Based on your interest in premium skincare, we think you'll love our latest collection. Shop now at theory.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_124",
+    "threadId": "thread_124",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-10-27T23:48:00Z"
+  },
+  {
+    "from": "episodes@thedaily.com",
+    "subject": "New Episode: The Daily - emerging market trends",
+    "body": "New episode of The Daily: \"emerging market trends\". Duration: 65 minutes. Listen now in your podcast app. Sarah, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_167",
+    "threadId": "thread_167",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-02T04:43:00Z"
+  },
+  {
+    "from": "delivery@ubereats.com",
+    "subject": "Grocery delivery scheduled - 9 items",
+    "body": "Your grocery delivery is scheduled! Items: fresh berries, almond butter, olive oil, quinoa, organic kale and 8 more items. Total: $90.67. Delivery window: 2pm-4pm to Chicago, IL.",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_148",
+    "threadId": "thread_148",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-02T05:34:00Z"
+  },
+  {
+    "from": "orders@caviar.com",
+    "subject": "Your Caviar order from Green Acres Kitchen is on its way!",
+    "body": "Your Caviar order from Green Acres Kitchen is confirmed! Order: Grilled Seasonal Vegetables, Heritage Pork Chop, Roasted Beet Salad. Total: $52.75 (incl. delivery and tip). Estimated delivery: 28 minutes to Chicago, IL. Enjoy your meal, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_152",
+    "threadId": "thread_152",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-02T22:27:00Z"
+  },
+  {
+    "from": "episodes@howibuiltthis.com",
+    "subject": "New Episode: How I Built This - climate change solutions",
+    "body": "New episode of How I Built This: \"climate change solutions\". Duration: 90 minutes. Listen now in your podcast app. Sarah, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_162",
+    "threadId": "thread_162",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-03T21:50:00Z"
+  },
+  {
+    "from": "delivery@theory.com",
+    "subject": "Delivered: Your Theory order #THE-91691",
+    "body": "Your Theory package has been delivered! Order #THE-91691 containing wine accessories was delivered to your address in Chicago, IL today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your wine accessories!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_106",
+    "threadId": "thread_106",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-07T14:04:00Z"
+  },
+  {
+    "from": "reviews@nordstrom.com",
+    "subject": "How's your kitchen gadgets? Leave a review!",
+    "body": "Hi Sarah, how are you enjoying your kitchen gadgets from Nordstrom? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Chicago make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_123",
+    "threadId": "thread_123",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-08T03:49:00Z"
+  },
+  {
+    "from": "shipping@toryburch.com",
+    "subject": "Your Tory Burch order has shipped! #TOR-44663",
+    "body": "Great news, Sarah! Your order of designer clothing from Tory Burch has shipped via USPS. Tracking number: 175496513709859317. Order #TOR-44663 is on its way to Chicago, IL. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_119",
+    "threadId": "thread_119",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-10T12:23:00Z"
+  },
+  {
+    "from": "reservations@fourseasons.com",
+    "subject": "Hotel Booking Confirmed: Four Seasons - Tulum",
+    "body": "Booking Confirmed at Four Seasons near Tulum! Confirmation: HTL-786516. Check-in: November 02, 2024, Check-out: November 09, 2024 (7 nights). Rate: $122.33/night. Guest: Sarah Mitchell. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_138",
+    "threadId": "thread_138",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-13T06:18:00Z"
+  },
+  {
+    "from": "updates@hbomax.com",
+    "subject": "New This Week on HBO Max",
+    "body": "New on HBO Max this week: award-winning documentary, true crime series, limited series. We picked these based on your viewing history, Sarah. Start watching now on HBO Max.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_165",
+    "threadId": "thread_165",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-13T11:23:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Aspen from $538!",
+    "body": "Hi Sarah, we found a great deal to Aspen! Round-trip flights + hotel from $538.27. Based on your travel history, we think you'd love this trip. Book by October 02 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_140",
+    "threadId": "thread_140",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-15T10:17:00Z"
+  },
+  {
+    "from": "promo@toryburch.com",
+    "subject": "20% off premium skincare at Tory Burch - just for you!",
+    "body": "Hi Sarah,\n\nExclusive offer just for you! Get 20% off premium skincare at Tory Burch. Use code TORY20 at checkout. This offer is valid through September 21, 2024. Based on your interest in premium skincare, we think you'll love our latest collection. Shop now at toryburch.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_114",
+    "threadId": "thread_114",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-19T02:33:00Z"
+  },
+  {
+    "from": "orders@ubereats.com",
+    "subject": "Your Uber Eats order from Kiku Japanese is on its way!",
+    "body": "Your Uber Eats order from Kiku Japanese is confirmed! Order: Seasonal Sashimi, Uni, Wagyu Tataki. Total: $29.48 (incl. delivery and tip). Estimated delivery: 37 minutes to Chicago, IL. Enjoy your meal, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_158",
+    "threadId": "thread_158",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-19T20:25:00Z"
+  },
+  {
+    "from": "bookings@delta.com",
+    "subject": "Flight Confirmed: Delta DE436 to Napa Valley",
+    "body": "Flight confirmation: Delta DE436 to Napa Valley, aisle seat 29C, business. Departure: July 08, 2024 at 07:00 PM from Chicago. Confirmation code: FLT-251716. Total fare: $357.96. Check in opens 24 hours before departure. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_129",
+    "threadId": "thread_129",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-26T15:40:00Z"
+  },
+  {
+    "from": "reorder@vitaminshoppe.com",
+    "subject": "Running Low: Reorder Omega-3",
+    "body": "Time to reorder your omega-3, Sarah! Based on your usage, you're running low. Auto-refill available with free shipping to Chicago, IL. Stay on track with your health routine.",
+    "labels": [
+      "health",
+      "promotions"
+    ],
+    "id": "email_184",
+    "threadId": "thread_184",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-29T02:35:00Z"
+  },
+  {
+    "from": "notifications@hubspot.com",
+    "subject": "[HubSpot] New lead assigned: Acme Corp",
+    "body": "[HubSpot] New lead assigned: Acme Corp. Click to view in HubSpot. This notification was sent to sarah.mitchell@outlook.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_187",
+    "threadId": "thread_187",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-11-29T22:40:00Z"
+  },
+  {
+    "from": "promo@theory.com",
+    "subject": "10% off designer clothing at Theory - just for you!",
+    "body": "Hi Sarah,\n\nExclusive offer just for you! Get 10% off designer clothing at Theory. Use code THEO10 at checkout. This offer is valid through September 06, 2024. Based on your interest in wine accessories, we think you'll love our latest collection. Shop now at theory.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_110",
+    "threadId": "thread_110",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-01T04:18:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Napa Valley from $214!",
+    "body": "Hi Sarah, we found a great deal to Napa Valley! Round-trip flights + hotel from $213.88. Based on your travel history, we think you'd love this trip. Book by December 27 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_131",
+    "threadId": "thread_131",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-01T14:02:00Z"
+  },
+  {
+    "from": "orders@caviar.com",
+    "subject": "Your Caviar order from Trattoria Roma is on its way!",
+    "body": "Your Caviar order from Trattoria Roma is confirmed! Order: Bruschetta, Pasta Primavera, Margherita Pizza. Total: $15.39 (incl. delivery and tip). Estimated delivery: 48 minutes to Chicago, IL. Enjoy your meal, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_155",
+    "threadId": "thread_155",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-04T11:39:00Z"
+  },
+  {
+    "from": "delivery@toryburch.com",
+    "subject": "Delivered: Your Tory Burch order #TOR-69871",
+    "body": "Your Tory Burch package has been delivered! Order #TOR-69871 containing premium skincare was delivered to your address in Chicago, IL today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your premium skincare!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_101",
+    "threadId": "thread_101",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-04T19:33:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Green Acres Kitchen for 4",
+    "body": "Reservation confirmed at Green Acres Kitchen! Date: Friday, June 21 at 12:55 PM. Party size: 4. Cuisine: farm-to-table. Location: Chicago, IL. Please arrive 10 minutes early. See you then, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_160",
+    "threadId": "thread_160",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-09T21:10:00Z"
+  },
+  {
+    "from": "notifications@linkedin.com",
+    "subject": "[LinkedIn] New activity on your profile",
+    "body": "Someone sent you a connection request on LinkedIn. Check your LinkedIn profile for the latest updates. You have 12 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_198",
+    "threadId": "thread_198",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-14T13:52:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Dermatology Appointment - November 02",
+    "body": "Reminder: Your dermatology appointment is scheduled for Saturday, November 02 at 03:32 PM. Location: Chicago Medical Center. Patient: Sarah Mitchell. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_176",
+    "threadId": "thread_176",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-16T08:45:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Omakase Sushi Bar for 5",
+    "body": "Reservation confirmed at Omakase Sushi Bar! Date: Tuesday, September 10 at 11:02 PM. Party size: 5. Cuisine: Japanese omakase. Location: Chicago, IL. Please arrive 10 minutes early. See you then, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_157",
+    "threadId": "thread_157",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-20T01:04:00Z"
+  },
+  {
+    "from": "lisa.j@company.com",
+    "subject": "Meeting: analytics review - December 02",
+    "body": "Lisa Johnson has invited you to: analytics review. When: Monday, December 02 at 07:28 AM. Duration: 45 minutes. Conference Room C. Attendees: Sarah Mitchell, Lisa Johnson, and 4 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_190",
+    "threadId": "thread_190",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-20T04:15:00Z"
+  },
+  {
+    "from": "bookings@american.com",
+    "subject": "Flight Confirmed: American AM625 to Tuscany",
+    "body": "Flight confirmation: American AM625 to Tuscany, aisle seat 23C, business. Departure: June 28, 2024 at 02:32 PM from Chicago. Confirmation code: FLT-744986. Total fare: $316.16. Check in opens 24 hours before departure. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_133",
+    "threadId": "thread_133",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-20T06:56:00Z"
+  },
+  {
+    "from": "david.park@company.com",
+    "subject": "Meeting: budget meeting - December 25",
+    "body": "David Park has invited you to: budget meeting. When: Wednesday, December 25 at 03:57 PM. Duration: 45 minutes. Conference Room A. Attendees: Sarah Mitchell, David Park, and 5 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_191",
+    "threadId": "thread_191",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-20T15:01:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Trattoria Roma for 2",
+    "body": "Reservation confirmed at Trattoria Roma! Date: Saturday, November 16 at 03:14 PM. Party size: 2. Cuisine: Italian. Location: Chicago, IL. Please arrive 10 minutes early. See you then, Sarah!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_146",
+    "threadId": "thread_146",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-23T02:46:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Tuscany from $808!",
+    "body": "Hi Sarah, we found a great deal to Tuscany! Round-trip flights + hotel from $807.91. Based on your travel history, we think you'd love this trip. Book by June 24 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_136",
+    "threadId": "thread_136",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-26T17:30:00Z"
+  },
+  {
+    "from": "bookings@delta.com",
+    "subject": "Flight Confirmed: Delta DE193 to Aspen",
+    "body": "Flight confirmation: Delta DE193 to Aspen, aisle seat 26C, business. Departure: July 25, 2024 at 08:40 PM from Chicago. Confirmation code: FLT-122394. Total fare: $597.86. Check in opens 24 hours before departure. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_127",
+    "threadId": "thread_127",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-26T20:11:00Z"
+  },
+  {
+    "from": "bookings@american.com",
+    "subject": "Flight Confirmed: American AM228 to Napa Valley",
+    "body": "Flight confirmation: American AM228 to Napa Valley, aisle seat 30C, business. Departure: October 23, 2024 at 06:04 AM from Chicago. Confirmation code: FLT-681128. Total fare: $772.36. Check in opens 24 hours before departure. Passenger: Sarah Mitchell.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_128",
+    "threadId": "thread_128",
+    "to": "sarah.mitchell@outlook.com",
+    "date": "2024-12-30T21:29:00Z"
+  }
+]

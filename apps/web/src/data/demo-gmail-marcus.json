@@ -1,0 +1,1302 @@
+[
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone sent you a connection request on Instagram. Check your Instagram profile for the latest updates. You have 12 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_499",
+    "threadId": "thread_499",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-01T21:41:00Z"
+  },
+  {
+    "from": "reservations@koacampgrounds.com",
+    "subject": "Hotel Booking Confirmed: KOA campgrounds - Maine coast",
+    "body": "Booking Confirmed at KOA campgrounds near Maine coast! Confirmation: HTL-817712. Check-in: July 17, 2024, Check-out: July 21, 2024 (4 nights). Rate: $306.20/night. Guest: Marcus Thompson. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_433",
+    "threadId": "thread_433",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-03T21:15:00Z"
+  },
+  {
+    "from": "orders@rocklerwoodworking.com",
+    "subject": "Order Confirmed: garden supplies from Rockler Woodworking #ROC-73001",
+    "body": "Hi Marcus,\n\nYour order #ROC-73001 has been confirmed! You ordered: garden supplies (Size 36) from Rockler Woodworking for $132.45. Estimated delivery: June 07, 2024. Shipping to Portland, OR. Thank you for shopping with Rockler Woodworking!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_422",
+    "threadId": "thread_422",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-05T16:40:00Z"
+  },
+  {
+    "from": "summary@fitnesstracker.com",
+    "subject": "Workout Complete: 82min woodworking (physical)",
+    "body": "Great woodworking (physical) session, Marcus! Duration: 82 minutes. Calories burned: 554. You're making progress toward your goal: stay active and healthy. Keep up the momentum! You've been active 5 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_478",
+    "threadId": "thread_478",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-05T23:46:00Z"
+  },
+  {
+    "from": "delivery@rocklerwoodworking.com",
+    "subject": "Delivered: Your Rockler Woodworking order #ROC-21807",
+    "body": "Your Rockler Woodworking package has been delivered! Order #ROC-21807 containing garden supplies was delivered to your address in Portland, OR today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your garden supplies!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_423",
+    "threadId": "thread_423",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-08T18:37:00Z"
+  },
+  {
+    "from": "promo@rocklerwoodworking.com",
+    "subject": "20% off books at Rockler Woodworking - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 20% off books at Rockler Woodworking. Use code ROCK20 at checkout. This offer is valid through October 11, 2024. Based on your interest in garden supplies, we think you'll love our latest collection. Shop now at rocklerwoodworking.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_425",
+    "threadId": "thread_425",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-10T17:16:00Z"
+  },
+  {
+    "from": "delivery@localrestaurant.com",
+    "subject": "Grocery delivery scheduled - 8 items",
+    "body": "Your grocery delivery is scheduled! Items: oat milk, sweet potatoes, tofu, fresh berries, olive oil and 5 more items. Total: $98.75. Delivery window: 5pm-7pm to Portland, OR.",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_446",
+    "threadId": "thread_446",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-12T01:41:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Education News",
+    "body": "Your daily digest: Top stories in education news. 3 articles curated for you based on your reading habits. Plus: local news from Portland, OR. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_471",
+    "threadId": "thread_471",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-12T04:36:00Z"
+  },
+  {
+    "from": "bookings@alaskaairlines.com",
+    "subject": "Flight Confirmed: Alaska Airlines AL619 to Olympic National Park",
+    "body": "Flight confirmation: Alaska Airlines AL619 to Olympic National Park, aisle seat 12C, economy. Departure: October 19, 2024 at 08:24 PM from Portland. Confirmation code: FLT-346415. Total fare: $452.46. Check in opens 24 hours before departure. Passenger: Marcus Thompson.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_441",
+    "threadId": "thread_441",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-17T08:23:00Z"
+  },
+  {
+    "from": "orders@duluthtrading.com",
+    "subject": "Order Confirmed: books from Duluth Trading #DUL-46291",
+    "body": "Hi Marcus,\n\nYour order #DUL-46291 has been confirmed! You ordered: books (Size L) from Duluth Trading for $109.87. Estimated delivery: July 23, 2024. Shipping to Portland, OR. Thank you for shopping with Duluth Trading!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_403",
+    "threadId": "thread_403",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-18T06:20:00Z"
+  },
+  {
+    "from": "notifications@email.com",
+    "subject": "[email] Notification from email",
+    "body": "[email] Notification from email. Click to view in email. This notification was sent to marcus.t.reads@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_493",
+    "threadId": "thread_493",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-25T05:30:00Z"
+  },
+  {
+    "from": "shipping@rocklerwoodworking.com",
+    "subject": "Your Rockler Woodworking order has shipped! #ROC-70161",
+    "body": "Great news, Marcus! Your order of books from Rockler Woodworking has shipped via FedEx. Tracking number: 374896910858994417. Order #ROC-70161 is on its way to Portland, OR. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_402",
+    "threadId": "thread_402",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-26T09:39:00Z"
+  },
+  {
+    "from": "notifications@email.com",
+    "subject": "[email] Notification from email",
+    "body": "[email] Notification from email. Click to view in email. This notification was sent to marcus.t.reads@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_490",
+    "threadId": "thread_490",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-06-28T00:12:00Z"
+  },
+  {
+    "from": "orders@localrestaurant.com",
+    "subject": "Your local restaurant order from Nonno's Kitchen is on its way!",
+    "body": "Your local restaurant order from Nonno's Kitchen is confirmed! Order: Tiramisu, Bruschetta, Pasta Primavera. Total: $58.87 (incl. delivery and tip). Estimated delivery: 38 minutes to Portland, OR. Enjoy your meal, Marcus!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_459",
+    "threadId": "thread_459",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-06T14:10:00Z"
+  },
+  {
+    "from": "summary@fitnesstracker.com",
+    "subject": "Workout Complete: 21min gardening",
+    "body": "Great gardening session, Marcus! Duration: 21 minutes. Calories burned: 208. You're making progress toward your goal: stay active and healthy. Keep up the momentum! You've been active 5 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_483",
+    "threadId": "thread_483",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-07T18:52:00Z"
+  },
+  {
+    "from": "checkin@alaskaairlines.com",
+    "subject": "Check-in Open: Alaska Airlines AL959 to Bend OR",
+    "body": "Check-in is now open for your Alaska Airlines flight AL959 to Bend OR. Your flight departs tomorrow from Portland. Cabin: economy. Don't forget to check in to get your aisle seat preference. Passenger: Marcus Thompson.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_438",
+    "threadId": "thread_438",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-08T23:46:00Z"
+  },
+  {
+    "from": "updates@pbs.com",
+    "subject": "New This Week on PBS",
+    "body": "New on PBS this week: award-winning documentary, limited series, new thriller series. We picked these based on your viewing history, Marcus. Start watching now on PBS.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_462",
+    "threadId": "thread_462",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-09T05:10:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Classic Rock Mix is Ready",
+    "body": "Your weekly classic rock mix is ready! 30 tracks curated just for you based on your listening in Portland. Featuring new releases and deep cuts. Discover your new favorite classic rock track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_469",
+    "threadId": "thread_469",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-12T20:53:00Z"
+  },
+  {
+    "from": "episodes@themoth.com",
+    "subject": "New Episode: The Moth - the science of sleep",
+    "body": "New episode of The Moth: \"the science of sleep\". Duration: 58 minutes. Listen now in your podcast app. Marcus, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_475",
+    "threadId": "thread_475",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-13T08:59:00Z"
+  },
+  {
+    "from": "reservations@stateparkcabins.com",
+    "subject": "Hotel Booking Confirmed: State park cabins - Olympic National Park",
+    "body": "Booking Confirmed at State park cabins near Olympic National Park! Confirmation: HTL-810859. Check-in: August 06, 2024, Check-out: August 08, 2024 (2 nights). Rate: $340.69/night. Guest: Marcus Thompson. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_435",
+    "threadId": "thread_435",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-13T16:08:00Z"
+  },
+  {
+    "from": "notifications@googledocs.com",
+    "subject": "[Google Docs] Notification from Google Docs",
+    "body": "[Google Docs] Notification from Google Docs. Click to view in Google Docs. This notification was sent to marcus.t.reads@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_486",
+    "threadId": "thread_486",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-13T23:43:00Z"
+  },
+  {
+    "from": "orders@carhartt.com",
+    "subject": "Order Confirmed: books from Carhartt #CAR-65112",
+    "body": "Hi Marcus,\n\nYour order #CAR-65112 has been confirmed! You ordered: books (Size L) from Carhartt for $281.13. Estimated delivery: September 09, 2024. Shipping to Portland, OR. Thank you for shopping with Carhartt!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_409",
+    "threadId": "thread_409",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-14T00:20:00Z"
+  },
+  {
+    "from": "orders@localrestaurant.com",
+    "subject": "Your local restaurant order from Grandma's Table is on its way!",
+    "body": "Your local restaurant order from Grandma's Table is confirmed! Order: Mac & Cheese, Grilled Cheese, Tomato Soup, Meatloaf. Total: $63.19 (incl. delivery and tip). Estimated delivery: 25 minutes to Portland, OR. Enjoy your meal, Marcus!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_451",
+    "threadId": "thread_451",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-15T12:41:00Z"
+  },
+  {
+    "from": "summary@fitnesstracker.com",
+    "subject": "Workout Complete: 20min woodworking (physical)",
+    "body": "Great woodworking (physical) session, Marcus! Duration: 20 minutes. Calories burned: 319. You're making progress toward your goal: stay active and healthy. Keep up the momentum! You've been active 6 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_476",
+    "threadId": "thread_476",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-17T16:25:00Z"
+  },
+  {
+    "from": "checkin@alaskaairlines.com",
+    "subject": "Check-in Open: Alaska Airlines AL513 to Olympic National Park",
+    "body": "Check-in is now open for your Alaska Airlines flight AL513 to Olympic National Park. Your flight departs tomorrow from Portland. Cabin: economy. Don't forget to check in to get your aisle seat preference. Passenger: Marcus Thompson.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_443",
+    "threadId": "thread_443",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-23T16:58:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Orthopedic Follow-Up - July 11",
+    "body": "Reminder: Your orthopedic follow-up is scheduled for Thursday, July 11 at 01:34 PM. Location: Portland Medical Center. Patient: Marcus Thompson. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_480",
+    "threadId": "thread_480",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-26T14:38:00Z"
+  },
+  {
+    "from": "summary@fitnesstracker.com",
+    "subject": "Workout Complete: 62min woodworking (physical)",
+    "body": "Great woodworking (physical) session, Marcus! Duration: 62 minutes. Calories burned: 334. You're making progress toward your goal: stay active and healthy. Keep up the momentum! You've been active 5 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_482",
+    "threadId": "thread_482",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-27T13:38:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Maine coast from $1069!",
+    "body": "Hi Marcus, we found a great deal to Maine coast! Round-trip flights + hotel from $1069.29. Based on your travel history, we think you'd love this trip. Book by June 27 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_440",
+    "threadId": "thread_440",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-27T15:14:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's BBQ Recipes You'll Love",
+    "body": "This week's top BBQ recipes (omnivore, farm-to-table preference)! Featured: 5-ingredient bbq bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for Portland area. Your personalized meal plan is ready based on your omnivore, farm-to-table preference preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_455",
+    "threadId": "thread_455",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-28T16:25:00Z"
+  },
+  {
+    "from": "delivery@localrestaurant.com",
+    "subject": "Grocery delivery scheduled - 9 items",
+    "body": "Your grocery delivery is scheduled! Items: fresh berries, avocados, organic kale, chickpeas, whole grain bread and 3 more items. Total: $48.98. Delivery window: 11am-1pm to Portland, OR.",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_460",
+    "threadId": "thread_460",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-29T02:32:00Z"
+  },
+  {
+    "from": "episodes@woodworkingmasterclass.com",
+    "subject": "New Episode: Woodworking Masterclass - the science of sleep",
+    "body": "New episode of Woodworking Masterclass: \"the science of sleep\". Duration: 31 minutes. Listen now in your podcast app. Marcus, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_465",
+    "threadId": "thread_465",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-29T13:51:00Z"
+  },
+  {
+    "from": "bookings@alaskaairlines.com",
+    "subject": "Flight Confirmed: Alaska Airlines AL558 to Nova Scotia",
+    "body": "Flight confirmation: Alaska Airlines AL558 to Nova Scotia, aisle seat 7C, economy. Departure: October 06, 2024 at 02:20 PM from Portland. Confirmation code: FLT-621533. Total fare: $239.03. Check in opens 24 hours before departure. Passenger: Marcus Thompson.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_442",
+    "threadId": "thread_442",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-07-30T01:42:00Z"
+  },
+  {
+    "from": "promo@l.l.bean.com",
+    "subject": "25% off woodworking tools at L.L. Bean - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 25% off woodworking tools at L.L. Bean. Use code L.L.25 at checkout. This offer is valid through November 24, 2024. Based on your interest in flannel shirts, we think you'll love our latest collection. Shop now at l.l.bean.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_410",
+    "threadId": "thread_410",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-03T07:45:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's BBQ Recipes You'll Love",
+    "body": "This week's top BBQ recipes (omnivore, farm-to-table preference)! Featured: 5-ingredient bbq bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for Portland area. Your personalized meal plan is ready based on your omnivore, farm-to-table preference preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_454",
+    "threadId": "thread_454",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-04T12:58:00Z"
+  },
+  {
+    "from": "delivery@carhartt.com",
+    "subject": "Delivered: Your Carhartt order #CAR-36253",
+    "body": "Your Carhartt package has been delivered! Order #CAR-36253 containing garden supplies was delivered to your address in Portland, OR today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your garden supplies!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_412",
+    "threadId": "thread_412",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-10T11:08:00Z"
+  },
+  {
+    "from": "orders@localrestaurant.com",
+    "subject": "Your local restaurant order from Home Plate Diner is on its way!",
+    "body": "Your local restaurant order from Home Plate Diner is confirmed! Order: Grilled Cheese, Mac & Cheese, Tomato Soup, Meatloaf. Total: $25.78 (incl. delivery and tip). Estimated delivery: 51 minutes to Portland, OR. Enjoy your meal, Marcus!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_449",
+    "threadId": "thread_449",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-10T23:16:00Z"
+  },
+  {
+    "from": "shipping@duluthtrading.com",
+    "subject": "Your Duluth Trading order has shipped! #DUL-91675",
+    "body": "Great news, Marcus! Your order of flannel shirts from Duluth Trading has shipped via UPS. Tracking number: 901001676184723046. Order #DUL-91675 is on its way to Portland, OR. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_418",
+    "threadId": "thread_418",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-11T04:57:00Z"
+  },
+  {
+    "from": "reservations@b&bs.com",
+    "subject": "Hotel Booking Confirmed: B&Bs - Glacier NP",
+    "body": "Booking Confirmed at B&Bs near Glacier NP! Confirmation: HTL-780364. Check-in: December 31, 2024, Check-out: January 05, 2025 (5 nights). Rate: $375.96/night. Guest: Marcus Thompson. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_430",
+    "threadId": "thread_430",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-14T04:29:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's BBQ Recipes You'll Love",
+    "body": "This week's top BBQ recipes (omnivore, farm-to-table preference)! Featured: 5-ingredient bbq bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for Portland area. Your personalized meal plan is ready based on your omnivore, farm-to-table preference preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_447",
+    "threadId": "thread_447",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-22T03:45:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Americana Mix is Ready",
+    "body": "Your weekly Americana mix is ready! 30 tracks curated just for you based on your listening in Portland. Featuring new releases and deep cuts. Discover your new favorite Americana track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_466",
+    "threadId": "thread_466",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-24T23:07:00Z"
+  },
+  {
+    "from": "lisa.j@company.com",
+    "subject": "Meeting: community board meeting - July 20",
+    "body": "Lisa Johnson has invited you to: community board meeting. When: Saturday, July 20 at 10:32 AM. Duration: 30 minutes. Conference Room A. Attendees: Marcus Thompson, Lisa Johnson, and 2 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_487",
+    "threadId": "thread_487",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-27T14:38:00Z"
+  },
+  {
+    "from": "orders@localrestaurant.com",
+    "subject": "Your local restaurant order from Salmon Creek Kitchen is on its way!",
+    "body": "Your local restaurant order from Salmon Creek Kitchen is confirmed! Order: Wild Mushroom Risotto, Cedar Plank Salmon, Dungeness Crab. Total: $34.89 (incl. delivery and tip). Estimated delivery: 35 minutes to Portland, OR. Enjoy your meal, Marcus!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_456",
+    "threadId": "thread_456",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-30T11:31:00Z"
+  },
+  {
+    "from": "shipping@duluthtrading.com",
+    "subject": "Your Duluth Trading order has shipped! #DUL-18557",
+    "body": "Great news, Marcus! Your order of garden supplies from Duluth Trading has shipped via UPS. Tracking number: 447898562575326033. Order #DUL-18557 is on its way to Portland, OR. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_415",
+    "threadId": "thread_415",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-08-31T09:31:00Z"
+  },
+  {
+    "from": "episodes@themoth.com",
+    "subject": "New Episode: The Moth - climate change solutions",
+    "body": "New episode of The Moth: \"climate change solutions\". Duration: 53 minutes. Listen now in your podcast app. Marcus, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_463",
+    "threadId": "thread_463",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-01T19:45:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Grandma's Table for 6",
+    "body": "Reservation confirmed at Grandma's Table! Date: Thursday, September 19 at 06:30 PM. Party size: 6. Cuisine: American comfort. Location: Portland, OR. Please arrive 10 minutes early. See you then, Marcus!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_452",
+    "threadId": "thread_452",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-05T11:37:00Z"
+  },
+  {
+    "from": "notifications@email.com",
+    "subject": "[email] Notification from email",
+    "body": "[email] Notification from email. Click to view in email. This notification was sent to marcus.t.reads@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_489",
+    "threadId": "thread_489",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-05T12:08:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Bend OR from $528!",
+    "body": "Hi Marcus, we found a great deal to Bend OR! Round-trip flights + hotel from $527.99. Based on your travel history, we think you'd love this trip. Book by September 28 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_428",
+    "threadId": "thread_428",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-09T07:57:00Z"
+  },
+  {
+    "from": "receipts@stateparkcabins.com",
+    "subject": "Receipt: Your stay at State park cabins - Olympic National Park",
+    "body": "Thank you for staying at State park cabins in Olympic National Park! Guest: Marcus Thompson. Stay: 5 nights at $373.37/night. Total (incl. tax): $2090.87. We hope you enjoyed your trip to Olympic National Park. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_432",
+    "threadId": "thread_432",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-10T11:32:00Z"
+  },
+  {
+    "from": "delivery@l.l.bean.com",
+    "subject": "Delivered: Your L.L. Bean order #L.L-43540",
+    "body": "Your L.L. Bean package has been delivered! Order #L.L-43540 containing woodworking tools was delivered to your address in Portland, OR today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your woodworking tools!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_424",
+    "threadId": "thread_424",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-12T18:13:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Book Reviews",
+    "body": "Your daily digest: Top stories in book reviews. 3 articles curated for you based on your reading habits. Plus: local news from Portland, OR. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_470",
+    "threadId": "thread_470",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-14T00:15:00Z"
+  },
+  {
+    "from": "notifications@googledocs.com",
+    "subject": "[Google Docs] Notification from Google Docs",
+    "body": "[Google Docs] Notification from Google Docs. Click to view in Google Docs. This notification was sent to marcus.t.reads@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_492",
+    "threadId": "thread_492",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-16T04:38:00Z"
+  },
+  {
+    "from": "notifications@linkedin.com",
+    "subject": "[LinkedIn] New activity on your profile",
+    "body": "Someone commented on your post on LinkedIn. Check your LinkedIn profile for the latest updates. You have 3 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_500",
+    "threadId": "thread_500",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-19T16:26:00Z"
+  },
+  {
+    "from": "reservations@koacampgrounds.com",
+    "subject": "Hotel Booking Confirmed: KOA campgrounds - Nova Scotia",
+    "body": "Booking Confirmed at KOA campgrounds near Nova Scotia! Confirmation: HTL-644315. Check-in: December 03, 2024, Check-out: December 10, 2024 (7 nights). Rate: $403.06/night. Guest: Marcus Thompson. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_436",
+    "threadId": "thread_436",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-23T05:11:00Z"
+  },
+  {
+    "from": "reservations@koacampgrounds.com",
+    "subject": "Hotel Booking Confirmed: KOA campgrounds - Nova Scotia",
+    "body": "Booking Confirmed at KOA campgrounds near Nova Scotia! Confirmation: HTL-480992. Check-in: July 23, 2024, Check-out: July 28, 2024 (5 nights). Rate: $431.63/night. Guest: Marcus Thompson. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_445",
+    "threadId": "thread_445",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-29T14:56:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Annual Physical - August 29",
+    "body": "Reminder: Your annual physical is scheduled for Thursday, August 29 at 07:56 AM. Location: Portland Medical Center. Patient: Marcus Thompson. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_481",
+    "threadId": "thread_481",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-09-29T15:10:00Z"
+  },
+  {
+    "from": "updates@amazonprimevideo.com",
+    "subject": "New This Week on Amazon Prime Video",
+    "body": "New on Amazon Prime Video this week: limited series, comedy special. We picked these based on your viewing history, Marcus. Start watching now on Amazon Prime Video.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_468",
+    "threadId": "thread_468",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-01T06:37:00Z"
+  },
+  {
+    "from": "shipping@rocklerwoodworking.com",
+    "subject": "Your Rockler Woodworking order has shipped! #ROC-66233",
+    "body": "Great news, Marcus! Your order of bird feeders from Rockler Woodworking has shipped via FedEx. Tracking number: 600835058300335421. Order #ROC-66233 is on its way to Portland, OR. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_414",
+    "threadId": "thread_414",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-01T14:28:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Nova Scotia from $254!",
+    "body": "Hi Marcus, we found a great deal to Nova Scotia! Round-trip flights + hotel from $253.62. Based on your travel history, we think you'd love this trip. Book by November 19 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_439",
+    "threadId": "thread_439",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-02T11:02:00Z"
+  },
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone endorsed your skill on Instagram. Check your Instagram profile for the latest updates. You have 1 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_497",
+    "threadId": "thread_497",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-02T21:08:00Z"
+  },
+  {
+    "from": "episodes@woodworkingmasterclass.com",
+    "subject": "New Episode: Woodworking Masterclass - emerging market trends",
+    "body": "New episode of Woodworking Masterclass: \"emerging market trends\". Duration: 31 minutes. Listen now in your podcast app. Marcus, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_467",
+    "threadId": "thread_467",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-02T21:30:00Z"
+  },
+  {
+    "from": "reviews@rocklerwoodworking.com",
+    "subject": "How's your books? Leave a review!",
+    "body": "Hi Marcus, how are you enjoying your books from Rockler Woodworking? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Portland make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_404",
+    "threadId": "thread_404",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-03T14:21:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Bend OR from $312!",
+    "body": "Hi Marcus, we found a great deal to Bend OR! Round-trip flights + hotel from $312.17. Based on your travel history, we think you'd love this trip. Book by December 03 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_431",
+    "threadId": "thread_431",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-07T16:05:00Z"
+  },
+  {
+    "from": "notifications@email.com",
+    "subject": "[email] Notification from email",
+    "body": "[email] Notification from email. Click to view in email. This notification was sent to marcus.t.reads@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_491",
+    "threadId": "thread_491",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-12T16:43:00Z"
+  },
+  {
+    "from": "orders@localrestaurant.com",
+    "subject": "Your local restaurant order from Nonno's Kitchen is on its way!",
+    "body": "Your local restaurant order from Nonno's Kitchen is confirmed! Order: Bruschetta, Tiramisu, Margherita Pizza, Pasta Primavera. Total: $59.84 (incl. delivery and tip). Estimated delivery: 40 minutes to Portland, OR. Enjoy your meal, Marcus!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_448",
+    "threadId": "thread_448",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-12T20:53:00Z"
+  },
+  {
+    "from": "promo@duluthtrading.com",
+    "subject": "30% off flannel shirts at Duluth Trading - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 30% off flannel shirts at Duluth Trading. Use code DULU30 at checkout. This offer is valid through December 11, 2024. Based on your interest in woodworking tools, we think you'll love our latest collection. Shop now at duluthtrading.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_419",
+    "threadId": "thread_419",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-16T06:16:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Glacier NP from $560!",
+    "body": "Hi Marcus, we found a great deal to Glacier NP! Round-trip flights + hotel from $559.57. Based on your travel history, we think you'd love this trip. Book by November 28 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_426",
+    "threadId": "thread_426",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-18T17:30:00Z"
+  },
+  {
+    "from": "delivery@carhartt.com",
+    "subject": "Delivered: Your Carhartt order #CAR-12872",
+    "body": "Your Carhartt package has been delivered! Order #CAR-12872 containing garden supplies was delivered to your address in Portland, OR today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your garden supplies!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_416",
+    "threadId": "thread_416",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-20T03:11:00Z"
+  },
+  {
+    "from": "promo@rocklerwoodworking.com",
+    "subject": "20% off flannel shirts at Rockler Woodworking - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 20% off flannel shirts at Rockler Woodworking. Use code ROCK20 at checkout. This offer is valid through August 30, 2024. Based on your interest in flannel shirts, we think you'll love our latest collection. Shop now at rocklerwoodworking.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_407",
+    "threadId": "thread_407",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-23T18:23:00Z"
+  },
+  {
+    "from": "reservations@koacampgrounds.com",
+    "subject": "Hotel Booking Confirmed: KOA campgrounds - Nova Scotia",
+    "body": "Booking Confirmed at KOA campgrounds near Nova Scotia! Confirmation: HTL-462544. Check-in: June 25, 2024, Check-out: July 02, 2024 (7 nights). Rate: $171.97/night. Guest: Marcus Thompson. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_437",
+    "threadId": "thread_437",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-23T18:42:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Folk Mix is Ready",
+    "body": "Your weekly folk mix is ready! 30 tracks curated just for you based on your listening in Portland. Featuring new releases and deep cuts. Discover your new favorite folk track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_474",
+    "threadId": "thread_474",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-25T04:03:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Italian Recipes You'll Love",
+    "body": "This week's top Italian recipes (omnivore, farm-to-table preference)! Featured: 5-ingredient italian bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for Portland area. Your personalized meal plan is ready based on your omnivore, farm-to-table preference preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_450",
+    "threadId": "thread_450",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-27T17:36:00Z"
+  },
+  {
+    "from": "notifications@email.com",
+    "subject": "[email] Notification from email",
+    "body": "[email] Notification from email. Click to view in email. This notification was sent to marcus.t.reads@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_488",
+    "threadId": "thread_488",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-30T02:14:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Education News",
+    "body": "Your daily digest: Top stories in education news. 3 articles curated for you based on your reading habits. Plus: local news from Portland, OR. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_472",
+    "threadId": "thread_472",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-10-30T05:08:00Z"
+  },
+  {
+    "from": "reports@applehealth.com",
+    "subject": "Weekly Health Report: 45,145 steps",
+    "body": "Your weekly health summary, Marcus: Steps this week: 45,145. Average sleep: 6.1 hours/night. Active days: 5/7. Your most active day was Saturday. Goal progress (stay active and healthy): on track!",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_477",
+    "threadId": "thread_477",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-01T18:40:00Z"
+  },
+  {
+    "from": "orders@localrestaurant.com",
+    "subject": "Your local restaurant order from Nonno's Kitchen is on its way!",
+    "body": "Your local restaurant order from Nonno's Kitchen is confirmed! Order: Pasta Primavera, Bruschetta. Total: $42.12 (incl. delivery and tip). Estimated delivery: 45 minutes to Portland, OR. Enjoy your meal, Marcus!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_458",
+    "threadId": "thread_458",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-02T00:32:00Z"
+  },
+  {
+    "from": "billing@portlandutilities.com",
+    "subject": "Gas Bill: $143.15 Due",
+    "body": "Your gas bill for this month is $143.15. Due date: July 04, 2024. Service address: Portland, OR. Set up autopay to never miss a payment.",
+    "labels": [
+      "finance",
+      "inbox"
+    ],
+    "id": "email_498",
+    "threadId": "thread_498",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-02T17:52:00Z"
+  },
+  {
+    "from": "emily.zhang@company.com",
+    "subject": "Meeting: community board meeting - October 31",
+    "body": "Emily Zhang has invited you to: community board meeting. When: Thursday, October 31 at 12:34 PM. Duration: 30 minutes. Conference Room C. Attendees: Marcus Thompson, Emily Zhang, and 3 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_494",
+    "threadId": "thread_494",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-05T19:02:00Z"
+  },
+  {
+    "from": "promo@l.l.bean.com",
+    "subject": "25% off books at L.L. Bean - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 25% off books at L.L. Bean. Use code L.L.25 at checkout. This offer is valid through August 20, 2024. Based on your interest in bird feeders, we think you'll love our latest collection. Shop now at l.l.bean.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_405",
+    "threadId": "thread_405",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-05T21:19:00Z"
+  },
+  {
+    "from": "episodes@freshair.com",
+    "subject": "New Episode: Fresh Air - climate change solutions",
+    "body": "New episode of Fresh Air: \"climate change solutions\". Duration: 48 minutes. Listen now in your podcast app. Marcus, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_473",
+    "threadId": "thread_473",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-09T16:02:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Classic Rock Mix is Ready",
+    "body": "Your weekly classic rock mix is ready! 30 tracks curated just for you based on your listening in Portland. Featuring new releases and deep cuts. Discover your new favorite classic rock track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_461",
+    "threadId": "thread_461",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-12T08:13:00Z"
+  },
+  {
+    "from": "promo@carhartt.com",
+    "subject": "10% off books at Carhartt - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 10% off books at Carhartt. Use code CARH10 at checkout. This offer is valid through December 14, 2024. Based on your interest in woodworking tools, we think you'll love our latest collection. Shop now at carhartt.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_417",
+    "threadId": "thread_417",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-13T19:05:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's BBQ Recipes You'll Love",
+    "body": "This week's top BBQ recipes (omnivore, farm-to-table preference)! Featured: 5-ingredient bbq bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for Portland area. Your personalized meal plan is ready based on your omnivore, farm-to-table preference preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_453",
+    "threadId": "thread_453",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-15T02:33:00Z"
+  },
+  {
+    "from": "checkin@alaskaairlines.com",
+    "subject": "Check-in Open: Alaska Airlines AL109 to Olympic National Park",
+    "body": "Check-in is now open for your Alaska Airlines flight AL109 to Olympic National Park. Your flight departs tomorrow from Portland. Cabin: economy. Don't forget to check in to get your aisle seat preference. Passenger: Marcus Thompson.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_427",
+    "threadId": "thread_427",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-15T04:23:00Z"
+  },
+  {
+    "from": "reorder@vitaminshoppe.com",
+    "subject": "Running Low: Reorder Vitamin D",
+    "body": "Time to reorder your vitamin D, Marcus! Based on your usage, you're running low. Auto-refill available with free shipping to Portland, OR. Stay on track with your health routine.",
+    "labels": [
+      "health",
+      "promotions"
+    ],
+    "id": "email_485",
+    "threadId": "thread_485",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-16T16:16:00Z"
+  },
+  {
+    "from": "summary@fitnesstracker.com",
+    "subject": "Workout Complete: 87min woodworking (physical)",
+    "body": "Great woodworking (physical) session, Marcus! Duration: 87 minutes. Calories burned: 262. You're making progress toward your goal: stay active and healthy. Keep up the momentum! You've been active 4 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_479",
+    "threadId": "thread_479",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-17T09:05:00Z"
+  },
+  {
+    "from": "orders@l.l.bean.com",
+    "subject": "Order Confirmed: garden supplies from L.L. Bean #L.L-43081",
+    "body": "Hi Marcus,\n\nYour order #L.L-43081 has been confirmed! You ordered: garden supplies (Size L) from L.L. Bean for $222.71. Estimated delivery: December 05, 2024. Shipping to Portland, OR. Thank you for shopping with L.L. Bean!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_401",
+    "threadId": "thread_401",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-19T20:15:00Z"
+  },
+  {
+    "from": "shipping@rocklerwoodworking.com",
+    "subject": "Your Rockler Woodworking order has shipped! #ROC-51469",
+    "body": "Great news, Marcus! Your order of garden supplies from Rockler Woodworking has shipped via USPS. Tracking number: 217525007432927129. Order #ROC-51469 is on its way to Portland, OR. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_413",
+    "threadId": "thread_413",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-21T23:21:00Z"
+  },
+  {
+    "from": "delivery@carhartt.com",
+    "subject": "Delivered: Your Carhartt order #CAR-39145",
+    "body": "Your Carhartt package has been delivered! Order #CAR-39145 containing books was delivered to your address in Portland, OR today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your books!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_406",
+    "threadId": "thread_406",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-11-25T18:09:00Z"
+  },
+  {
+    "from": "promo@duluthtrading.com",
+    "subject": "30% off garden supplies at Duluth Trading - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 30% off garden supplies at Duluth Trading. Use code DULU30 at checkout. This offer is valid through September 14, 2024. Based on your interest in books, we think you'll love our latest collection. Shop now at duluthtrading.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_421",
+    "threadId": "thread_421",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-04T02:57:00Z"
+  },
+  {
+    "from": "promo@l.l.bean.com",
+    "subject": "20% off woodworking tools at L.L. Bean - just for you!",
+    "body": "Hi Marcus,\n\nExclusive offer just for you! Get 20% off woodworking tools at L.L. Bean. Use code L.L.20 at checkout. This offer is valid through January 01, 2025. Based on your interest in garden supplies, we think you'll love our latest collection. Shop now at l.l.bean.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_420",
+    "threadId": "thread_420",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-05T20:04:00Z"
+  },
+  {
+    "from": "orders@carhartt.com",
+    "subject": "Order Confirmed: flannel shirts from Carhartt #CAR-25704",
+    "body": "Hi Marcus,\n\nYour order #CAR-25704 has been confirmed! You ordered: flannel shirts (Size 11) from Carhartt for $306.94. Estimated delivery: October 17, 2024. Shipping to Portland, OR. Thank you for shopping with Carhartt!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_411",
+    "threadId": "thread_411",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-07T20:27:00Z"
+  },
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone endorsed your skill on Instagram. Check your Instagram profile for the latest updates. You have 5 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_496",
+    "threadId": "thread_496",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-10T03:05:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Orthopedic Follow-Up - November 05",
+    "body": "Reminder: Your orthopedic follow-up is scheduled for Tuesday, November 05 at 07:15 PM. Location: Portland Medical Center. Patient: Marcus Thompson. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_484",
+    "threadId": "thread_484",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-14T05:39:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Olympic National Park from $572!",
+    "body": "Hi Marcus, we found a great deal to Olympic National Park! Round-trip flights + hotel from $571.99. Based on your travel history, we think you'd love this trip. Book by September 03 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_429",
+    "threadId": "thread_429",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-15T18:46:00Z"
+  },
+  {
+    "from": "tom.a@company.com",
+    "subject": "Meeting: community board meeting - August 28",
+    "body": "Tom Anderson has invited you to: community board meeting. When: Wednesday, August 28 at 06:26 AM. Duration: 60 minutes. Conference Room C. Attendees: Marcus Thompson, Tom Anderson, and 2 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_495",
+    "threadId": "thread_495",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-18T17:32:00Z"
+  },
+  {
+    "from": "reservations@koacampgrounds.com",
+    "subject": "Hotel Booking Confirmed: KOA campgrounds - Nova Scotia",
+    "body": "Booking Confirmed at KOA campgrounds near Nova Scotia! Confirmation: HTL-768507. Check-in: June 01, 2024, Check-out: June 07, 2024 (6 nights). Rate: $436.37/night. Guest: Marcus Thompson. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_444",
+    "threadId": "thread_444",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-20T11:24:00Z"
+  },
+  {
+    "from": "delivery@localrestaurant.com",
+    "subject": "Grocery delivery scheduled - 9 items",
+    "body": "Your grocery delivery is scheduled! Items: sweet potatoes, whole grain bread, olive oil, chickpeas, brown rice and 7 more items. Total: $108.23. Delivery window: 2pm-4pm to Portland, OR.",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_457",
+    "threadId": "thread_457",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-20T15:56:00Z"
+  },
+  {
+    "from": "orders@l.l.bean.com",
+    "subject": "Order Confirmed: bird feeders from L.L. Bean #L.L-26769",
+    "body": "Hi Marcus,\n\nYour order #L.L-26769 has been confirmed! You ordered: bird feeders (Size 32) from L.L. Bean for $265.80. Estimated delivery: November 25, 2024. Shipping to Portland, OR. Thank you for shopping with L.L. Bean!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_408",
+    "threadId": "thread_408",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-24T10:27:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Bend OR from $683!",
+    "body": "Hi Marcus, we found a great deal to Bend OR! Round-trip flights + hotel from $682.56. Based on your travel history, we think you'd love this trip. Book by October 10 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_434",
+    "threadId": "thread_434",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-24T19:43:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Book Reviews",
+    "body": "Your daily digest: Top stories in book reviews. 3 articles curated for you based on your reading habits. Plus: local news from Portland, OR. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_464",
+    "threadId": "thread_464",
+    "to": "marcus.t.reads@gmail.com",
+    "date": "2024-12-27T03:42:00Z"
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "uuid": "41f60be0-7cef-4aa3-aaed-cf4a4599a084",
+    "name": "TypeScript utility types deep dive",
+    "created_at": "2024-02-10T16:01:00Z",
+    "updated_at": "2024-02-10T16:05:58Z",
+    "chat_messages": [
+      {
+        "uuid": "1d6608f7-02d3-4789-bbf8-322a12847494",
+        "text": "I've been working in TypeScript for about 3 years and I use VS Code with the TypeScript language server. What are some advanced utility types I should know? I prefer async-first patterns and work mostly in React codebases.",
+        "sender": "human",
+        "created_at": "2024-02-10T16:01:00Z"
+      },
+      {
+        "uuid": "4fa0336c-f4d2-4f48-9e22-010bcec2d5ef",
+        "text": "Great question! Since you work with React and TypeScript, here are some utility types that will level up your code. First, `Partial<T>` and `Required<T>` are essentials for component props. Then there's `Pick<T, K>` and `Omit<T, K>` for creating prop subsets. For async patterns, `Awaited<T>` is fantastic for unwrapping Promise types. Since you mentioned React, `ComponentProps<typeof Component>` is incredibly useful for extending component props. And `Record<K, V>` is great for typed dictionaries. Want me to dive deeper into any of these?",
+        "sender": "assistant",
+        "created_at": "2024-02-10T16:02:06Z"
+      },
+      {
+        "uuid": "110edc17-9ffb-4863-a62d-3f4c09274947",
+        "text": "Yes, tell me more about conditional types. I use Linear for project management and I'm thinking about building a type-safe API client for our team.",
+        "sender": "human",
+        "created_at": "2024-02-10T16:03:59Z"
+      },
+      {
+        "uuid": "bca9e904-e565-4a21-8b89-c9f745869e99",
+        "text": "Conditional types are powerful for building type-safe API clients! The basic syntax is `T extends U ? X : Y`. Here's a practical example for your API client...",
+        "sender": "assistant",
+        "created_at": "2024-02-10T16:04:46Z"
+      }
+    ]
+  },
+  {
+    "uuid": "b7a115ef-c2bf-468a-991b-8be9fe19dbb5",
+    "name": "Trail running nutrition tips",
+    "created_at": "2024-07-03T19:09:00Z",
+    "updated_at": "2024-07-03T19:14:43Z",
+    "chat_messages": [
+      {
+        "uuid": "083c2879-ec46-4de3-8ea4-3d37b350c341",
+        "text": "I'm training for my first ultra marathon and need nutrition advice. I follow a plant-based diet and currently run about 50 miles per week in my Hoka Speedgoats. I track everything on Strava.",
+        "sender": "human",
+        "created_at": "2024-07-03T19:09:00Z"
+      },
+      {
+        "uuid": "c66c7e86-5b46-4bc0-807a-17c2521739ea",
+        "text": "That's great that you're training for an ultra! With a plant-based diet and that mileage base, nutrition timing is crucial. For long runs over 90 minutes, aim for 200-300 calories per hour from easily digestible sources. Some plant-based options include: dates and nut butter wraps, Medjool dates with sea salt, plant-based gels like Huma or Spring Energy, and homemade rice balls with miso. Pre-run, I'd suggest oats with banana and almond butter about 2 hours before. Post-run, a smoothie with Vega protein, banana, and spinach works great for recovery.",
+        "sender": "assistant",
+        "created_at": "2024-07-03T19:09:52Z"
+      },
+      {
+        "uuid": "056f89f8-16fe-4c7a-a951-40eb18004d45",
+        "text": "What about hydration? I usually run trails around Marin and it gets warm. I use a Salomon soft flask. Also, should I take creatine as a supplement? I already take vitamin D and B12.",
+        "sender": "human",
+        "created_at": "2024-07-03T19:11:02Z"
+      },
+      {
+        "uuid": "b2fda54c-6303-486d-88ac-b3b05126362c",
+        "text": "For trail running in Marin's heat, hydration is critical. With your Salomon soft flask, aim for 16-24oz per hour depending on temperature. Add electrolytes -- look for plant-based options like Skratch Labs or Nuun. On creatine, there's actually growing evidence it helps endurance athletes too, not just strength training. Since you're already on D and B12 (smart for plant-based), adding 3-5g of creatine monohydrate daily could support your training.",
+        "sender": "assistant",
+        "created_at": "2024-07-03T19:12:14Z"
+      }
+    ]
+  },
+  {
+    "uuid": "bb673969-a1ce-4fb5-9e1e-716f8970646a",
+    "name": "Minimalist apartment organization",
+    "created_at": "2024-10-26T14:37:00Z",
+    "updated_at": "2024-10-26T14:43:49Z",
+    "chat_messages": [
+      {
+        "uuid": "e8dc4e64-7e20-4ae3-8f53-50fba9ca0d27",
+        "text": "I live in a 1BR apartment in San Francisco and I'm going for a minimalist Japanese style. I have Sonos speakers and Hue lights already. What else would help create that aesthetic?",
+        "sender": "human",
+        "created_at": "2024-10-26T14:37:00Z"
+      },
+      {
+        "uuid": "27ec9993-59f1-4611-b5ac-dddfe96963c4",
+        "text": "Love the minimalist Japanese direction! With your Sonos and Hue setup, you've got great foundations for ambiance. Here are some suggestions for your 1BR: Consider a low-profile platform bed -- Japanese futon-style or a simple walnut frame. For storage, look at muji-style modular shelving that doubles as room dividers. A simple tatami mat area for meditation would tie the theme together. For lighting, set your Hue bulbs to warm tones (2700K) in the evening. Plants like a single bonsai or snake plant add life without clutter.",
+        "sender": "assistant",
+        "created_at": "2024-10-26T14:38:17Z"
+      },
+      {
+        "uuid": "7ffdf292-3fea-418f-8453-7ef1c9e201c1",
+        "text": "Great ideas. I meditate daily using Headspace so a dedicated space would be nice. What about my desk setup? I work remote as a software engineer.",
+        "sender": "human",
+        "created_at": "2024-10-26T14:40:07Z"
+      },
+      {
+        "uuid": "6a1c79ff-35bd-4a58-8b35-72ba6c8cf78b",
+        "text": "For a remote software engineer with a minimalist aesthetic, I'd suggest a clean standing desk in walnut or white oak. Cable management is key -- use under-desk trays and a single power strip. A monitor arm keeps your desk surface clean. Since you use Headspace for daily meditation, you could position a small cushion area near the window for natural light during morning sessions.",
+        "sender": "assistant",
+        "created_at": "2024-10-26T14:41:56Z"
+      }
+    ]
+  },
+  {
+    "uuid": "8deb93bd-7499-411a-9598-827324b80cdb",
+    "name": "Strava training plan for ultra",
+    "created_at": "2024-02-18T18:03:00Z",
+    "updated_at": "2024-02-18T18:07:49Z",
+    "chat_messages": [
+      {
+        "uuid": "e71a640f-9cc9-4f9d-83e1-82eee1ed1749",
+        "text": "I'm using Strava to track my runs 5 times a week. Can you help me build a training plan for a 50K ultra? I'm an early bird and usually wake up at 6am. My current long run is about 15 miles.",
+        "sender": "human",
+        "created_at": "2024-02-18T18:03:00Z"
+      },
+      {
+        "uuid": "a886b6a8-8b13-4606-9bd0-51589fcf0a28",
+        "text": "With your 5x/week schedule and 6am wake-up, here's a solid 16-week 50K plan. Your current 15-mile long run is a great starting point. The plan peaks at about 55-60 miles per week. Week structure: Monday rest, Tuesday speed work (tempo or intervals), Wednesday easy 6-8mi, Thursday hills, Friday easy 5mi, Saturday long run (building from 16 to 28mi), Sunday recovery yoga or light jog.",
+        "sender": "assistant",
+        "created_at": "2024-02-18T18:03:33Z"
+      },
+      {
+        "uuid": "51787e46-49d8-4eda-8588-8aed8542c3ff",
+        "text": "That sounds solid. I also do rock climbing on Wednesdays and yoga on rest days. Should I adjust anything?",
+        "sender": "human",
+        "created_at": "2024-02-18T18:05:23Z"
+      },
+      {
+        "uuid": "9f459a49-0291-49fa-aed0-8d072b0bd6c1",
+        "text": "Great cross-training! Climbing builds grip and core strength useful for technical trails. I'd move your Wednesday easy run to morning (since you wake at 6am anyway) and climb in the evening. Keep yoga on Monday rest day. The only concern is fatigue -- if climbing affects your Thursday hills session, consider making Wednesday a lighter climbing day during peak training weeks.",
+        "sender": "assistant",
+        "created_at": "2024-02-18T18:06:31Z"
+      }
+    ]
+  },
+  {
+    "uuid": "1a4d7cd8-de09-423d-b1df-4cea66b7c672",
+    "name": "Quick vegan weeknight meals",
+    "created_at": "2024-01-20T17:39:00Z",
+    "updated_at": "2024-01-20T17:45:47Z",
+    "chat_messages": [
+      {
+        "uuid": "33531265-706a-466b-b476-0fd747426582",
+        "text": "I cook about 3-4 times a week and follow a plant-based diet. I love Japanese, Thai, Mexican, and Mediterranean cuisines. Can you give me some quick weeknight recipes?",
+        "sender": "human",
+        "created_at": "2024-01-20T17:39:00Z"
+      },
+      {
+        "uuid": "a51cb882-3e08-4c52-b8ba-5342454d2a8d",
+        "text": "Here are some go-to weeknight recipes that fit your cuisine preferences. Japanese: Miso ramen with tofu, mushrooms, and bok choy -- 20 minutes. Thai: Green curry with vegetables and coconut milk over jasmine rice -- 25 minutes. Mexican: Black bean tacos with pickled onions, avocado, and cilantro-lime slaw -- 15 minutes. Mediterranean: Shakshuka-style chickpea stew with crusty bread -- 20 minutes.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T17:40:12Z"
+      },
+      {
+        "uuid": "399e70e1-a9cb-4433-b40b-bc3d84c37b5d",
+        "text": "These are great. I usually order from DoorDash when I'm too tired but I want to cook more. What about meal prep on Sundays?",
+        "sender": "human",
+        "created_at": "2024-01-20T17:42:02Z"
+      },
+      {
+        "uuid": "05cfbde9-fdfe-4571-a60f-fb1d0714675c",
+        "text": "Sunday meal prep is a game-changer for cutting DoorDash spending! Here's a 2-hour prep session: Cook a big batch of rice and quinoa, roast a sheet pan of seasonal vegetables, make a large pot of dal or lentil soup, prep overnight oats with banana and almond butter for pre-run breakfasts, and make a big batch of hummus. These components mix-and-match into different meals throughout the week.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T17:43:35Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2cc32b79-1857-467d-bac6-f3bad8248a03",
+    "name": "Best vegan restaurants in SF",
+    "created_at": "2024-10-07T08:57:00Z",
+    "updated_at": "2024-10-07T09:04:02Z",
+    "chat_messages": [
+      {
+        "uuid": "21dcb20a-b146-4740-908e-189c1774622e",
+        "text": "I'm looking for great plant-based restaurant options in San Francisco. I love Japanese and Thai food especially. My usual go-to delivery is DoorDash but I want to eat out more. Budget is mid-range.",
+        "sender": "human",
+        "created_at": "2024-10-07T08:57:00Z"
+      },
+      {
+        "uuid": "152c41bd-29e7-4eac-9a50-0de5cb7775ad",
+        "text": "SF has an incredible plant-based scene! For Japanese, check out Shizen -- they do amazing vegan sushi and ramen. For Thai, Kin Khao has several great vegan options. Here are more picks: Gracias Madre for upscale Mexican, Wildseed for modern Californian, and Nourish Cafe for casual bowls. For mid-range budgets, most of these have entrees in the $15-25 range.",
+        "sender": "assistant",
+        "created_at": "2024-10-07T08:58:20Z"
+      },
+      {
+        "uuid": "b5473e58-c132-4e4c-a91c-63e3b21cdfc2",
+        "text": "Shizen sounds perfect. I've heard good things about their omakase. Any other neighborhoods I should explore? I'm in the Mission area.",
+        "sender": "human",
+        "created_at": "2024-10-07T09:00:15Z"
+      },
+      {
+        "uuid": "638e6a82-e67f-4343-9959-b9d3db28d439",
+        "text": "The Mission is perfect for plant-based dining! Beyond Shizen (which is actually in the Castro, short walk from Mission), explore Valencia Street for cafes. The Sunset has great Asian options. Also check the Inner Richmond for Burmese and Vietnamese restaurants with solid vegan options.",
+        "sender": "assistant",
+        "created_at": "2024-10-07T09:01:42Z"
+      }
+    ]
+  },
+  {
+    "uuid": "e275aa47-66f8-4fb6-843d-037861d605a8",
+    "name": "Mechanical keyboard for coding",
+    "created_at": "2024-07-06T22:56:00Z",
+    "updated_at": "2024-07-06T23:02:37Z",
+    "chat_messages": [
+      {
+        "uuid": "970b086b-5235-42b1-927e-39e207b26167",
+        "text": "I'm a software engineer working remote and I want to upgrade my keyboard. I use VS Code daily and prefer a minimalist setup. I've been looking at the Keychron Q1 and the HHKB. Budget is around $200-300.",
+        "sender": "human",
+        "created_at": "2024-07-06T22:56:00Z"
+      },
+      {
+        "uuid": "6a349853-b126-417a-b8c2-d8aed5e5dd91",
+        "text": "Both great choices for a minimalist coding setup! The Keychron Q1 Pro is a 75% layout with hot-swappable switches, QMK/VIA support, and aluminum construction -- around $200. The HHKB Professional Hybrid is a 60% with Topre switches, Bluetooth, and that legendary typing feel -- around $280. For VS Code work, consider: the HHKB's compact layout means less hand movement but has a learning curve with its unique layout. The Q1 is more conventional. If you like customization, Q1 wins. If you want that premium typing experience, HHKB.",
+        "sender": "assistant",
+        "created_at": "2024-07-06T22:57:52Z"
+      },
+      {
+        "uuid": "e2defb14-701a-48cf-9d48-cf2b5244b937",
+        "text": "I think the HHKB fits my minimalist Japanese apartment aesthetic better. Do I need anything else for my setup?",
+        "sender": "human",
+        "created_at": "2024-07-06T22:58:51Z"
+      },
+      {
+        "uuid": "f07efeaa-f434-42b7-901c-1977373e233c",
+        "text": "The HHKB would look stunning in a minimalist Japanese setup! Pair it with: a simple desk mat in dark grey or natural leather, a wooden wrist rest (walnut matches Japanese aesthetic), and keep your desk clean with a monitor arm.",
+        "sender": "assistant",
+        "created_at": "2024-07-06T23:00:34Z"
+      }
+    ]
+  },
+  {
+    "uuid": "ae60b18f-0047-4325-b546-8f5889e8d5dc",
+    "name": "React performance optimization",
+    "created_at": "2024-07-19T07:55:00Z",
+    "updated_at": "2024-07-19T08:00:07Z",
+    "chat_messages": [
+      {
+        "uuid": "ea8ee180-db32-4eeb-a3f0-986fd9504964",
+        "text": "I'm working on a React app using TypeScript and we have performance issues with re-renders. We use React 19 and I've been profiling with Chrome DevTools. Our team uses Slack for async communication and Linear for tickets.",
+        "sender": "human",
+        "created_at": "2024-07-19T07:55:00Z"
+      },
+      {
+        "uuid": "aa8dc6ce-967c-44df-8e28-2fc2a6d00285",
+        "text": "React 19 has some built-in improvements, but here's a systematic approach to fixing re-renders. First, use React DevTools Profiler to identify which components re-render most. Common fixes: 1) Memoize expensive computations with useMemo, 2) Use React.memo for pure display components, 3) Move state down -- keep state close to where it's used, 4) Use useCallback for event handlers passed as props.",
+        "sender": "assistant",
+        "created_at": "2024-07-19T07:56:29Z"
+      },
+      {
+        "uuid": "3aace406-9310-4baf-a89e-be553ba3b682",
+        "text": "We also have a lot of context providers. Is there a better state management pattern? I prefer concise, direct approaches.",
+        "sender": "human",
+        "created_at": "2024-07-19T07:57:06Z"
+      },
+      {
+        "uuid": "9f0b2e55-15de-4fcd-8c9a-55db0fd629ea",
+        "text": "Context provider proliferation is a common React performance killer. Consider: splitting your contexts into smaller, focused pieces (e.g., separate UserContext from ThemeContext). For frequently changing state, consider Zustand -- it's minimal and TypeScript-friendly. For server state, React Query handles caching and revalidation elegantly. Since you prefer direct approaches, Zustand is probably your best bet -- it's essentially a hook-based store with zero boilerplate.",
+        "sender": "assistant",
+        "created_at": "2024-07-19T07:58:04Z"
+      }
+    ]
+  },
+  {
+    "uuid": "508ed515-d03d-4dad-8839-a6f3a70c591d",
+    "name": "Rock climbing gear for intermediate",
+    "created_at": "2024-08-26T22:53:00Z",
+    "updated_at": "2024-08-26T22:59:23Z",
+    "chat_messages": [
+      {
+        "uuid": "0d9cd29b-97fc-4f74-a18a-7263b1646563",
+        "text": "I've been climbing for about a year, mostly bouldering at the gym and some outdoor sport climbing. I'm looking to upgrade my gear. I wear size 10.5 shoe and prefer Patagonia for outdoor clothing. Budget is mid-range.",
+        "sender": "human",
+        "created_at": "2024-08-26T22:53:00Z"
+      },
+      {
+        "uuid": "be71018e-7682-4e9d-a8d3-df47fec00bd1",
+        "text": "For intermediate climbing, here's a gear upgrade path. Shoes: since you wear 10.5, try the La Sportiva Solution or Scarpa Instinct in your gym -- climbing shoes should fit snug. For outdoor sport climbing: a good harness like the Petzl Adjama, a GriGri+ for belaying, and quickdraw sets. Since you like Patagonia, their Houdini jacket is perfect for crag days -- packable windbreaker.",
+        "sender": "assistant",
+        "created_at": "2024-08-26T22:54:21Z"
+      },
+      {
+        "uuid": "3eff8d30-62a0-4fb0-8b23-acb090d3c953",
+        "text": "What about a crash pad for bouldering? I go to spots around Joshua Tree and Yosemite sometimes. I usually travel with just carry-on when I fly United or Alaska.",
+        "sender": "human",
+        "created_at": "2024-08-26T22:55:39Z"
+      },
+      {
+        "uuid": "f4213d80-5cd7-496f-9552-406a0ff6f745",
+        "text": "For bouldering trips to Joshua Tree and Yosemite, the Organic Big Pad or Metolius Session II are top picks. Since you're carry-on only on United/Alaska, you'll likely need to check the pad or drive. For road trips from SF, consider a pad with backpack straps for the approach. Pro tip: the Organic pads fold to fit in most car trunks easily.",
+        "sender": "assistant",
+        "created_at": "2024-08-26T22:56:57Z"
+      }
+    ]
+  },
+  {
+    "uuid": "25d5565f-8dc4-4333-9663-980614ec11e1",
+    "name": "Planning a trip to Tokyo and Kyoto",
+    "created_at": "2024-07-11T13:00:00Z",
+    "updated_at": "2024-07-11T13:06:27Z",
+    "chat_messages": [
+      {
+        "uuid": "223f0d6b-be53-458e-93fb-da826801d220",
+        "text": "I'm planning my first trip to Japan -- Tokyo and Kyoto. I usually fly United or Alaska, prefer window seats and economy class. I love Japanese food (plant-based) and minimalist design. Planning about 10 days.",
+        "sender": "human",
+        "created_at": "2024-07-11T13:00:00Z"
+      },
+      {
+        "uuid": "c6a7c53b-9d60-4e1f-9767-dbf1111f5f4f",
+        "text": "Japan is perfect for you! For a 10-day itinerary: Tokyo (5 days) then Kyoto (5 days) connected by the Shinkansen. Flights: United has direct SFO-NRT. For plant-based dining in Tokyo, check out T's TanTan in Tokyo Station (vegan ramen), Ain Soph Ripple in Shinjuku, and Afuri for yuzu shio ramen with veggie options. In Kyoto, try Shigetsu at Tenryu-ji temple for shojin ryori (Buddhist vegetarian cuisine).",
+        "sender": "assistant",
+        "created_at": "2024-07-11T13:01:55Z"
+      },
+      {
+        "uuid": "19715f9c-cc5a-401e-9496-32689ba13d51",
+        "text": "Amazing recommendations. I want to visit some minimalist design shops and maybe find inspiration for my apartment. I also want to do some trail running. I usually book Airbnbs.",
+        "sender": "human",
+        "created_at": "2024-07-11T13:03:17Z"
+      },
+      {
+        "uuid": "a052530b-22a4-4d01-aacf-80de8966e610",
+        "text": "For design inspiration: visit Muji's flagship in Ginza, D&Department in Shibuya, Kapital in Ebisu, and the 21_21 Design Sight museum. For trail running, the Kamakura trails are accessible from Tokyo (1hr train), and in Kyoto the Fushimi Inari trail is incredible at sunrise. For Airbnb, look in Shimokitazawa (Tokyo) or near Philosopher's Path (Kyoto) for that minimalist Japanese aesthetic you love.",
+        "sender": "assistant",
+        "created_at": "2024-07-11T13:05:11Z"
+      }
+    ]
+  },
+  {
+    "uuid": "21b4f7d9-f983-4658-82d8-f8c5b91fc0b0",
+    "name": "Burgundy wine tasting guide",
+    "created_at": "2024-11-10T14:41:00Z",
+    "updated_at": "2024-11-10T14:46:07Z",
+    "chat_messages": [
+      {
+        "uuid": "8dd7663c-ab5d-4794-8e85-3460ddb98c36",
+        "text": "I'm planning a wine tasting trip to Napa Valley. I mostly drink Pinot Noir and love Burgundy and Barolo. Can you help me plan tastings at the best wineries? My budget is premium -- I don't mind splurging.",
+        "sender": "human",
+        "created_at": "2024-11-10T14:41:00Z"
+      },
+      {
+        "uuid": "90addd27-9fa5-4aa7-a554-adadf87966cb",
+        "text": "Napa has incredible Pinot Noir producers! For your palate, I'd recommend: Domaine Carneros for sparkling and Pinot, Etude Wines (known for their Carneros Pinot), and Bouchaine Vineyards. Since you love Burgundy-style wines, also check out Hanzell Vineyards in Sonoma -- it's worth the short drive. For Barolo lovers, some Napa producers make excellent Nebbiolo. Book tastings in advance, especially weekends.",
+        "sender": "assistant",
+        "created_at": "2024-11-10T14:42:50Z"
+      },
+      {
+        "uuid": "ec71ed06-c676-4fe5-938c-31bc6640a0a2",
+        "text": "How many wineries should I visit per day? I'm also looking for a luxury hotel nearby -- I usually stay at Ritz-Carlton or Four Seasons.",
+        "sender": "human",
+        "created_at": "2024-11-10T14:44:03Z"
+      },
+      {
+        "uuid": "35751f48-04ff-4262-b9b5-2e5061b061b8",
+        "text": "I'd recommend 3-4 wineries per day max to avoid palate fatigue. Start mornings with lighter wines (sparkling, whites) and progress to reds. For luxury stays: The Four Seasons Calistoga is stunning, with a spa and vineyard views. Meadowood has an incredible restaurant. Both are premium options that match your taste.",
+        "sender": "assistant",
+        "created_at": "2024-11-10T14:45:06Z"
+      }
+    ]
+  },
+  {
+    "uuid": "7d2c3b23-d7df-4fc2-8bd7-ceb489df3795",
+    "name": "Executive presentation best practices",
+    "created_at": "2024-01-20T19:35:00Z",
+    "updated_at": "2024-01-20T19:41:07Z",
+    "chat_messages": [
+      {
+        "uuid": "e9310552-70fa-42c4-9481-e38956c39afa",
+        "text": "I'm a VP of Marketing and I have a board presentation coming up. I need to present our Q3 ROI analysis. I use HubSpot and Google Analytics for our data. What's the best way to structure this?",
+        "sender": "human",
+        "created_at": "2024-01-20T19:35:00Z"
+      },
+      {
+        "uuid": "4582cfc1-43cd-46b3-80b3-1a0fc5dbc3e2",
+        "text": "For a board presentation, lead with impact. Here's a proven structure: 1) Executive summary (2 slides) -- headline metrics and key takeaway, 2) Revenue impact -- tie marketing spend directly to pipeline and closed revenue, 3) Channel performance -- break down ROI by channel using your Google Analytics and HubSpot data, 4) Competitive landscape (brief), 5) Next quarter strategy and budget request. Keep it to 15-20 slides. Use Notion for your prep notes and share decks via Figma for design polish.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T19:36:50Z"
+      },
+      {
+        "uuid": "6a035f81-cf4d-4b6c-8302-9054de8dd099",
+        "text": "That's helpful. I work hybrid and have a meeting-heavy schedule. How do I practice effectively with limited time?",
+        "sender": "human",
+        "created_at": "2024-01-20T19:37:54Z"
+      },
+      {
+        "uuid": "4869314c-88f6-4d86-bbdb-2ea320372a84",
+        "text": "With a hybrid, meeting-heavy schedule, try the '3x rule': practice your opening 3 times (it sets the tone), run through the full deck once with a timer, and do one dry run with a trusted colleague. Record yourself on Zoom for self-review. Focus on the first 2 minutes and the Q&A prep -- boards care most about your confidence and data accuracy.",
+        "sender": "assistant",
+        "created_at": "2024-01-20T19:39:10Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2b1d6eef-ed53-4afe-88ea-eaa818ba236f",
+    "name": "Peloton training plan for stress management",
+    "created_at": "2024-11-20T20:33:00Z",
+    "updated_at": "2024-11-20T20:38:30Z",
+    "chat_messages": [
+      {
+        "uuid": "c1715a78-d940-4586-9dbb-4724c41c8992",
+        "text": "I've been using my Peloton 4 times a week mainly for stress management. I also do pilates and occasional hiking. I use the Peloton app and Apple Fitness+. Can you help me build a weekly routine?",
+        "sender": "human",
+        "created_at": "2024-11-20T20:33:00Z"
+      },
+      {
+        "uuid": "e6c85013-14b2-4298-9b85-d759f4df7fcb",
+        "text": "For stress management with 4x/week on Peloton, here's an optimal split: Monday -- 30min Power Zone ride (structured effort without overthinking), Wednesday -- 20min Low Impact + 10min meditation ride, Friday -- 45min scenic ride or live class, Saturday -- 30min Pilates on Apple Fitness+ or Peloton. Add hiking on alternate Sundays for outdoor time. This mix keeps cortisol in check while maintaining fitness.",
+        "sender": "assistant",
+        "created_at": "2024-11-20T20:34:29Z"
+      },
+      {
+        "uuid": "590cdf7e-6b08-4668-a31c-1b6381c6ca6c",
+        "text": "I also take collagen, omega-3, and vitamin C supplements. Should I adjust anything for recovery?",
+        "sender": "human",
+        "created_at": "2024-11-20T20:36:12Z"
+      },
+      {
+        "uuid": "de21eb7f-5635-4667-8528-63d1f0f7c931",
+        "text": "Your supplement stack is solid for recovery! Collagen supports joint health (great for cycling), omega-3 reduces inflammation, and vitamin C aids recovery. Consider adding magnesium before bed -- it helps with both muscle recovery and sleep quality. Since you're a night owl (sleeping 11pm-7am based on most marketing VPs I know), the evening magnesium could help improve sleep quality too.",
+        "sender": "assistant",
+        "created_at": "2024-11-20T20:37:06Z"
+      }
+    ]
+  },
+  {
+    "uuid": "d9fdf2d1-fdd3-4ede-81ae-375b1e920ff4",
+    "name": "Paris fine dining recommendations",
+    "created_at": "2024-09-16T10:44:00Z",
+    "updated_at": "2024-09-16T10:48:40Z",
+    "chat_messages": [
+      {
+        "uuid": "64ffc010-30b0-4101-a9a3-5c21bd831760",
+        "text": "I'm heading to Paris next month. I love French and Italian cuisine, especially farm-to-table and Japanese omakase when I can find it. I'll be staying at the Four Seasons. Looking for memorable dining experiences -- price is not an issue.",
+        "sender": "human",
+        "created_at": "2024-09-16T10:44:00Z"
+      },
+      {
+        "uuid": "a58c8638-9fa9-491e-8166-9da5defd0bcc",
+        "text": "Paris will delight your palate! Must-book restaurants: Le Comptoir for seasonal French, Septime for modern farm-to-table, and for omakase, try Sushi Shunei or Jin -- both are world-class. Near the Four Seasons George V: Le Cinq (their own Michelin-starred restaurant), and Pavyllon by Yannick Alleno. For Italian, Ober Mamma in the 11th is amazing. Book at least 2-3 weeks ahead for the starred restaurants.",
+        "sender": "assistant",
+        "created_at": "2024-09-16T10:44:52Z"
+      },
+      {
+        "uuid": "d68c3c86-1a30-4078-89c5-95c85aa48cc1",
+        "text": "Any good wine bars? I want to explore some natural wines. I'm also a Delta SkyMiles Platinum member and Marriott Bonvoy Gold -- any lounge tips for CDG?",
+        "sender": "human",
+        "created_at": "2024-09-16T10:45:24Z"
+      },
+      {
+        "uuid": "a551ff01-bee3-4923-a7df-005c97f55a34",
+        "text": "For natural wine bars: Le Verre Vole in the 10th, Septime La Cave (sister wine bar to Septime), and Frenchie Bar a Vins near Sentier. For CDG: as Delta SkyMiles Platinum, you have access to the Air France lounge in Terminal 2E. It's quite good with champagne and hot food. Your Marriott Bonvoy Gold won't help at CDG specifically, but the Four Seasons concierge can arrange private transfers to skip the taxi line.",
+        "sender": "assistant",
+        "created_at": "2024-09-16T10:46:24Z"
+      }
+    ]
+  },
+  {
+    "uuid": "224e155f-58df-4ad7-b13c-1476b5ebb793",
+    "name": "Premium skincare routine for 40s",
+    "created_at": "2024-06-02T16:46:00Z",
+    "updated_at": "2024-06-02T16:51:58Z",
+    "chat_messages": [
+      {
+        "uuid": "303ec0f2-f2d3-4ad9-92d5-ec914b3100ff",
+        "text": "I'm 45 and looking to upgrade my skincare routine. I currently use basic products but want to invest in premium skincare. I already take collagen and vitamin C supplements. I do monthly spa visits and quarterly wellness retreats.",
+        "sender": "human",
+        "created_at": "2024-06-02T16:46:00Z"
+      },
+      {
+        "uuid": "49023c26-0ad4-4980-8d0a-27968b90b691",
+        "text": "At 45, investing in quality skincare pays dividends. Here's a premium routine: Morning -- gentle cleanser, vitamin C serum (SkinCeuticals CE Ferulic), hyaluronic acid, SPF 50 (Supergoop Unseen). Evening -- double cleanse (oil then gel), retinol (start with 0.25% and build up), peptide cream (Augustinus Bader The Rich Cream), eye cream. Weekly: exfoliate 2x with an enzyme mask. Your collagen supplements support this from within.",
+        "sender": "assistant",
+        "created_at": "2024-06-02T16:46:50Z"
+      },
+      {
+        "uuid": "84192f7c-a362-4bcd-bc8d-f619cf26cc63",
+        "text": "What about treatments? I have my spa days and want to know what to ask for. My budget for skincare is premium.",
+        "sender": "human",
+        "created_at": "2024-06-02T16:48:20Z"
+      },
+      {
+        "uuid": "2c6e98a8-9b67-4428-881f-fabbc14ae4b6",
+        "text": "For your monthly spa: alternate between microneedling (collagen induction) and hydrafacials. For quarterly retreats: ask about LED light therapy and professional-grade peels. Between visits: at-home LED masks like the Dr. Dennis Gross SpectraLite are worth the investment. These treatments complement your topical routine and supplements beautifully.",
+        "sender": "assistant",
+        "created_at": "2024-06-02T16:49:58Z"
+      }
+    ]
+  },
+  {
+    "uuid": "191a2360-6c0b-4e93-89b4-3c649f739881",
+    "name": "Marketing ROI analysis framework",
+    "created_at": "2024-03-27T11:49:00Z",
+    "updated_at": "2024-03-27T11:55:13Z",
+    "chat_messages": [
+      {
+        "uuid": "64afbb03-af17-4532-9752-4c141b555533",
+        "text": "I need to build a better ROI framework for our marketing team. We use HubSpot for CRM and Google Analytics for web. Our current reporting in Notion is too manual. What approach do you recommend?",
+        "sender": "human",
+        "created_at": "2024-03-27T11:49:00Z"
+      },
+      {
+        "uuid": "ea9284bc-e6a5-43f0-bcef-2987bca8b2b7",
+        "text": "A solid marketing ROI framework starts with attribution. Here's what I recommend: 1) Set up multi-touch attribution in Google Analytics 4 -- go beyond last-click. 2) Connect HubSpot deal data to campaign spend using UTM parameters. 3) Build a dashboard that shows CAC by channel, LTV:CAC ratio, and pipeline velocity. 4) In Notion, create a monthly review template that pulls key metrics automatically.",
+        "sender": "assistant",
+        "created_at": "2024-03-27T11:50:18Z"
+      },
+      {
+        "uuid": "2db9b4be-1a03-4ecd-95ba-0f4748d6c303",
+        "text": "How do I present this to the board without overwhelming them with data? I'm used to working with Slack and Figma for deck collaboration.",
+        "sender": "human",
+        "created_at": "2024-03-27T11:51:23Z"
+      },
+      {
+        "uuid": "24893039-c331-4d26-809d-52ad5e669aa9",
+        "text": "Board members want outcomes, not methodology. Structure your presentation as: one 'money slide' showing total marketing-sourced revenue vs. spend, then 3 channel-level slides showing what's working and what you're cutting. Use Figma to design clean, visual slides. Collaborate in Slack channels for async feedback from your team before presenting.",
+        "sender": "assistant",
+        "created_at": "2024-03-27T11:52:46Z"
+      }
+    ]
+  },
+  {
+    "uuid": "9e078402-618e-461b-b160-c89db2916e5e",
+    "name": "Modern farmhouse decor ideas",
+    "created_at": "2024-09-28T18:09:00Z",
+    "updated_at": "2024-09-28T18:13:05Z",
+    "chat_messages": [
+      {
+        "uuid": "1ed68390-4770-466f-9847-6f647ea218c6",
+        "text": "I live in a 3BR condo in Chicago with a modern farmhouse style. I have a golden retriever named Bailey and smart home devices like Nest, Sonos, and Ring doorbell. Looking for decor refresh ideas.",
+        "sender": "human",
+        "created_at": "2024-09-28T18:09:00Z"
+      },
+      {
+        "uuid": "441479fc-4c24-4610-9730-3ad2f0b7468c",
+        "text": "Love the modern farmhouse aesthetic! For a refresh: consider reclaimed wood floating shelves in the living room, a statement light fixture over the dining table (Schoolhouse Electric has beautiful options), and linen curtains for a soft, lived-in feel. With Bailey, choose performance fabrics for sofas -- Crypton or indoor/outdoor fabrics that resist pet hair and stains. Your Sonos would look great on those floating shelves.",
+        "sender": "assistant",
+        "created_at": "2024-09-28T18:10:04Z"
+      },
+      {
+        "uuid": "05a95116-e381-43a7-a68c-3402c062206f",
+        "text": "What about the kitchen? I love my Le Creuset collection and want to display it properly.",
+        "sender": "human",
+        "created_at": "2024-09-28T18:10:43Z"
+      },
+      {
+        "uuid": "48b508f2-de8a-4000-a2a3-9b472ea0d473",
+        "text": "A Le Creuset display is perfect for modern farmhouse! Install an open shelving unit or a dedicated pot rack above your kitchen island. The classic French ovens in Flame or Marseille look stunning against white shiplap. Add a reclaimed wood cutting board display and some herbs in mason jars. The farmhouse aesthetic loves functional beauty, and Le Creuset is exactly that.",
+        "sender": "assistant",
+        "created_at": "2024-09-28T18:12:21Z"
+      }
+    ]
+  },
+  {
+    "uuid": "0045fdca-baa7-463f-b02b-c753150426d8",
+    "name": "Planning an elegant dinner party",
+    "created_at": "2024-07-08T20:38:00Z",
+    "updated_at": "2024-07-08T20:44:18Z",
+    "chat_messages": [
+      {
+        "uuid": "f95c48b4-ee82-4997-afe8-7db769463c0f",
+        "text": "I'm hosting a dinner party for 8 at my Chicago condo. I want to cook something impressive using my Le Creuset. My guests include some foodies who appreciate French and Italian cuisine. I typically cook on weekends.",
+        "sender": "human",
+        "created_at": "2024-07-08T20:38:00Z"
+      },
+      {
+        "uuid": "5b6cff03-4713-41e7-9d3d-a68080c168fb",
+        "text": "For an impressive Le Creuset dinner party: Start with a charcuterie and cheese board with wine pairings. Main: Coq au Vin in your Dutch oven -- it's a showstopper and can be prepped the day before. Sides: roasted root vegetables and a simple arugula salad with shaved parmesan. Dessert: individual pots de creme made in your Le Creuset ramekins. Wine: open with a Burgundy (Pinot Noir) and finish with a Barolo for the cheese course.",
+        "sender": "assistant",
+        "created_at": "2024-07-08T20:39:34Z"
+      },
+      {
+        "uuid": "4d30f79f-0e7f-4a6a-ac69-9774a495a9b9",
+        "text": "What about the table setting? I want it to feel elevated but not stuffy. I'll have soft jazz playing on my Sonos.",
+        "sender": "human",
+        "created_at": "2024-07-08T20:41:07Z"
+      },
+      {
+        "uuid": "755c8732-6b49-4355-9332-570be58d3d7b",
+        "text": "Jazz on Sonos sets the perfect mood! For the table: linen napkins in a neutral tone, simple white plates (Crate & Barrel or Williams Sonoma), brass candlesticks with tapered candles, and a low centerpiece of seasonal greenery. Keep it unfussy -- let the food be the star. Dim your smart lights to warm tones. Place cards add a personal touch without being formal.",
+        "sender": "assistant",
+        "created_at": "2024-07-08T20:42:01Z"
+      }
+    ]
+  },
+  {
+    "uuid": "9918d375-a707-49ca-9c76-04c3d524ee33",
+    "name": "Maximizing Delta SkyMiles",
+    "created_at": "2024-03-15T16:22:00Z",
+    "updated_at": "2024-03-15T16:27:58Z",
+    "chat_messages": [
+      {
+        "uuid": "31b6a0bd-5fff-4ef0-b3bd-162db298af88",
+        "text": "I'm Delta SkyMiles Platinum and fly about 8-10 times a year. I usually fly business class on Delta and American. I also have Marriott Bonvoy Gold. How do I maximize my points for a trip to Tuscany?",
+        "sender": "human",
+        "created_at": "2024-03-15T16:22:00Z"
+      },
+      {
+        "uuid": "edfe3ce5-30b8-4f57-b1d8-545a6539496e",
+        "text": "With Platinum status and 8-10 flights/year, you're in great shape! Strategy: 1) Book Delta One for transatlantic to Tuscany -- check Virgin Atlantic for partner availability (often better availability). 2) Transfer Amex points to Delta if you have an Amex card. 3) Use your Marriott Bonvoy Gold for hotels in Tuscany, but consider upgrading to Platinum for suite upgrades at properties like the St. Regis Florence. 4) Book shoulder season (late September/October) for better award availability.",
+        "sender": "assistant",
+        "created_at": "2024-03-15T16:23:13Z"
+      },
+      {
+        "uuid": "a70b921b-22d3-4747-b848-d04cd06871a2",
+        "text": "What about using points for experiences? I prefer aisle seats for long flights so I can stretch.",
+        "sender": "human",
+        "created_at": "2024-03-15T16:24:19Z"
+      },
+      {
+        "uuid": "7213cf37-2397-4d96-8092-2079e057bc06",
+        "text": "For experiences: Delta's partnership with Airbnb Experiences lets you use miles for food tours and cooking classes in Tuscany. Book aisle seats in Delta One -- the suite-style seats give you easy aisle access plus a door for privacy. Consider bidding on upgrades using miles if business class isn't available initially. Your Platinum status gives you complimentary upgrades when available too.",
+        "sender": "assistant",
+        "created_at": "2024-03-15T16:25:05Z"
+      }
+    ]
+  },
+  {
+    "uuid": "899acc1a-ac4e-413b-b91b-932c4523d1ec",
+    "name": "Le Creuset Dutch oven recipes",
+    "created_at": "2024-10-27T17:55:00Z",
+    "updated_at": "2024-10-27T18:00:28Z",
+    "chat_messages": [
+      {
+        "uuid": "8effa9b4-15ee-4a41-9b56-09a146223085",
+        "text": "I just got a new Le Creuset 7.25 qt Dutch oven in Flame. I cook mostly on weekends and love French and Italian cuisine. What are the best recipes to break it in?",
+        "sender": "human",
+        "created_at": "2024-10-27T17:55:00Z"
+      },
+      {
+        "uuid": "5f5028ca-c3d0-4c4d-9b98-60eec8433864",
+        "text": "Congratulations on the Le Creuset! The 7.25 qt is the most versatile size. Start with these classics: 1) Beef bourguignon -- the quintessential Dutch oven recipe. 2) No-knead artisan bread -- the Le Creuset creates an amazing crust. 3) Osso buco for Italian comfort. 4) Cassoulet for a weekend project. 5) Ratatouille -- beautiful in that Flame color.",
+        "sender": "assistant",
+        "created_at": "2024-10-27T17:55:57Z"
+      },
+      {
+        "uuid": "41d0cf02-72b9-49ab-b750-d782a72067da",
+        "text": "I love the bread idea! I also want to try hosting a dinner party using it. I use Caviar and Uber Eats when I don't cook, but I want to cook more on weekends.",
+        "sender": "human",
+        "created_at": "2024-10-27T17:57:09Z"
+      },
+      {
+        "uuid": "3964edfd-900e-4668-ae5f-d0f72ff57e6a",
+        "text": "The no-knead bread is life-changing -- mix at night, bake in the morning. For your dinner party, the Dutch oven becomes a gorgeous serving piece right on the table. Try a classic French onion soup or a braised short rib. The Flame color makes a stunning centerpiece. To reduce delivery orders, try Sunday batch cooking in the Le Creuset: a big stew or braise that gives you meals for 3-4 days.",
+        "sender": "assistant",
+        "created_at": "2024-10-27T17:58:09Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2152f2ba-eec5-436c-b152-649982b9338a",
+    "name": "Portfolio design review feedback",
+    "created_at": "2024-12-26T15:16:00Z",
+    "updated_at": "2024-12-26T15:23:14Z",
+    "chat_messages": [
+      {
+        "uuid": "ca7eb32f-ed29-4373-8c26-8878af475d6c",
+        "text": "I'm a freelance graphic designer and I'm revamping my portfolio website. I use Figma for design and want it to reflect my eclectic/bohemian style. I also use Adobe Creative Suite and Procreate for illustrations. What should I include?",
+        "sender": "human",
+        "created_at": "2024-12-26T15:16:00Z"
+      },
+      {
+        "uuid": "ab728fef-7f4d-4e47-81e7-0378d5b2cf12",
+        "text": "For a freelance graphic designer portfolio, lead with your strongest 8-10 projects. Structure: Hero section with a bold statement and your best visual, case studies (not just final designs -- show your process), an about page that reflects your bohemian personality, and a contact section. Since you use Figma, consider prototyping the site there first. Show variety: brand identity, illustration (Procreate work), and digital design. A project filter by category helps clients find relevant work.",
+        "sender": "assistant",
+        "created_at": "2024-12-26T15:17:17Z"
+      },
+      {
+        "uuid": "ad07fd9d-2c3a-49fe-8486-81bdf9636884",
+        "text": "Should I include my side projects? I do a lot of vinyl record cover redesigns and vintage-inspired poster art. I use Arc browser for research and Notion for project management.",
+        "sender": "human",
+        "created_at": "2024-12-26T15:18:53Z"
+      },
+      {
+        "uuid": "3452a8e8-576c-4e4f-874b-a1b080fb41ea",
+        "text": "Absolutely include those! Vinyl cover redesigns and vintage poster art show personality and passion -- clients love seeing that. Create a dedicated 'Personal Work' section. Since you use Notion, consider documenting your creative process there and linking to case studies. The vintage and vinyl work aligns perfectly with your eclectic brand.",
+        "sender": "assistant",
+        "created_at": "2024-12-26T15:20:22Z"
+      }
+    ]
+  },
+  {
+    "uuid": "573f2356-e28f-4175-895c-f396e650004f",
+    "name": "Organizing vinyl record collection",
+    "created_at": "2024-09-09T08:58:00Z",
+    "updated_at": "2024-09-09T09:04:54Z",
+    "chat_messages": [
+      {
+        "uuid": "b778f86a-368d-4512-bcb6-48883a0e2e64",
+        "text": "I have about 200 vinyl records and my collection is getting out of hand in my studio apartment. I listen to indie, shoegaze, Latin alternative, and techno. What's the best way to organize them?",
+        "sender": "human",
+        "created_at": "2024-09-09T08:58:00Z"
+      },
+      {
+        "uuid": "af879cd3-3a13-4e90-b521-053a9087e4b9",
+        "text": "200 records in a studio is manageable with the right system! Options: 1) Alphabetical by artist -- classic and easy to maintain. 2) By genre then alphabetical -- good for your diverse tastes (indie, shoegaze, Latin alt, techno). 3) Autobiographical (High Fidelity style) -- organized by when/where you got them. For storage: Kallax shelves from IKEA fit records perfectly. Consider a 2x4 Kallax as a room divider in your studio, which also gives you storage.",
+        "sender": "assistant",
+        "created_at": "2024-09-09T09:00:00Z"
+      },
+      {
+        "uuid": "390fcce5-2c67-454f-b6ac-27eb8a3396a6",
+        "text": "I love the room divider idea! My cat Pixel might try to knock things over though. I have about 15 houseplants too so space is tight.",
+        "sender": "human",
+        "created_at": "2024-09-09T09:01:08Z"
+      },
+      {
+        "uuid": "28f0b426-a737-4a96-9bce-d7c6e5405c2c",
+        "text": "With Pixel and 15+ houseplants, you need a stable setup! Secure the Kallax to the wall with anti-tip brackets. Use the top for your turntable (away from cat access) and a few plants. For the rest of your plants, wall-mounted planters and hanging planters free up floor space. Consider a tall plant shelf near the window. This keeps records at cat-proof height and maximizes your studio layout.",
+        "sender": "assistant",
+        "created_at": "2024-09-09T09:02:52Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2338529e-deef-4570-a287-01047fceb3ce",
+    "name": "Best Austin food trucks",
+    "created_at": "2024-04-25T15:38:00Z",
+    "updated_at": "2024-04-25T15:44:09Z",
+    "chat_messages": [
+      {
+        "uuid": "73eae945-7bf5-45fd-b9bc-b0e0ea45f1b7",
+        "text": "I'm pescatarian and live in Austin. What are the best food trucks I should try? I love Korean, Tex-Mex, Vietnamese, and Ethiopian food. I have a tree nut allergy so I need to be careful.",
+        "sender": "human",
+        "created_at": "2024-04-25T15:38:00Z"
+      },
+      {
+        "uuid": "69f7e41e-911a-477c-80c7-262b4dd4cadf",
+        "text": "Austin's food truck scene is perfect for pescatarian adventurers! Top picks: Chi'Lantro (Korean-Tex-Mex fusion -- their kimchi fries are legendary, just skip the nut toppings), Veracruz All Natural (incredible migas tacos with shrimp option), Dee Dee Thai (tell them about the tree nut allergy -- they're very accommodating). For Ethiopian, check out the Taste of Ethiopia truck on East Riverside. Most Vietnamese trucks like Pho Van use peanuts, so always ask first with your allergy.",
+        "sender": "assistant",
+        "created_at": "2024-04-25T15:39:18Z"
+      },
+      {
+        "uuid": "619f7b2f-d4d6-431c-b564-e6e83aed4472",
+        "text": "I usually order on Grubhub or DoorDash when I'm too lazy to go out. Any of these deliver?",
+        "sender": "human",
+        "created_at": "2024-04-25T15:40:43Z"
+      },
+      {
+        "uuid": "e081c99e-71c4-49ef-b03f-370f012192be",
+        "text": "Several of these are on DoorDash and Grubhub! Chi'Lantro and Veracruz All Natural are usually available. For the smaller trucks, check their Instagram for locations and hours. Pro tip: many Austin food trucks do pickup through their own sites, which saves you delivery fees. The food truck parks on South Congress and East 6th have multiple options in one spot.",
+        "sender": "assistant",
+        "created_at": "2024-04-25T15:41:46Z"
+      }
+    ]
+  },
+  {
+    "uuid": "0e3de976-a2e6-4681-b9e0-1025bf66dbad",
+    "name": "Sustainable fashion on a budget",
+    "created_at": "2024-08-08T16:40:00Z",
+    "updated_at": "2024-08-08T16:46:10Z",
+    "chat_messages": [
+      {
+        "uuid": "e36bb00f-f5a9-4278-9559-a0c3b8e5616f",
+        "text": "I'm trying to build a more sustainable wardrobe on a budget. I usually shop on Depop, ThriftUp, and Etsy. I also love Dr. Martens and Urban Outfitters. My size is a 30 waist, 30 inseam, small shirt, and size 9 shoe. Any tips?",
+        "sender": "human",
+        "created_at": "2024-08-08T16:40:00Z"
+      },
+      {
+        "uuid": "7e355ad1-a8f4-4618-8644-039cce1783aa",
+        "text": "You're already on the right track with Depop and ThriftUp! Strategy: 1) Set saved searches on Depop for your sizes (30/30, S, size 9) in brands you love. 2) Thrift stores in Austin's South Congress and East Side have incredible vintage finds. 3) For Dr. Martens, buy secondhand -- they last forever and break in better pre-owned. 4) Etsy for one-of-a-kind pieces and supporting independent designers. Budget rule: limit Urban Outfitters to sale items only.",
+        "sender": "assistant",
+        "created_at": "2024-08-08T16:41:37Z"
+      },
+      {
+        "uuid": "be305d87-2ed5-4dfe-ac4f-8edeae51094c",
+        "text": "What about for festival season? I need outfits for ACL and maybe SXSW. I'm budget-conscious so I want to keep it under $75 per outfit.",
+        "sender": "human",
+        "created_at": "2024-08-08T16:43:00Z"
+      },
+      {
+        "uuid": "56451114-f0af-40e8-914d-dee06e7371b2",
+        "text": "Festival outfits on a budget is a fun challenge! For ACL: layer vintage band tees with thrifted denim shorts, add a statement vintage windbreaker for evening. SXSW: lean into your eclectic style with thrifted blazer + graphic tee + Dr. Martens. Under $75/outfit is totally doable at thrift stores. Depop tip: search 'festival vintage' in your sizes. Start shopping a month before for the best selection.",
+        "sender": "assistant",
+        "created_at": "2024-08-08T16:44:14Z"
+      }
+    ]
+  },
+  {
+    "uuid": "384b95f9-6a8b-4cf7-87e3-c088f26b6715",
+    "name": "Figma workflow tips for freelancers",
+    "created_at": "2024-07-04T22:01:00Z",
+    "updated_at": "2024-07-04T22:07:23Z",
+    "chat_messages": [
+      {
+        "uuid": "d342813f-b365-4522-b271-3ceee2a0bd78",
+        "text": "I use Figma daily for client work and want to streamline my workflow. I also use Adobe Creative Suite for some things but Figma is my primary tool. What are some advanced tips for freelance designers?",
+        "sender": "human",
+        "created_at": "2024-07-04T22:01:00Z"
+      },
+      {
+        "uuid": "9d280933-a110-496f-8025-60a8309bb841",
+        "text": "Advanced Figma workflow for freelancers: 1) Create a personal component library with your most-used elements -- buttons, cards, type scales. 2) Use variants for component states (hover, active, disabled). 3) Auto-layout everything -- it makes responsive design effortless. 4) Set up a naming convention: Page/Section/Component. 5) Use Figma's branching for version control on client projects. 6) The 'Inspect' tab helps developers implement your designs accurately.",
+        "sender": "assistant",
+        "created_at": "2024-07-04T22:02:48Z"
+      },
+      {
+        "uuid": "eadb1a59-c7a2-47a2-befc-dc485a213c33",
+        "text": "How do I present designs to clients? I want it to feel polished but I'm on a budget and work from coffee shops. I use Notion for project briefs.",
+        "sender": "human",
+        "created_at": "2024-07-04T22:04:06Z"
+      },
+      {
+        "uuid": "d19beb10-d73d-4b26-bb74-567cc0a37327",
+        "text": "Figma's presentation mode is your best friend! Create a dedicated 'Presentation' page in each project with mockups in context (device frames, lifestyle images). Share view-only links for async feedback -- clients can comment directly. For live presentations, use Figma's prototype feature with transitions. Keep your Notion project brief linked in the Figma file description. This workflow works perfectly from coffee shops.",
+        "sender": "assistant",
+        "created_at": "2024-07-04T22:05:32Z"
+      }
+    ]
+  },
+  {
+    "uuid": "46884891-7838-496b-acd7-6eab801880b3",
+    "name": "Festival packing essentials",
+    "created_at": "2024-04-05T17:49:00Z",
+    "updated_at": "2024-04-05T17:53:34Z",
+    "chat_messages": [
+      {
+        "uuid": "1dc97571-e691-4d46-b96e-92d4ef44c94d",
+        "text": "I'm going to a music festival next month. I love indie, shoegaze, and techno. I'm budget-conscious and usually fly Southwest or Spirit with just carry-on. What should I pack?",
+        "sender": "human",
+        "created_at": "2024-04-05T17:49:00Z"
+      },
+      {
+        "uuid": "a3d71fea-06ac-40f6-9300-ecb7516d301c",
+        "text": "Festival packing for a carry-on budget traveler! Essentials: 1) Clothing: 2 vintage band tees, shorts, one light layer for evenings, comfortable shoes (Dr. Martens if you can break them in first), hat and sunglasses. 2) Gear: portable charger, earplugs (protect your hearing for shoegaze!), small crossbody bag. 3) Camping (if applicable): compact sleeping bag, inflatable pillow. Everything should fit in a carry-on. Roll your clothes to save space.",
+        "sender": "assistant",
+        "created_at": "2024-04-05T17:50:02Z"
+      },
+      {
+        "uuid": "206caaff-48f1-4d03-b5f8-c8fd2167f3ff",
+        "text": "What about food? I'm pescatarian with a tree nut allergy. And I'll want to take photos on my phone for my design portfolio.",
+        "sender": "human",
+        "created_at": "2024-04-05T17:51:41Z"
+      },
+      {
+        "uuid": "7d74d51a-754e-4f89-b536-48bf97a9cbcb",
+        "text": "Food strategy: bring protein bars (check for tree nuts -- KIND makes nut-free options), a reusable water bottle, and some dried mango. Festival food usually has fish tacos and veggie options -- always mention your tree nut allergy. For photos: your phone is perfect. Pro tip as a designer: capture compositions, color palettes, and crowd energy. These make great portfolio mood boards. Bring a small portable charger for all-day shooting.",
+        "sender": "assistant",
+        "created_at": "2024-04-05T17:52:25Z"
+      }
+    ]
+  },
+  {
+    "uuid": "967ffe66-8ae2-4699-9801-81e4d664e518",
+    "name": "Easy pescatarian recipes",
+    "created_at": "2024-11-26T13:00:00Z",
+    "updated_at": "2024-11-26T13:06:23Z",
+    "chat_messages": [
+      {
+        "uuid": "bafab231-562f-40d8-9844-d10aae5466df",
+        "text": "I'm pescatarian and I experiment with cooking 2-3 times a week. I love Korean, Tex-Mex, Vietnamese, and Ethiopian food. I have a tree nut allergy. What are some good recipes to try?",
+        "sender": "human",
+        "created_at": "2024-11-26T13:00:00Z"
+      },
+      {
+        "uuid": "f8b3e1e4-0bf5-4b11-a7d7-672011319835",
+        "text": "Great pescatarian recipes for your favorite cuisines! Korean: Gochujang salmon bowl with pickled vegetables and rice. Vietnamese: Shrimp pho from scratch (no nut sauces). Tex-Mex: Fish tacos with mango salsa, cabbage slaw, and chipotle crema. Ethiopian: Misir wot (red lentil stew) with injera -- naturally nut-free. For the tree nut allergy, always make your own sauces -- many Asian store-bought sauces contain hidden nuts.",
+        "sender": "assistant",
+        "created_at": "2024-11-26T13:01:00Z"
+      },
+      {
+        "uuid": "22d9298d-b3c9-4e71-a252-f48758fd2c70",
+        "text": "These sound great! I usually get delivery from Grubhub or DoorDash when I'm lazy. Can I meal prep any of these?",
+        "sender": "human",
+        "created_at": "2024-11-26T13:02:19Z"
+      },
+      {
+        "uuid": "11fc91a6-8c51-477f-b917-69a9c1bd206f",
+        "text": "Absolutely! The misir wot and gochujang salmon bowl components both meal prep beautifully. Cook a big batch of lentil stew on Sunday, make extra rice, and pickle vegetables in advance. The fish tacos are quick enough for weeknight cooking (15 minutes). This should help reduce those Grubhub orders while keeping things interesting.",
+        "sender": "assistant",
+        "created_at": "2024-11-26T13:03:39Z"
+      }
+    ]
+  },
+  {
+    "uuid": "bea2715b-a412-4fa6-9b1a-2b3e2caa671a",
+    "name": "Houseplant care for beginners",
+    "created_at": "2024-07-03T11:41:00Z",
+    "updated_at": "2024-07-03T11:47:57Z",
+    "chat_messages": [
+      {
+        "uuid": "cb8479da-5394-428f-a11b-caaa75753dc2",
+        "text": "I have 15+ houseplants in my studio apartment in Austin. I love collecting them but some are struggling. I have mostly pothos, snake plants, a fiddle leaf fig, and some succulents. Help me keep them alive!",
+        "sender": "human",
+        "created_at": "2024-07-03T11:41:00Z"
+      },
+      {
+        "uuid": "63eeb84d-d00a-40d6-b80b-751e5fa6a5a2",
+        "text": "15+ plants in a studio is impressive! Common issues and fixes: Pothos -- nearly indestructible, water when soil is dry 1 inch down. Snake plants -- overwatering is the #1 killer, water every 2-3 weeks. Fiddle leaf fig -- this is the diva: bright indirect light, consistent watering schedule, no drafts. Succulents -- bright light is essential, water sparingly every 2 weeks. Austin's heat means more frequent watering in summer.",
+        "sender": "assistant",
+        "created_at": "2024-07-03T11:42:41Z"
+      },
+      {
+        "uuid": "8277d431-2fe4-42e5-9678-99fc2ad48363",
+        "text": "My cat Pixel keeps nibbling on the pothos. Are any of my plants toxic to cats?",
+        "sender": "human",
+        "created_at": "2024-07-03T11:44:25Z"
+      },
+      {
+        "uuid": "2a6d5ce5-e1dc-4228-833d-3324a298b8e5",
+        "text": "Important alert: pothos IS toxic to cats! Symptoms include oral irritation and vomiting. Move pothos to hanging planters ASAP -- out of Pixel's reach. Snake plants are also mildly toxic. Safe alternatives: spider plants, calatheas, and Boston ferns. Your succulents are generally safe. Consider a cat grass planter to redirect Pixel's nibbling instinct.",
+        "sender": "assistant",
+        "created_at": "2024-07-03T11:45:29Z"
+      }
+    ]
+  },
+  {
+    "uuid": "7f60af51-033a-4eb5-8171-0c49d4ed87e4",
+    "name": "Vintage shopping guide Berlin",
+    "created_at": "2024-09-18T11:33:00Z",
+    "updated_at": "2024-09-18T11:36:55Z",
+    "chat_messages": [
+      {
+        "uuid": "4d6985ed-89f8-48ba-853d-ceeb85bbc323",
+        "text": "I'm planning a trip to Berlin for vintage shopping and techno clubs. I usually stay at hostels or Airbnbs and fly budget airlines like Southwest or Spirit domestically, but for international I'd do whatever's cheapest. I wear size 30 waist, small shirts, size 9 shoes.",
+        "sender": "human",
+        "created_at": "2024-09-18T11:33:00Z"
+      },
+      {
+        "uuid": "cc8548d2-88cd-4f3f-a7b6-b0a0ce405491",
+        "text": "Berlin is vintage heaven! Top spots: Humana (multiple locations, huge selection), Nowkoelln Flowmarkt (Sunday flea market), Made in Berlin in Friedrichshain, and Garage in Prenzlauer Berg (pay by weight!). For your sizes, European conversions: 30 waist is ~EU 38-40, S shirt is the same, size 9 shoe is EU 42. Stay in Kreuzberg or Friedrichshain -- best access to vintage shops and techno clubs like Berghain and Tresor.",
+        "sender": "assistant",
+        "created_at": "2024-09-18T11:33:59Z"
+      },
+      {
+        "uuid": "c0a92f25-327b-4612-ae66-62dbf52e0fc6",
+        "text": "What's the budget I should expect? I want to keep it cheap. Maybe $25-75 per find. And I want to visit Mauerpark flea market.",
+        "sender": "human",
+        "created_at": "2024-09-18T11:35:10Z"
+      },
+      {
+        "uuid": "e75e9025-e4e8-4110-b6bd-0c1aa2569f1b",
+        "text": "Berlin vintage is incredibly affordable! $25-75 per find will get you amazing pieces. Humana: leather jackets $30-60, vintage Levis $20-40, band tees $10-20. Mauerpark Sunday flea market is a must -- arrive early for the best picks. Budget tip: pay by weight at Garage (around EUR 15/kg). Bring an extra bag for your finds -- or ship them home to save carry-on space.",
+        "sender": "assistant",
+        "created_at": "2024-09-18T11:35:41Z"
+      }
+    ]
+  },
+  {
+    "uuid": "0506210c-befa-497a-9d73-7433d6f48512",
+    "name": "Best cycling routes in Austin",
+    "created_at": "2024-02-10T12:20:00Z",
+    "updated_at": "2024-02-10T12:26:47Z",
+    "chat_messages": [
+      {
+        "uuid": "5a7a8ac8-e598-475c-a6a1-7f20572ddf86",
+        "text": "I ride my bike around Austin for commuting and fun. I also skateboard and do yoga about 3 times a week total. What are the best cycling routes in Austin? I use Nike Training Club for workouts.",
+        "sender": "human",
+        "created_at": "2024-02-10T12:20:00Z"
+      },
+      {
+        "uuid": "98cd6afc-d5b6-46dc-8497-95788bd796fc",
+        "text": "Austin cycling is incredible! Top routes: 1) Lady Bird Lake Trail (10 miles, flat, scenic -- perfect for easy rides). 2) Veloway (3.1-mile loop, bike-only, great for speed work). 3) Barton Creek Greenbelt (more technical if you want mountain biking). 4) Shoal Creek Trail (connects north Austin to downtown). For commuting, the Pfluger Pedestrian Bridge connects South Austin to downtown beautifully. Pair cycling with your yoga days for great recovery.",
+        "sender": "assistant",
+        "created_at": "2024-02-10T12:21:46Z"
+      },
+      {
+        "uuid": "e4153852-0979-49c8-beb5-bb60343f9596",
+        "text": "Any bike shop recommendations? I need a tune-up and might want to explore longer routes on weekends. I'm trying to keep active for flexibility and fun.",
+        "sender": "human",
+        "created_at": "2024-02-10T12:23:04Z"
+      },
+      {
+        "uuid": "e66a67c8-0478-4e8f-9dcc-7b83dac942f6",
+        "text": "Great Austin bike shops: Mellow Johnny's (Lance Armstrong's shop, downtown), Bicycle Sport Shop (South Lamar), and The Peddler (for vintage/used bikes -- matches your thrift aesthetic). For longer weekend routes, try the 35-mile loop around Lake Travis or ride to Dripping Springs. Most shops offer tune-ups for $50-80.",
+        "sender": "assistant",
+        "created_at": "2024-02-10T12:24:35Z"
+      }
+    ]
+  },
+  {
+    "uuid": "a848632d-9af0-4f61-8af4-2f5f573e5624",
+    "name": "Vegetarian meal prep for family of 5",
+    "created_at": "2024-02-25T13:37:00Z",
+    "updated_at": "2024-02-25T13:42:01Z",
+    "chat_messages": [
+      {
+        "uuid": "bce5cb40-9c24-43d1-b28b-c592fb47d7a1",
+        "text": "I'm a pediatrician and mom of 3 kids. I follow a vegetarian diet and need to meal prep for the whole family. We love Indian, Mediterranean, American comfort, and Thai food. My daughter has a peanut allergy. I do batch cooking on weekends and use Instacart and HelloFresh for groceries.",
+        "sender": "human",
+        "created_at": "2024-02-25T13:37:00Z"
+      },
+      {
+        "uuid": "20237fde-38f6-4e85-889d-1b2a26731ae5",
+        "text": "Meal prepping for a family of 5 as a busy pediatrician is totally doable! Here's a weekend batch cooking plan: 1) Make a big pot of dal (red lentil) -- freezes well, kid-friendly. 2) Mediterranean: prep a large batch of hummus and roasted vegetables. 3) American comfort: veggie chili or mac and cheese base. 4) Thai: coconut curry paste (make it mild for kids, add heat for adults). For your daughter's peanut allergy, substitute sunflower seed butter in Thai recipes. HelloFresh has great vegetarian options to supplement.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T13:37:36Z"
+      },
+      {
+        "uuid": "b4f638a4-ab4d-4091-a96b-f4c05314f01f",
+        "text": "What about school lunches? My kids are picky and I need ideas that are peanut-free since her school is nut-free. I usually use meal prep containers from Amazon Basics.",
+        "sender": "human",
+        "created_at": "2024-02-25T13:39:27Z"
+      },
+      {
+        "uuid": "b050282d-2304-47d9-946a-eb1bdc9f9c10",
+        "text": "Peanut-free school lunch ideas that kids love: 1) Cheese quesadillas with hidden veggie puree. 2) Pasta salad with cherry tomatoes and mozzarella. 3) Veggie wraps with hummus and cucumber. 4) Indian paratha rolls with potato filling. 5) Mini pizzas on naan bread. Use your Amazon Basics containers -- get the ones with divided sections for bento-style lunches. Prep components on Sunday and assemble each morning.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T13:40:07Z"
+      }
+    ]
+  },
+  {
+    "uuid": "1be7d56e-84d7-4f16-92a5-9e205d2ee203",
+    "name": "STEM activities for different ages",
+    "created_at": "2024-03-18T22:30:00Z",
+    "updated_at": "2024-03-18T22:34:54Z",
+    "chat_messages": [
+      {
+        "uuid": "2dcdf633-bf20-47cc-b205-34a5a8c2a933",
+        "text": "I want to do more STEM activities with my kids at home. They range in age from 4 to 10. I usually buy educational toys from Amazon and Target. What are some good activities we can do together?",
+        "sender": "human",
+        "created_at": "2024-03-18T22:30:00Z"
+      },
+      {
+        "uuid": "89d9d7af-efa5-498b-bae3-b87de1e8ba37",
+        "text": "Age-appropriate STEM activities: For your 4-year-old: building with magnetic tiles, simple water experiments, nature scavenger hunts. For 6-8 range: LEGO Technic sets, basic coding with Scratch Jr, volcano experiments. For your 10-year-old: Raspberry Pi starter projects, robotics kits, circuit building with Snap Circuits. Family activities: build a simple weather station, grow a garden observation journal, or do cooking experiments (measuring = math!).",
+        "sender": "assistant",
+        "created_at": "2024-03-18T22:31:29Z"
+      },
+      {
+        "uuid": "e0d31008-8d5c-466d-b170-ca54eed665cc",
+        "text": "My husband is into tech gadgets so he'd love the Raspberry Pi idea. I also want educational gifts for birthdays and holidays -- budget is $30-100 per kid.",
+        "sender": "human",
+        "created_at": "2024-03-18T22:32:17Z"
+      },
+      {
+        "uuid": "db1a2f64-87f0-44c4-a26d-168354976c54",
+        "text": "In the $30-100 range: 4-year-old: Magna-Tiles ($40-60), Play-Doh science lab ($25). 6-8 range: LEGO Education sets ($50-80), National Geographic science kits ($30-50). 10-year-old: Raspberry Pi 4 starter kit ($80), Snap Circuits ($40-60). Have your husband set up the Raspberry Pi as a family project! Also consider subscriptions: KiwiCo crates ($25/month) deliver age-appropriate STEM projects monthly.",
+        "sender": "assistant",
+        "created_at": "2024-03-18T22:32:54Z"
+      }
+    ]
+  },
+  {
+    "uuid": "29655b75-f55b-4401-af38-9ed5ca0aa01f",
+    "name": "Pediatric patient care discussion",
+    "created_at": "2024-05-22T21:34:00Z",
+    "updated_at": "2024-05-22T21:38:37Z",
+    "chat_messages": [
+      {
+        "uuid": "7f07a636-7831-4fc6-8c34-a6e42332963d",
+        "text": "I'm a pediatrician working 4 days a week in-office. I use Epic EHR and UpToDate for clinical references. Can you help me think through best practices for managing childhood asthma in a primary care setting?",
+        "sender": "human",
+        "created_at": "2024-05-22T21:34:00Z"
+      },
+      {
+        "uuid": "e352ae98-b80b-466b-b136-6fdcd2023fcc",
+        "text": "Absolutely. For primary care asthma management: 1) Classification: use the NAEPP stepwise approach (intermittent vs persistent). 2) Action plans: every patient should have a written asthma action plan with green/yellow/red zones. 3) Monitoring: schedule follow-ups every 3-6 months for well-controlled patients. 4) Education: teach proper inhaler technique at every visit (studies show most kids use them incorrectly). 5) Epic tip: create a SmartPhrase for your asthma action plan template.",
+        "sender": "assistant",
+        "created_at": "2024-05-22T21:35:27Z"
+      },
+      {
+        "uuid": "72d4487e-8640-477e-a9bc-1bb3fdc3fdc1",
+        "text": "That's helpful. I also want to improve parent education. I use Doximity and Google Workspace for professional communication. Any tools or handouts you'd recommend?",
+        "sender": "human",
+        "created_at": "2024-05-22T21:36:16Z"
+      },
+      {
+        "uuid": "4131b5a1-ba63-46b8-bc1b-2a1441d99be0",
+        "text": "For parent education: 1) The AAP has free downloadable handouts in multiple languages. 2) Create short video demonstrations of inhaler technique (share via Doximity). 3) Use Google Docs for collaborative care plans that parents can access. 4) QR codes on printed handouts linking to educational videos. 5) Group education sessions quarterly for families of asthmatic children. This also builds your practice's community engagement.",
+        "sender": "assistant",
+        "created_at": "2024-05-22T21:37:17Z"
+      }
+    ]
+  },
+  {
+    "uuid": "1e9586b0-6602-4d73-b620-eaf21a4b1fcb",
+    "name": "Family activities in Boston",
+    "created_at": "2024-08-02T18:53:00Z",
+    "updated_at": "2024-08-02T18:58:10Z",
+    "chat_messages": [
+      {
+        "uuid": "b5a35cf5-0b74-471e-9a77-3e01d5aaf391",
+        "text": "We live in Boston and I'm looking for family-friendly activities for my 3 kids on weekends. We love science museums, outdoor activities, and anything educational. We usually fly JetBlue or Southwest for family trips and stay at Hilton or Holiday Inn.",
+        "sender": "human",
+        "created_at": "2024-08-02T18:53:00Z"
+      },
+      {
+        "uuid": "f21c196c-3e9f-4478-bce8-342c0ff7cbb3",
+        "text": "Boston is amazing for families! Top picks: 1) Museum of Science -- hours of STEM fun, the planetarium is worth the extra ticket. 2) New England Aquarium -- your kids will love the penguin exhibit. 3) Boston Children's Museum -- interactive exhibits for all ages. 4) Freedom Trail walk -- history lesson disguised as a walk. 5) Harvard Natural History Museum -- the glass flowers are incredible. Outdoor: Boston Common playground, Charles River Esplanade for biking, and the Arnold Arboretum for nature walks.",
+        "sender": "assistant",
+        "created_at": "2024-08-02T18:53:38Z"
+      },
+      {
+        "uuid": "d38f195b-ec88-4d4c-bbd0-c88305adb793",
+        "text": "We're also planning a family vacation soon. We've been thinking about Cape Cod or maybe Disney World. We usually book through VRBO and fly economy plus with aisle seats so I can manage the kids.",
+        "sender": "human",
+        "created_at": "2024-08-02T18:54:10Z"
+      },
+      {
+        "uuid": "0fd8e59a-967a-4735-8101-8a46cbca3bea",
+        "text": "Both are great! Cape Cod: rent a VRBO house in Chatham or Provincetown for a relaxed beach week. Great for younger kids -- whale watching, Pirate Museum, sand castle building. Budget-friendlier option. Disney World: plan for 4-5 days minimum with 3 kids. Stay at a value resort or VRBO near the parks. With aisle seats on JetBlue, you'll have easy bathroom access for the kids. Tip: download the Disney app in advance for Genie+ reservations.",
+        "sender": "assistant",
+        "created_at": "2024-08-02T18:55:39Z"
+      }
+    ]
+  },
+  {
+    "uuid": "cc67eaf1-00ca-4bdc-ba49-8c5d32908a8c",
+    "name": "Sleep training for toddlers",
+    "created_at": "2024-06-10T06:14:00Z",
+    "updated_at": "2024-06-10T06:19:08Z",
+    "chat_messages": [
+      {
+        "uuid": "2918d8d4-6757-4fcc-861c-8853fbd7a016",
+        "text": "My youngest is 18 months and still waking up 2-3 times a night. I wake up at 5:30am for work and I'm exhausted. I use the Calm app for my own meditation 3 times a week. As a pediatrician, I know the methods but implementing them with my own child is different!",
+        "sender": "human",
+        "created_at": "2024-06-10T06:14:00Z"
+      },
+      {
+        "uuid": "86c1ecf2-c96a-4ed6-b290-fd9533620cf5",
+        "text": "The cobbler's children have no shoes! As a pediatrician-mom, you know the evidence but it's so much harder with your own. For 18 months: 1) Consistent bedtime routine -- bath, book, song, bed (same order every night). 2) Chair method: sit in the room but don't pick up, move the chair farther away each night. 3) Make sure daytime nap is early enough (before 3pm). 4) Room environment: blackout curtains, white noise. Given your 5:30am wake-up, aim for a 7pm bedtime for the toddler.",
+        "sender": "assistant",
+        "created_at": "2024-06-10T06:14:51Z"
+      },
+      {
+        "uuid": "f23f85b9-93d5-4d71-804a-17b3609e36d4",
+        "text": "I've been trying the chair method but my husband and I aren't consistent. Any tips for getting the whole family on board?",
+        "sender": "human",
+        "created_at": "2024-06-10T06:16:18Z"
+      },
+      {
+        "uuid": "8128042b-7605-4e89-82e8-eb523b051b5a",
+        "text": "Consistency between parents is the #1 success factor! Strategy: 1) Have a family meeting where you both agree on the exact plan (write it down). 2) Take turns -- alternate nights so neither parent burns out. 3) Use the Calm app's sleep stories for the older kids' bedtime routine so they're settled before you focus on the toddler. 4) Give it 7-10 days -- most families see major improvement by then. Track progress in a simple log to stay motivated.",
+        "sender": "assistant",
+        "created_at": "2024-06-10T06:17:07Z"
+      }
+    ]
+  },
+  {
+    "uuid": "f4628025-d107-406a-93fe-2b4eecf771af",
+    "name": "Work-life balance as a doctor mom",
+    "created_at": "2024-02-16T08:02:00Z",
+    "updated_at": "2024-02-16T08:07:09Z",
+    "chat_messages": [
+      {
+        "uuid": "33ab0864-26ac-4d40-81cd-8eb4411c3073",
+        "text": "I'm a pediatrician working 4 days a week and a mom of 3. I feel like I'm constantly behind. I use Google Workspace and Alexa for family scheduling. How do I create better boundaries?",
+        "sender": "human",
+        "created_at": "2024-02-16T08:02:00Z"
+      },
+      {
+        "uuid": "42cd73ae-187b-4dac-ab88-a19d62715fcb",
+        "text": "Work-life balance for a doctor-mom requires ruthless prioritization. Framework: 1) Block your calendar: no clinic work after 5pm. Use Google Calendar for clear work/family boundaries. 2) Batch admin tasks: charting, callbacks, and emails in a dedicated block. 3) Alexa routines: set up morning and evening routines for the family. 4) Outsource what you can: meal prep services (you already use HelloFresh), cleaning service, laundry pickup.",
+        "sender": "assistant",
+        "created_at": "2024-02-16T08:02:35Z"
+      },
+      {
+        "uuid": "d18fcd6b-0a03-486b-9189-1e1437b5c4cf",
+        "text": "I also want to keep up with continuing education and maybe do some volunteer teaching at the local school. How do I fit that in?",
+        "sender": "human",
+        "created_at": "2024-02-16T08:04:17Z"
+      },
+      {
+        "uuid": "55e32349-73aa-4680-ba45-1465ddfcba3b",
+        "text": "Continuing education: use UpToDate during chart review time (it counts as learning). Listen to medical podcasts during your commute (Pediatric Insider is great). For volunteering: start with once a month at the school -- STEM activity day combining your medical knowledge with kids' education. Keep it sustainable. Your kids will see you modeling community service, which is a powerful lesson.",
+        "sender": "assistant",
+        "created_at": "2024-02-16T08:05:14Z"
+      }
+    ]
+  },
+  {
+    "uuid": "54970869-a8bb-45f1-a6cf-5e2536ac7640",
+    "name": "Quick Indian recipes for busy nights",
+    "created_at": "2024-10-14T22:29:00Z",
+    "updated_at": "2024-10-14T22:36:43Z",
+    "chat_messages": [
+      {
+        "uuid": "ed89731f-a02e-42c6-aa55-d8a12a4f48f4",
+        "text": "I love Indian food but cooking traditional recipes takes too long on weeknights. I'm vegetarian and my daughter has a peanut allergy. I batch cook on weekends but need quick options for Tuesday through Thursday. I use Instacart for grocery delivery.",
+        "sender": "human",
+        "created_at": "2024-10-14T22:29:00Z"
+      },
+      {
+        "uuid": "8f526beb-d4fe-45f4-a941-1b3d16bea244",
+        "text": "Quick Indian shortcuts for busy weeknights: 1) Pressure cooker dal -- 20 minutes from dry lentils to table. 2) Paneer tikka in the air fryer -- 15 minutes. 3) Chana masala using canned chickpeas -- 15 minutes with a good spice blend. 4) Aloo gobi shortcut: pre-cut cauliflower and potatoes from Instacart, microwave to parboil, then quick saut\u00e9 with spices. 5) Keep a jar of homemade garam masala (make a big batch on Sunday) and a rotation of pre-made chutneys.",
+        "sender": "assistant",
+        "created_at": "2024-10-14T22:30:53Z"
+      },
+      {
+        "uuid": "3eeba837-c984-4856-8e8d-a180d662bba3",
+        "text": "These are great! What about snacks for the kids that are Indian-inspired and peanut-free? I need school lunch ideas too.",
+        "sender": "human",
+        "created_at": "2024-10-14T22:32:38Z"
+      },
+      {
+        "uuid": "9e2e9b40-5841-4702-90ca-944215634a6b",
+        "text": "Peanut-free Indian snacks kids love: 1) Masala roasted chickpeas (crunchy, portable). 2) Besan (chickpea flour) pancakes -- like savory crepes. 3) Aloo tikki -- potato patties (make and freeze a batch). 4) Raita with cucumber as a dip with naan chips. 5) Mango lassi popsicles. For school lunches: mini samosas (freeze ahead), paratha wraps with paneer and veggies, rice with mild dal in a thermos. All peanut-free and kid-approved!",
+        "sender": "assistant",
+        "created_at": "2024-10-14T22:34:00Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2e9db088-59ff-448f-9210-ef1202ae3850",
+    "name": "Organizing a family home",
+    "created_at": "2024-04-10T14:51:00Z",
+    "updated_at": "2024-04-10T14:54:45Z",
+    "chat_messages": [
+      {
+        "uuid": "31ab7ddd-9e80-442b-b670-294cc8f23ed1",
+        "text": "We live in a 4BR colonial house in Boston and it's chaos with 3 kids. I want to create better organization systems. We have an Alexa, Nest thermostat, and Arlo cameras. I need help with the toy situation especially.",
+        "sender": "human",
+        "created_at": "2024-04-10T14:51:00Z"
+      },
+      {
+        "uuid": "0b35fc2e-0df2-45fd-841c-ccfa944161cf",
+        "text": "Organizing a 4BR with 3 kids requires systems, not just storage! Strategy: 1) One-in-one-out rule for toys. 2) Toy rotation: store half the toys and swap monthly (kids think they're new!). 3) Zone-based organization: each room has a specific purpose. 4) Label everything -- use picture labels for younger kids. 5) Entryway landing strip: hooks for backpacks, bins for shoes, mail sorter. Use Alexa reminders for weekly family clean-up time.",
+        "sender": "assistant",
+        "created_at": "2024-04-10T14:51:38Z"
+      },
+      {
+        "uuid": "1a4de625-2731-4520-9a5e-0df9cc8a9300",
+        "text": "What about the kids' rooms? They share rooms and it's a constant battle. Our hamster Mr. Whiskers also has supplies scattered everywhere.",
+        "sender": "human",
+        "created_at": "2024-04-10T14:52:40Z"
+      },
+      {
+        "uuid": "28ba80d9-fb94-4569-b798-492cc8836cb3",
+        "text": "Shared rooms need clear boundaries! Give each child their own section with color-coded bins. Bunk beds with under-bed storage maximize floor space. For Mr. Whiskers: a dedicated hamster station with supplies in one drawer unit. Daily 5-minute tidy routine before bed -- set an Alexa timer and make it a game. For the Arlo cameras, you can check rooms remotely to see the mess situation before you even go upstairs!",
+        "sender": "assistant",
+        "created_at": "2024-04-10T14:53:31Z"
+      }
+    ]
+  },
+  {
+    "uuid": "0dd2d41b-f2c5-40fc-afcc-432fd18b3843",
+    "name": "Planning family vacation to San Diego",
+    "created_at": "2024-04-07T13:05:00Z",
+    "updated_at": "2024-04-07T13:10:57Z",
+    "chat_messages": [
+      {
+        "uuid": "5056da5b-6903-453e-bc75-4c76322cfdcc",
+        "text": "We're planning a family trip to San Diego for the zoo and beaches. Family of 5 including 3 kids ages 4, 7, and 10. We fly JetBlue or Southwest and book economy plus with aisle seats. Looking at VRBO for accommodation.",
+        "sender": "human",
+        "created_at": "2024-04-07T13:05:00Z"
+      },
+      {
+        "uuid": "44298df4-1ee0-40eb-a36f-86ccd3710e5b",
+        "text": "San Diego is perfect for your crew! Plan: 1) San Diego Zoo: get the 2-day pass, split into zones. Morning for Africa Rocks (cooler, animals are active). 2) Beaches: La Jolla Cove for tide pools (your kids will love the science aspect), Coronado Beach for building sandcastles. 3) LEGOLAND: worth a day for the 4 and 7-year-old. 4) USS Midway Museum for the 10-year-old. VRBO: look in Mission Beach or Pacific Beach area -- walking distance to the beach.",
+        "sender": "assistant",
+        "created_at": "2024-04-07T13:05:53Z"
+      },
+      {
+        "uuid": "de89cf7a-0af4-40f7-8bdd-befa45517dd0",
+        "text": "How many days should we plan for? And restaurant recommendations? We're vegetarian and my daughter has a peanut allergy. Budget for dining is around $50-80 per meal for the family.",
+        "sender": "human",
+        "created_at": "2024-04-07T13:06:38Z"
+      },
+      {
+        "uuid": "f180e25e-4cde-4d05-a96b-afa4ca975e56",
+        "text": "Plan 5-6 days to avoid rushing. Dining: 1) Kindred in South Park (great vegetarian options). 2) Plant Power Fast Food (kids love it -- vegan burgers and shakes). 3) The Taco Stand (amazing veggie tacos, affordable). 4) Cafe Gratitude (plant-based, upscale). All are peanut-aware. At $50-80/meal for 5, do restaurant lunches and cook simple dinners at your VRBO. Pack snacks for the zoo -- their food is overpriced.",
+        "sender": "assistant",
+        "created_at": "2024-04-07T13:08:33Z"
+      }
+    ]
+  },
+  {
+    "uuid": "f6e84293-fb2f-4b58-9834-ded5d906e203",
+    "name": "Book recommendations for kids",
+    "created_at": "2024-07-17T22:06:00Z",
+    "updated_at": "2024-07-17T22:10:31Z",
+    "chat_messages": [
+      {
+        "uuid": "5674cead-72c9-48e5-9f77-0802855c8a05",
+        "text": "I need book recommendations for my 3 kids (ages 4, 7, and 10). I love that reading is part of our routine. We use the library a lot and I also buy from Amazon. Ideally books that reflect diversity and STEM themes.",
+        "sender": "human",
+        "created_at": "2024-07-17T22:06:00Z"
+      },
+      {
+        "uuid": "82b7306b-f1bb-49fb-b166-34e733c3ddd0",
+        "text": "Love your reading focus! Age-appropriate picks: For the 4-year-old: 'Ada Twist, Scientist' (STEM + diversity), 'Last Stop on Market Street' (empathy), 'The Name Jar' (Korean-American identity). For the 7-year-old: 'When Stars Are Scattered' (graphic novel, refugee story), 'Amina's Voice' (Muslim-American), 'Rosie Revere, Engineer'. For the 10-year-old: 'A Wrinkle in Time', 'Front Desk' (immigrant experience), 'Hidden Figures Young Reader's Edition'.",
+        "sender": "assistant",
+        "created_at": "2024-07-17T22:06:55Z"
+      },
+      {
+        "uuid": "47eb6bcd-4f02-4e9c-a0c3-744785c83762",
+        "text": "These are wonderful. My parents are from India and I want some books that reflect our Indian heritage too. I also listen to Parenting Unplugged podcast for ideas.",
+        "sender": "human",
+        "created_at": "2024-07-17T22:07:49Z"
+      },
+      {
+        "uuid": "3743ba1f-a89c-4fe8-a630-96dfc7bf84e4",
+        "text": "Indian heritage books: For the 4-year-old: 'Binny's Diwali' and 'Chachaji's Cup' (gorgeous illustrations). For the 7-year-old: 'Maya's Song' and 'Amara's Farm' (Indian-American family stories). For the 10-year-old: 'Pashmina' (graphic novel about Indian mythology) and 'Born Behind Bars'. Also check out 'Amma Tell Me' series for Hindu mythology stories at all levels. Parenting Unplugged often recommends diverse books too!",
+        "sender": "assistant",
+        "created_at": "2024-07-17T22:08:21Z"
+      }
+    ]
+  },
+  {
+    "uuid": "6a9bc615-c4ac-4702-8316-cfb13f8ad230",
+    "name": "Mastering dovetail joints",
+    "created_at": "2024-02-25T06:08:00Z",
+    "updated_at": "2024-02-25T06:13:01Z",
+    "chat_messages": [
+      {
+        "uuid": "04224698-7023-494a-b0b9-bf52c9cabfe4",
+        "text": "I've been woodworking for 15 years and I still struggle with consistent dovetail joints. I use hand tools mostly -- chisels from Rockler Woodworking. Any tips for getting tighter joints?",
+        "sender": "human",
+        "created_at": "2024-02-25T06:08:00Z"
+      },
+      {
+        "uuid": "82a71784-5a8f-4eec-8bf9-487ee38bafec",
+        "text": "After 15 years, it's often about refinement rather than fundamentals. Tips for tighter dovetails: 1) Mark your baseline with a cutting gauge, not a pencil -- the scored line gives your chisel a registration point. 2) Saw to the waste side of the line, then pare to the line. 3) Use a sharp marking knife (not pencil) for transferring pins to tails. 4) Keep your chisels razor sharp -- hone before every session. 5) Try the 'Rob Cosman method' of undercutting the baseline slightly for a visual gap-free fit. Since you shop at Rockler, their premium chisels are worth the upgrade if you haven't already.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T06:09:23Z"
+      },
+      {
+        "uuid": "918f75cb-6dfe-4c06-b279-eef2f083d1fc",
+        "text": "I've been thinking about making a jewelry box for my wife with hand-cut dovetails. I usually listen to the Woodworking Masterclass podcast while I work in my workshop. What wood would you recommend?",
+        "sender": "human",
+        "created_at": "2024-02-25T06:09:56Z"
+      },
+      {
+        "uuid": "ce8eb070-0223-403a-a3c1-7b6e4f80c492",
+        "text": "A dovetail jewelry box is a beautiful gift! Wood recommendations: 1) Walnut -- gorgeous contrast for the end grain in dovetails, easy to work with hand tools. 2) Cherry -- ages beautifully and has a warm tone. 3) For the bottom panel, use figured maple for contrast. Dimensions: about 10x7x4 inches is ideal for jewelry. Line the interior with felt or suede. Add small dividers for rings and necklaces. Your wife will treasure something handmade from your workshop.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T06:11:11Z"
+      }
+    ]
+  },
+  {
+    "uuid": "8b4774fe-35fb-44a5-b4e2-4c3624132f01",
+    "name": "Best heirloom tomato varieties for Oregon",
+    "created_at": "2024-10-18T06:29:00Z",
+    "updated_at": "2024-10-18T06:34:44Z",
+    "chat_messages": [
+      {
+        "uuid": "78efb434-6c4d-443e-9ca2-bcad0ff12f38",
+        "text": "I'm planning my garden for spring in Portland, Oregon. I grow heirloom tomatoes in raised beds and want to try some new varieties. I also have fruit trees and a pollinator garden. What varieties do well in the Pacific Northwest?",
+        "sender": "human",
+        "created_at": "2024-10-18T06:29:00Z"
+      },
+      {
+        "uuid": "3a28ed99-766b-4977-83c6-b14f17469324",
+        "text": "Oregon's shorter growing season means choosing varieties that ripen reliably. Top picks for Portland: 1) Stupice -- Czech variety, early ripener, great flavor. 2) Black Krim -- stunning dark tomato, does well in PNW. 3) Sungold (technically a hybrid but everyone grows it) -- cherry tomato, incredibly sweet. 4) Brandywine -- classic heirloom, needs the warmest spot in your garden. 5) Green Zebra -- tangy, unique, reliable in cooler summers. Start seeds indoors in March for transplanting in late May.",
+        "sender": "assistant",
+        "created_at": "2024-10-18T06:29:55Z"
+      },
+      {
+        "uuid": "7c26a196-3eb8-4cc1-88e9-ddd41121348a",
+        "text": "What about companion planting? I want to support my pollinator garden and help the tomatoes. I also compost and want to build the soil.",
+        "sender": "human",
+        "created_at": "2024-10-18T06:30:35Z"
+      },
+      {
+        "uuid": "b5832a43-80d4-426c-9e5e-d9291b086ee8",
+        "text": "Companion planting for your tomato beds: plant basil alongside (improves flavor and repels aphids), marigolds as a border (deters nematodes and attracts pollinators), and borage nearby (attracts bees and adds trace minerals when composted). For your pollinator garden, plant bee balm, lavender, and native Oregon wildflowers near the tomatoes. Composting tip: add crushed eggshells to your compost for calcium, which prevents blossom end rot in tomatoes.",
+        "sender": "assistant",
+        "created_at": "2024-10-18T06:32:02Z"
+      }
+    ]
+  },
+  {
+    "uuid": "88ad490b-31b6-4511-9d7a-84c29f137876",
+    "name": "Historical fiction recommendations",
+    "created_at": "2024-05-07T21:51:00Z",
+    "updated_at": "2024-05-07T21:55:07Z",
+    "chat_messages": [
+      {
+        "uuid": "9b1233a9-2456-4a65-9390-378970323213",
+        "text": "I read 2-3 books per week and I love historical fiction, nature writing, and biography. I just finished 'The Pillars of the Earth' and want something equally epic. I also enjoy listening to Fresh Air and The Moth podcasts.",
+        "sender": "human",
+        "created_at": "2024-05-07T21:51:00Z"
+      },
+      {
+        "uuid": "3776782f-ddb6-46d1-9454-b06981e4b047",
+        "text": "With that reading pace and taste, here are some epic picks: 1) 'Shantaram' by Gregory David Roberts -- sweeping adventure in 1980s Bombay. 2) 'The Name of the Rose' by Umberto Eco -- medieval mystery meets intellectual thriller. 3) 'Wolf Hall' by Hilary Mantel -- Tudor England brought vividly to life. 4) 'All the Light We Cannot See' by Anthony Doerr -- WWII, beautifully written. 5) 'The Overstory' by Richard Powers -- blends nature writing with narrative fiction (right up your alley).",
+        "sender": "assistant",
+        "created_at": "2024-05-07T21:51:36Z"
+      },
+      {
+        "uuid": "5e780a4e-1480-4b86-a2e5-9849ceba299e",
+        "text": "The Overstory sounds perfect for me since I love nature. I volunteer at the library and want to start a book club. Any nature writing recommendations too?",
+        "sender": "human",
+        "created_at": "2024-05-07T21:52:57Z"
+      },
+      {
+        "uuid": "85be4658-2f24-4174-b698-bc2996745186",
+        "text": "For your library book club, nature writing picks: 1) 'Braiding Sweetgrass' by Robin Wall Kimmerer -- indigenous wisdom meets botany. 2) 'H is for Hawk' by Helen Macdonald -- grief and falconry. 3) 'The Hidden Life of Trees' by Peter Wohlleben -- you'll never look at your garden the same. 4) 'Pilgrim at Tinker Creek' by Annie Dillard -- classic. For the book club, start with 'Braiding Sweetgrass' -- it generates incredible discussion. Fresh Air actually did a great interview with Kimmerer.",
+        "sender": "assistant",
+        "created_at": "2024-05-07T21:53:33Z"
+      }
+    ]
+  },
+  {
+    "uuid": "eb974af5-12f9-48f9-b827-f79decf51743",
+    "name": "Backyard bird identification in Oregon",
+    "created_at": "2024-12-21T10:41:00Z",
+    "updated_at": "2024-12-21T10:45:59Z",
+    "chat_messages": [
+      {
+        "uuid": "f97fae94-5090-4531-b8f6-4d6371fc2f43",
+        "text": "I've gotten into bird watching from my backyard in Portland. I have bird feeders and a pollinator garden. I can identify the common ones but want to get better. What birds should I look for this season?",
+        "sender": "human",
+        "created_at": "2024-12-21T10:41:00Z"
+      },
+      {
+        "uuid": "66fd9df1-e827-46aa-9f1e-fd53cafebe4f",
+        "text": "Portland is a birding paradise! Common year-round residents you should know: Black-capped Chickadee, Dark-eyed Junco, Spotted Towhee, and Anna's Hummingbird. Seasonal visitors to watch for: Varied Thrush (winter -- stunning orange and black), Cedar Waxwings (spring/summer), and Western Tanagers (summer -- bright yellow and red). Your pollinator garden probably attracts hummingbirds. Tip: keep a simple journal of what you see and when.",
+        "sender": "assistant",
+        "created_at": "2024-12-21T10:41:52Z"
+      },
+      {
+        "uuid": "f975babf-530b-4f1c-bf73-73952c41690e",
+        "text": "I'd love to keep a bird sighting journal. I have two cats -- Hemingway and Fitzgerald -- so I keep them inside. Any feeder recommendations to attract more species?",
+        "sender": "human",
+        "created_at": "2024-12-21T10:43:30Z"
+      },
+      {
+        "uuid": "91c7d46e-35d7-456f-9c48-9c1e9a049cae",
+        "text": "Smart keeping Hemingway and Fitzgerald inside -- outdoor cats are the #1 threat to songbirds! Feeder strategy: 1) Platform feeder with sunflower seeds (attracts the widest variety). 2) Suet feeder for woodpeckers and nuthatches. 3) Nyjer feeder for goldfinches. 4) Hummingbird feeder (4:1 water to sugar, no red dye). Place feeders at different heights and locations. For your journal, note the species, time, weather, and behavior. Over time you'll see patterns in what visits when.",
+        "sender": "assistant",
+        "created_at": "2024-12-21T10:44:34Z"
+      }
+    ]
+  },
+  {
+    "uuid": "5b98f960-a9a1-479d-8622-7942d380e359",
+    "name": "Sourdough bread troubleshooting",
+    "created_at": "2024-10-01T14:16:00Z",
+    "updated_at": "2024-10-01T14:22:22Z",
+    "chat_messages": [
+      {
+        "uuid": "60724c95-3c70-444a-ab69-705bd80306e3",
+        "text": "I bake sourdough almost daily and my starter is about 3 years old. Lately my loaves have been coming out dense with poor oven spring. I feed my starter with King Arthur bread flour. What am I doing wrong?",
+        "sender": "human",
+        "created_at": "2024-10-01T14:16:00Z"
+      },
+      {
+        "uuid": "c3344e76-320f-43af-b767-d81b121dd459",
+        "text": "With a 3-year-old starter, it's likely not the starter itself. Common causes of dense loaves with poor oven spring: 1) Overproofing -- the dough may be going too long, especially if your kitchen is warm. Try the poke test and catch it earlier. 2) Shaping tension -- practice tighter pre-shaping and final shaping. 3) Steam: if you're not using a Dutch oven, your oven isn't steamy enough for the first 20 minutes. 4) Flour hydration -- try reducing hydration by 5% to see if you get better structure. How's your bulk fermentation time?",
+        "sender": "assistant",
+        "created_at": "2024-10-01T14:17:48Z"
+      },
+      {
+        "uuid": "be4dfcf8-31f9-4b5e-8857-52c736f39068",
+        "text": "I do about 5-6 hours of bulk fermentation at room temperature. I use a Dutch oven for baking. I love pairing fresh bread with my garden tomatoes and homemade jam.",
+        "sender": "human",
+        "created_at": "2024-10-01T14:18:48Z"
+      },
+      {
+        "uuid": "eb567885-8173-4a2b-8c77-e434f8f4eb17",
+        "text": "5-6 hours at Portland room temp (60-68F) should be fine, but in summer it might be too long. Try using the windowpane test: stretch a small piece of dough -- if it holds without tearing, bulk is done. Other tips: cold retard in the fridge overnight after shaping gives better flavor AND oven spring. Score confidently with a sharp lame. For your tomato-and-bread pairing, try adding a touch of olive oil and fresh basil from your garden. Chef's kiss!",
+        "sender": "assistant",
+        "created_at": "2024-10-01T14:20:10Z"
+      }
+    ]
+  },
+  {
+    "uuid": "c17bc072-beeb-4f14-b71b-6ef1b20a7764",
+    "name": "Workshop organization ideas",
+    "created_at": "2024-02-27T12:51:00Z",
+    "updated_at": "2024-02-27T12:57:49Z",
+    "chat_messages": [
+      {
+        "uuid": "b2d09541-2bbe-48d8-bdfe-534d0b2afe86",
+        "text": "My workshop is attached to my craftsman house in Portland and it's getting cluttered. I have a good collection of hand tools and power tools from Duluth Trading and Rockler. I need a better organization system.",
+        "sender": "human",
+        "created_at": "2024-02-27T12:51:00Z"
+      },
+      {
+        "uuid": "b82f7123-b8be-4290-b769-d44859f03f97",
+        "text": "A craftsman house workshop deserves craftsman organization! Here's a system: 1) French cleat wall -- the most flexible tool storage system. Make cleats from plywood and custom holders for each tool. 2) Dedicated hand tool wall: chisels in a rack, hand saws on pegs, planes on a shelf. 3) Mobile bases for power tools -- roll them out when needed, store against walls. 4) Lumber rack: build a vertical rack for boards and sheet goods. 5) Finishing station: separate area with good ventilation for stains and finishes.",
+        "sender": "assistant",
+        "created_at": "2024-02-27T12:52:17Z"
+      },
+      {
+        "uuid": "1342591d-f789-42cf-8717-5a0c25549cb5",
+        "text": "I love the French cleat idea -- I can make those myself! My wife says I need to keep the sawdust under control too. I have a dust collection system but it's not great.",
+        "sender": "human",
+        "created_at": "2024-02-27T12:53:44Z"
+      },
+      {
+        "uuid": "82986e2b-6c37-4cd9-8831-8c83f7edb98e",
+        "text": "French cleats are a satisfying weekend project! For dust collection: 1) Upgrade to a two-stage system with a Thien baffle separator before your shop vac/collector. 2) Add blast gates at each tool connection. 3) Floor sweep near your workbench catches fine dust. 4) Air filtration: a ceiling-mounted air cleaner runs while you work. Budget option: build a box fan air filter with furnace filters. Good dust control protects your lungs and keeps sawdust out of the house -- your wife will appreciate that!",
+        "sender": "assistant",
+        "created_at": "2024-02-27T12:55:30Z"
+      }
+    ]
+  },
+  {
+    "uuid": "f54a8644-1117-4d8b-a117-e455ff566417",
+    "name": "Advanced composting techniques",
+    "created_at": "2024-05-26T17:59:00Z",
+    "updated_at": "2024-05-26T18:04:15Z",
+    "chat_messages": [
+      {
+        "uuid": "77ada7ec-02b3-4b3b-b46c-b811533f8b62",
+        "text": "I've been composting for years but want to improve my system. I have raised garden beds, fruit trees, and a pollinator garden in Portland. Currently using a three-bin system. How do I make better compost faster?",
+        "sender": "human",
+        "created_at": "2024-05-26T17:59:00Z"
+      },
+      {
+        "uuid": "4b8b2a4a-d95e-4b71-8999-f8673076d1a6",
+        "text": "Three-bin system is great! To speed things up: 1) Carbon-to-nitrogen ratio: aim for 30:1 (browns:greens by volume = roughly 3:1). 2) Chop materials smaller -- run leaves through a mower, break down kitchen scraps. 3) Turn weekly in the active bin. 4) Moisture level should feel like a wrung-out sponge. 5) Add compost activator: a shovelful of finished compost into a new pile inoculates it with microbes. With Portland's climate, you can compost year-round but winter batches are slower.",
+        "sender": "assistant",
+        "created_at": "2024-05-26T18:00:55Z"
+      },
+      {
+        "uuid": "1d0cdd67-4f2c-4632-bbf3-9bafa97b818e",
+        "text": "What about composting with worms? I've heard vermicomposting is great for garden soil. I also want to feed my heirloom tomato beds specifically.",
+        "sender": "human",
+        "created_at": "2024-05-26T18:02:18Z"
+      },
+      {
+        "uuid": "d345cb65-9a37-4c63-98e6-0bb9c33ccc45",
+        "text": "Vermicomposting is excellent for your tomatoes! Set up a worm bin in your workshop or garage (red wigglers, not earthworms). Worm castings are like black gold -- concentrated nutrients. Mix 1:3 with regular compost for tomato beds. Feed worms kitchen scraps minus citrus and onions. For your heirloom tomatoes specifically: worm casting tea (steep castings in water) applied biweekly during fruiting is incredible. Your fruit trees will love it too.",
+        "sender": "assistant",
+        "created_at": "2024-05-26T18:02:56Z"
+      }
+    ]
+  },
+  {
+    "uuid": "dd267c12-dedd-45db-9bfb-8b3e56b6ddb9",
+    "name": "Spring garden planning for Oregon",
+    "created_at": "2024-02-20T07:43:00Z",
+    "updated_at": "2024-02-20T07:49:03Z",
+    "chat_messages": [
+      {
+        "uuid": "a2870ddb-28b8-4d5f-86d5-fca8d80ab2d4",
+        "text": "It's time to plan my spring garden in Portland. I have raised beds, fruit trees (apple and pear), and a dedicated pollinator garden. I'm retired so I have time to really invest in it this year. I also love growing herbs for cooking.",
+        "sender": "human",
+        "created_at": "2024-02-20T07:43:00Z"
+      },
+      {
+        "uuid": "c4c242cb-0e0d-495e-b368-92655589f01d",
+        "text": "With retirement giving you more garden time, here's an ambitious spring plan: Raised beds: succession plant lettuce every 2 weeks starting March. Start tomato and pepper seeds indoors now. Direct sow peas, carrots, and radishes in March. Plant potatoes on St. Patrick's Day (PNW tradition). Fruit trees: prune apple and pear in February before bud break. Pollinator garden: add native Oregon species like Oregon grape, red flowering currant, and camas lily. Herbs: basil, cilantro, dill, and parsley in a dedicated bed near the kitchen.",
+        "sender": "assistant",
+        "created_at": "2024-02-20T07:44:47Z"
+      },
+      {
+        "uuid": "5dfc94b5-256e-4070-bee7-d6041978ef55",
+        "text": "I want to try growing some interesting herbs beyond the basics. I cook daily and love making sourdough. Also need plants that attract birds.",
+        "sender": "human",
+        "created_at": "2024-02-20T07:46:15Z"
+      },
+      {
+        "uuid": "c68b943d-c7d1-46b0-9912-f13e861573d3",
+        "text": "Interesting herbs for the adventurous cook: lemon verbena (incredible tea), Thai basil (stir-fries), lovage (celery-like, great in soups), shiso (Japanese herb, pairs with your sourdough), and Mexican oregano. For bird attraction: sunflowers (seed heads for finches), elderberry (berries for thrushes), and native honeysuckle (hummingbirds). Plant the sunflowers along the garden edge -- they attract both pollinators and seed-eating birds.",
+        "sender": "assistant",
+        "created_at": "2024-02-20T07:46:53Z"
+      }
+    ]
+  },
+  {
+    "uuid": "b420a3e9-2ce8-4fe8-bbbe-ba71adf34f29",
+    "name": "Volunteering as a teaching mentor",
+    "created_at": "2024-01-14T07:50:00Z",
+    "updated_at": "2024-01-14T07:55:37Z",
+    "chat_messages": [
+      {
+        "uuid": "4e0a547d-b0c0-4dbd-b4c5-fb8dccd08ff2",
+        "text": "I'm a retired high school teacher and I want to volunteer as a teaching mentor at local schools and the library. I spent 30 years teaching history. I also volunteer at the library already. How do I get started with mentoring?",
+        "sender": "human",
+        "created_at": "2024-01-14T07:50:00Z"
+      },
+      {
+        "uuid": "a14b0683-9d27-4d87-a601-45f1a417f8f1",
+        "text": "Your 30 years of teaching experience is invaluable! Getting started: 1) Contact Portland Public Schools' volunteer coordinator -- they always need mentors. 2) SMART (Start Making A Reader Today) is an Oregon-specific program that pairs volunteers with young readers. 3) For the library, propose a 'history alive' program where you bring historical topics to life for kids. 4) SCORE (Service Corps of Retired Executives) if you want to mentor adults too. Start with one commitment and build -- sustainability is key.",
+        "sender": "assistant",
+        "created_at": "2024-01-14T07:51:09Z"
+      },
+      {
+        "uuid": "d6cd717c-0981-4c93-bb43-7b4146a2f53f",
+        "text": "I love the history alive idea. I could tie it into my love of historical fiction and nature. My grandkids love when I tell them stories about history. I also make handmade wooden toys for them.",
+        "sender": "human",
+        "created_at": "2024-01-14T07:52:42Z"
+      },
+      {
+        "uuid": "6e234bc3-9457-4877-bc54-049d7c3f818b",
+        "text": "A 'History Through Nature' program would be unique and perfect for Portland! Ideas: teach about Lewis & Clark expedition using local landscapes, Oregon Trail history through hands-on activities, indigenous peoples' relationship with Pacific Northwest ecology. Bring in your handmade wooden toys as props -- kids learn better with tangible objects. Your grandkids can be your test audience. Consider partnering with the Oregon Historical Society for materials and credibility.",
+        "sender": "assistant",
+        "created_at": "2024-01-14T07:54:13Z"
+      }
+    ]
+  },
+  {
+    "uuid": "a3e56423-6ef4-4106-92b5-44d3850505bb",
+    "name": "Portland craft beer guide",
+    "created_at": "2024-03-24T21:38:00Z",
+    "updated_at": "2024-03-24T21:44:07Z",
+    "chat_messages": [
+      {
+        "uuid": "0405508d-e530-4e4a-aca4-becc12765dc3",
+        "text": "I live in Portland and love craft beer. I mainly drink at local breweries. I also enjoy dark roast coffee from local roasters. Can you recommend some breweries I might not know about?",
+        "sender": "human",
+        "created_at": "2024-03-24T21:38:00Z"
+      },
+      {
+        "uuid": "55759bfd-20c6-401a-87ca-f68b43d90d9f",
+        "text": "Portland's craft beer scene is vast! Beyond the well-known ones, try: 1) Wayfinder Beer (excellent lagers and Czech-style pilsners). 2) Culmination Brewing (innovative small batches). 3) Great Notion (hazies and pastry stouts if you're adventurous). 4) Upright Brewing (farmhouse ales in the basement of the Leftbank building). 5) Von Ebert at Glendoveer (great beer AND disc golf). For coffee: try Sterling Coffee Roasters, Heart Coffee, and Coava -- all excellent dark roasts.",
+        "sender": "assistant",
+        "created_at": "2024-03-24T21:39:35Z"
+      },
+      {
+        "uuid": "028daef6-2731-4389-ac9e-222f26f78b24",
+        "text": "I usually pair beer with BBQ or farm-to-table food. Any brewery + food combos you'd recommend? I prefer to support local and eat sustainably.",
+        "sender": "human",
+        "created_at": "2024-03-24T21:41:16Z"
+      },
+      {
+        "uuid": "31081e24-d538-4e00-a8cf-9b54cd103f6c",
+        "text": "Perfect Portland pairings: 1) Podnah's Pit BBQ + any local IPA (the brisket is legendary). 2) Ox Restaurant (farm-to-table Argentine grill) + Upright Brewing farmhouse ale. 3) Lardo (pork-focused) + Wayfinder pilsner. 4) Screen Door (Southern comfort) + Great Notion stout. For the most sustainable option, Culmination Brewing sources local ingredients and their taproom has great food. Many Portland breweries partner with local farms -- ask your bartender about sourcing.",
+        "sender": "assistant",
+        "created_at": "2024-03-24T21:42:07Z"
+      }
+    ]
+  }
+]

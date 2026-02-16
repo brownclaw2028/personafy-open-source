@@ -1,0 +1,322 @@
+[
+  {
+    "uuid": "a848632d-9af0-4f61-8af4-2f5f573e5624",
+    "name": "Vegetarian meal prep for family of 5",
+    "created_at": "2024-02-25T13:37:00Z",
+    "updated_at": "2024-02-25T13:42:01Z",
+    "chat_messages": [
+      {
+        "uuid": "bce5cb40-9c24-43d1-b28b-c592fb47d7a1",
+        "text": "I'm a pediatrician and mom of 3 kids. I follow a vegetarian diet and need to meal prep for the whole family. We love Indian, Mediterranean, American comfort, and Thai food. My daughter has a peanut allergy. I do batch cooking on weekends and use Instacart and HelloFresh for groceries.",
+        "sender": "human",
+        "created_at": "2024-02-25T13:37:00Z"
+      },
+      {
+        "uuid": "20237fde-38f6-4e85-889d-1b2a26731ae5",
+        "text": "Meal prepping for a family of 5 as a busy pediatrician is totally doable! Here's a weekend batch cooking plan: 1) Make a big pot of dal (red lentil) -- freezes well, kid-friendly. 2) Mediterranean: prep a large batch of hummus and roasted vegetables. 3) American comfort: veggie chili or mac and cheese base. 4) Thai: coconut curry paste (make it mild for kids, add heat for adults). For your daughter's peanut allergy, substitute sunflower seed butter in Thai recipes. HelloFresh has great vegetarian options to supplement.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T13:37:36Z"
+      },
+      {
+        "uuid": "b4f638a4-ab4d-4091-a96b-f4c05314f01f",
+        "text": "What about school lunches? My kids are picky and I need ideas that are peanut-free since her school is nut-free. I usually use meal prep containers from Amazon Basics.",
+        "sender": "human",
+        "created_at": "2024-02-25T13:39:27Z"
+      },
+      {
+        "uuid": "b050282d-2304-47d9-946a-eb1bdc9f9c10",
+        "text": "Peanut-free school lunch ideas that kids love: 1) Cheese quesadillas with hidden veggie puree. 2) Pasta salad with cherry tomatoes and mozzarella. 3) Veggie wraps with hummus and cucumber. 4) Indian paratha rolls with potato filling. 5) Mini pizzas on naan bread. Use your Amazon Basics containers -- get the ones with divided sections for bento-style lunches. Prep components on Sunday and assemble each morning.",
+        "sender": "assistant",
+        "created_at": "2024-02-25T13:40:07Z"
+      }
+    ]
+  },
+  {
+    "uuid": "1be7d56e-84d7-4f16-92a5-9e205d2ee203",
+    "name": "STEM activities for different ages",
+    "created_at": "2024-03-18T22:30:00Z",
+    "updated_at": "2024-03-18T22:34:54Z",
+    "chat_messages": [
+      {
+        "uuid": "2dcdf633-bf20-47cc-b205-34a5a8c2a933",
+        "text": "I want to do more STEM activities with my kids at home. They range in age from 4 to 10. I usually buy educational toys from Amazon and Target. What are some good activities we can do together?",
+        "sender": "human",
+        "created_at": "2024-03-18T22:30:00Z"
+      },
+      {
+        "uuid": "89d9d7af-efa5-498b-bae3-b87de1e8ba37",
+        "text": "Age-appropriate STEM activities: For your 4-year-old: building with magnetic tiles, simple water experiments, nature scavenger hunts. For 6-8 range: LEGO Technic sets, basic coding with Scratch Jr, volcano experiments. For your 10-year-old: Raspberry Pi starter projects, robotics kits, circuit building with Snap Circuits. Family activities: build a simple weather station, grow a garden observation journal, or do cooking experiments (measuring = math!).",
+        "sender": "assistant",
+        "created_at": "2024-03-18T22:31:29Z"
+      },
+      {
+        "uuid": "e0d31008-8d5c-466d-b170-ca54eed665cc",
+        "text": "My husband is into tech gadgets so he'd love the Raspberry Pi idea. I also want educational gifts for birthdays and holidays -- budget is $30-100 per kid.",
+        "sender": "human",
+        "created_at": "2024-03-18T22:32:17Z"
+      },
+      {
+        "uuid": "db1a2f64-87f0-44c4-a26d-168354976c54",
+        "text": "In the $30-100 range: 4-year-old: Magna-Tiles ($40-60), Play-Doh science lab ($25). 6-8 range: LEGO Education sets ($50-80), National Geographic science kits ($30-50). 10-year-old: Raspberry Pi 4 starter kit ($80), Snap Circuits ($40-60). Have your husband set up the Raspberry Pi as a family project! Also consider subscriptions: KiwiCo crates ($25/month) deliver age-appropriate STEM projects monthly.",
+        "sender": "assistant",
+        "created_at": "2024-03-18T22:32:54Z"
+      }
+    ]
+  },
+  {
+    "uuid": "29655b75-f55b-4401-af38-9ed5ca0aa01f",
+    "name": "Pediatric patient care discussion",
+    "created_at": "2024-05-22T21:34:00Z",
+    "updated_at": "2024-05-22T21:38:37Z",
+    "chat_messages": [
+      {
+        "uuid": "7f07a636-7831-4fc6-8c34-a6e42332963d",
+        "text": "I'm a pediatrician working 4 days a week in-office. I use Epic EHR and UpToDate for clinical references. Can you help me think through best practices for managing childhood asthma in a primary care setting?",
+        "sender": "human",
+        "created_at": "2024-05-22T21:34:00Z"
+      },
+      {
+        "uuid": "e352ae98-b80b-466b-b136-6fdcd2023fcc",
+        "text": "Absolutely. For primary care asthma management: 1) Classification: use the NAEPP stepwise approach (intermittent vs persistent). 2) Action plans: every patient should have a written asthma action plan with green/yellow/red zones. 3) Monitoring: schedule follow-ups every 3-6 months for well-controlled patients. 4) Education: teach proper inhaler technique at every visit (studies show most kids use them incorrectly). 5) Epic tip: create a SmartPhrase for your asthma action plan template.",
+        "sender": "assistant",
+        "created_at": "2024-05-22T21:35:27Z"
+      },
+      {
+        "uuid": "72d4487e-8640-477e-a9bc-1bb3fdc3fdc1",
+        "text": "That's helpful. I also want to improve parent education. I use Doximity and Google Workspace for professional communication. Any tools or handouts you'd recommend?",
+        "sender": "human",
+        "created_at": "2024-05-22T21:36:16Z"
+      },
+      {
+        "uuid": "4131b5a1-ba63-46b8-bc1b-2a1441d99be0",
+        "text": "For parent education: 1) The AAP has free downloadable handouts in multiple languages. 2) Create short video demonstrations of inhaler technique (share via Doximity). 3) Use Google Docs for collaborative care plans that parents can access. 4) QR codes on printed handouts linking to educational videos. 5) Group education sessions quarterly for families of asthmatic children. This also builds your practice's community engagement.",
+        "sender": "assistant",
+        "created_at": "2024-05-22T21:37:17Z"
+      }
+    ]
+  },
+  {
+    "uuid": "1e9586b0-6602-4d73-b620-eaf21a4b1fcb",
+    "name": "Family activities in Boston",
+    "created_at": "2024-08-02T18:53:00Z",
+    "updated_at": "2024-08-02T18:58:10Z",
+    "chat_messages": [
+      {
+        "uuid": "b5a35cf5-0b74-471e-9a77-3e01d5aaf391",
+        "text": "We live in Boston and I'm looking for family-friendly activities for my 3 kids on weekends. We love science museums, outdoor activities, and anything educational. We usually fly JetBlue or Southwest for family trips and stay at Hilton or Holiday Inn.",
+        "sender": "human",
+        "created_at": "2024-08-02T18:53:00Z"
+      },
+      {
+        "uuid": "f21c196c-3e9f-4478-bce8-342c0ff7cbb3",
+        "text": "Boston is amazing for families! Top picks: 1) Museum of Science -- hours of STEM fun, the planetarium is worth the extra ticket. 2) New England Aquarium -- your kids will love the penguin exhibit. 3) Boston Children's Museum -- interactive exhibits for all ages. 4) Freedom Trail walk -- history lesson disguised as a walk. 5) Harvard Natural History Museum -- the glass flowers are incredible. Outdoor: Boston Common playground, Charles River Esplanade for biking, and the Arnold Arboretum for nature walks.",
+        "sender": "assistant",
+        "created_at": "2024-08-02T18:53:38Z"
+      },
+      {
+        "uuid": "d38f195b-ec88-4d4c-bbd0-c88305adb793",
+        "text": "We're also planning a family vacation soon. We've been thinking about Cape Cod or maybe Disney World. We usually book through VRBO and fly economy plus with aisle seats so I can manage the kids.",
+        "sender": "human",
+        "created_at": "2024-08-02T18:54:10Z"
+      },
+      {
+        "uuid": "0fd8e59a-967a-4735-8101-8a46cbca3bea",
+        "text": "Both are great! Cape Cod: rent a VRBO house in Chatham or Provincetown for a relaxed beach week. Great for younger kids -- whale watching, Pirate Museum, sand castle building. Budget-friendlier option. Disney World: plan for 4-5 days minimum with 3 kids. Stay at a value resort or VRBO near the parks. With aisle seats on JetBlue, you'll have easy bathroom access for the kids. Tip: download the Disney app in advance for Genie+ reservations.",
+        "sender": "assistant",
+        "created_at": "2024-08-02T18:55:39Z"
+      }
+    ]
+  },
+  {
+    "uuid": "cc67eaf1-00ca-4bdc-ba49-8c5d32908a8c",
+    "name": "Sleep training for toddlers",
+    "created_at": "2024-06-10T06:14:00Z",
+    "updated_at": "2024-06-10T06:19:08Z",
+    "chat_messages": [
+      {
+        "uuid": "2918d8d4-6757-4fcc-861c-8853fbd7a016",
+        "text": "My youngest is 18 months and still waking up 2-3 times a night. I wake up at 5:30am for work and I'm exhausted. I use the Calm app for my own meditation 3 times a week. As a pediatrician, I know the methods but implementing them with my own child is different!",
+        "sender": "human",
+        "created_at": "2024-06-10T06:14:00Z"
+      },
+      {
+        "uuid": "86c1ecf2-c96a-4ed6-b290-fd9533620cf5",
+        "text": "The cobbler's children have no shoes! As a pediatrician-mom, you know the evidence but it's so much harder with your own. For 18 months: 1) Consistent bedtime routine -- bath, book, song, bed (same order every night). 2) Chair method: sit in the room but don't pick up, move the chair farther away each night. 3) Make sure daytime nap is early enough (before 3pm). 4) Room environment: blackout curtains, white noise. Given your 5:30am wake-up, aim for a 7pm bedtime for the toddler.",
+        "sender": "assistant",
+        "created_at": "2024-06-10T06:14:51Z"
+      },
+      {
+        "uuid": "f23f85b9-93d5-4d71-804a-17b3609e36d4",
+        "text": "I've been trying the chair method but my husband and I aren't consistent. Any tips for getting the whole family on board?",
+        "sender": "human",
+        "created_at": "2024-06-10T06:16:18Z"
+      },
+      {
+        "uuid": "8128042b-7605-4e89-82e8-eb523b051b5a",
+        "text": "Consistency between parents is the #1 success factor! Strategy: 1) Have a family meeting where you both agree on the exact plan (write it down). 2) Take turns -- alternate nights so neither parent burns out. 3) Use the Calm app's sleep stories for the older kids' bedtime routine so they're settled before you focus on the toddler. 4) Give it 7-10 days -- most families see major improvement by then. Track progress in a simple log to stay motivated.",
+        "sender": "assistant",
+        "created_at": "2024-06-10T06:17:07Z"
+      }
+    ]
+  },
+  {
+    "uuid": "f4628025-d107-406a-93fe-2b4eecf771af",
+    "name": "Work-life balance as a doctor mom",
+    "created_at": "2024-02-16T08:02:00Z",
+    "updated_at": "2024-02-16T08:07:09Z",
+    "chat_messages": [
+      {
+        "uuid": "33ab0864-26ac-4d40-81cd-8eb4411c3073",
+        "text": "I'm a pediatrician working 4 days a week and a mom of 3. I feel like I'm constantly behind. I use Google Workspace and Alexa for family scheduling. How do I create better boundaries?",
+        "sender": "human",
+        "created_at": "2024-02-16T08:02:00Z"
+      },
+      {
+        "uuid": "42cd73ae-187b-4dac-ab88-a19d62715fcb",
+        "text": "Work-life balance for a doctor-mom requires ruthless prioritization. Framework: 1) Block your calendar: no clinic work after 5pm. Use Google Calendar for clear work/family boundaries. 2) Batch admin tasks: charting, callbacks, and emails in a dedicated block. 3) Alexa routines: set up morning and evening routines for the family. 4) Outsource what you can: meal prep services (you already use HelloFresh), cleaning service, laundry pickup.",
+        "sender": "assistant",
+        "created_at": "2024-02-16T08:02:35Z"
+      },
+      {
+        "uuid": "d18fcd6b-0a03-486b-9189-1e1437b5c4cf",
+        "text": "I also want to keep up with continuing education and maybe do some volunteer teaching at the local school. How do I fit that in?",
+        "sender": "human",
+        "created_at": "2024-02-16T08:04:17Z"
+      },
+      {
+        "uuid": "55e32349-73aa-4680-ba45-1465ddfcba3b",
+        "text": "Continuing education: use UpToDate during chart review time (it counts as learning). Listen to medical podcasts during your commute (Pediatric Insider is great). For volunteering: start with once a month at the school -- STEM activity day combining your medical knowledge with kids' education. Keep it sustainable. Your kids will see you modeling community service, which is a powerful lesson.",
+        "sender": "assistant",
+        "created_at": "2024-02-16T08:05:14Z"
+      }
+    ]
+  },
+  {
+    "uuid": "54970869-a8bb-45f1-a6cf-5e2536ac7640",
+    "name": "Quick Indian recipes for busy nights",
+    "created_at": "2024-10-14T22:29:00Z",
+    "updated_at": "2024-10-14T22:36:43Z",
+    "chat_messages": [
+      {
+        "uuid": "ed89731f-a02e-42c6-aa55-d8a12a4f48f4",
+        "text": "I love Indian food but cooking traditional recipes takes too long on weeknights. I'm vegetarian and my daughter has a peanut allergy. I batch cook on weekends but need quick options for Tuesday through Thursday. I use Instacart for grocery delivery.",
+        "sender": "human",
+        "created_at": "2024-10-14T22:29:00Z"
+      },
+      {
+        "uuid": "8f526beb-d4fe-45f4-a941-1b3d16bea244",
+        "text": "Quick Indian shortcuts for busy weeknights: 1) Pressure cooker dal -- 20 minutes from dry lentils to table. 2) Paneer tikka in the air fryer -- 15 minutes. 3) Chana masala using canned chickpeas -- 15 minutes with a good spice blend. 4) Aloo gobi shortcut: pre-cut cauliflower and potatoes from Instacart, microwave to parboil, then quick saut\u00e9 with spices. 5) Keep a jar of homemade garam masala (make a big batch on Sunday) and a rotation of pre-made chutneys.",
+        "sender": "assistant",
+        "created_at": "2024-10-14T22:30:53Z"
+      },
+      {
+        "uuid": "3eeba837-c984-4856-8e8d-a180d662bba3",
+        "text": "These are great! What about snacks for the kids that are Indian-inspired and peanut-free? I need school lunch ideas too.",
+        "sender": "human",
+        "created_at": "2024-10-14T22:32:38Z"
+      },
+      {
+        "uuid": "9e2e9b40-5841-4702-90ca-944215634a6b",
+        "text": "Peanut-free Indian snacks kids love: 1) Masala roasted chickpeas (crunchy, portable). 2) Besan (chickpea flour) pancakes -- like savory crepes. 3) Aloo tikki -- potato patties (make and freeze a batch). 4) Raita with cucumber as a dip with naan chips. 5) Mango lassi popsicles. For school lunches: mini samosas (freeze ahead), paratha wraps with paneer and veggies, rice with mild dal in a thermos. All peanut-free and kid-approved!",
+        "sender": "assistant",
+        "created_at": "2024-10-14T22:34:00Z"
+      }
+    ]
+  },
+  {
+    "uuid": "2e9db088-59ff-448f-9210-ef1202ae3850",
+    "name": "Organizing a family home",
+    "created_at": "2024-04-10T14:51:00Z",
+    "updated_at": "2024-04-10T14:54:45Z",
+    "chat_messages": [
+      {
+        "uuid": "31ab7ddd-9e80-442b-b670-294cc8f23ed1",
+        "text": "We live in a 4BR colonial house in Boston and it's chaos with 3 kids. I want to create better organization systems. We have an Alexa, Nest thermostat, and Arlo cameras. I need help with the toy situation especially.",
+        "sender": "human",
+        "created_at": "2024-04-10T14:51:00Z"
+      },
+      {
+        "uuid": "0b35fc2e-0df2-45fd-841c-ccfa944161cf",
+        "text": "Organizing a 4BR with 3 kids requires systems, not just storage! Strategy: 1) One-in-one-out rule for toys. 2) Toy rotation: store half the toys and swap monthly (kids think they're new!). 3) Zone-based organization: each room has a specific purpose. 4) Label everything -- use picture labels for younger kids. 5) Entryway landing strip: hooks for backpacks, bins for shoes, mail sorter. Use Alexa reminders for weekly family clean-up time.",
+        "sender": "assistant",
+        "created_at": "2024-04-10T14:51:38Z"
+      },
+      {
+        "uuid": "1a4de625-2731-4520-9a5e-0df9cc8a9300",
+        "text": "What about the kids' rooms? They share rooms and it's a constant battle. Our hamster Mr. Whiskers also has supplies scattered everywhere.",
+        "sender": "human",
+        "created_at": "2024-04-10T14:52:40Z"
+      },
+      {
+        "uuid": "28ba80d9-fb94-4569-b798-492cc8836cb3",
+        "text": "Shared rooms need clear boundaries! Give each child their own section with color-coded bins. Bunk beds with under-bed storage maximize floor space. For Mr. Whiskers: a dedicated hamster station with supplies in one drawer unit. Daily 5-minute tidy routine before bed -- set an Alexa timer and make it a game. For the Arlo cameras, you can check rooms remotely to see the mess situation before you even go upstairs!",
+        "sender": "assistant",
+        "created_at": "2024-04-10T14:53:31Z"
+      }
+    ]
+  },
+  {
+    "uuid": "0dd2d41b-f2c5-40fc-afcc-432fd18b3843",
+    "name": "Planning family vacation to San Diego",
+    "created_at": "2024-04-07T13:05:00Z",
+    "updated_at": "2024-04-07T13:10:57Z",
+    "chat_messages": [
+      {
+        "uuid": "5056da5b-6903-453e-bc75-4c76322cfdcc",
+        "text": "We're planning a family trip to San Diego for the zoo and beaches. Family of 5 including 3 kids ages 4, 7, and 10. We fly JetBlue or Southwest and book economy plus with aisle seats. Looking at VRBO for accommodation.",
+        "sender": "human",
+        "created_at": "2024-04-07T13:05:00Z"
+      },
+      {
+        "uuid": "44298df4-1ee0-40eb-a36f-86ccd3710e5b",
+        "text": "San Diego is perfect for your crew! Plan: 1) San Diego Zoo: get the 2-day pass, split into zones. Morning for Africa Rocks (cooler, animals are active). 2) Beaches: La Jolla Cove for tide pools (your kids will love the science aspect), Coronado Beach for building sandcastles. 3) LEGOLAND: worth a day for the 4 and 7-year-old. 4) USS Midway Museum for the 10-year-old. VRBO: look in Mission Beach or Pacific Beach area -- walking distance to the beach.",
+        "sender": "assistant",
+        "created_at": "2024-04-07T13:05:53Z"
+      },
+      {
+        "uuid": "de89cf7a-0af4-40f7-8bdd-befa45517dd0",
+        "text": "How many days should we plan for? And restaurant recommendations? We're vegetarian and my daughter has a peanut allergy. Budget for dining is around $50-80 per meal for the family.",
+        "sender": "human",
+        "created_at": "2024-04-07T13:06:38Z"
+      },
+      {
+        "uuid": "f180e25e-4cde-4d05-a96b-afa4ca975e56",
+        "text": "Plan 5-6 days to avoid rushing. Dining: 1) Kindred in South Park (great vegetarian options). 2) Plant Power Fast Food (kids love it -- vegan burgers and shakes). 3) The Taco Stand (amazing veggie tacos, affordable). 4) Cafe Gratitude (plant-based, upscale). All are peanut-aware. At $50-80/meal for 5, do restaurant lunches and cook simple dinners at your VRBO. Pack snacks for the zoo -- their food is overpriced.",
+        "sender": "assistant",
+        "created_at": "2024-04-07T13:08:33Z"
+      }
+    ]
+  },
+  {
+    "uuid": "f6e84293-fb2f-4b58-9834-ded5d906e203",
+    "name": "Book recommendations for kids",
+    "created_at": "2024-07-17T22:06:00Z",
+    "updated_at": "2024-07-17T22:10:31Z",
+    "chat_messages": [
+      {
+        "uuid": "5674cead-72c9-48e5-9f77-0802855c8a05",
+        "text": "I need book recommendations for my 3 kids (ages 4, 7, and 10). I love that reading is part of our routine. We use the library a lot and I also buy from Amazon. Ideally books that reflect diversity and STEM themes.",
+        "sender": "human",
+        "created_at": "2024-07-17T22:06:00Z"
+      },
+      {
+        "uuid": "82b7306b-f1bb-49fb-b166-34e733c3ddd0",
+        "text": "Love your reading focus! Age-appropriate picks: For the 4-year-old: 'Ada Twist, Scientist' (STEM + diversity), 'Last Stop on Market Street' (empathy), 'The Name Jar' (Korean-American identity). For the 7-year-old: 'When Stars Are Scattered' (graphic novel, refugee story), 'Amina's Voice' (Muslim-American), 'Rosie Revere, Engineer'. For the 10-year-old: 'A Wrinkle in Time', 'Front Desk' (immigrant experience), 'Hidden Figures Young Reader's Edition'.",
+        "sender": "assistant",
+        "created_at": "2024-07-17T22:06:55Z"
+      },
+      {
+        "uuid": "47eb6bcd-4f02-4e9c-a0c3-744785c83762",
+        "text": "These are wonderful. My parents are from India and I want some books that reflect our Indian heritage too. I also listen to Parenting Unplugged podcast for ideas.",
+        "sender": "human",
+        "created_at": "2024-07-17T22:07:49Z"
+      },
+      {
+        "uuid": "3743ba1f-a89c-4fe8-a630-96dfc7bf84e4",
+        "text": "Indian heritage books: For the 4-year-old: 'Binny's Diwali' and 'Chachaji's Cup' (gorgeous illustrations). For the 7-year-old: 'Maya's Song' and 'Amara's Farm' (Indian-American family stories). For the 10-year-old: 'Pashmina' (graphic novel about Indian mythology) and 'Born Behind Bars'. Also check out 'Amma Tell Me' series for Hindu mythology stories at all levels. Parenting Unplugged often recommends diverse books too!",
+        "sender": "assistant",
+        "created_at": "2024-07-17T22:08:21Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "title": "Best Pinot Noir under $50",
+    "create_time": 1728190800.0,
+    "update_time": 1728190923.0,
+    "mapping": {
+      "root_sarah_0": {
+        "id": "root_sarah_0",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_0"
+        ]
+      },
+      "sys_sarah_0": {
+        "id": "sys_sarah_0",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1728190800.0
+        },
+        "parent": "root_sarah_0",
+        "children": [
+          "user_sarah_0_0"
+        ]
+      },
+      "user_sarah_0_0": {
+        "id": "user_sarah_0_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm looking for excellent Pinot Noir bottles under $50. I love Burgundy and Barolo but those are often pricier."
+            ]
+          },
+          "create_time": 1728190800.0
+        },
+        "parent": "sys_sarah_0",
+        "children": [
+          "asst_sarah_0_0"
+        ]
+      },
+      "asst_sarah_0_0": {
+        "id": "asst_sarah_0_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Excellent taste! For Pinot Noir at that price point, there are some great options. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1728190805.0
+        },
+        "parent": "user_sarah_0_0",
+        "children": [
+          "user_sarah_0_1"
+        ]
+      },
+      "user_sarah_0_1": {
+        "id": "user_sarah_0_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm a member of Marriott Bonvoy Gold and often order wine at their restaurants. Any Napa Valley recommendations?"
+            ]
+          },
+          "create_time": 1728190856.0
+        },
+        "parent": "asst_sarah_0_0",
+        "children": [
+          "asst_sarah_0_1"
+        ]
+      },
+      "asst_sarah_0_1": {
+        "id": "asst_sarah_0_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Wine selection really comes down to personal preference, but here are some crowd-pleasers. Consider your budget and long-term goals when making your decision. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1728190868.0
+        },
+        "parent": "user_sarah_0_1",
+        "children": [
+          "user_sarah_0_2"
+        ]
+      },
+      "user_sarah_0_2": {
+        "id": "user_sarah_0_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have a small wine fridge at home and use a Coravin system for preservation."
+            ]
+          },
+          "create_time": 1728190900.0
+        },
+        "parent": "asst_sarah_0_1",
+        "children": [
+          "asst_sarah_0_2"
+        ]
+      },
+      "asst_sarah_0_2": {
+        "id": "asst_sarah_0_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Excellent taste! For Pinot Noir at that price point, there are some great options. Consider your budget and long-term goals when making your decision. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1728190910.0
+        },
+        "parent": "user_sarah_0_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Packing for business trip to Paris",
+    "create_time": 1732514400.0,
+    "update_time": 1732514507.0,
+    "mapping": {
+      "root_sarah_1": {
+        "id": "root_sarah_1",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_1"
+        ]
+      },
+      "sys_sarah_1": {
+        "id": "sys_sarah_1",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1732514400.0
+        },
+        "parent": "root_sarah_1",
+        "children": [
+          "user_sarah_1_0"
+        ]
+      },
+      "user_sarah_1_0": {
+        "id": "user_sarah_1_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Flying Delta business class to Paris next month. Need a packing list for 5 days of meetings plus 2 personal days."
+            ]
+          },
+          "create_time": 1732514400.0
+        },
+        "parent": "sys_sarah_1",
+        "children": [
+          "asst_sarah_1_0"
+        ]
+      },
+      "asst_sarah_1_0": {
+        "id": "asst_sarah_1_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Start with the essentials and build from there as you discover what works for you. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1732514407.0
+        },
+        "parent": "user_sarah_1_0",
+        "children": [
+          "user_sarah_1_1"
+        ]
+      },
+      "user_sarah_1_1": {
+        "id": "user_sarah_1_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I usually stay at the Ritz-Carlton or Four Seasons. Need outfits that work for meetings and evening dinners."
+            ]
+          },
+          "create_time": 1732514427.0
+        },
+        "parent": "asst_sarah_1_0",
+        "children": [
+          "asst_sarah_1_1"
+        ]
+      },
+      "asst_sarah_1_1": {
+        "id": "asst_sarah_1_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1732514446.0
+        },
+        "parent": "user_sarah_1_1",
+        "children": [
+          "user_sarah_1_2"
+        ]
+      },
+      "user_sarah_1_2": {
+        "id": "user_sarah_1_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have an Away carry-on and Bose noise-cancelling headphones already."
+            ]
+          },
+          "create_time": 1732514489.0
+        },
+        "parent": "asst_sarah_1_1",
+        "children": [
+          "asst_sarah_1_2"
+        ]
+      },
+      "asst_sarah_1_2": {
+        "id": "asst_sarah_1_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1732514494.0
+        },
+        "parent": "user_sarah_1_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Peloton workout plan for beginners",
+    "create_time": 1717563600.0,
+    "update_time": 1717563748.0,
+    "mapping": {
+      "root_sarah_2": {
+        "id": "root_sarah_2",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_2"
+        ]
+      },
+      "sys_sarah_2": {
+        "id": "sys_sarah_2",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717563600.0
+        },
+        "parent": "root_sarah_2",
+        "children": [
+          "user_sarah_2_0"
+        ]
+      },
+      "user_sarah_2_0": {
+        "id": "user_sarah_2_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Just got a Peloton bike. Also do pilates 2x/week and hiking on weekends. Goal is stress management not weight loss."
+            ]
+          },
+          "create_time": 1717563600.0
+        },
+        "parent": "sys_sarah_2",
+        "children": [
+          "asst_sarah_2_0"
+        ]
+      },
+      "asst_sarah_2_0": {
+        "id": "asst_sarah_2_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great that you're staying active! Here are some suggestions for your routine. Consider your budget and long-term goals when making your decision. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1717563622.0
+        },
+        "parent": "user_sarah_2_0",
+        "children": [
+          "user_sarah_2_1"
+        ]
+      },
+      "user_sarah_2_1": {
+        "id": "user_sarah_2_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I also use Apple Fitness+ for yoga. Work as VP of Marketing so my schedule is meeting-heavy."
+            ]
+          },
+          "create_time": 1717563639.0
+        },
+        "parent": "asst_sarah_2_0",
+        "children": [
+          "asst_sarah_2_1"
+        ]
+      },
+      "asst_sarah_2_1": {
+        "id": "asst_sarah_2_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great that you're staying active! Here are some suggestions for your routine. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1717563661.0
+        },
+        "parent": "user_sarah_2_1",
+        "children": [
+          "user_sarah_2_2"
+        ]
+      },
+      "user_sarah_2_2": {
+        "id": "user_sarah_2_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I work out about 4x/week. Early mornings or lunch breaks."
+            ]
+          },
+          "create_time": 1717563716.0
+        },
+        "parent": "asst_sarah_2_1",
+        "children": [
+          "asst_sarah_2_2"
+        ]
+      },
+      "asst_sarah_2_2": {
+        "id": "asst_sarah_2_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1717563738.0
+        },
+        "parent": "user_sarah_2_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Le Creuset vs Staub Dutch ovens",
+    "create_time": 1725858000.0,
+    "update_time": 1725858164.0,
+    "mapping": {
+      "root_sarah_3": {
+        "id": "root_sarah_3",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_3"
+        ]
+      },
+      "sys_sarah_3": {
+        "id": "sys_sarah_3",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1725858000.0
+        },
+        "parent": "root_sarah_3",
+        "children": [
+          "user_sarah_3_0"
+        ]
+      },
+      "user_sarah_3_0": {
+        "id": "user_sarah_3_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Deciding between Le Creuset and Staub for a Dutch oven. I already have a Breville espresso machine and love kitchen gadgets."
+            ]
+          },
+          "create_time": 1725858000.0
+        },
+        "parent": "sys_sarah_3",
+        "children": [
+          "asst_sarah_3_0"
+        ]
+      },
+      "asst_sarah_3_0": {
+        "id": "asst_sarah_3_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1725858005.0
+        },
+        "parent": "user_sarah_3_0",
+        "children": [
+          "user_sarah_3_1"
+        ]
+      },
+      "user_sarah_3_1": {
+        "id": "user_sarah_3_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I cook mostly on weekends - French and Italian cuisine. My partner and I love hosting dinner parties."
+            ]
+          },
+          "create_time": 1725858064.0
+        },
+        "parent": "asst_sarah_3_0",
+        "children": [
+          "asst_sarah_3_1"
+        ]
+      },
+      "asst_sarah_3_1": {
+        "id": "asst_sarah_3_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. Quality over quantity is usually the best strategy here. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1725858076.0
+        },
+        "parent": "user_sarah_3_1",
+        "children": [
+          "user_sarah_3_2"
+        ]
+      },
+      "user_sarah_3_2": {
+        "id": "user_sarah_3_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget isn't an issue, want the best quality. I shop at Nordstrom and Williams-Sonoma."
+            ]
+          },
+          "create_time": 1725858110.0
+        },
+        "parent": "asst_sarah_3_1",
+        "children": [
+          "asst_sarah_3_2"
+        ]
+      },
+      "asst_sarah_3_2": {
+        "id": "asst_sarah_3_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1725858130.0
+        },
+        "parent": "user_sarah_3_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Marketing automation tools 2024",
+    "create_time": 1719637200.0,
+    "update_time": 1719637347.0,
+    "mapping": {
+      "root_sarah_4": {
+        "id": "root_sarah_4",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_4"
+        ]
+      },
+      "sys_sarah_4": {
+        "id": "sys_sarah_4",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1719637200.0
+        },
+        "parent": "root_sarah_4",
+        "children": [
+          "user_sarah_4_0"
+        ]
+      },
+      "user_sarah_4_0": {
+        "id": "user_sarah_4_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Evaluating marketing automation tools for my team. Currently using HubSpot and Google Analytics."
+            ]
+          },
+          "create_time": 1719637200.0
+        },
+        "parent": "sys_sarah_4",
+        "children": [
+          "asst_sarah_4_0"
+        ]
+      },
+      "asst_sarah_4_0": {
+        "id": "asst_sarah_4_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1719637225.0
+        },
+        "parent": "user_sarah_4_0",
+        "children": [
+          "user_sarah_4_1"
+        ]
+      },
+      "user_sarah_4_1": {
+        "id": "user_sarah_4_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We use Notion for docs, Slack for communication, and Figma for creative. Need something that integrates well."
+            ]
+          },
+          "create_time": 1719637241.0
+        },
+        "parent": "asst_sarah_4_0",
+        "children": [
+          "asst_sarah_4_1"
+        ]
+      },
+      "asst_sarah_4_1": {
+        "id": "asst_sarah_4_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great approach to your portfolio. Let me share some strategies that work well for freelancers. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1719637254.0
+        },
+        "parent": "user_sarah_4_1",
+        "children": [
+          "user_sarah_4_2"
+        ]
+      },
+      "user_sarah_4_2": {
+        "id": "user_sarah_4_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My team is hybrid - in office 3 days. I'm VP of Marketing at a mid-size tech company in Chicago."
+            ]
+          },
+          "create_time": 1719637298.0
+        },
+        "parent": "asst_sarah_4_1",
+        "children": [
+          "asst_sarah_4_2"
+        ]
+      },
+      "asst_sarah_4_2": {
+        "id": "asst_sarah_4_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about marketing automation tools 2024! Here are my recommendations. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1719637313.0
+        },
+        "parent": "user_sarah_4_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best skincare routine for 40s",
+    "create_time": 1732600800.0,
+    "update_time": 1732600929.0,
+    "mapping": {
+      "root_sarah_5": {
+        "id": "root_sarah_5",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_5"
+        ]
+      },
+      "sys_sarah_5": {
+        "id": "sys_sarah_5",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1732600800.0
+        },
+        "parent": "root_sarah_5",
+        "children": [
+          "user_sarah_5_0"
+        ]
+      },
+      "user_sarah_5_0": {
+        "id": "user_sarah_5_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for an anti-aging skincare routine. Currently using La Mer moisturizer and Drunk Elephant serum."
+            ]
+          },
+          "create_time": 1732600800.0
+        },
+        "parent": "sys_sarah_5",
+        "children": [
+          "asst_sarah_5_0"
+        ]
+      },
+      "asst_sarah_5_0": {
+        "id": "asst_sarah_5_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For skincare, consistency is key. Here are some product recommendations. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1732600822.0
+        },
+        "parent": "user_sarah_5_0",
+        "children": [
+          "user_sarah_5_1"
+        ]
+      },
+      "user_sarah_5_1": {
+        "id": "user_sarah_5_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I do monthly spa visits and quarterly wellness retreats. Budget isn't a concern, want effective products."
+            ]
+          },
+          "create_time": 1732600858.0
+        },
+        "parent": "asst_sarah_5_0",
+        "children": [
+          "asst_sarah_5_1"
+        ]
+      },
+      "asst_sarah_5_1": {
+        "id": "asst_sarah_5_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Consider your budget and long-term goals when making your decision. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1732600863.0
+        },
+        "parent": "user_sarah_5_1",
+        "children": [
+          "user_sarah_5_2"
+        ]
+      },
+      "user_sarah_5_2": {
+        "id": "user_sarah_5_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I travel a lot for work - 8-10 trips per year. Need products that travel well."
+            ]
+          },
+          "create_time": 1732600898.0
+        },
+        "parent": "asst_sarah_5_1",
+        "children": [
+          "asst_sarah_5_2"
+        ]
+      },
+      "asst_sarah_5_2": {
+        "id": "asst_sarah_5_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that destination, here's an itinerary suggestion based on your travel style. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1732600907.0
+        },
+        "parent": "user_sarah_5_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Wine and cheese pairing guide",
+    "create_time": 1721451600.0,
+    "update_time": 1721451764.0,
+    "mapping": {
+      "root_sarah_6": {
+        "id": "root_sarah_6",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_6"
+        ]
+      },
+      "sys_sarah_6": {
+        "id": "sys_sarah_6",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1721451600.0
+        },
+        "parent": "root_sarah_6",
+        "children": [
+          "user_sarah_6_0"
+        ]
+      },
+      "user_sarah_6_0": {
+        "id": "user_sarah_6_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Hosting a wine and cheese party. Want to pair my favorite Pinot Noir with appropriate cheeses."
+            ]
+          },
+          "create_time": 1721451600.0
+        },
+        "parent": "sys_sarah_6",
+        "children": [
+          "asst_sarah_6_0"
+        ]
+      },
+      "asst_sarah_6_0": {
+        "id": "asst_sarah_6_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Wine selection really comes down to personal preference, but here are some crowd-pleasers. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1721451629.0
+        },
+        "parent": "user_sarah_6_0",
+        "children": [
+          "user_sarah_6_1"
+        ]
+      },
+      "user_sarah_6_1": {
+        "id": "user_sarah_6_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I usually shop at specialty stores. Have a cappuccino machine and love single-origin coffee too."
+            ]
+          },
+          "create_time": 1721451665.0
+        },
+        "parent": "asst_sarah_6_0",
+        "children": [
+          "asst_sarah_6_1"
+        ]
+      },
+      "asst_sarah_6_1": {
+        "id": "asst_sarah_6_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about wine and cheese pairing guide! Here are my recommendations. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1721451680.0
+        },
+        "parent": "user_sarah_6_1",
+        "children": [
+          "user_sarah_6_2"
+        ]
+      },
+      "user_sarah_6_2": {
+        "id": "user_sarah_6_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Expecting 12 guests. Budget $200-300 for wine and cheese."
+            ]
+          },
+          "create_time": 1721451719.0
+        },
+        "parent": "asst_sarah_6_1",
+        "children": [
+          "asst_sarah_6_2"
+        ]
+      },
+      "asst_sarah_6_2": {
+        "id": "asst_sarah_6_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Wine selection really comes down to personal preference, but here are some crowd-pleasers. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1721451744.0
+        },
+        "parent": "user_sarah_6_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Golden retriever care tips",
+    "create_time": 1718082000.0,
+    "update_time": 1718082208.0,
+    "mapping": {
+      "root_sarah_7": {
+        "id": "root_sarah_7",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_7"
+        ]
+      },
+      "sys_sarah_7": {
+        "id": "sys_sarah_7",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1718082000.0
+        },
+        "parent": "root_sarah_7",
+        "children": [
+          "user_sarah_7_0"
+        ]
+      },
+      "user_sarah_7_0": {
+        "id": "user_sarah_7_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My golden retriever Bailey needs more exercise. I hike on weekends but need ideas for weekday activity."
+            ]
+          },
+          "create_time": 1718082000.0
+        },
+        "parent": "sys_sarah_7",
+        "children": [
+          "asst_sarah_7_0"
+        ]
+      },
+      "asst_sarah_7_0": {
+        "id": "asst_sarah_7_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great that you're staying active! Here are some suggestions for your routine. Consider your budget and long-term goals when making your decision."
+            ]
+          },
+          "create_time": 1718082020.0
+        },
+        "parent": "user_sarah_7_0",
+        "children": [
+          "user_sarah_7_1"
+        ]
+      },
+      "user_sarah_7_1": {
+        "id": "user_sarah_7_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We have a 3BR condo in Chicago with Nest thermostat and Ring doorbell. No yard."
+            ]
+          },
+          "create_time": 1718082072.0
+        },
+        "parent": "asst_sarah_7_0",
+        "children": [
+          "asst_sarah_7_1"
+        ]
+      },
+      "asst_sarah_7_1": {
+        "id": "asst_sarah_7_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1718082080.0
+        },
+        "parent": "user_sarah_7_1",
+        "children": [
+          "user_sarah_7_2"
+        ]
+      },
+      "user_sarah_7_2": {
+        "id": "user_sarah_7_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Bailey is 3 years old. I want to find dog-friendly restaurants and parks."
+            ]
+          },
+          "create_time": 1718082136.0
+        },
+        "parent": "asst_sarah_7_1",
+        "children": [
+          "asst_sarah_7_2"
+        ]
+      },
+      "asst_sarah_7_2": {
+        "id": "asst_sarah_7_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1718082165.0
+        },
+        "parent": "user_sarah_7_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best business books 2024",
+    "create_time": 1721883600.0,
+    "update_time": 1721883736.0,
+    "mapping": {
+      "root_sarah_8": {
+        "id": "root_sarah_8",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_8"
+        ]
+      },
+      "sys_sarah_8": {
+        "id": "sys_sarah_8",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1721883600.0
+        },
+        "parent": "root_sarah_8",
+        "children": [
+          "user_sarah_8_0"
+        ]
+      },
+      "user_sarah_8_0": {
+        "id": "user_sarah_8_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for marketing and leadership books. I listen to How I Built This and The Daily podcasts."
+            ]
+          },
+          "create_time": 1721883600.0
+        },
+        "parent": "sys_sarah_8",
+        "children": [
+          "asst_sarah_8_0"
+        ]
+      },
+      "asst_sarah_8_0": {
+        "id": "asst_sarah_8_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. Quality over quantity is usually the best strategy here. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1721883619.0
+        },
+        "parent": "user_sarah_8_0",
+        "children": [
+          "user_sarah_8_1"
+        ]
+      },
+      "user_sarah_8_1": {
+        "id": "user_sarah_8_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm a VP of Marketing. Want books on team management, brand strategy, and data-driven marketing."
+            ]
+          },
+          "create_time": 1721883641.0
+        },
+        "parent": "asst_sarah_8_0",
+        "children": [
+          "asst_sarah_8_1"
+        ]
+      },
+      "asst_sarah_8_1": {
+        "id": "asst_sarah_8_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1721883661.0
+        },
+        "parent": "user_sarah_8_1",
+        "children": [
+          "user_sarah_8_2"
+        ]
+      },
+      "user_sarah_8_2": {
+        "id": "user_sarah_8_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use Notion to track my reading list. Prefer audiobooks for commute."
+            ]
+          },
+          "create_time": 1721883714.0
+        },
+        "parent": "asst_sarah_8_1",
+        "children": [
+          "asst_sarah_8_2"
+        ]
+      },
+      "asst_sarah_8_2": {
+        "id": "asst_sarah_8_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1721883726.0
+        },
+        "parent": "user_sarah_8_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Planning a Napa Valley weekend",
+    "create_time": 1717650000.0,
+    "update_time": 1717650219.0,
+    "mapping": {
+      "root_sarah_9": {
+        "id": "root_sarah_9",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_9"
+        ]
+      },
+      "sys_sarah_9": {
+        "id": "sys_sarah_9",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717650000.0
+        },
+        "parent": "root_sarah_9",
+        "children": [
+          "user_sarah_9_0"
+        ]
+      },
+      "user_sarah_9_0": {
+        "id": "user_sarah_9_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning a weekend getaway to Napa Valley with my partner. We love wine tasting, especially Pinot Noir."
+            ]
+          },
+          "create_time": 1717650000.0
+        },
+        "parent": "sys_sarah_9",
+        "children": [
+          "asst_sarah_9_0"
+        ]
+      },
+      "asst_sarah_9_0": {
+        "id": "asst_sarah_9_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Excellent taste! For Pinot Noir at that price point, there are some great options. Start with the essentials and build from there as you discover what works for you. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1717650022.0
+        },
+        "parent": "user_sarah_9_0",
+        "children": [
+          "user_sarah_9_1"
+        ]
+      },
+      "user_sarah_9_1": {
+        "id": "user_sarah_9_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget is luxury level. Thinking Four Seasons or similar. Delta SkyMiles Platinum member."
+            ]
+          },
+          "create_time": 1717650067.0
+        },
+        "parent": "asst_sarah_9_0",
+        "children": [
+          "asst_sarah_9_1"
+        ]
+      },
+      "asst_sarah_9_1": {
+        "id": "asst_sarah_9_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1717650096.0
+        },
+        "parent": "user_sarah_9_1",
+        "children": [
+          "user_sarah_9_2"
+        ]
+      },
+      "user_sarah_9_2": {
+        "id": "user_sarah_9_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "We're foodies - love French, Italian, Japanese omakase. Farm-to-table is ideal."
+            ]
+          },
+          "create_time": 1717650151.0
+        },
+        "parent": "asst_sarah_9_1",
+        "children": [
+          "asst_sarah_9_2"
+        ]
+      },
+      "asst_sarah_9_2": {
+        "id": "asst_sarah_9_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717650173.0
+        },
+        "parent": "user_sarah_9_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Home decor modern farmhouse style",
+    "create_time": 1724389200.0,
+    "update_time": 1724389366.0,
+    "mapping": {
+      "root_sarah_10": {
+        "id": "root_sarah_10",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_10"
+        ]
+      },
+      "sys_sarah_10": {
+        "id": "sys_sarah_10",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1724389200.0
+        },
+        "parent": "root_sarah_10",
+        "children": [
+          "user_sarah_10_0"
+        ]
+      },
+      "user_sarah_10_0": {
+        "id": "user_sarah_10_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Redecorating our Chicago condo in modern farmhouse style. Have Sonos speakers integrated throughout."
+            ]
+          },
+          "create_time": 1724389200.0
+        },
+        "parent": "sys_sarah_10",
+        "children": [
+          "asst_sarah_10_0"
+        ]
+      },
+      "asst_sarah_10_0": {
+        "id": "asst_sarah_10_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1724389209.0
+        },
+        "parent": "user_sarah_10_0",
+        "children": [
+          "user_sarah_10_1"
+        ]
+      },
+      "user_sarah_10_1": {
+        "id": "user_sarah_10_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Love Le Creuset in the kitchen. Want warm but sophisticated feel."
+            ]
+          },
+          "create_time": 1724389258.0
+        },
+        "parent": "asst_sarah_10_0",
+        "children": [
+          "asst_sarah_10_1"
+        ]
+      },
+      "asst_sarah_10_1": {
+        "id": "asst_sarah_10_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1724389275.0
+        },
+        "parent": "user_sarah_10_1",
+        "children": [
+          "user_sarah_10_2"
+        ]
+      },
+      "user_sarah_10_2": {
+        "id": "user_sarah_10_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget $5000 for living room refresh. Shop at Pottery Barn, Restoration Hardware."
+            ]
+          },
+          "create_time": 1724389308.0
+        },
+        "parent": "asst_sarah_10_1",
+        "children": [
+          "asst_sarah_10_2"
+        ]
+      },
+      "asst_sarah_10_2": {
+        "id": "asst_sarah_10_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about home decor modern farmhouse style! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1724389321.0
+        },
+        "parent": "user_sarah_10_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Luxury watch gift guide",
+    "create_time": 1724907600.0,
+    "update_time": 1724907728.0,
+    "mapping": {
+      "root_sarah_11": {
+        "id": "root_sarah_11",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_11"
+        ]
+      },
+      "sys_sarah_11": {
+        "id": "sys_sarah_11",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1724907600.0
+        },
+        "parent": "root_sarah_11",
+        "children": [
+          "user_sarah_11_0"
+        ]
+      },
+      "user_sarah_11_0": {
+        "id": "user_sarah_11_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for a luxury watch for my partner's birthday. Budget $500-2000."
+            ]
+          },
+          "create_time": 1724907600.0
+        },
+        "parent": "sys_sarah_11",
+        "children": [
+          "asst_sarah_11_0"
+        ]
+      },
+      "asst_sarah_11_0": {
+        "id": "asst_sarah_11_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about luxury watch gift guide! Here are my recommendations. Start with the essentials and build from there as you discover what works for you."
+            ]
+          },
+          "create_time": 1724907621.0
+        },
+        "parent": "user_sarah_11_0",
+        "children": [
+          "user_sarah_11_1"
+        ]
+      },
+      "user_sarah_11_1": {
+        "id": "user_sarah_11_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "He likes classic, understated style. We both appreciate quality craftsmanship."
+            ]
+          },
+          "create_time": 1724907671.0
+        },
+        "parent": "asst_sarah_11_0",
+        "children": [
+          "asst_sarah_11_1"
+        ]
+      },
+      "asst_sarah_11_1": {
+        "id": "asst_sarah_11_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1724907696.0
+        },
+        "parent": "user_sarah_11_1",
+        "children": [
+          "user_sarah_11_2"
+        ]
+      },
+      "user_sarah_11_2": {
+        "id": "user_sarah_11_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I usually shop at Nordstrom or Tory Burch for gifts."
+            ]
+          },
+          "create_time": 1724907706.0
+        },
+        "parent": "asst_sarah_11_1",
+        "children": [
+          "asst_sarah_11_2"
+        ]
+      },
+      "asst_sarah_11_2": {
+        "id": "asst_sarah_11_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Start with the essentials and build from there as you discover what works for you. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1724907716.0
+        },
+        "parent": "user_sarah_11_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Hosting the perfect dinner party",
+    "create_time": 1723006800.0,
+    "update_time": 1723006944.0,
+    "mapping": {
+      "root_sarah_12": {
+        "id": "root_sarah_12",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_12"
+        ]
+      },
+      "sys_sarah_12": {
+        "id": "sys_sarah_12",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723006800.0
+        },
+        "parent": "root_sarah_12",
+        "children": [
+          "user_sarah_12_0"
+        ]
+      },
+      "user_sarah_12_0": {
+        "id": "user_sarah_12_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Hosting 8 people for dinner. Want to do a French-Italian fusion menu. Have Le Creuset and Breville."
+            ]
+          },
+          "create_time": 1723006800.0
+        },
+        "parent": "sys_sarah_12",
+        "children": [
+          "asst_sarah_12_0"
+        ]
+      },
+      "asst_sarah_12_0": {
+        "id": "asst_sarah_12_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about hosting the perfect dinner party! Here are my recommendations. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723006822.0
+        },
+        "parent": "user_sarah_12_0",
+        "children": [
+          "user_sarah_12_1"
+        ]
+      },
+      "user_sarah_12_1": {
+        "id": "user_sarah_12_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Wine pairing with each course. I love Burgundy, Barolo, and good Champagne."
+            ]
+          },
+          "create_time": 1723006856.0
+        },
+        "parent": "asst_sarah_12_0",
+        "children": [
+          "asst_sarah_12_1"
+        ]
+      },
+      "asst_sarah_12_1": {
+        "id": "asst_sarah_12_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Wine selection really comes down to personal preference, but here are some crowd-pleasers. I'd recommend trying a few different options to see what works best for your specific situation. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1723006881.0
+        },
+        "parent": "user_sarah_12_1",
+        "children": [
+          "user_sarah_12_2"
+        ]
+      },
+      "user_sarah_12_2": {
+        "id": "user_sarah_12_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I use Uber Eats and Caviar when I don't cook, but want to impress with homemade."
+            ]
+          },
+          "create_time": 1723006897.0
+        },
+        "parent": "asst_sarah_12_1",
+        "children": [
+          "asst_sarah_12_2"
+        ]
+      },
+      "asst_sarah_12_2": {
+        "id": "asst_sarah_12_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723006922.0
+        },
+        "parent": "user_sarah_12_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Delta SkyMiles strategy",
+    "create_time": 1723957200.0,
+    "update_time": 1723957306.0,
+    "mapping": {
+      "root_sarah_13": {
+        "id": "root_sarah_13",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_13"
+        ]
+      },
+      "sys_sarah_13": {
+        "id": "sys_sarah_13",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723957200.0
+        },
+        "parent": "root_sarah_13",
+        "children": [
+          "user_sarah_13_0"
+        ]
+      },
+      "user_sarah_13_0": {
+        "id": "user_sarah_13_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm Delta SkyMiles Platinum. Flying 8-10 times/year, mostly business class to NYC, SF, and Europe."
+            ]
+          },
+          "create_time": 1723957200.0
+        },
+        "parent": "sys_sarah_13",
+        "children": [
+          "asst_sarah_13_0"
+        ]
+      },
+      "asst_sarah_13_0": {
+        "id": "asst_sarah_13_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about delta skymiles strategy! Here are my recommendations. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723957205.0
+        },
+        "parent": "user_sarah_13_0",
+        "children": [
+          "user_sarah_13_1"
+        ]
+      },
+      "user_sarah_13_1": {
+        "id": "user_sarah_13_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Paired with Marriott Bonvoy Gold. How do I maximize points for a trip to Tuscany?"
+            ]
+          },
+          "create_time": 1723957242.0
+        },
+        "parent": "asst_sarah_13_0",
+        "children": [
+          "asst_sarah_13_1"
+        ]
+      },
+      "asst_sarah_13_1": {
+        "id": "asst_sarah_13_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great choice for a trip! Let me help you plan the details. Start with the essentials and build from there as you discover what works for you."
+            ]
+          },
+          "create_time": 1723957260.0
+        },
+        "parent": "user_sarah_13_1",
+        "children": [
+          "user_sarah_13_2"
+        ]
+      },
+      "user_sarah_13_2": {
+        "id": "user_sarah_13_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I prefer aisle seats and always use the Delta Sky Club."
+            ]
+          },
+          "create_time": 1723957275.0
+        },
+        "parent": "asst_sarah_13_1",
+        "children": [
+          "asst_sarah_13_2"
+        ]
+      },
+      "asst_sarah_13_2": {
+        "id": "asst_sarah_13_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about delta skymiles strategy! Here are my recommendations. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1723957289.0
+        },
+        "parent": "user_sarah_13_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Pilates studio recommendations Chicago",
+    "create_time": 1731218400.0,
+    "update_time": 1731218603.0,
+    "mapping": {
+      "root_sarah_14": {
+        "id": "root_sarah_14",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_14"
+        ]
+      },
+      "sys_sarah_14": {
+        "id": "sys_sarah_14",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1731218400.0
+        },
+        "parent": "root_sarah_14",
+        "children": [
+          "user_sarah_14_0"
+        ]
+      },
+      "user_sarah_14_0": {
+        "id": "user_sarah_14_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for a good pilates studio in Chicago. I also have a Peloton at home and use Apple Fitness+."
+            ]
+          },
+          "create_time": 1731218400.0
+        },
+        "parent": "sys_sarah_14",
+        "children": [
+          "asst_sarah_14_0"
+        ]
+      },
+      "asst_sarah_14_0": {
+        "id": "asst_sarah_14_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great that you're staying active! Here are some suggestions for your routine. Start with the essentials and build from there as you discover what works for you."
+            ]
+          },
+          "create_time": 1731218419.0
+        },
+        "parent": "user_sarah_14_0",
+        "children": [
+          "user_sarah_14_1"
+        ]
+      },
+      "user_sarah_14_1": {
+        "id": "user_sarah_14_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I work out 4x/week. Goal is stress management and flexibility."
+            ]
+          },
+          "create_time": 1731218472.0
+        },
+        "parent": "asst_sarah_14_0",
+        "children": [
+          "asst_sarah_14_1"
+        ]
+      },
+      "asst_sarah_14_1": {
+        "id": "asst_sarah_14_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about pilates studio recommendations chicago! Here are my recommendations. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1731218484.0
+        },
+        "parent": "user_sarah_14_1",
+        "children": [
+          "user_sarah_14_2"
+        ]
+      },
+      "user_sarah_14_2": {
+        "id": "user_sarah_14_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget isn't an issue. Want quality instruction."
+            ]
+          },
+          "create_time": 1731218518.0
+        },
+        "parent": "asst_sarah_14_1",
+        "children": [
+          "asst_sarah_14_2"
+        ]
+      },
+      "asst_sarah_14_2": {
+        "id": "asst_sarah_14_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about pilates studio recommendations chicago! Here are my recommendations. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1731218547.0
+        },
+        "parent": "user_sarah_14_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Italian cooking masterclass",
+    "create_time": 1728622800.0,
+    "update_time": 1728622910.0,
+    "mapping": {
+      "root_sarah_15": {
+        "id": "root_sarah_15",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_15"
+        ]
+      },
+      "sys_sarah_15": {
+        "id": "sys_sarah_15",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1728622800.0
+        },
+        "parent": "root_sarah_15",
+        "children": [
+          "user_sarah_15_0"
+        ]
+      },
+      "user_sarah_15_0": {
+        "id": "user_sarah_15_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to improve my Italian cooking. Love making fresh pasta and risotto."
+            ]
+          },
+          "create_time": 1728622800.0
+        },
+        "parent": "sys_sarah_15",
+        "children": [
+          "asst_sarah_15_0"
+        ]
+      },
+      "asst_sarah_15_0": {
+        "id": "asst_sarah_15_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. Quality over quantity is usually the best strategy here. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1728622820.0
+        },
+        "parent": "user_sarah_15_0",
+        "children": [
+          "user_sarah_15_1"
+        ]
+      },
+      "user_sarah_15_1": {
+        "id": "user_sarah_15_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have a Le Creuset Dutch oven and all the kitchen gadgets. Cook mostly on weekends."
+            ]
+          },
+          "create_time": 1728622833.0
+        },
+        "parent": "asst_sarah_15_0",
+        "children": [
+          "asst_sarah_15_1"
+        ]
+      },
+      "asst_sarah_15_1": {
+        "id": "asst_sarah_15_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. Quality over quantity is usually the best strategy here. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1728622856.0
+        },
+        "parent": "user_sarah_15_1",
+        "children": [
+          "user_sarah_15_2"
+        ]
+      },
+      "user_sarah_15_2": {
+        "id": "user_sarah_15_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Favorite Italian wines are Barolo and Brunello. Want to pair with my cooking."
+            ]
+          },
+          "create_time": 1728622884.0
+        },
+        "parent": "asst_sarah_15_1",
+        "children": [
+          "asst_sarah_15_2"
+        ]
+      },
+      "asst_sarah_15_2": {
+        "id": "asst_sarah_15_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For meal planning, I'd recommend batch cooking a few base components you can mix and match. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1728622889.0
+        },
+        "parent": "user_sarah_15_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Travel capsule wardrobe",
+    "create_time": 1730872800.0,
+    "update_time": 1730872896.0,
+    "mapping": {
+      "root_sarah_16": {
+        "id": "root_sarah_16",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_16"
+        ]
+      },
+      "sys_sarah_16": {
+        "id": "sys_sarah_16",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1730872800.0
+        },
+        "parent": "root_sarah_16",
+        "children": [
+          "user_sarah_16_0"
+        ]
+      },
+      "user_sarah_16_0": {
+        "id": "user_sarah_16_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need a travel capsule wardrobe for business trips. I fly 8-10x/year."
+            ]
+          },
+          "create_time": 1730872800.0
+        },
+        "parent": "sys_sarah_16",
+        "children": [
+          "asst_sarah_16_0"
+        ]
+      },
+      "asst_sarah_16_0": {
+        "id": "asst_sarah_16_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that destination, here's an itinerary suggestion based on your travel style. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1730872819.0
+        },
+        "parent": "user_sarah_16_0",
+        "children": [
+          "user_sarah_16_1"
+        ]
+      },
+      "user_sarah_16_1": {
+        "id": "user_sarah_16_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Brands I love: Theory, Reformation, Tory Burch. Need versatile pieces."
+            ]
+          },
+          "create_time": 1730872836.0
+        },
+        "parent": "asst_sarah_16_0",
+        "children": [
+          "asst_sarah_16_1"
+        ]
+      },
+      "asst_sarah_16_1": {
+        "id": "asst_sarah_16_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about travel capsule wardrobe! Here are my recommendations. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1730872857.0
+        },
+        "parent": "user_sarah_16_1",
+        "children": [
+          "user_sarah_16_2"
+        ]
+      },
+      "user_sarah_16_2": {
+        "id": "user_sarah_16_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Shirt size S, shoe size 8. Style is polished professional."
+            ]
+          },
+          "create_time": 1730872872.0
+        },
+        "parent": "asst_sarah_16_1",
+        "children": [
+          "asst_sarah_16_2"
+        ]
+      },
+      "asst_sarah_16_2": {
+        "id": "asst_sarah_16_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question! For trail running, shoe choice really depends on the terrain and distance. I'd recommend trying a few different options to see what works best for your specific situation. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1730872878.0
+        },
+        "parent": "user_sarah_16_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best podcasts for business leaders",
+    "create_time": 1720069200.0,
+    "update_time": 1720069300.0,
+    "mapping": {
+      "root_sarah_17": {
+        "id": "root_sarah_17",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_17"
+        ]
+      },
+      "sys_sarah_17": {
+        "id": "sys_sarah_17",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1720069200.0
+        },
+        "parent": "root_sarah_17",
+        "children": [
+          "user_sarah_17_0"
+        ]
+      },
+      "user_sarah_17_0": {
+        "id": "user_sarah_17_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for more podcasts. I listen to How I Built This and The Daily."
+            ]
+          },
+          "create_time": 1720069200.0
+        },
+        "parent": "sys_sarah_17",
+        "children": [
+          "asst_sarah_17_0"
+        ]
+      },
+      "asst_sarah_17_0": {
+        "id": "asst_sarah_17_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. I'd recommend trying a few different options to see what works best for your specific situation. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1720069213.0
+        },
+        "parent": "user_sarah_17_0",
+        "children": [
+          "user_sarah_17_1"
+        ]
+      },
+      "user_sarah_17_1": {
+        "id": "user_sarah_17_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want marketing, leadership, and culture focused content. Listen during Peloton rides."
+            ]
+          },
+          "create_time": 1720069244.0
+        },
+        "parent": "asst_sarah_17_0",
+        "children": [
+          "asst_sarah_17_1"
+        ]
+      },
+      "asst_sarah_17_1": {
+        "id": "asst_sarah_17_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your fitness goals, here's a balanced approach that should work well. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1720069250.0
+        },
+        "parent": "user_sarah_17_1",
+        "children": [
+          "user_sarah_17_2"
+        ]
+      },
+      "user_sarah_17_2": {
+        "id": "user_sarah_17_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm VP of Marketing at a tech company. Need practical, not theoretical."
+            ]
+          },
+          "create_time": 1720069261.0
+        },
+        "parent": "asst_sarah_17_1",
+        "children": [
+          "asst_sarah_17_2"
+        ]
+      },
+      "asst_sarah_17_2": {
+        "id": "asst_sarah_17_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1720069289.0
+        },
+        "parent": "user_sarah_17_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Coffee subscription recommendations",
+    "create_time": 1717995600.0,
+    "update_time": 1717995761.0,
+    "mapping": {
+      "root_sarah_18": {
+        "id": "root_sarah_18",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_18"
+        ]
+      },
+      "sys_sarah_18": {
+        "id": "sys_sarah_18",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717995600.0
+        },
+        "parent": "root_sarah_18",
+        "children": [
+          "user_sarah_18_0"
+        ]
+      },
+      "user_sarah_18_0": {
+        "id": "user_sarah_18_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for a premium coffee subscription. I have a Breville espresso machine for cappuccinos."
+            ]
+          },
+          "create_time": 1717995600.0
+        },
+        "parent": "sys_sarah_18",
+        "children": [
+          "asst_sarah_18_0"
+        ]
+      },
+      "asst_sarah_18_0": {
+        "id": "asst_sarah_18_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about coffee subscription recommendations! Here are my recommendations. Start with the essentials and build from there as you discover what works for you. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717995610.0
+        },
+        "parent": "user_sarah_18_0",
+        "children": [
+          "user_sarah_18_1"
+        ]
+      },
+      "user_sarah_18_1": {
+        "id": "user_sarah_18_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Love single-origin beans. Currently buying from local Chicago roasters."
+            ]
+          },
+          "create_time": 1717995649.0
+        },
+        "parent": "asst_sarah_18_0",
+        "children": [
+          "asst_sarah_18_1"
+        ]
+      },
+      "asst_sarah_18_1": {
+        "id": "asst_sarah_18_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Consider your budget and long-term goals when making your decision. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1717995671.0
+        },
+        "parent": "user_sarah_18_1",
+        "children": [
+          "user_sarah_18_2"
+        ]
+      },
+      "user_sarah_18_2": {
+        "id": "user_sarah_18_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also enjoy visiting coffee shops when traveling - always search for the best cappuccino."
+            ]
+          },
+          "create_time": 1717995704.0
+        },
+        "parent": "asst_sarah_18_1",
+        "children": [
+          "asst_sarah_18_2"
+        ]
+      },
+      "asst_sarah_18_2": {
+        "id": "asst_sarah_18_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that destination, here's an itinerary suggestion based on your travel style. Consider your budget and long-term goals when making your decision. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1717995720.0
+        },
+        "parent": "user_sarah_18_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Aspen winter vacation planning",
+    "create_time": 1717995600.0,
+    "update_time": 1717995774.0,
+    "mapping": {
+      "root_sarah_19": {
+        "id": "root_sarah_19",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_19"
+        ]
+      },
+      "sys_sarah_19": {
+        "id": "sys_sarah_19",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717995600.0
+        },
+        "parent": "root_sarah_19",
+        "children": [
+          "user_sarah_19_0"
+        ]
+      },
+      "user_sarah_19_0": {
+        "id": "user_sarah_19_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning a ski trip to Aspen. Want luxury accommodation, great restaurants, and spa."
+            ]
+          },
+          "create_time": 1717995600.0
+        },
+        "parent": "sys_sarah_19",
+        "children": [
+          "asst_sarah_19_0"
+        ]
+      },
+      "asst_sarah_19_0": {
+        "id": "asst_sarah_19_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great choice for a trip! Let me help you plan the details. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717995606.0
+        },
+        "parent": "user_sarah_19_0",
+        "children": [
+          "user_sarah_19_1"
+        ]
+      },
+      "user_sarah_19_1": {
+        "id": "user_sarah_19_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Flying Delta, Marriott Bonvoy member. Budget luxury level."
+            ]
+          },
+          "create_time": 1717995660.0
+        },
+        "parent": "asst_sarah_19_0",
+        "children": [
+          "asst_sarah_19_1"
+        ]
+      },
+      "asst_sarah_19_1": {
+        "id": "asst_sarah_19_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Many enthusiasts in your situation have found great results with this approach. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1717995676.0
+        },
+        "parent": "user_sarah_19_1",
+        "children": [
+          "user_sarah_19_2"
+        ]
+      },
+      "user_sarah_19_2": {
+        "id": "user_sarah_19_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I do Peloton and pilates but haven't skied in years. Need a refresher lesson."
+            ]
+          },
+          "create_time": 1717995733.0
+        },
+        "parent": "asst_sarah_19_1",
+        "children": [
+          "asst_sarah_19_2"
+        ]
+      },
+      "asst_sarah_19_2": {
+        "id": "asst_sarah_19_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. I'd recommend trying a few different options to see what works best for your specific situation. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1717995755.0
+        },
+        "parent": "user_sarah_19_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "How to start sourdough baking",
+    "create_time": 1724043600.0,
+    "update_time": 1724043719.0,
+    "mapping": {
+      "root_sarah_20": {
+        "id": "root_sarah_20",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_sarah_20"
+        ]
+      },
+      "sys_sarah_20": {
+        "id": "sys_sarah_20",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1724043600.0
+        },
+        "parent": "root_sarah_20",
+        "children": [
+          "user_sarah_20_0"
+        ]
+      },
+      "user_sarah_20_0": {
+        "id": "user_sarah_20_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I usually cook Mexican and Japanese food at home but want to try baking sourdough bread from scratch. Where do I start?"
+            ]
+          },
+          "create_time": 1724043600.0
+        },
+        "parent": "sys_sarah_20",
+        "children": [
+          "asst_sarah_20_0"
+        ]
+      },
+      "asst_sarah_20_0": {
+        "id": "asst_sarah_20_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great that you're branching out from your usual cooking! Sourdough is a rewarding but patient process. Here's a beginner-friendly roadmap to get you started with your first loaf."
+            ]
+          },
+          "create_time": 1724043610.0
+        },
+        "parent": "user_sarah_20_0",
+        "children": [
+          "user_sarah_20_1"
+        ]
+      },
+      "user_sarah_20_1": {
+        "id": "user_sarah_20_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have a Le Creuset Dutch oven - can I use that? Also any flour recommendations?"
+            ]
+          },
+          "create_time": 1724043640.0
+        },
+        "parent": "asst_sarah_20_0",
+        "children": [
+          "asst_sarah_20_1"
+        ]
+      },
+      "asst_sarah_20_1": {
+        "id": "asst_sarah_20_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "A Le Creuset Dutch oven is actually perfect for sourdough! The heavy lid traps steam which creates that beautiful crust. For flour, King Arthur bread flour is a great starting point."
+            ]
+          },
+          "create_time": 1724043660.0
+        },
+        "parent": "user_sarah_20_1",
+        "children": [
+          "user_sarah_20_2"
+        ]
+      },
+      "user_sarah_20_2": {
+        "id": "user_sarah_20_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Perfect. Once I get the hang of it I want to try Japanese milk bread and Mexican conchas too."
+            ]
+          },
+          "create_time": 1724043690.0
+        },
+        "parent": "asst_sarah_20_1",
+        "children": [
+          "asst_sarah_20_2"
+        ]
+      },
+      "asst_sarah_20_2": {
+        "id": "asst_sarah_20_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Those are ambitious goals! Japanese milk bread uses a tangzhong roux for that pillowy texture, and conchas have that distinctive cookie-shell topping. Master the sourdough basics first and those will come naturally."
+            ]
+          },
+          "create_time": 1724043710.0
+        },
+        "parent": "user_sarah_20_2",
+        "children": []
+      }
+    }
+  }
+]

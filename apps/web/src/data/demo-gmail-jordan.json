@@ -1,0 +1,1302 @@
+[
+  {
+    "from": "reservations@airbnb.com",
+    "subject": "Hotel Booking Confirmed: Airbnb - Mexico City",
+    "body": "Booking Confirmed at Airbnb near Mexico City! Confirmation: HTL-265613. Check-in: November 22, 2024, Check-out: November 28, 2024 (6 nights). Rate: $441.83/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_233",
+    "threadId": "thread_233",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-02T09:28:00Z"
+  },
+  {
+    "from": "orders@doordash.com",
+    "subject": "Your DoorDash order from Tex-Mex Express is on its way!",
+    "body": "Your DoorDash order from Tex-Mex Express is confirmed! Order: Fish Tacos, Churros. Total: $63.92 (incl. delivery and tip). Estimated delivery: 39 minutes to Austin, TX. Enjoy your meal, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_256",
+    "threadId": "thread_256",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-02T12:21:00Z"
+  },
+  {
+    "from": "emily.zhang@company.com",
+    "subject": "Meeting: brand guidelines discussion - November 16",
+    "body": "Emily Zhang has invited you to: brand guidelines discussion. When: Saturday, November 16 at 03:01 PM. Duration: 60 minutes. Video call via Zoom. Attendees: Jordan Rivera, Emily Zhang, and 5 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_292",
+    "threadId": "thread_292",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-03T03:16:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Berlin from $490!",
+    "body": "Hi Jordan, we found a great deal to Berlin! Round-trip flights + hotel from $489.74. Based on your travel history, we think you'd love this trip. Book by August 20 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_228",
+    "threadId": "thread_228",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-19T02:17:00Z"
+  },
+  {
+    "from": "promo@thriftup.com",
+    "subject": "30% off art prints at ThriftUp - just for you!",
+    "body": "Hi Jordan,\n\nExclusive offer just for you! Get 30% off art prints at ThriftUp. Use code THRI30 at checkout. This offer is valid through September 06, 2024. Based on your interest in art prints, we think you'll love our latest collection. Shop now at thriftup.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_218",
+    "threadId": "thread_218",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-20T10:38:00Z"
+  },
+  {
+    "from": "reviews@depop.com",
+    "subject": "How's your vintage clothing? Leave a review!",
+    "body": "Hi Jordan, how are you enjoying your vintage clothing from Depop? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Austin make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_203",
+    "threadId": "thread_203",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-20T21:59:00Z"
+  },
+  {
+    "from": "shipping@etsy.com",
+    "subject": "Your Etsy order has shipped! #ETS-62855",
+    "body": "Great news, Jordan! Your order of vinyl records from Etsy has shipped via FedEx. Tracking number: 060983584168784991. Order #ETS-62855 is on its way to Austin, TX. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_215",
+    "threadId": "thread_215",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-21T16:47:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Berlin from $890!",
+    "body": "Hi Jordan, we found a great deal to Berlin! Round-trip flights + hotel from $889.93. Based on your travel history, we think you'd love this trip. Book by October 11 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_226",
+    "threadId": "thread_226",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-22T19:18:00Z"
+  },
+  {
+    "from": "receipts@airbnb.com",
+    "subject": "Receipt: Your stay at Airbnb - Marfa TX",
+    "body": "Thank you for staying at Airbnb in Marfa TX! Guest: Jordan Rivera. Stay: 5 nights at $366.78/night. Total (incl. tax): $2053.97. We hope you enjoyed your trip to Marfa TX. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_238",
+    "threadId": "thread_238",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-27T00:05:00Z"
+  },
+  {
+    "from": "billing@austinutilities.com",
+    "subject": "Electric Bill: $183.17 Due",
+    "body": "Your electric bill for this month is $183.17. Due date: June 26, 2024. Service address: Austin, TX. Set up autopay to never miss a payment.",
+    "labels": [
+      "finance",
+      "inbox"
+    ],
+    "id": "email_300",
+    "threadId": "thread_300",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-27T09:26:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Bibimbap Bowl for 4",
+    "body": "Reservation confirmed at Bibimbap Bowl! Date: Sunday, November 17 at 05:08 PM. Party size: 4. Cuisine: Korean. Location: Austin, TX. Please arrive 10 minutes early. See you then, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_255",
+    "threadId": "thread_255",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-28T04:19:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Design Trends",
+    "body": "Your daily digest: Top stories in design trends. 3 articles curated for you based on your reading habits. Plus: local news from Austin, TX. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_268",
+    "threadId": "thread_268",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-06-30T18:12:00Z"
+  },
+  {
+    "from": "bookings@southwest.com",
+    "subject": "Flight Confirmed: Southwest SO337 to Joshua Tree",
+    "body": "Flight confirmation: Southwest SO337 to Joshua Tree, window seat 22A, economy. Departure: December 07, 2024 at 11:54 PM from Austin. Confirmation code: FLT-283568. Total fare: $852.50. Check in opens 24 hours before departure. Passenger: Jordan Rivera.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_235",
+    "threadId": "thread_235",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-07-04T02:11:00Z"
+  },
+  {
+    "from": "orders@grubhub.com",
+    "subject": "Your Grubhub order from Tex-Mex Express is on its way!",
+    "body": "Your Grubhub order from Tex-Mex Express is confirmed! Order: Churros, Queso Fundido. Total: $26.72 (incl. delivery and tip). Estimated delivery: 31 minutes to Austin, TX. Enjoy your meal, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_260",
+    "threadId": "thread_260",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-07-05T09:20:00Z"
+  },
+  {
+    "from": "reservations@airbnb.com",
+    "subject": "Hotel Booking Confirmed: Airbnb - New Orleans",
+    "body": "Booking Confirmed at Airbnb near New Orleans! Confirmation: HTL-384303. Check-in: December 09, 2024, Check-out: December 12, 2024 (3 nights). Rate: $386.34/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_229",
+    "threadId": "thread_229",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-07-10T12:45:00Z"
+  },
+  {
+    "from": "shipping@thriftup.com",
+    "subject": "Your ThriftUp order has shipped! #THR-91016",
+    "body": "Great news, Jordan! Your order of plant accessories from ThriftUp has shipped via USPS. Tracking number: 078447364710276773. Order #THR-91016 is on its way to Austin, TX. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_210",
+    "threadId": "thread_210",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-07-12T18:15:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Tex-Mex Express for 6",
+    "body": "Reservation confirmed at Tex-Mex Express! Date: Monday, October 28 at 03:05 PM. Party size: 6. Cuisine: Tex-Mex. Location: Austin, TX. Please arrive 10 minutes early. See you then, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_249",
+    "threadId": "thread_249",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-07-13T13:17:00Z"
+  },
+  {
+    "from": "updates@youtubepremium.com",
+    "subject": "New This Week on YouTube Premium",
+    "body": "New on YouTube Premium this week: true crime series, limited series. We picked these based on your viewing history, Jordan. Start watching now on YouTube Premium.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_272",
+    "threadId": "thread_272",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-07-24T14:51:00Z"
+  },
+  {
+    "from": "emily.zhang@company.com",
+    "subject": "Meeting: portfolio review - October 16",
+    "body": "Emily Zhang has invited you to: portfolio review. When: Wednesday, October 16 at 09:01 AM. Duration: 60 minutes. Video call via Zoom. Attendees: Jordan Rivera, Emily Zhang, and 4 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_293",
+    "threadId": "thread_293",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-07-27T16:47:00Z"
+  },
+  {
+    "from": "episodes@designmatters.com",
+    "subject": "New Episode: Design Matters - building resilient teams",
+    "body": "New episode of Design Matters: \"building resilient teams\". Duration: 77 minutes. Listen now in your podcast app. Jordan, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_266",
+    "threadId": "thread_266",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-02T10:24:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Bibimbap Bowl for 2",
+    "body": "Reservation confirmed at Bibimbap Bowl! Date: Friday, July 26 at 06:04 PM. Party size: 2. Cuisine: Korean. Location: Austin, TX. Please arrive 10 minutes early. See you then, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_252",
+    "threadId": "thread_252",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-04T07:46:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Korean Recipes You'll Love",
+    "body": "This week's top Korean recipes (pescatarian)! Featured: 5-ingredient korean bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for Austin area. Your personalized meal plan is ready based on your pescatarian preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_247",
+    "threadId": "thread_247",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-08T09:17:00Z"
+  },
+  {
+    "from": "delivery@thriftup.com",
+    "subject": "Delivered: Your ThriftUp order #THR-75911",
+    "body": "Your ThriftUp package has been delivered! Order #THR-75911 containing plant accessories was delivered to your address in Austin, TX today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your plant accessories!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_202",
+    "threadId": "thread_202",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-09T01:59:00Z"
+  },
+  {
+    "from": "episodes@designmatters.com",
+    "subject": "New Episode: Design Matters - the psychology of creativity",
+    "body": "New episode of Design Matters: \"the psychology of creativity\". Duration: 79 minutes. Listen now in your podcast app. Jordan, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_267",
+    "threadId": "thread_267",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-11T12:23:00Z"
+  },
+  {
+    "from": "promo@etsy.com",
+    "subject": "15% off art prints at Etsy - just for you!",
+    "body": "Hi Jordan,\n\nExclusive offer just for you! Get 15% off art prints at Etsy. Use code ETSY15 at checkout. This offer is valid through September 05, 2024. Based on your interest in vinyl records, we think you'll love our latest collection. Shop now at etsy.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_204",
+    "threadId": "thread_204",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-11T17:36:00Z"
+  },
+  {
+    "from": "reservations@hostels.com",
+    "subject": "Hotel Booking Confirmed: hostels - Mexico City",
+    "body": "Booking Confirmed at hostels near Mexico City! Confirmation: HTL-445637. Check-in: August 06, 2024, Check-out: August 11, 2024 (5 nights). Rate: $358.89/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_242",
+    "threadId": "thread_242",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-14T13:24:00Z"
+  },
+  {
+    "from": "episodes@designmatters.com",
+    "subject": "New Episode: Design Matters - the science of sleep",
+    "body": "New episode of Design Matters: \"the science of sleep\". Duration: 43 minutes. Listen now in your podcast app. Jordan, based on your interests, you might also enjoy this week's bonus content.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_273",
+    "threadId": "thread_273",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-14T22:04:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Dental Cleaning - September 08",
+    "body": "Reminder: Your dental cleaning is scheduled for Sunday, September 08 at 07:16 AM. Location: Austin Medical Center. Patient: Jordan Rivera. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_276",
+    "threadId": "thread_276",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-17T07:16:00Z"
+  },
+  {
+    "from": "delivery@etsy.com",
+    "subject": "Delivered: Your Etsy order #ETS-93238",
+    "body": "Your Etsy package has been delivered! Order #ETS-93238 containing art prints was delivered to your address in Austin, TX today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your art prints!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_206",
+    "threadId": "thread_206",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-20T00:13:00Z"
+  },
+  {
+    "from": "bookings@spirit.com",
+    "subject": "Flight Confirmed: Spirit SP627 to Marfa TX",
+    "body": "Flight confirmation: Spirit SP627 to Marfa TX, window seat 15A, economy. Departure: June 23, 2024 at 12:42 PM from Austin. Confirmation code: FLT-247442. Total fare: $221.54. Check in opens 24 hours before departure. Passenger: Jordan Rivera.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_241",
+    "threadId": "thread_241",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-23T12:00:00Z"
+  },
+  {
+    "from": "tom.a@company.com",
+    "subject": "Meeting: project kickoff - June 18",
+    "body": "Tom Anderson has invited you to: project kickoff. When: Tuesday, June 18 at 10:09 PM. Duration: 30 minutes. Video call via Zoom. Attendees: Jordan Rivera, Tom Anderson, and 5 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_291",
+    "threadId": "thread_291",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-24T13:06:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Lone Star Grill for 4",
+    "body": "Reservation confirmed at Lone Star Grill! Date: Thursday, September 26 at 11:09 AM. Party size: 4. Cuisine: Tex-Mex. Location: Austin, TX. Please arrive 10 minutes early. See you then, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_258",
+    "threadId": "thread_258",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-24T14:21:00Z"
+  },
+  {
+    "from": "notifications@linkedin.com",
+    "subject": "[LinkedIn] New activity on your profile",
+    "body": "Someone commented on your post on LinkedIn. Check your LinkedIn profile for the latest updates. You have 10 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_299",
+    "threadId": "thread_299",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-28T00:30:00Z"
+  },
+  {
+    "from": "orders@depop.com",
+    "subject": "Order Confirmed: plant accessories from Depop #DEP-58915",
+    "body": "Hi Jordan,\n\nYour order #DEP-58915 has been confirmed! You ordered: plant accessories (Size S) from Depop for $283.34. Estimated delivery: October 25, 2024. Shipping to Austin, TX. Thank you for shopping with Depop!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_216",
+    "threadId": "thread_216",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-28T01:06:00Z"
+  },
+  {
+    "from": "bookings@spirit.com",
+    "subject": "Flight Confirmed: Spirit SP297 to New Orleans",
+    "body": "Flight confirmation: Spirit SP297 to New Orleans, window seat 30A, economy. Departure: June 29, 2024 at 10:10 AM from Austin. Confirmation code: FLT-779776. Total fare: $698.34. Check in opens 24 hours before departure. Passenger: Jordan Rivera.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_239",
+    "threadId": "thread_239",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-30T17:05:00Z"
+  },
+  {
+    "from": "promo@depop.com",
+    "subject": "15% off vintage clothing at Depop - just for you!",
+    "body": "Hi Jordan,\n\nExclusive offer just for you! Get 15% off vintage clothing at Depop. Use code DEPO15 at checkout. This offer is valid through October 05, 2024. Based on your interest in art prints, we think you'll love our latest collection. Shop now at depop.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_223",
+    "threadId": "thread_223",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-08-31T17:24:00Z"
+  },
+  {
+    "from": "receipts@hostels.com",
+    "subject": "Receipt: Your stay at hostels - Berlin",
+    "body": "Thank you for staying at hostels in Berlin! Guest: Jordan Rivera. Stay: 2 nights at $130.06/night. Total (incl. tax): $291.33. We hope you enjoyed your trip to Berlin. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_232",
+    "threadId": "thread_232",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-01T03:05:00Z"
+  },
+  {
+    "from": "reservations@airbnb.com",
+    "subject": "Hotel Booking Confirmed: Airbnb - Marfa TX",
+    "body": "Booking Confirmed at Airbnb near Marfa TX! Confirmation: HTL-777273. Check-in: November 14, 2024, Check-out: November 18, 2024 (4 nights). Rate: $198.83/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_234",
+    "threadId": "thread_234",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-01T08:06:00Z"
+  },
+  {
+    "from": "reports@applehealth.com",
+    "subject": "Weekly Health Report: 66,386 steps",
+    "body": "Your weekly health summary, Jordan: Steps this week: 66,386. Average sleep: 8.3 hours/night. Active days: 7/7. Your most active day was Saturday. Goal progress (flexibility and fun): on track!",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_283",
+    "threadId": "thread_283",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-01T22:57:00Z"
+  },
+  {
+    "from": "delivery@doordash.com",
+    "subject": "Grocery delivery scheduled - 12 items",
+    "body": "Your grocery delivery is scheduled! Items: tofu, chickpeas, fresh berries, sweet potatoes, oat milk and 8 more items. Total: $102.14. Delivery window: 9am-11am to Austin, TX.",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_246",
+    "threadId": "thread_246",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-06T05:08:00Z"
+  },
+  {
+    "from": "orders@dr.martens.com",
+    "subject": "Order Confirmed: vinyl records from Dr. Martens #DR.-83874",
+    "body": "Hi Jordan,\n\nYour order #DR.-83874 has been confirmed! You ordered: vinyl records (Size 30) from Dr. Martens for $38.39. Estimated delivery: June 28, 2024. Shipping to Austin, TX. Thank you for shopping with Dr. Martens!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_209",
+    "threadId": "thread_209",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-10T02:19:00Z"
+  },
+  {
+    "from": "reviews@dr.martens.com",
+    "subject": "How's your art prints? Leave a review!",
+    "body": "Hi Jordan, how are you enjoying your art prints from Dr. Martens? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Austin make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_220",
+    "threadId": "thread_220",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-10T10:01:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Typography",
+    "body": "Your daily digest: Top stories in typography. 3 articles curated for you based on your reading habits. Plus: local news from Austin, TX. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_263",
+    "threadId": "thread_263",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-10T10:18:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Kimchi House for 5",
+    "body": "Reservation confirmed at Kimchi House! Date: Thursday, July 04 at 04:26 PM. Party size: 5. Cuisine: Korean. Location: Austin, TX. Please arrive 10 minutes early. See you then, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_250",
+    "threadId": "thread_250",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-16T09:30:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Dental Cleaning - June 14",
+    "body": "Reminder: Your dental cleaning is scheduled for Friday, June 14 at 08:24 AM. Location: Austin Medical Center. Patient: Jordan Rivera. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_278",
+    "threadId": "thread_278",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-17T12:04:00Z"
+  },
+  {
+    "from": "shipping@thriftup.com",
+    "subject": "Your ThriftUp order has shipped! #THR-75774",
+    "body": "Great news, Jordan! Your order of plant accessories from ThriftUp has shipped via USPS. Tracking number: 702838578652785854. Order #THR-75774 is on its way to Austin, TX. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_224",
+    "threadId": "thread_224",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-19T05:43:00Z"
+  },
+  {
+    "from": "reservations@hostels.com",
+    "subject": "Hotel Booking Confirmed: hostels - Mexico City",
+    "body": "Booking Confirmed at hostels near Mexico City! Confirmation: HTL-403528. Check-in: September 10, 2024, Check-out: September 17, 2024 (7 nights). Rate: $435.99/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_236",
+    "threadId": "thread_236",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-19T14:35:00Z"
+  },
+  {
+    "from": "orders@grubhub.com",
+    "subject": "Your Grubhub order from Bibimbap Bowl is on its way!",
+    "body": "Your Grubhub order from Bibimbap Bowl is confirmed! Order: Bibimbap, Japchae, Korean Fried Tofu. Total: $18.36 (incl. delivery and tip). Estimated delivery: 44 minutes to Austin, TX. Enjoy your meal, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_259",
+    "threadId": "thread_259",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-19T20:38:00Z"
+  },
+  {
+    "from": "orders@dr.martens.com",
+    "subject": "Order Confirmed: plant accessories from Dr. Martens #DR.-75546",
+    "body": "Hi Jordan,\n\nYour order #DR.-75546 has been confirmed! You ordered: plant accessories (Size 30) from Dr. Martens for $38.08. Estimated delivery: July 12, 2024. Shipping to Austin, TX. Thank you for shopping with Dr. Martens!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_217",
+    "threadId": "thread_217",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-20T07:53:00Z"
+  },
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone liked your photo on Instagram. Check your Instagram profile for the latest updates. You have 2 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_296",
+    "threadId": "thread_296",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-23T11:25:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Therapy Session - June 11",
+    "body": "Reminder: Your therapy session is scheduled for Tuesday, June 11 at 02:12 AM. Location: Austin Medical Center. Patient: Jordan Rivera. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_279",
+    "threadId": "thread_279",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-23T19:30:00Z"
+  },
+  {
+    "from": "promo@dr.martens.com",
+    "subject": "25% off art prints at Dr. Martens - just for you!",
+    "body": "Hi Jordan,\n\nExclusive offer just for you! Get 25% off art prints at Dr. Martens. Use code DR. 25 at checkout. This offer is valid through January 11, 2025. Based on your interest in vintage clothing, we think you'll love our latest collection. Shop now at dr.martens.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_222",
+    "threadId": "thread_222",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-24T15:14:00Z"
+  },
+  {
+    "from": "notifications@linkedin.com",
+    "subject": "[LinkedIn] New activity on your profile",
+    "body": "Someone endorsed your skill on LinkedIn. Check your LinkedIn profile for the latest updates. You have 8 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_297",
+    "threadId": "thread_297",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-09-27T21:37:00Z"
+  },
+  {
+    "from": "updates@youtubepremium.com",
+    "subject": "New This Week on YouTube Premium",
+    "body": "New on YouTube Premium this week: true crime series, anime classic. We picked these based on your viewing history, Jordan. Start watching now on YouTube Premium.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_262",
+    "threadId": "thread_262",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-01T10:11:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Shoegaze Mix is Ready",
+    "body": "Your weekly shoegaze mix is ready! 30 tracks curated just for you based on your listening in Austin. Featuring new releases and deep cuts. Discover your new favorite shoegaze track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_265",
+    "threadId": "thread_265",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-04T18:50:00Z"
+  },
+  {
+    "from": "delivery@doordash.com",
+    "subject": "Grocery delivery scheduled - 12 items",
+    "body": "Your grocery delivery is scheduled! Items: avocados, organic kale, fresh berries, almond butter, oat milk and 4 more items. Total: $87.95. Delivery window: 11am-1pm to Austin, TX.",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_248",
+    "threadId": "thread_248",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-05T04:04:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Creative Industry",
+    "body": "Your daily digest: Top stories in creative industry. 3 articles curated for you based on your reading habits. Plus: local news from Austin, TX. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_275",
+    "threadId": "thread_275",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-06T04:40:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Eye Exam - August 17",
+    "body": "Reminder: Your eye exam is scheduled for Saturday, August 17 at 12:13 AM. Location: Austin Medical Center. Patient: Jordan Rivera. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_281",
+    "threadId": "thread_281",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-08T22:26:00Z"
+  },
+  {
+    "from": "notifications@adobecreativesuite.com",
+    "subject": "[Adobe Creative Suite] Notification from Adobe Creative Suite",
+    "body": "[Adobe Creative Suite] Notification from Adobe Creative Suite. Click to view in Adobe Creative Suite. This notification was sent to jordan.r.design@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_294",
+    "threadId": "thread_294",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-11T17:37:00Z"
+  },
+  {
+    "from": "bookings@spirit.com",
+    "subject": "Flight Confirmed: Spirit SP729 to New Orleans",
+    "body": "Flight confirmation: Spirit SP729 to New Orleans, window seat 12A, economy. Departure: July 27, 2024 at 04:30 AM from Austin. Confirmation code: FLT-884056. Total fare: $264.89. Check in opens 24 hours before departure. Passenger: Jordan Rivera.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_245",
+    "threadId": "thread_245",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-12T05:43:00Z"
+  },
+  {
+    "from": "reviews@dr.martens.com",
+    "subject": "How's your plant accessories? Leave a review!",
+    "body": "Hi Jordan, how are you enjoying your plant accessories from Dr. Martens? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Austin make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_212",
+    "threadId": "thread_212",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-17T10:24:00Z"
+  },
+  {
+    "from": "reorder@vitaminshoppe.com",
+    "subject": "Running Low: Reorder Fish Oil",
+    "body": "Time to reorder your fish oil, Jordan! Based on your usage, you're running low. Auto-refill available with free shipping to Austin, TX. Stay on track with your health routine.",
+    "labels": [
+      "health",
+      "promotions"
+    ],
+    "id": "email_282",
+    "threadId": "thread_282",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-18T01:50:00Z"
+  },
+  {
+    "from": "deals@travelocity.com",
+    "subject": "Deal Alert: Mexico City from $498!",
+    "body": "Hi Jordan, we found a great deal to Mexico City! Round-trip flights + hotel from $497.69. Based on your travel history, we think you'd love this trip. Book by November 09 for the best rate.",
+    "labels": [
+      "travel",
+      "promotions"
+    ],
+    "id": "email_237",
+    "threadId": "thread_237",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-21T16:26:00Z"
+  },
+  {
+    "from": "reservations@hostels.com",
+    "subject": "Hotel Booking Confirmed: hostels - Marfa TX",
+    "body": "Booking Confirmed at hostels near Marfa TX! Confirmation: HTL-823821. Check-in: November 23, 2024, Check-out: November 30, 2024 (7 nights). Rate: $364.84/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_244",
+    "threadId": "thread_244",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-22T07:36:00Z"
+  },
+  {
+    "from": "mike.t@company.com",
+    "subject": "Meeting: brand guidelines discussion - September 26",
+    "body": "Mike Torres has invited you to: brand guidelines discussion. When: Thursday, September 26 at 05:46 AM. Duration: 30 minutes. Video call via Zoom. Attendees: Jordan Rivera, Mike Torres, and 2 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_289",
+    "threadId": "thread_289",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-23T20:43:00Z"
+  },
+  {
+    "from": "shipping@thriftup.com",
+    "subject": "Your ThriftUp order has shipped! #THR-51853",
+    "body": "Great news, Jordan! Your order of vinyl records from ThriftUp has shipped via USPS. Tracking number: 562588153714732104. Order #THR-51853 is on its way to Austin, TX. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_211",
+    "threadId": "thread_211",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-24T12:43:00Z"
+  },
+  {
+    "from": "reports@applehealth.com",
+    "subject": "Weekly Health Report: 73,507 steps",
+    "body": "Your weekly health summary, Jordan: Steps this week: 73,507. Average sleep: 7.8 hours/night. Active days: 7/7. Your most active day was Monday. Goal progress (flexibility and fun): on track!",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_280",
+    "threadId": "thread_280",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-28T12:34:00Z"
+  },
+  {
+    "from": "promo@thriftup.com",
+    "subject": "15% off vinyl records at ThriftUp - just for you!",
+    "body": "Hi Jordan,\n\nExclusive offer just for you! Get 15% off vinyl records at ThriftUp. Use code THRI15 at checkout. This offer is valid through November 04, 2024. Based on your interest in vinyl records, we think you'll love our latest collection. Shop now at thriftup.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_225",
+    "threadId": "thread_225",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-28T21:24:00Z"
+  },
+  {
+    "from": "reviews@etsy.com",
+    "subject": "How's your art prints? Leave a review!",
+    "body": "Hi Jordan, how are you enjoying your art prints from Etsy? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Austin make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_207",
+    "threadId": "thread_207",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-29T04:48:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Techno Mix is Ready",
+    "body": "Your weekly techno mix is ready! 30 tracks curated just for you based on your listening in Austin. Featuring new releases and deep cuts. Discover your new favorite techno track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_269",
+    "threadId": "thread_269",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-30T17:11:00Z"
+  },
+  {
+    "from": "bookings@southwest.com",
+    "subject": "Flight Confirmed: Southwest SO854 to Mexico City",
+    "body": "Flight confirmation: Southwest SO854 to Mexico City, window seat 15A, economy. Departure: December 20, 2024 at 09:36 AM from Austin. Confirmation code: FLT-302544. Total fare: $655.80. Check in opens 24 hours before departure. Passenger: Jordan Rivera.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_240",
+    "threadId": "thread_240",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-10-31T19:50:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Design Trends",
+    "body": "Your daily digest: Top stories in design trends. 3 articles curated for you based on your reading habits. Plus: local news from Austin, TX. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_261",
+    "threadId": "thread_261",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-02T22:12:00Z"
+  },
+  {
+    "from": "orders@doordash.com",
+    "subject": "Your DoorDash order from Lone Star Grill is on its way!",
+    "body": "Your DoorDash order from Lone Star Grill is confirmed! Order: Churros, Queso Fundido, Enchiladas Verdes, Fish Tacos. Total: $58.48 (incl. delivery and tip). Estimated delivery: 54 minutes to Austin, TX. Enjoy your meal, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_254",
+    "threadId": "thread_254",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-05T06:29:00Z"
+  },
+  {
+    "from": "weekly@epicurious.com",
+    "subject": "This Week's Ethiopian Recipes You'll Love",
+    "body": "This week's top Ethiopian recipes (pescatarian)! Featured: 5-ingredient ethiopian bowl, perfect for weeknight cooking. Plus: seasonal ingredients guide for Austin area. Your personalized meal plan is ready based on your pescatarian preferences.",
+    "labels": [
+      "food",
+      "newsletters"
+    ],
+    "id": "email_257",
+    "threadId": "thread_257",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-06T12:51:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Bibimbap Bowl for 5",
+    "body": "Reservation confirmed at Bibimbap Bowl! Date: Sunday, June 16 at 02:59 AM. Party size: 5. Cuisine: Korean. Location: Austin, TX. Please arrive 10 minutes early. See you then, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_253",
+    "threadId": "thread_253",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-08T15:38:00Z"
+  },
+  {
+    "from": "delivery@dr.martens.com",
+    "subject": "Delivered: Your Dr. Martens order #DR.-32349",
+    "body": "Your Dr. Martens package has been delivered! Order #DR.-32349 containing plant accessories was delivered to your address in Austin, TX today. If you did not receive your package, please contact us within 48 hours. We hope you enjoy your plant accessories!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_221",
+    "threadId": "thread_221",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-10T08:50:00Z"
+  },
+  {
+    "from": "reminders@healthcareportal.com",
+    "subject": "Appointment Reminder: Therapy Session - August 31",
+    "body": "Reminder: Your therapy session is scheduled for Saturday, August 31 at 09:16 AM. Location: Austin Medical Center. Patient: Jordan Rivera. Please arrive 15 minutes early. Reply to confirm or reschedule.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_285",
+    "threadId": "thread_285",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-11T02:06:00Z"
+  },
+  {
+    "from": "notifications@arcbrowser.com",
+    "subject": "[Arc browser] Notification from Arc browser",
+    "body": "[Arc browser] Notification from Arc browser. Click to view in Arc browser. This notification was sent to jordan.r.design@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_290",
+    "threadId": "thread_290",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-13T12:48:00Z"
+  },
+  {
+    "from": "notifications@arcbrowser.com",
+    "subject": "[Arc browser] Notification from Arc browser",
+    "body": "[Arc browser] Notification from Arc browser. Click to view in Arc browser. This notification was sent to jordan.r.design@gmail.com.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_288",
+    "threadId": "thread_288",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-13T19:02:00Z"
+  },
+  {
+    "from": "reviews@dr.martens.com",
+    "subject": "How's your vinyl records? Leave a review!",
+    "body": "Hi Jordan, how are you enjoying your vinyl records from Dr. Martens? We'd love to hear your thoughts. Leave a review and get 10% off your next purchase. Your feedback helps other shoppers in Austin make informed decisions.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_205",
+    "threadId": "thread_205",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-16T01:11:00Z"
+  },
+  {
+    "from": "summary@niketrainingclub.com",
+    "subject": "Workout Complete: 30min yoga",
+    "body": "Great yoga session, Jordan! Duration: 30 minutes. Calories burned: 380. You're making progress toward your goal: flexibility and fun. Keep up the momentum! You've been active 5 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_277",
+    "threadId": "thread_277",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-16T04:45:00Z"
+  },
+  {
+    "from": "emily.zhang@company.com",
+    "subject": "Meeting: project kickoff - December 07",
+    "body": "Emily Zhang has invited you to: project kickoff. When: Saturday, December 07 at 04:01 AM. Duration: 60 minutes. Video call via Zoom. Attendees: Jordan Rivera, Emily Zhang, and 5 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_287",
+    "threadId": "thread_287",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-18T11:10:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Creative Industry",
+    "body": "Your daily digest: Top stories in creative industry. 3 articles curated for you based on your reading habits. Plus: local news from Austin, TX. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_270",
+    "threadId": "thread_270",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-22T17:01:00Z"
+  },
+  {
+    "from": "notifications@instagram.com",
+    "subject": "[Instagram] New activity on your profile",
+    "body": "Someone sent you a connection request on Instagram. Check your Instagram profile for the latest updates. You have 2 new notifications waiting.",
+    "labels": [
+      "social",
+      "inbox"
+    ],
+    "id": "email_298",
+    "threadId": "thread_298",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-24T16:09:00Z"
+  },
+  {
+    "from": "mike.t@company.com",
+    "subject": "Meeting: client design review - September 04",
+    "body": "Mike Torres has invited you to: client design review. When: Wednesday, September 04 at 12:29 PM. Duration: 30 minutes. Video call via Zoom. Attendees: Jordan Rivera, Mike Torres, and 2 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_295",
+    "threadId": "thread_295",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-24T18:14:00Z"
+  },
+  {
+    "from": "promo@dr.martens.com",
+    "subject": "20% off art prints at Dr. Martens - just for you!",
+    "body": "Hi Jordan,\n\nExclusive offer just for you! Get 20% off art prints at Dr. Martens. Use code DR. 20 at checkout. This offer is valid through January 13, 2025. Based on your interest in art prints, we think you'll love our latest collection. Shop now at dr.martens.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_201",
+    "threadId": "thread_201",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-11-25T18:30:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Creative Industry",
+    "body": "Your daily digest: Top stories in creative industry. 3 articles curated for you based on your reading habits. Plus: local news from Austin, TX. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_271",
+    "threadId": "thread_271",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-04T14:45:00Z"
+  },
+  {
+    "from": "digest@morningbrew.com",
+    "subject": "Your Daily Briefing: Typography",
+    "body": "Your daily digest: Top stories in typography. 3 articles curated for you based on your reading habits. Plus: local news from Austin, TX. Read more at your daily briefing.",
+    "labels": [
+      "subscriptions",
+      "newsletters"
+    ],
+    "id": "email_264",
+    "threadId": "thread_264",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-06T22:40:00Z"
+  },
+  {
+    "from": "checkin@southwest.com",
+    "subject": "Check-in Open: Southwest SO785 to Mexico City",
+    "body": "Check-in is now open for your Southwest flight SO785 to Mexico City. Your flight departs tomorrow from Austin. Cabin: economy. Don't forget to check in to get your window seat preference. Passenger: Jordan Rivera.",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_231",
+    "threadId": "thread_231",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-07T12:20:00Z"
+  },
+  {
+    "from": "shipping@thriftup.com",
+    "subject": "Your ThriftUp order has shipped! #THR-85718",
+    "body": "Great news, Jordan! Your order of vinyl records from ThriftUp has shipped via USPS. Tracking number: 532787747016873395. Order #THR-85718 is on its way to Austin, TX. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_213",
+    "threadId": "thread_213",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-11T23:08:00Z"
+  },
+  {
+    "from": "mike.t@company.com",
+    "subject": "Meeting: brand guidelines discussion - June 26",
+    "body": "Mike Torres has invited you to: brand guidelines discussion. When: Wednesday, June 26 at 11:30 PM. Duration: 30 minutes. Video call via Zoom. Attendees: Jordan Rivera, Mike Torres, and 3 others.",
+    "labels": [
+      "work",
+      "inbox"
+    ],
+    "id": "email_286",
+    "threadId": "thread_286",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-14T07:42:00Z"
+  },
+  {
+    "from": "shipping@dr.martens.com",
+    "subject": "Your Dr. Martens order has shipped! #DR.-87820",
+    "body": "Great news, Jordan! Your order of vinyl records from Dr. Martens has shipped via FedEx. Tracking number: 888794705516940974. Order #DR.-87820 is on its way to Austin, TX. Expected delivery in 2-4 business days.",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_219",
+    "threadId": "thread_219",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-14T19:38:00Z"
+  },
+  {
+    "from": "reservations@hostels.com",
+    "subject": "Hotel Booking Confirmed: hostels - New Orleans",
+    "body": "Booking Confirmed at hostels near New Orleans! Confirmation: HTL-223967. Check-in: November 15, 2024, Check-out: November 18, 2024 (3 nights). Rate: $102.99/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_243",
+    "threadId": "thread_243",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-17T02:46:00Z"
+  },
+  {
+    "from": "reservations@opentable.com",
+    "subject": "Reservation Confirmed: Habesha Grill for 2",
+    "body": "Reservation confirmed at Habesha Grill! Date: Tuesday, December 24 at 09:46 AM. Party size: 2. Cuisine: Ethiopian. Location: Austin, TX. Please arrive 10 minutes early. See you then, Jordan!",
+    "labels": [
+      "food",
+      "inbox"
+    ],
+    "id": "email_251",
+    "threadId": "thread_251",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-18T02:23:00Z"
+  },
+  {
+    "from": "receipts@airbnb.com",
+    "subject": "Receipt: Your stay at Airbnb - Berlin",
+    "body": "Thank you for staying at Airbnb in Berlin! Guest: Jordan Rivera. Stay: 2 nights at $284.70/night. Total (incl. tax): $637.73. We hope you enjoyed your trip to Berlin. See you next time!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_230",
+    "threadId": "thread_230",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-18T20:09:00Z"
+  },
+  {
+    "from": "orders@etsy.com",
+    "subject": "Order Confirmed: plant accessories from Etsy #ETS-88317",
+    "body": "Hi Jordan,\n\nYour order #ETS-88317 has been confirmed! You ordered: plant accessories (Size 9) from Etsy for $311.76. Estimated delivery: August 16, 2024. Shipping to Austin, TX. Thank you for shopping with Etsy!",
+    "labels": [
+      "shopping",
+      "inbox"
+    ],
+    "id": "email_214",
+    "threadId": "thread_214",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-20T22:46:00Z"
+  },
+  {
+    "from": "reservations@airbnb.com",
+    "subject": "Hotel Booking Confirmed: Airbnb - New Orleans",
+    "body": "Booking Confirmed at Airbnb near New Orleans! Confirmation: HTL-513697. Check-in: July 02, 2024, Check-out: July 08, 2024 (6 nights). Rate: $220.49/night. Guest: Jordan Rivera. We look forward to welcoming you!",
+    "labels": [
+      "travel",
+      "inbox"
+    ],
+    "id": "email_227",
+    "threadId": "thread_227",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-22T07:45:00Z"
+  },
+  {
+    "from": "summary@niketrainingclub.com",
+    "subject": "Workout Complete: 90min skateboarding",
+    "body": "Great skateboarding session, Jordan! Duration: 90 minutes. Calories burned: 314. You're making progress toward your goal: flexibility and fun. Keep up the momentum! You've been active 5 days this week.",
+    "labels": [
+      "health",
+      "inbox"
+    ],
+    "id": "email_284",
+    "threadId": "thread_284",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-25T17:38:00Z"
+  },
+  {
+    "from": "discover@spotify.com",
+    "subject": "Your Weekly Indie Mix is Ready",
+    "body": "Your weekly indie mix is ready! 30 tracks curated just for you based on your listening in Austin. Featuring new releases and deep cuts. Discover your new favorite indie track this week.",
+    "labels": [
+      "subscriptions",
+      "inbox"
+    ],
+    "id": "email_274",
+    "threadId": "thread_274",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-27T13:43:00Z"
+  },
+  {
+    "from": "promo@dr.martens.com",
+    "subject": "30% off vintage clothing at Dr. Martens - just for you!",
+    "body": "Hi Jordan,\n\nExclusive offer just for you! Get 30% off vintage clothing at Dr. Martens. Use code DR. 30 at checkout. This offer is valid through October 21, 2024. Based on your interest in art prints, we think you'll love our latest collection. Shop now at dr.martens.com!",
+    "labels": [
+      "shopping",
+      "promotions"
+    ],
+    "id": "email_208",
+    "threadId": "thread_208",
+    "to": "jordan.r.design@gmail.com",
+    "date": "2024-12-28T22:52:00Z"
+  }
+]

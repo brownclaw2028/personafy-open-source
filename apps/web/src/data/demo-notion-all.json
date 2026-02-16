@@ -1,0 +1,852 @@
+[
+  {
+    "id": "0a3aee49-6666-4879-938d-da71e3658966",
+    "title": "2024 Running Goals",
+    "type": "page",
+    "content": "## Goals for 2024\n\n- Complete first 50K ultra (targeting Marin Ultra Challenge)\n- Maintain 50+ miles/week base\n- Hit sub-8:00 pace on long runs\n\n### Equipment\n- Primary shoes: Hoka Speedgoat 5 (size 10.5)\n- Backup: Nike Pegasus Trail 4\n- Hydration: Salomon soft flask\n\n### Nutrition Plan\nPlant-based diet, focus on:\n- Pre-run: oats with banana and almond butter\n- During: dates, gels\n- Post-run: smoothie with Vega protein, banana, spinach\n\n### Training Schedule\nRun 5x per week, yoga on rest days, rock climbing Wednesday evenings.\nTrack everything on Strava. Morning runs since I'm an early bird (6am wake).\n\n### Supplements\nTaking vitamin D, B12, and creatine daily.",
+    "icon": "\ud83c\udfc3",
+    "created_time": "2024-10-19T13:40:00Z",
+    "last_edited_time": "2024-12-24T16:51:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "goals"
+    ]
+  },
+  {
+    "id": "c87ced6d-11a6-4ad2-87c7-ac10083d0a2f",
+    "title": "Home Setup Wishlist",
+    "type": "page",
+    "content": "## Apartment Wishlist\n\nLiving in a 1BR apartment in San Francisco. Going for minimalist Japanese style.\n\n### Current Setup\n- Sonos speakers (living room + bedroom)\n- Philips Hue lights (warm tones, 2700K evenings)\n- Standing desk for remote work\n\n### Wishlist\n- Low-profile walnut platform bed (Japanese futon-style)\n- Muji-style modular shelving\n- Tatami mat area for meditation (daily Headspace practice)\n- Cable management for desk setup\n- Monitor arm for clean desk surface\n\n### Budget\nMid-range spending, prefer quality over quantity.\nLooking at Patagonia for outdoor textiles, Allbirds for indoor slippers.",
+    "icon": "\ud83c\udfe0",
+    "created_time": "2024-06-21T07:53:00Z",
+    "last_edited_time": "2024-06-29T09:53:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "Planning"
+    },
+    "tags": [
+      "home",
+      "shopping"
+    ]
+  },
+  {
+    "id": "871be443-4b9a-4682-ab66-f9888c756037",
+    "title": "Vegan Meal Rotation",
+    "type": "database",
+    "content": "## Weekly Plant-Based Meal Rotation\n\nDiet: fully plant-based/vegan\n\n### Favorite Cuisines\nJapanese, Thai, Mexican, Mediterranean\n\n### Monday\n- Breakfast: overnight oats with banana and almond butter\n- Lunch: Mediterranean grain bowl with hummus\n- Dinner: Miso ramen with tofu and mushrooms\n\n### Tuesday\n- Breakfast: smoothie with Vega protein, banana, spinach\n- Lunch: Black bean tacos\n- Dinner: Thai green curry with vegetables\n\n### Wednesday\n- Breakfast: avocado toast on sourdough\n- Lunch: leftovers from Tuesday\n- Dinner: out or DoorDash (cooking 3-4 times/week)\n\n### Cooking Notes\n- Batch cook rice and quinoa on Sundays\n- Keep hummus and dal prepped in fridge\n- Oat milk latte every morning (light roast coffee)",
+    "icon": "\ud83e\udd66",
+    "created_time": "2024-06-23T08:25:00Z",
+    "last_edited_time": "2024-10-24T13:25:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "d4a44057-7732-4e85-b881-549127f6e649",
+    "title": "Tech Stack Notes",
+    "type": "page",
+    "content": "## My Development Stack\n\n### Daily Tools\n- Editor: VS Code with TypeScript language server\n- Language: TypeScript (3+ years)\n- Framework: React 19\n- Project management: Linear\n- Communication: Slack (prefer async communication)\n- Version control: GitHub\n- Design: Figma (for design reviews)\n\n### Preferred Patterns\n- Async-first development\n- Concise, direct code reviews\n- Remote work style\n\n### Keyboard Setup\n- HHKB Professional Hybrid (minimalist Japanese aesthetic)\n- Walnut wrist rest\n- Dark grey desk mat\n\n### Podcasts While Coding\n- Lex Fridman\n- Software Engineering Daily",
+    "icon": "\ud83d\udcbb",
+    "created_time": "2024-02-15T09:27:00Z",
+    "last_edited_time": "2024-04-13T14:27:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Active"
+    },
+    "tags": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "b762bba6-c74b-4a74-b1a7-124481aeb810",
+    "title": "Trip Planning: Japan 2024",
+    "type": "page",
+    "content": "## Japan Trip - 10 Days\n\n### Flights\n- SFO to NRT on United (window seat, economy)\n- Also considering Alaska Airlines\n- Carry-on only if possible\n\n### Tokyo (5 days)\n- Muji flagship Ginza\n- D&Department Shibuya\n- 21_21 Design Sight museum\n- Trail running: Kamakura trails (1hr from Tokyo)\n\n### Kyoto (5 days)\n- Fushimi Inari trail running at sunrise\n- Philosopher's Path neighborhood (Airbnb)\n- Shojin ryori (Buddhist vegetarian cuisine)\n\n### Food (Plant-Based)\n- T's TanTan (vegan ramen, Tokyo Station)\n- Ain Soph Ripple (Shinjuku)\n- Afuri (yuzu shio ramen)\n\n### Accommodation\nPrefer Airbnb. Looking in Shimokitazawa (Tokyo).\n\n### Budget\nMid-range. Adventure-style travel.",
+    "icon": "\u2708\ufe0f",
+    "created_time": "2024-05-05T09:38:00Z",
+    "last_edited_time": "2024-08-04T10:38:00Z",
+    "properties": {
+      "Category": "Travel",
+      "Status": "Planning"
+    },
+    "tags": [
+      "travel",
+      "planning"
+    ]
+  },
+  {
+    "id": "df312a07-75dc-403b-95e8-dc409bf05d61",
+    "title": "Book List 2024",
+    "type": "database",
+    "content": "## Reading List 2024\n\n### Currently Reading\n- \"Designing Data-Intensive Applications\" by Martin Kleppmann\n- \"What I Talk About When I Talk About Running\" by Murakami\n\n### To Read\n- \"The Art of Doing Science and Engineering\" by Hamming\n- \"Breath\" by James Nestor (for running)\n- \"Wabi-Sabi\" by Leonard Koren (minimalism inspiration)\n- \"Born to Run\" by Christopher McDougall\n\n### Finished\n- \"Clean Code\" by Robert Martin\n- \"A Philosophy of Software Design\"\n- \"Atomic Habits\" by James Clear\n\n### Notes\nListen to Software Engineering Daily and Lex Fridman for book recommendations.\nRead mostly on Kindle. Physical books for design/art.",
+    "icon": "\ud83d\udcda",
+    "created_time": "2024-07-06T18:19:00Z",
+    "last_edited_time": "2024-10-07T06:19:00Z",
+    "properties": {
+      "Category": "Personal",
+      "Status": "Active"
+    },
+    "tags": [
+      "reading",
+      "personal"
+    ]
+  },
+  {
+    "id": "1d668a64-d43c-423d-b422-8470c6b54165",
+    "title": "Gift Ideas 2024",
+    "type": "page",
+    "content": "## Gift Ideas 2024\n\n### For Partner\n- Handmade ceramics (Japanese pottery)\n- Experience gifts: cooking class, pottery workshop\n- Budget: $50-150\n\n### For Parents\n- Tech gadgets (smart home devices)\n- Travel vouchers\n- Budget: $50-150\n\n### For Running Friends\n- Strava premium subscription\n- Hoka gift card\n- Trail snack box\n\n### For Climbing Partners\n- Chalk bag from Organic\n- Belay gloves\n\n### Notes\nPrefer experiential gifts over material things.\nSupport local/independent when possible.",
+    "icon": "\ud83c\udf81",
+    "created_time": "2024-10-08T16:04:00Z",
+    "last_edited_time": "2024-12-21T04:04:00Z",
+    "properties": {
+      "Category": "Gifts",
+      "Status": "Active"
+    },
+    "tags": [
+      "gifts",
+      "planning"
+    ]
+  },
+  {
+    "id": "2ed77753-8f62-4b88-9e6e-9b4a1da45e02",
+    "title": "Morning Routine",
+    "type": "page",
+    "content": "## Morning Routine\n\n### Wake Up: 6:00 AM (early bird)\n\n1. **6:00** - Wake up, hydrate (water + lemon)\n2. **6:10** - Headspace meditation (10 min daily)\n3. **6:25** - Supplements: vitamin D, B12, creatine\n4. **6:30** - Morning run (5x/week) or yoga\n   - Track on Strava\n   - Hoka Speedgoat for trail, Nike Pegasus for road\n5. **7:30** - Smoothie: Vega protein, banana, spinach\n6. **7:45** - Oat milk latte, light roast\n7. **8:00** - Shower\n8. **8:30** - Start work (VS Code + Slack open)\n\n### Non-Run Days\n- Rock climbing or yoga\n- Extra meditation time\n\n### Sleep: Target 10:00 PM\n7-8 hours of sleep minimum.",
+    "icon": "\u2600\ufe0f",
+    "created_time": "2024-06-17T11:46:00Z",
+    "last_edited_time": "2024-11-03T14:46:00Z",
+    "properties": {
+      "Category": "Health",
+      "Status": "Active"
+    },
+    "tags": [
+      "health",
+      "routine"
+    ]
+  },
+  {
+    "id": "bdcee8d0-19c6-457f-a4f1-0ef410d971d8",
+    "title": "Work Tools Comparison",
+    "type": "database",
+    "content": "## Work Tools Comparison\n\n### Editor\n| Tool | Rating | Notes |\n|------|--------|-------|\n| VS Code | 5/5 | Daily driver, TypeScript support is best |\n| Neovim | 4/5 | Use occasionally, fast for quick edits |\n| Cursor | 3/5 | AI features nice but VS Code extensions better |\n\n### Project Management\n| Tool | Rating | Notes |\n|------|--------|-------|\n| Linear | 5/5 | Clean, fast, great for engineering teams |\n| Jira | 2/5 | Bloated, avoid |\n| GitHub Issues | 3/5 | Good for open source |\n\n### Communication\n- Slack: prefer async communication, concise and direct\n- Figma comments: for design feedback\n\n### Frameworks\n- React 19: primary\n- TypeScript: non-negotiable\n- Tailwind: for styling",
+    "icon": "\ud83d\udd27",
+    "created_time": "2024-06-06T06:43:00Z",
+    "last_edited_time": "2024-07-24T10:43:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Reference"
+    },
+    "tags": [
+      "work",
+      "tools"
+    ]
+  },
+  {
+    "id": "f0a2aa46-a93d-42f4-931b-cb73677760a4",
+    "title": "Climbing Progression Log",
+    "type": "database",
+    "content": "## Rock Climbing Progression\n\n### Current Level\n- Bouldering: V5 indoor, V3-4 outdoor\n- Sport climbing: 5.10c\n- Started 1 year ago\n\n### Goals for 2024\n- Send V6 indoors\n- Lead 5.11a outdoors\n- Visit Joshua Tree and Yosemite for outdoor climbing\n\n### Gear\n- Shoes: La Sportiva Solution (size 10.5 street, 10 climbing)\n- Harness: Petzl Adjama\n- Chalk: FrictionLabs\n- Crash pad: looking at Organic Big Pad\n- Outdoor clothing: Patagonia Houdini jacket\n\n### Training Schedule\n- Wednesday evenings: climbing gym\n- Saturday: outdoor climbing trips\n- Daily hangboard routine (10 min)\n\n### Favorite Spots\n- Castle Rock State Park\n- Mickey's Beach (Stinson)\n- Planning trips to Joshua Tree, Yosemite",
+    "icon": "\ud83e\uddd7",
+    "created_time": "2024-01-17T07:12:00Z",
+    "last_edited_time": "2024-03-18T12:12:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "climbing"
+    ]
+  },
+  {
+    "id": "6457fd25-1365-47ab-95f6-7847f03b07d5",
+    "title": "Wine Journal 2024",
+    "type": "database",
+    "content": "## Wine Tasting Notes 2024\n\n### Preferences\nPrimary: Pinot Noir, Burgundy, Barolo\nSecondary: Champagne, Sancerre\n\n### January - Domaine de la Romanee-Conti 2018\n- Region: Burgundy, France\n- Tasting: Cherry, earth, mushroom, long finish\n- Rating: 98/100\n- Paired with: Aged Comte cheese\n\n### February - Giacomo Conterno Barolo 2016\n- Region: Piedmont, Italy\n- Tasting: Rose petal, tar, dried cherry\n- Rating: 95/100\n- Paired with: Osso buco in Le Creuset\n\n### March - Kistler Pinot Noir 2020\n- Region: Sonoma Coast\n- Tasting: Red fruit, vanilla, silky tannins\n- Rating: 92/100\n\n### Wine Trip Plans\n- Napa Valley: Domaine Carneros, Etude, Bouchaine\n- Tuscany: partner trip (using Delta SkyMiles)\n\n### Budget: Premium - willing to splurge on special bottles",
+    "icon": "\ud83c\udf77",
+    "created_time": "2024-08-21T11:08:00Z",
+    "last_edited_time": "2024-11-27T19:08:00Z",
+    "properties": {
+      "Category": "Food & Drink",
+      "Status": "Active"
+    },
+    "tags": [
+      "wine",
+      "journal"
+    ]
+  },
+  {
+    "id": "479da393-d1df-451a-9a1f-6b63c7d322c3",
+    "title": "Travel Bucket List",
+    "type": "page",
+    "content": "## Travel Bucket List\n\n### Upcoming\n1. **Paris** - Fine dining, wine bars, Four Seasons stay\n2. **Tuscany** - Wine region tour, villa rental\n3. **Napa Valley** - Weekend wine tasting\n4. **Aspen** - Winter ski trip\n\n### Dream Trips\n- Tulum - beach + wellness retreat\n- Tokyo - omakase tour\n- Provence - lavender season\n\n### Travel Style\n- Luxury: Ritz-Carlton, Four Seasons\n- Fly Delta business class (SkyMiles Platinum)\n- Also fly American for domestic\n- Marriott Bonvoy Gold for hotels\n- Prefer aisle seat for long flights\n\n### Frequency: 8-10 trips per year\n\n### Always Pack\n- Premium skincare routine\n- Wine opener\n- Bailey's favorite toys (golden retriever)",
+    "icon": "\u2708\ufe0f",
+    "created_time": "2024-12-22T21:24:00Z",
+    "last_edited_time": "2024-12-21T18:19:00Z",
+    "properties": {
+      "Category": "Travel",
+      "Status": "Active"
+    },
+    "tags": [
+      "travel",
+      "goals"
+    ]
+  },
+  {
+    "id": "0a7f28b0-616d-4f05-a1c9-7862613abd2d",
+    "title": "Fitness Routine",
+    "type": "page",
+    "content": "## Weekly Fitness Routine\n\n### Goal: Stress Management\n\n### Schedule (4x/week)\n- Monday: 30min Peloton Power Zone\n- Wednesday: 20min Low Impact + Meditation ride\n- Friday: 45min Peloton scenic ride\n- Saturday: Pilates (studio or Apple Fitness+)\n\n### Apps\n- Peloton app (primary)\n- Apple Fitness+ (supplementary)\n\n### Supplements\n- Collagen peptides (morning)\n- Omega-3 fish oil\n- Vitamin C\n\n### Wellness\n- Monthly spa visit\n- Quarterly wellness retreat\n- Night owl schedule: 11pm-7am\n\n### Hiking\n- Occasional weekend hikes\n- Starved Rock State Park (favorite)\n- Waterfall Canyon trail",
+    "icon": "\ud83d\udeb4",
+    "created_time": "2024-02-02T12:07:00Z",
+    "last_edited_time": "2024-05-09T17:07:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "b9927860-9d28-4f52-a7fc-834e46ecb74e",
+    "title": "Home Renovation Plans",
+    "type": "page",
+    "content": "## 3BR Condo Renovation - Modern Farmhouse\n\n### Living Room\n- Reclaimed wood floating shelves (for Sonos + decor)\n- Statement light fixture over dining table\n- Linen curtains (soft, lived-in feel)\n- Pet-friendly performance fabric sofa (for Bailey)\n\n### Kitchen\n- Open shelving for Le Creuset collection display\n- Pot rack above island\n- Reclaimed wood cutting board display\n- Herb mason jars on windowsill\n- White shiplap accent wall\n\n### Smart Home\n- Nest thermostat (installed)\n- Sonos in 3 rooms\n- Ring doorbell\n- Considering Hue lights for accent lighting\n\n### Pet Considerations\n- Golden retriever Bailey needs durable fabrics\n- Crypton or indoor/outdoor upholstery\n- Easy-clean floor in entryway\n\n### Style: Modern farmhouse\n### Budget: Premium",
+    "icon": "\ud83c\udfe1",
+    "created_time": "2024-09-11T07:25:00Z",
+    "last_edited_time": "2024-11-14T11:25:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "In Progress"
+    },
+    "tags": [
+      "home",
+      "planning"
+    ]
+  },
+  {
+    "id": "4b36d4a5-4e6c-458b-bed7-0a1063a2c5a7",
+    "title": "Marketing Reading List",
+    "type": "database",
+    "content": "## Marketing & Business Reading\n\n### Currently Reading\n- \"Crossing the Chasm\" by Geoffrey Moore\n- \"Made to Stick\" by Chip & Dan Heath\n\n### Completed 2024\n- \"Building a StoryBrand\" by Donald Miller\n- \"Influence\" by Robert Cialdini\n- \"Hooked\" by Nir Eyal\n\n### To Read\n- \"Obviously Awesome\" by April Dunford\n- \"The Long Game\" by Dorie Clark\n- \"Unreasonable Hospitality\" by Will Guidara\n\n### Work Context\nVP of Marketing at Chicago firm\nTools: HubSpot, Google Analytics, Notion, Slack, Figma\nStyle: hybrid work, meeting-heavy\nPodcasts: How I Built This, The Daily\n\n### Notes\nFocus on ROI frameworks and attribution modeling.\nNeed to improve board presentation skills.",
+    "icon": "\ud83d\udcca",
+    "created_time": "2024-09-02T13:00:00Z",
+    "last_edited_time": "2024-12-28T18:25:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Active"
+    },
+    "tags": [
+      "work",
+      "reading"
+    ]
+  },
+  {
+    "id": "9bbc9203-0e84-4d4e-bfea-39f745b4248b",
+    "title": "Gift Guide - Luxury",
+    "type": "page",
+    "content": "## Gift Guide 2024\n\n### For Partner\n- Wine subscription (premium Burgundy/Barolo quarterly)\n- Luxury watch (considering Omega or TAG Heuer)\n- Budget: $200-500\n\n### For Parents\n- Gourmet food basket (artisan cheese, charcuterie)\n- Garden tools (high-quality pruners, kneeling pad)\n- Budget: $100-200\n\n### For Self\n- Le Creuset new pieces (braiser, baking dish)\n- Skincare upgrade (SkinCeuticals CE Ferulic)\n- Nordstrom shopping trip\n\n### For Bailey (golden retriever)\n- Organic treats\n- New plush bed\n- Kong toys\n\n### Shopping Style: Luxury\nBrands: Nordstrom, Reformation, Theory, Tory Burch, Le Creuset\nBudget range: $100-500 for special occasions",
+    "icon": "\ud83c\udf81",
+    "created_time": "2024-12-17T21:59:00Z",
+    "last_edited_time": "2024-12-27T13:18:00Z",
+    "properties": {
+      "Category": "Gifts",
+      "Status": "Active"
+    },
+    "tags": [
+      "gifts",
+      "shopping"
+    ]
+  },
+  {
+    "id": "fad968db-8c3a-4677-afd1-6b80a3b94acc",
+    "title": "Skincare Routine",
+    "type": "page",
+    "content": "## Premium Skincare Routine\n\n### Morning\n1. Gentle cleanser\n2. Vitamin C serum (SkinCeuticals CE Ferulic)\n3. Hyaluronic acid\n4. SPF 50 (Supergoop Unseen Sunscreen)\n\n### Evening\n1. Double cleanse: oil cleanser then gel\n2. Retinol (0.5% strength, building up)\n3. Peptide cream (Augustinus Bader The Rich Cream)\n4. Eye cream\n\n### Weekly\n- Exfoliate 2x with enzyme mask\n- Sheet mask 1x\n\n### Monthly\n- Alternating: microneedling or hydrafacial at spa\n\n### Supplements (Supporting Skin Health)\n- Collagen peptides daily\n- Omega-3\n- Vitamin C\n\n### Budget: Premium - invest in quality\n### Age: 45, focus on anti-aging and glow",
+    "icon": "\u2728",
+    "created_time": "2024-01-28T08:09:00Z",
+    "last_edited_time": "2024-07-14T20:09:00Z",
+    "properties": {
+      "Category": "Health",
+      "Status": "Active"
+    },
+    "tags": [
+      "health",
+      "beauty"
+    ]
+  },
+  {
+    "id": "34fdc68d-b775-4cff-9939-d2e79ae2d5f4",
+    "title": "Dinner Party Menus",
+    "type": "database",
+    "content": "## Dinner Party Menu Collection\n\n### French Bistro Night (8 guests)\n- Appetizer: Charcuterie & cheese board\n- Wine: Burgundy Pinot Noir\n- Main: Coq au Vin in Le Creuset Dutch oven\n- Sides: Roasted root vegetables, arugula salad\n- Dessert: Pots de creme in Le Creuset ramekins\n- Music: Soft jazz on Sonos\n\n### Italian Night (6 guests)\n- Appetizer: Bruschetta with heirloom tomatoes\n- Wine: Barolo\n- Main: Osso buco\n- Dessert: Tiramisu\n- Table setting: linen napkins, brass candlesticks\n\n### Casual Sunday Brunch\n- Quiche Lorraine\n- Fresh fruit & pastries\n- Mimosas with fresh-squeezed orange juice\n- Cappuccino (single origin beans)\n\n### Cooking Style: Weekends only\nCuisines: French, Italian, Japanese omakase, farm-to-table\nDelivery for weeknights: Uber Eats, Caviar",
+    "icon": "\ud83c\udf7d\ufe0f",
+    "created_time": "2024-01-12T15:10:00Z",
+    "last_edited_time": "2024-07-03T15:10:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "entertaining"
+    ]
+  },
+  {
+    "id": "bcbd6163-8d62-49ea-a83f-b24304b7bea3",
+    "title": "Career Goals 2024",
+    "type": "page",
+    "content": "## Career Goals - VP of Marketing\n\n### Q1-Q2 Goals\n- Build ROI framework using HubSpot + Google Analytics\n- Reduce CAC by 15%\n- Improve board presentation skills\n\n### Q3-Q4 Goals\n- Launch brand refresh campaign\n- Explore AI tools for marketing automation\n- Mentor 2 junior team members\n\n### Tools to Master\n- Advanced HubSpot workflows\n- Google Analytics 4 attribution\n- Figma for presentation design\n- Notion for team documentation\n\n### Professional Development\n- Attend 2 marketing conferences\n- How I Built This live event\n- Executive coaching quarterly\n\n### Work Style\n- Hybrid office (3 days in, 2 remote)\n- Meeting-heavy schedule\n- Use Slack for team communication\n- Notion for project documentation",
+    "icon": "\ud83c\udfaf",
+    "created_time": "2024-11-23T18:05:00Z",
+    "last_edited_time": "2024-12-27T16:07:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Active"
+    },
+    "tags": [
+      "work",
+      "goals"
+    ]
+  },
+  {
+    "id": "a7fc28bd-bd59-4771-9e01-c21f9afe35f8",
+    "title": "Bailey's Care Guide",
+    "type": "page",
+    "content": "## Bailey - Golden Retriever Care\n\n### Basic Info\n- Breed: Golden Retriever\n- Age: 4 years\n- Weight: 65 lbs\n- Vet: Lincoln Park Animal Hospital\n\n### Daily Routine\n- Morning walk: 30 min\n- Evening walk: 45 min\n- Feeding: 2x daily, high-quality kibble + fresh toppers\n\n### Health\n- Annual checkup: February\n- Flea/tick: monthly preventative\n- Supplements: joint supplement, fish oil\n\n### Favorite Activities\n- Hiking (Starved Rock, Waterfall Canyon)\n- Dog park in Lincoln Park\n- Swimming (summer lake visits)\n\n### Gear\n- Harness: Ruffwear Front Range\n- Bed: Casper dog bed\n- Toys: Kong, rope toys, tennis balls\n\n### Pet-Proofing Home\n- Performance fabric furniture\n- Nest camera for monitoring when away\n- Baby gate for kitchen during cooking",
+    "icon": "\ud83d\udc15",
+    "created_time": "2024-01-14T10:13:00Z",
+    "last_edited_time": "2024-01-29T15:13:00Z",
+    "properties": {
+      "Category": "Pet Care",
+      "Status": "Active"
+    },
+    "tags": [
+      "pet",
+      "health"
+    ]
+  },
+  {
+    "id": "7f0e6211-b557-4414-a7c5-d6129d7a39ff",
+    "title": "Design Portfolio Plan",
+    "type": "page",
+    "content": "## Portfolio Revamp Plan\n\n### Tools\n- Figma for design and prototyping\n- Adobe Creative Suite for production\n- Procreate for illustrations\n- Notion for project management\n- Arc browser for research\n\n### Portfolio Structure\n1. Hero section with bold statement\n2. Case studies (8-10 projects, show process)\n3. Personal work section (vinyl covers, vintage posters)\n4. About page (eclectic/bohemian vibe)\n5. Contact section\n\n### Projects to Feature\n- Brand identity for Austin coffee shop\n- Music festival poster series\n- Vinyl record cover redesigns\n- Sustainable fashion brand assets\n- Mobile app UI for plant care\n\n### Style Direction\nEclectic, vintage-inspired, bold typography.\nReflect my love for vinyl, plants, and Austin culture.\n\n### Work Style\nRemote, coffee shop warrior. Freelance graphic designer.",
+    "icon": "\ud83c\udfa8",
+    "created_time": "2024-05-13T11:18:00Z",
+    "last_edited_time": "2024-06-13T13:18:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "In Progress"
+    },
+    "tags": [
+      "work",
+      "portfolio"
+    ]
+  },
+  {
+    "id": "c413d5dd-4c0f-46a1-bb8e-d06454387838",
+    "title": "Vinyl Collection Log",
+    "type": "database",
+    "content": "## Vinyl Collection - 200+ Records\n\n### Genres\n- Indie rock\n- Shoegaze (My Bloody Valentine, Slowdive)\n- Latin alternative (Cafe Tacvba, Natalia Lafourcade)\n- Techno (Aphex Twin, Burial)\n\n### Recent Additions\n- Slowdive - \"Souvlaki\" (original pressing!)\n- Japanese Breakfast - \"Jubilee\"\n- Khruangbin - \"Mordechai\"\n- Rosalia - \"El Mal Querer\"\n\n### Organization System\nGenre-based, then alphabetical within genres.\nStored in Kallax shelves (room divider in studio apartment).\nTurntable: Audio-Technica LP120XUSB.\n\n### Wish List\n- Cocteau Twins - \"Heaven or Las Vegas\"\n- Deafheaven - \"Sunbather\" (pink vinyl)\n- Boards of Canada - \"Music Has the Right to Children\"\n\n### Listening: Spotify Premium for discovery, vinyl for deep listening.\n### Shopping: Depop, Discogs, Austin record shops",
+    "icon": "\ud83c\udfb5",
+    "created_time": "2024-05-11T17:37:00Z",
+    "last_edited_time": "2024-10-13T03:37:00Z",
+    "properties": {
+      "Category": "Entertainment",
+      "Status": "Active"
+    },
+    "tags": [
+      "music",
+      "collection"
+    ]
+  },
+  {
+    "id": "7d8328a5-155a-4713-bb89-8e36ac9a7916",
+    "title": "Plant Care Schedule",
+    "type": "database",
+    "content": "## Houseplant Care - 15+ Plants\n\n### Living in studio apartment in Austin, TX\n\n### Plant Inventory\n| Plant | Location | Water | Light |\n|-------|----------|-------|-------|\n| Pothos (3) | Hanging planters | Weekly | Indirect |\n| Snake plant (2) | Bookshelf | Every 2-3 weeks | Low |\n| Fiddle leaf fig | Window | Weekly | Bright indirect |\n| Monstera | Corner | Weekly | Bright indirect |\n| Succulents (5) | Windowsill | Every 2 weeks | Direct |\n| Spider plant | Hanging | Weekly | Indirect |\n| Calathea | Shelf | 2x week | Indirect |\n\n### Pet Safety (cat: Pixel)\n- TOXIC to cats: pothos, snake plant -- keep in hanging planters!\n- Safe: spider plant, calathea, succulents\n- Cat grass planter for Pixel to nibble\n\n### Notes\nAustin heat = more frequent watering in summer.\nFertilize monthly spring through fall.\nWall-mounted planters to save floor space.",
+    "icon": "\ud83c\udf31",
+    "created_time": "2024-10-16T14:37:00Z",
+    "last_edited_time": "2024-12-17T23:37:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "Active"
+    },
+    "tags": [
+      "plants",
+      "home"
+    ]
+  },
+  {
+    "id": "c9d5d8be-7b24-4639-aa7d-7239e88a0eeb",
+    "title": "Austin Food Guide",
+    "type": "database",
+    "content": "## Best Austin Food - Pescatarian Guide\n\n### Diet: Pescatarian\n### Allergy: Tree nuts (always ask!)\n\n### Food Trucks (Favorites)\n- Chi'Lantro: Korean-Tex-Mex fusion (skip nut toppings)\n- Veracruz All Natural: migas tacos with shrimp\n- Dee Dee Thai: nut-allergy friendly\n- Taste of Ethiopia: lentil stew on East Riverside\n\n### Restaurants\n- Uchi: incredible Japanese (omakase!)\n- Ramen Tatsu-Ya: best ramen in Austin\n- Nixta Taqueria: handmade tortillas\n- Lenoir: farm-to-table, hot weather menu\n\n### Delivery Apps\n- DoorDash (most food trucks available)\n- Grubhub (for Chi'Lantro and Veracruz)\n\n### Coffee\nCold brew, black. Favorite shops:\n- Fleet Coffee on E 5th\n- Houndstooth Coffee\n- Merit Coffee\n\n### Cuisines: Korean, Tex-Mex, Vietnamese, Ethiopian",
+    "icon": "\ud83c\udf2e",
+    "created_time": "2024-11-14T22:27:00Z",
+    "last_edited_time": "2024-12-24T20:05:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "austin"
+    ]
+  },
+  {
+    "id": "27c4e031-6e9e-4984-bc97-90abef80af78",
+    "title": "Vintage Shopping Spots",
+    "type": "page",
+    "content": "## Vintage & Thrift Shopping Guide\n\n### My Sizes\n- Waist: 30, Inseam: 30\n- Shirt: S (EU 46-48)\n- Shoe: 9 (EU 42)\n\n### Austin Spots\n- South Congress vintage shops\n- East Side thrift stores\n- Treasure City Thrift\n\n### Online\n- Depop (saved searches for my sizes)\n- ThriftUp\n- Etsy (independent designers)\n- Urban Outfitters (sale only)\n\n### Berlin Trip Spots\n- Humana (multiple locations)\n- Mauerpark Sunday flea market\n- Garage (pay by weight!)\n- Made in Berlin\n\n### Budget\n- $25-75 per find\n- Budget-conscious shopping\n- Support sustainable fashion\n\n### Favorite Brands\nDr. Martens, vintage Levi's, vintage band tees.\nStyle: vintage/thrift, eclectic/bohemian.",
+    "icon": "\ud83d\udecd\ufe0f",
+    "created_time": "2024-03-26T08:50:00Z",
+    "last_edited_time": "2024-07-13T08:50:00Z",
+    "properties": {
+      "Category": "Shopping",
+      "Status": "Active"
+    },
+    "tags": [
+      "shopping",
+      "vintage"
+    ]
+  },
+  {
+    "id": "d6489e7b-9951-49fe-8faa-40475242a14a",
+    "title": "Festival Calendar 2024",
+    "type": "database",
+    "content": "## Festival & Events Calendar 2024\n\n### Confirmed\n- **SXSW** (March) - Austin, free showcases\n- **ACL Fest** (October) - Austin, 3-day pass\n- **Levitation** (November) - Austin psych fest\n\n### Hoping to Attend\n- Primavera Sound - Barcelona or Buenos Aires\n- Desert Daze - California\n- Day for Night - Houston\n\n### Packing List (Carry-On Only)\n- 2 vintage band tees\n- Shorts + one light layer\n- Dr. Martens or comfortable sneakers\n- Portable charger\n- Earplugs (protect hearing for shoegaze!)\n- Small crossbody bag\n\n### Travel\n- Fly Southwest or Spirit (budget)\n- Stay at hostels or Airbnb\n- Budget: minimal\n\n### Music Preferences\nIndie, shoegaze, Latin alternative, techno.\nSpotify Premium for pre-festival playlist building.",
+    "icon": "\ud83c\udfaa",
+    "created_time": "2024-11-03T12:39:00Z",
+    "last_edited_time": "2024-12-28T16:02:00Z",
+    "properties": {
+      "Category": "Entertainment",
+      "Status": "Active"
+    },
+    "tags": [
+      "music",
+      "events"
+    ]
+  },
+  {
+    "id": "34871dde-9317-43bf-8848-3015215882c2",
+    "title": "Recipe Experiments",
+    "type": "database",
+    "content": "## Cooking Experiments - Pescatarian\n\n### Diet: Pescatarian\n### Allergy: Tree nuts\n### Cooking frequency: 2-3x per week, experimenting\n\n### Successful Recipes\n1. **Gochujang Salmon Bowl** - Korean inspired\n   - Salmon, rice, pickled veg, gochujang glaze\n   - Nut-free, 25 min\n\n2. **Shrimp Pho** - Vietnamese\n   - Homemade broth, rice noodles, shrimp\n   - No nut sauces, 40 min\n\n3. **Fish Tacos** - Tex-Mex\n   - Mango salsa, cabbage slaw, chipotle crema\n   - 15 min weeknight go-to\n\n4. **Misir Wot** - Ethiopian\n   - Red lentil stew, naturally nut-free\n   - Batch cook and freeze\n\n### Meal Prep\n- Sunday: cook lentil stew, prep rice, pickle vegetables\n- Reduces DoorDash/Grubhub orders\n\n### Delivery when lazy: DoorDash, Grubhub",
+    "icon": "\ud83d\udc1f",
+    "created_time": "2024-05-12T21:18:00Z",
+    "last_edited_time": "2024-10-20T03:18:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "id": "e28df03b-7670-4a0b-b904-a623c841f68d",
+    "title": "Cycling Routes Austin",
+    "type": "page",
+    "content": "## Austin Cycling Routes\n\n### Fitness Goals: Flexibility and fun\nActivities: skateboarding, cycling, yoga (3x/week total)\nApp: Nike Training Club\n\n### Favorite Routes\n1. **Lady Bird Lake Trail** - 10 miles, flat, scenic\n2. **Veloway** - 3.1 mile loop, bike-only, speed work\n3. **Barton Creek Greenbelt** - Technical mountain biking\n4. **Shoal Creek Trail** - North Austin to downtown\n5. **Pfluger Bridge** - Beautiful connector route\n\n### Weekend Adventures\n- Lake Travis loop (35 miles)\n- Ride to Dripping Springs\n- Hill Country exploration\n\n### Bike Shops\n- Mellow Johnny's (downtown)\n- Bicycle Sport Shop (South Lamar)\n- The Peddler (vintage bikes -- my vibe!)\n\n### Gear\n- Need a tune-up soon\n- Looking for a vintage road bike",
+    "icon": "\ud83d\udeb2",
+    "created_time": "2024-03-08T16:19:00Z",
+    "last_edited_time": "2024-06-24T21:19:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "cycling"
+    ]
+  },
+  {
+    "id": "2b33834e-34d2-48f9-99a2-87f9575563b0",
+    "title": "Side Project Ideas",
+    "type": "page",
+    "content": "## Side Project Ideas\n\n### 1. Vinyl Cover Redesign Series\n- Redesign classic album covers in my style\n- Post on Dribbble and Instagram\n- Could become a print series on Etsy\n\n### 2. Austin Food Truck Map\n- Interactive map of Austin food trucks\n- Filter by cuisine and dietary needs\n- Pescatarian and allergy-friendly filters\n- Build in Figma, develop with simple web stack\n\n### 3. Sustainable Fashion Newsletter\n- Curate vintage finds weekly\n- Tips for thrift shopping\n- Depop and Etsy highlights\n- Monetize with affiliate links\n\n### 4. Plant Care App\n- Track watering schedules\n- Pet toxicity warnings\n- Photo progress journal\n- Design in Figma, prototype in Procreate\n\n### Tools: Figma, Adobe Creative Suite, Procreate, Notion\nBudget: minimal (side projects are passion-driven)",
+    "icon": "\ud83d\udca1",
+    "created_time": "2024-06-21T06:15:00Z",
+    "last_edited_time": "2024-12-14T18:15:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Brainstorming"
+    },
+    "tags": [
+      "work",
+      "ideas"
+    ]
+  },
+  {
+    "id": "78ef565f-d02b-44bd-b8c3-64edfe1cc32b",
+    "title": "Monthly Budget Tracker",
+    "type": "database",
+    "content": "## Monthly Budget - Freelance Designer\n\n### Income: Variable (freelance)\n### Style: Budget-conscious\n\n### Fixed Costs\n- Studio apartment rent (Austin)\n- Figma subscription\n- Adobe Creative Suite\n- Spotify Premium\n- YouTube Premium\n- Google Home Mini (one-time)\n\n### Variable\n- Groceries: $250/mo (pescatarian, cook 2-3x/week)\n- DoorDash/Grubhub: $100/mo (trying to reduce)\n- Coffee shops (work): $80/mo (cold brew, black)\n- Vintage shopping: $50-100/mo (Depop, thrift)\n- Vinyl records: $30-50/mo\n- Plant supplies: $20/mo\n\n### Savings Goals\n- Berlin trip fund\n- New vintage road bike\n- Festival season budget\n\n### Notes\nUse Etsy sales to fund vinyl habit.\nBudget $25-75 for gifts (friends/family).",
+    "icon": "\ud83d\udcb0",
+    "created_time": "2024-11-02T10:21:00Z",
+    "last_edited_time": "2024-11-25T12:21:00Z",
+    "properties": {
+      "Category": "Finance",
+      "Status": "Active"
+    },
+    "tags": [
+      "finance",
+      "personal"
+    ]
+  },
+  {
+    "id": "73bf2868-8e83-45ee-979b-557c484605c9",
+    "title": "Kids Activity Schedule",
+    "type": "database",
+    "content": "## Weekly Activity Schedule - 3 Kids\n\n### Ages: 4, 7, 10\n\n### Monday\n- 4yo: Preschool, afternoon playdate\n- 7yo: School, soccer practice 4-5pm\n- 10yo: School, coding club 3:30-4:30\n\n### Tuesday\n- All: School\n- Evening: Family game night (Mario Kart!)\n\n### Wednesday\n- 4yo: Preschool\n- 7yo: Piano lesson 4pm\n- 10yo: STEM club at school\n\n### Thursday\n- All: School\n- 10yo: Swim team practice\n\n### Friday\n- All: School, Pizza Friday tradition\n- Family movie night (Disney+, Netflix, PBS Kids)\n\n### Weekend\n- Saturday morning: swimming lessons for 7yo\n- Sunday: family outing (Museum of Science, park, etc.)\n\n### Managed with: Google Workspace calendar, Alexa reminders",
+    "icon": "\ud83d\udcc5",
+    "created_time": "2024-04-01T10:58:00Z",
+    "last_edited_time": "2024-05-28T12:58:00Z",
+    "properties": {
+      "Category": "Family",
+      "Status": "Active"
+    },
+    "tags": [
+      "family",
+      "schedule"
+    ]
+  },
+  {
+    "id": "fa69cf85-3500-4e8b-9fb1-31972d382dbb",
+    "title": "Meal Prep Rotation",
+    "type": "database",
+    "content": "## Family Meal Prep - Vegetarian\n\n### Diet: Vegetarian (whole family)\n### Allergy: Daughter has peanut allergy (school is nut-free)\n\n### Weekend Batch Cooking (Sunday, 2 hours)\n1. Big pot of dal (red lentil) -- freezes well\n2. Mediterranean hummus + roasted vegetables\n3. Veggie chili or mac and cheese base\n4. Coconut curry paste (mild for kids, add heat for adults)\n5. Paneer tikka marinade\n\n### Weeknight Quick Meals (20 min or less)\n- Pressure cooker dal: 20 min\n- Paneer tikka in air fryer: 15 min\n- Chana masala with canned chickpeas: 15 min\n- Aloo gobi shortcut: parboil in microwave, saut\u00e9 with spices\n\n### School Lunch Ideas (Peanut-Free!)\n- Cheese quesadillas with hidden veggie puree\n- Pasta salad with cherry tomatoes and mozzarella\n- Mini samosas (freeze ahead)\n- Paratha rolls with paneer and veggies\n- Rice with mild dal in thermos\n\n### Grocery: Instacart delivery, HelloFresh for variety\n### Cuisines: Indian, Mediterranean, American comfort, Thai\n### Coffee: Chai latte every morning",
+    "icon": "\ud83e\udd57",
+    "created_time": "2024-06-04T06:15:00Z",
+    "last_edited_time": "2024-08-28T13:15:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "meal-prep"
+    ]
+  },
+  {
+    "id": "d5c94105-bc9c-4bb1-b009-a66440ae68cd",
+    "title": "Family Vacation Planning",
+    "type": "page",
+    "content": "## Family Vacation Ideas\n\n### Travel Style: Family-friendly\n### Family: 2 adults + 3 kids (ages 4, 7, 10)\n\n### Trip 1: San Diego (Spring Break)\n- San Diego Zoo (2-day pass)\n- La Jolla Cove tide pools\n- LEGOLAND\n- Coronado Beach\n- VRBO in Mission Beach\n- Budget dining: $50-80/meal for 5 (vegetarian)\n\n### Trip 2: Cape Cod (Summer)\n- Beach week in Chatham or Provincetown\n- Whale watching\n- Sand castle competitions\n- Rent a VRBO house\n\n### Trip 3: Disney World (Winter)\n- 4-5 day trip\n- Value resort or VRBO\n- Download Disney app for Genie+\n\n### Travel Logistics\n- Fly JetBlue or Southwest\n- Economy plus, aisle seats (easier with kids)\n- Frequency: 2-3 family trips per year\n\n### Past Favorites\n- Boston Children's Museum\n- Museum of Science\n- Cape Cod beaches",
+    "icon": "\ud83c\udf34",
+    "created_time": "2024-10-13T22:41:00Z",
+    "last_edited_time": "2024-12-27T04:41:00Z",
+    "properties": {
+      "Category": "Travel",
+      "Status": "Planning"
+    },
+    "tags": [
+      "travel",
+      "family"
+    ]
+  },
+  {
+    "id": "5320e008-5e1b-466e-b874-ff3496110b6e",
+    "title": "Medical Reference Notes",
+    "type": "page",
+    "content": "## Clinical Reference Notes\n\n### Work Setup\n- Pediatrician, in-office 4 days/week\n- EHR: Epic (SmartPhrases for efficiency)\n- Clinical references: UpToDate\n- Professional network: Doximity\n- Admin: Google Workspace\n\n### Asthma Management Protocol\n- NAEPP stepwise approach\n- Written action plan for every patient (green/yellow/red zones)\n- Follow-up every 3-6 months for well-controlled\n- Teach inhaler technique at every visit\n- Epic SmartPhrase for asthma action plan\n\n### Parent Education Resources\n- AAP free downloadable handouts (multilingual)\n- Short video demos of inhaler technique (share via Doximity)\n- QR codes on printed handouts\n- Google Docs for collaborative care plans\n\n### Continuing Education\n- UpToDate during chart review time\n- Podcasts during commute: The Pediatric Insider, Parenting Unplugged\n- Annual conferences",
+    "icon": "\ud83d\udc69\u200d\u2695\ufe0f",
+    "created_time": "2024-02-28T16:40:00Z",
+    "last_edited_time": "2024-06-01T17:40:00Z",
+    "properties": {
+      "Category": "Work",
+      "Status": "Reference"
+    },
+    "tags": [
+      "work",
+      "medical"
+    ]
+  },
+  {
+    "id": "2b062116-6bfe-4f10-afd6-bca53da9c6ea",
+    "title": "Home Organization System",
+    "type": "page",
+    "content": "## Home Organization - 4BR Colonial House\n\n### Location: Boston, MA\n### Style: Organized/functional\n\n### Toy Management\n- One-in-one-out rule\n- Toy rotation: store half, swap monthly\n- Color-coded bins per child\n- Picture labels for 4-year-old\n\n### Kids' Rooms (Shared)\n- Bunk beds with under-bed storage\n- Each child has own color-coded section\n- Daily 5-minute tidy routine (Alexa timer game)\n\n### Mr. Whiskers (Hamster) Station\n- Dedicated drawer unit for supplies\n- Food, bedding, cleaning supplies in one spot\n\n### Entryway\n- Hooks for 3 backpacks\n- Shoe bins (one per kid)\n- Mail sorter\n\n### Smart Home\n- Alexa: reminders, timers, family routines\n- Nest thermostat: scheduled temperatures\n- Arlo cameras: check rooms remotely\n\n### Weekly Family Clean-Up\nAlexa reminder Sunday 4pm. Make it a game!",
+    "icon": "\ud83c\udfe0",
+    "created_time": "2024-02-03T11:13:00Z",
+    "last_edited_time": "2024-02-12T23:13:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "Active"
+    },
+    "tags": [
+      "home",
+      "organization"
+    ]
+  },
+  {
+    "id": "4b913182-ec6a-4502-ab0c-ca3fddd0eff5",
+    "title": "Gift Ideas for Family",
+    "type": "page",
+    "content": "## Gift Ideas\n\n### For Kids (ages 4, 7, 10)\n- Educational STEM toys, books\n- 4yo: Magna-Tiles ($40-60), Play-Doh science lab\n- 7yo: LEGO Education sets ($50-80), Nat Geo kits\n- 10yo: Raspberry Pi starter kit ($80), Snap Circuits\n- KiwiCo subscription ($25/month)\n- Budget: $30-100 per kid\n\n### For Husband\n- Tech gadgets (smart home devices)\n- Running gear\n- Raspberry Pi projects together\n\n### For Parents (India)\n- Traditional Indian sweets\n- Photo frames with grandkids' photos\n- Budget: $30-100\n\n### Shopping Style: Practical/value-oriented\nStores: Amazon, Costco, Target, Primary (kids)\nAlways check: peanut-free for daughter's gifts",
+    "icon": "\ud83c\udf81",
+    "created_time": "2024-06-13T17:46:00Z",
+    "last_edited_time": "2024-08-25T18:46:00Z",
+    "properties": {
+      "Category": "Gifts",
+      "Status": "Active"
+    },
+    "tags": [
+      "gifts",
+      "family"
+    ]
+  },
+  {
+    "id": "5655f03f-20f2-47b3-bfcc-3dfc0f07c061",
+    "title": "School Lunch Ideas",
+    "type": "page",
+    "content": "## School Lunch Rotation - Peanut Free\n\n### Requirements\n- Vegetarian\n- Peanut-free (daughter's allergy, school is nut-free)\n- Kid-friendly\n- Easy to prep in morning\n\n### Week 1\n- Mon: Cheese quesadilla + fruit + yogurt\n- Tue: Pasta salad + cherry tomatoes + mozzarella sticks\n- Wed: Mini samosas (from freezer batch) + raita dip\n- Thu: Paratha roll with paneer + cucumber sticks\n- Fri: Pizza day at school\n\n### Week 2\n- Mon: Veggie wrap with hummus + carrot sticks\n- Tue: Rice with mild dal (thermos) + naan\n- Wed: Cheese and veggie pinwheels\n- Thu: Indian besan pancakes + fruit\n- Fri: Pizza day at school\n\n### Snacks (Peanut-Free)\n- Masala roasted chickpeas\n- Mango lassi popsicles (homemade)\n- Sunflower seed butter + apple slices\n- Aloo tikki (potato patties, from freezer)\n\n### Containers: Amazon Basics bento-style with dividers",
+    "icon": "\ud83c\udf71",
+    "created_time": "2024-05-13T06:02:00Z",
+    "last_edited_time": "2024-11-08T12:02:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "food",
+      "kids"
+    ]
+  },
+  {
+    "id": "40a1f631-3007-491c-891a-5880c56d17af",
+    "title": "Fitness Routine (Busy Mom)",
+    "type": "page",
+    "content": "## Fitness for Busy Pediatrician Mom\n\n### Goal: Energy for the kids!\n### Wake up: 5:30 AM (early bird schedule)\n### Frequency: 3-4x per week\n\n### Weekly Schedule\n- Mon & Wed: Morning walks (30 min before kids wake)\n- Tue & Thu: Home HIIT workout (Apple Fitness+, 20 min)\n- Sat: Swimming with kids at community pool\n- Sun: Family walk or bike ride\n\n### Apps\n- Apple Fitness+ (primary)\n- Calm app (meditation 3x/week)\n\n### Supplements\n- Multivitamin\n- Iron\n- Calcium\n- Vitamin D\n\n### Wellness\n- Annual physical checkup\n- Meditation 3x/week with Calm\n- Sleep: early bird (5:30am wake), target 10pm bedtime\n\n### Notes\nKeep workouts short and effective.\nInvolve kids when possible (swimming, walks, bike rides).",
+    "icon": "\ud83d\udcaa",
+    "created_time": "2024-09-13T18:56:00Z",
+    "last_edited_time": "2024-12-28T14:19:00Z",
+    "properties": {
+      "Category": "Fitness",
+      "Status": "Active"
+    },
+    "tags": [
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "491ec424-fb22-4621-9fb1-d3007b77a12d",
+    "title": "Reading List (Parenting)",
+    "type": "database",
+    "content": "## Parenting & Personal Reading\n\n### Currently Reading\n- \"The Whole-Brain Child\" by Daniel Siegel\n- \"Hunt, Gather, Parent\" by Michaeleen Doucleff\n\n### Completed\n- \"How to Talk So Kids Will Listen\"\n- \"Raising Good Humans\"\n- \"Cribsheet\" by Emily Oster\n\n### To Read\n- \"The Montessori Toddler\"\n- \"Simplicity Parenting\"\n- \"Elevating Child Care\" by Janet Lansbury\n\n### Kids' Book Favorites (Diverse & STEM)\n- 4yo: \"Ada Twist, Scientist\", \"Binny's Diwali\"\n- 7yo: \"Rosie Revere, Engineer\", \"Amina's Voice\"\n- 10yo: \"Hidden Figures YR Edition\", \"Pashmina\"\n\n### Podcasts\n- The Pediatric Insider\n- Parenting Unplugged\n\n### Streaming for Family\nDisney+, Netflix, PBS Kids\nFamily Mario Kart on Switch!",
+    "icon": "\ud83d\udcda",
+    "created_time": "2024-05-02T18:16:00Z",
+    "last_edited_time": "2024-05-12T19:16:00Z",
+    "properties": {
+      "Category": "Personal",
+      "Status": "Active"
+    },
+    "tags": [
+      "reading",
+      "parenting"
+    ]
+  },
+  {
+    "id": "52334619-264c-4cf0-b54b-541dc5da78cf",
+    "title": "Health Checkup Tracker",
+    "type": "database",
+    "content": "## Family Health Tracker\n\n### Priya (Me)\n- Annual physical: February\n- Dental: Every 6 months (April, October)\n- Eye exam: September\n- Supplements: multivitamin, iron, calcium, vitamin D\n- Meditation: 3x/week (Calm app)\n- Sleep: 5:30am wake, 10pm target bed\n\n### Kids (Ages 4, 7, 10)\n- Well-child visits: scheduled with pediatric group\n- Dental: every 6 months\n- Daughter peanut allergy: carry EpiPen always\n- All vaccinations up to date\n\n### Husband\n- Annual physical: March\n- Encouraged to join Apple Fitness+ workouts\n\n### Mr. Whiskers (Hamster)\n- Vet check: annually\n- Cage cleaning: weekly\n\n### Insurance\n- Family plan through hospital\n- Use Instacart for pharmacy delivery when needed\n\n### Emergency Contacts\n- Pediatric group: on speed dial\n- EpiPen locations: home, school, car, grandparents",
+    "icon": "\ud83c\udfe5",
+    "created_time": "2024-01-06T15:19:00Z",
+    "last_edited_time": "2024-01-19T00:19:00Z",
+    "properties": {
+      "Category": "Health",
+      "Status": "Active"
+    },
+    "tags": [
+      "health",
+      "family"
+    ]
+  },
+  {
+    "id": "3083b06f-6eed-470c-9e6f-edba08d63070",
+    "title": "Woodworking Projects Log",
+    "type": "database",
+    "content": "## Woodworking Project Log\n\n### Current Project: Dovetail Jewelry Box\n- Wood: Walnut body, figured maple bottom\n- Dimensions: 10x7x4 inches\n- Joints: Hand-cut dovetails\n- Interior: Felt-lined with dividers\n- For: Wife's birthday gift\n\n### Completed 2024\n1. Cutting boards (cherry + walnut) - gifts for friends\n2. Raised garden bed frames (cedar)\n3. Bookshelf (oak, arts and crafts style)\n4. Grandkids' wooden toys (maple)\n\n### Planned\n- Dining table (quarter-sawn white oak)\n- Workshop French cleat wall\n- Bird feeder (cedar)\n\n### Tools (from Rockler Woodworking)\n- Hand tools: premium chisels, marking gauge, dovetail saw\n- Power: table saw, bandsaw, drill press\n- Finishing: shellac, Danish oil, wax\n\n### Workshop: Attached to craftsman house in Portland\n### Style: Arts and crafts, hand-tool focused\n\n### Podcasts while working: Woodworking Masterclass",
+    "icon": "\ud83e\udeb5",
+    "created_time": "2024-10-23T07:20:00Z",
+    "last_edited_time": "2024-12-20T17:08:00Z",
+    "properties": {
+      "Category": "Hobbies",
+      "Status": "Active"
+    },
+    "tags": [
+      "woodworking",
+      "projects"
+    ]
+  },
+  {
+    "id": "6ec89731-aae0-477e-a1b7-984fd87d2f7f",
+    "title": "Garden Planting Calendar",
+    "type": "database",
+    "content": "## Portland Garden Planting Calendar\n\n### Garden Setup\n- Raised beds for vegetables\n- Fruit trees: apple and pear\n- Pollinator garden with native Oregon species\n- Composting: three-bin system + vermicomposting\n\n### Spring (March-May)\n- March: Start tomato seeds indoors, direct sow peas, carrots, radishes\n- March 17: Plant potatoes (PNW tradition)\n- April: Transplant lettuce, plant herbs\n- May: Transplant tomatoes after last frost\n\n### Heirloom Tomato Varieties\n- Stupice (Czech, early ripener)\n- Black Krim (stunning dark)\n- Sungold (cherry, incredibly sweet)\n- Brandywine (classic, warmest spot)\n- Green Zebra (tangy, reliable)\n\n### Companion Planting\n- Basil with tomatoes (flavor + pest control)\n- Marigolds as borders (deters nematodes)\n- Borage near tomatoes (attracts bees)\n\n### Herbs (near kitchen door)\nBasil, cilantro, dill, parsley, lemon verbena, Thai basil, lovage, shiso\n\n### Pollinator Garden\nBee balm, lavender, Oregon grape, red flowering currant, camas lily",
+    "icon": "\ud83c\udf3b",
+    "created_time": "2024-11-12T18:11:00Z",
+    "last_edited_time": "2024-12-20T16:32:00Z",
+    "properties": {
+      "Category": "Garden",
+      "Status": "Active"
+    },
+    "tags": [
+      "garden",
+      "planning"
+    ]
+  },
+  {
+    "id": "d112a266-2a15-4a9f-bfd2-bc07efc627dd",
+    "title": "Reading Log 2024",
+    "type": "database",
+    "content": "## Reading Log - 2-3 Books Per Week\n\n### Genres: Historical fiction, nature writing, biography, woodworking\n\n### January\n1. \"The Pillars of the Earth\" - Ken Follett (re-read, loved it)\n2. \"Braiding Sweetgrass\" - Robin Wall Kimmerer (nature + indigenous wisdom)\n3. \"The Overstory\" - Richard Powers (nature + narrative fiction)\n4. \"Wolf Hall\" - Hilary Mantel (Tudor England)\n\n### February\n5. \"H is for Hawk\" - Helen Macdonald (grief + falconry)\n6. \"The Hidden Life of Trees\" - Peter Wohlleben\n7. \"All the Light We Cannot See\" - Anthony Doerr (WWII)\n8. \"Shantaram\" - Gregory David Roberts\n\n### March\n9. \"Pilgrim at Tinker Creek\" - Annie Dillard\n10. \"The Name of the Rose\" - Umberto Eco\n\n### Library Book Club\nStarted \"Braiding Sweetgrass\" as first selection.\nVolunteer at library. Fresh Air interview with Kimmerer was excellent.\n\n### Podcasts\n- Fresh Air (book recommendations)\n- The Moth (storytelling)\n- Woodworking Masterclass",
+    "icon": "\ud83d\udcd6",
+    "created_time": "2024-11-08T09:21:00Z",
+    "last_edited_time": "2024-12-26T10:20:00Z",
+    "properties": {
+      "Category": "Personal",
+      "Status": "Active"
+    },
+    "tags": [
+      "reading",
+      "journal"
+    ]
+  },
+  {
+    "id": "680710d9-e052-43e5-b459-9998b4365cb7",
+    "title": "Bird Sighting Journal",
+    "type": "database",
+    "content": "## Backyard Bird Journal - Portland, OR\n\n### Setup\n- Multiple feeders at different heights\n- Platform feeder: sunflower seeds\n- Suet feeder: for woodpeckers\n- Nyjer feeder: for goldfinches\n- Hummingbird feeder: 4:1 water/sugar (no red dye)\n- Pollinator garden attracts birds too\n\n### Year-Round Residents\n- Black-capped Chickadee (daily visitor)\n- Dark-eyed Junco\n- Spotted Towhee\n- Anna's Hummingbird\n- Downy Woodpecker (suet feeder)\n\n### Seasonal Visitors\n- Varied Thrush (winter - stunning orange/black)\n- Cedar Waxwings (spring/summer)\n- Western Tanagers (summer - bright yellow/red)\n- American Goldfinch (spring - nyjer feeder)\n\n### Indoor Cats: Hemingway and Fitzgerald\nKept indoors -- cats are #1 threat to songbirds!\n\n### Notes\nKeep journal of species, time, weather, behavior.\nSunflowers attract both pollinators and seed-eating birds.\nOregon is a birding paradise.",
+    "icon": "\ud83d\udc26",
+    "created_time": "2024-12-20T11:09:00Z",
+    "last_edited_time": "2024-12-28T13:22:00Z",
+    "properties": {
+      "Category": "Nature",
+      "Status": "Active"
+    },
+    "tags": [
+      "birds",
+      "nature"
+    ]
+  },
+  {
+    "id": "d60457b3-8d3d-416c-899a-d2a2c915db5d",
+    "title": "Sourdough Recipe Collection",
+    "type": "database",
+    "content": "## Sourdough Recipes\n\n### Starter: 3 years old, King Arthur bread flour\n### Baking: Almost daily\n### Diet: Omnivore, farm-to-table preference\n\n### Classic Country Loaf\n- 80% hydration\n- 5-6 hour bulk fermentation at room temp\n- Cold retard overnight in fridge\n- Bake in Dutch oven at 500F -> 450F\n- Score confidently with sharp lame\n\n### Troubleshooting Notes\n- Dense loaves = likely overproofing in warm weather\n- Use poke test and windowpane test\n- Portland room temp (60-68F) usually fine\n- Summer: reduce bulk time or cold ferment\n\n### Other Recipes\n- Sourdough pizza dough (Friday night tradition)\n- Sourdough pancakes (weekend breakfast)\n- Sourdough crackers (with garden herbs)\n- Sourdough focaccia (rosemary from garden)\n\n### Pairings\n- Fresh bread + garden heirloom tomatoes + basil + olive oil\n- Bread with homemade jam (from fruit trees)\n\n### Coffee: Black drip coffee, dark roast, local Portland roaster",
+    "icon": "\ud83c\udf5e",
+    "created_time": "2024-08-25T22:26:00Z",
+    "last_edited_time": "2024-10-15T06:26:00Z",
+    "properties": {
+      "Category": "Food",
+      "Status": "Active"
+    },
+    "tags": [
+      "cooking",
+      "sourdough"
+    ]
+  },
+  {
+    "id": "af42fe03-ed4e-4202-a718-300b80206c6d",
+    "title": "Workshop Tool Inventory",
+    "type": "database",
+    "content": "## Workshop Tool Inventory\n\n### Location: Attached to craftsman house, Portland\n\n### Hand Tools\n- Chisels: Rockler premium set (1/4\" to 1-1/2\")\n- Dovetail saw: Veritas\n- Marking gauge: Tite-Mark\n- Hand planes: #4 smoother, #5 jack, block plane\n- Carving tools: palm gouges set\n\n### Power Tools\n- Table saw: SawStop (safety first)\n- Bandsaw: 14\" Rikon\n- Drill press: floor-standing\n- Random orbit sander\n- Router table\n\n### Organization\n- French cleat wall system (made myself)\n- Dedicated hand tool wall\n- Mobile bases on power tools\n- Lumber rack (vertical)\n- Dust collection: two-stage with Thien baffle\n\n### Brands: Rockler Woodworking, Veritas, Lie-Nielsen\n### Shopping: Duluth Trading (work clothes), L.L. Bean, Carhartt\n\n### Dust Control\n- Ceiling-mounted air cleaner\n- Blast gates at each tool\n- Floor sweep near workbench\n- Box fan air filter (DIY, furnace filters)",
+    "icon": "\ud83d\udd27",
+    "created_time": "2024-03-08T07:46:00Z",
+    "last_edited_time": "2024-06-26T14:46:00Z",
+    "properties": {
+      "Category": "Workshop",
+      "Status": "Active"
+    },
+    "tags": [
+      "woodworking",
+      "tools"
+    ]
+  },
+  {
+    "id": "5c3d9049-ef01-4578-bdaf-b6719b98de8f",
+    "title": "Travel Plans (Road Trips)",
+    "type": "page",
+    "content": "## Road Trip & Travel Plans\n\n### Travel Style: Road trips and national parks\n### Frequency: 3-4 trips per year\n### Fly: Alaska Airlines when needed (aisle seat, economy)\n### Stay: State park cabins, B&Bs, KOA campgrounds\n\n### Trip 1: Oregon Coast (Spring)\n- Drive from Portland to Cannon Beach\n- Haystack Rock birding\n- Stay at state park cabin\n- Explore tide pools\n\n### Trip 2: Olympic National Park (Summer)\n- Drive up from Portland\n- Hoh Rainforest (nature writing inspiration)\n- Ruby Beach\n- Hurricane Ridge\n\n### Trip 3: Bend, OR (Fall)\n- Deschutes River trail cycling\n- Craft beer scene (research for Portland comparisons)\n- Smith Rock for hiking\n\n### Trip 4: Glacier National Park (Summer)\n- Going-to-the-Sun Road\n- Extended birding opportunities\n- B&B near West Glacier\n\n### Dream Trips\n- Maine coast\n- Nova Scotia\n- Acadia National Park",
+    "icon": "\ud83d\ude97",
+    "created_time": "2024-07-18T14:07:00Z",
+    "last_edited_time": "2024-10-05T23:07:00Z",
+    "properties": {
+      "Category": "Travel",
+      "Status": "Planning"
+    },
+    "tags": [
+      "travel",
+      "planning"
+    ]
+  },
+  {
+    "id": "73d66051-96df-4166-9737-d51d7a4c7e37",
+    "title": "Gift Ideas (Handmade)",
+    "type": "page",
+    "content": "## Handmade Gift Ideas\n\n### For Wife\n- Jewelry box with hand-cut dovetails (walnut)\n- Garden art (wooden bird feeder, plant markers)\n- Cooking class gift certificate\n- Jewelry from local Portland artisans\n- Budget: $50-100\n\n### For Grandkids\n- Handmade wooden toys (animals, blocks, trains)\n- Books (always books!)\n- Nature journal starter kit\n- Budget: $25-75\n\n### For Friends\n- Cutting boards (cherry + walnut)\n- Homemade jam (from fruit trees)\n- Sourdough bread loaf\n- Budget: $25-50\n\n### For Library Book Club\n- Handmade bookmarks (wood + leather)\n\n### Gift Style\nPrefer handmade and personal over store-bought.\nShopping when needed: L.L. Bean, Duluth Trading, Rockler.\nBudget: $25-100 range.",
+    "icon": "\ud83c\udf81",
+    "created_time": "2024-06-20T19:06:00Z",
+    "last_edited_time": "2024-11-15T01:06:00Z",
+    "properties": {
+      "Category": "Gifts",
+      "Status": "Active"
+    },
+    "tags": [
+      "gifts",
+      "woodworking"
+    ]
+  },
+  {
+    "id": "1f0402cb-e91c-4cd4-b961-7f40c6ddc5fe",
+    "title": "Volunteer Schedule",
+    "type": "database",
+    "content": "## Volunteer Activities\n\n### Background\nRetired high school teacher (30 years, history)\nPortland, Oregon\n\n### Library Volunteering\n- Tuesday afternoons: shelving, patron help\n- Monthly: \"History Alive\" program for kids\n- Started book club (first pick: Braiding Sweetgrass)\n\n### School Mentoring\n- SMART (Start Making A Reader Today) program\n- Wednesday mornings at local elementary school\n- Reading with 2nd graders\n\n### Future Plans\n- \"History Through Nature\" program at library\n  - Lewis & Clark expedition using local landscapes\n  - Oregon Trail history through hands-on activities\n  - Indigenous peoples + PNW ecology\n- Partner with Oregon Historical Society\n- Use handmade wooden props for teaching\n\n### Community Garden\n- Help maintain community raised beds\n- Teach composting workshops\n- Share heirloom tomato seedlings in spring\n\n### Schedule\n- Tues: Library (afternoon)\n- Wed: School reading (morning)\n- 1st Saturday: Community garden",
+    "icon": "\ud83d\udc68\u200d\ud83c\udfeb",
+    "created_time": "2024-10-05T13:43:00Z",
+    "last_edited_time": "2024-12-24T16:26:00Z",
+    "properties": {
+      "Category": "Community",
+      "Status": "Active"
+    },
+    "tags": [
+      "volunteer",
+      "community"
+    ]
+  },
+  {
+    "id": "39ebe358-0e0a-4ef5-924f-83f6f5d66395",
+    "title": "Home Maintenance Schedule",
+    "type": "database",
+    "content": "## Craftsman House Maintenance\n\n### Home: Craftsman house with workshop, Portland, OR\n### Style: Arts and crafts\n\n### Monthly\n- HVAC filter (basic WiFi thermostat)\n- Gutter check (Oregon rain!)\n- Workshop dust collection filter clean\n- Garden: composting turns, plant care\n\n### Quarterly\n- Exterior paint touch-up (craftsman details)\n- Workshop tool maintenance (sharpen chisels, tune planes)\n- Fruit tree care (prune, fertilize)\n- Deep clean workshop\n\n### Annual\n- Roof inspection (before rainy season)\n- Chimney sweep\n- Garden soil test\n- Workshop electrical check\n\n### Pets: Hemingway and Fitzgerald (two cats)\n- Monthly flea prevention\n- Annual vet visits\n- Litter management\n\n### Garden Specific\n- Raised beds: amend soil spring and fall\n- Pollinator garden: divide perennials\n- Compost: maintain three-bin system + worm bin\n- Fruit trees: winter pruning (February)\n\n### Tools for Home\nL.L. Bean, Carhartt (work clothes), Duluth Trading\nBasic WiFi thermostat (only smart device)",
+    "icon": "\ud83c\udfe0",
+    "created_time": "2024-11-17T21:48:00Z",
+    "last_edited_time": "2024-12-17T17:23:00Z",
+    "properties": {
+      "Category": "Home",
+      "Status": "Active"
+    },
+    "tags": [
+      "home",
+      "maintenance"
+    ]
+  }
+]

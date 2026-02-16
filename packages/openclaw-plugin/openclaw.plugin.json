@@ -1,0 +1,22 @@
+{
+  "id": "personafy",
+  "name": "Personafy",
+  "description": "Privacy context vault — selective disclosure of personal preferences for AI agents",
+  "version": "0.1.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "vaultPath": {
+        "type": "string",
+        "description": "Path to the local vault data file"
+      }
+    }
+  },
+  "uiHints": {
+    "vaultPath": { 
+      "label": "Vault Data Path", 
+      "placeholder": "~/.openclaw/workspace/Personafy/vault-data.json" 
+    }
+  }
+}

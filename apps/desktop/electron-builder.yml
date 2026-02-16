@@ -1,0 +1,56 @@
+appId: com.personafy.desktop
+productName: Personafy
+copyright: Copyright © 2025 Personafy
+directories:
+  output: release
+
+files:
+  - dist-electron/**/*
+  - web-dist/**/*
+
+mac:
+  category: public.app-category.productivity
+  icon: resources/icon.icns
+  target:
+    - dmg
+    - zip
+  hardenedRuntime: true
+
+dmg:
+  title: Personafy
+  background: resources/dmg-background.png
+  window:
+    width: 660
+    height: 400
+  contents:
+    - x: 180
+      y: 170
+      type: file
+    - x: 480
+      y: 170
+      type: link
+      path: /Applications
+
+win:
+  icon: resources/icon.ico
+  target:
+    - nsis
+  publisherName: Personafy
+
+nsis:
+  oneClick: true
+  perMachine: false
+  allowToChangeInstallationDirectory: false
+  deleteAppDataOnUninstall: false
+
+linux:
+  icon: resources/icon.png
+  category: Utility
+  target:
+    - AppImage
+    - deb
+
+publish:
+  provider: github
+  owner: brownclaw2028
+  repo: Personafy

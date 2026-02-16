@@ -1,0 +1,2922 @@
+[
+  {
+    "title": "Best hand tools for dovetail joints",
+    "create_time": 1729314000.0,
+    "update_time": 1729314174.0,
+    "mapping": {
+      "root_marcus_0": {
+        "id": "root_marcus_0",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_0"
+        ]
+      },
+      "sys_marcus_0": {
+        "id": "sys_marcus_0",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1729314000.0
+        },
+        "parent": "root_marcus_0",
+        "children": [
+          "user_marcus_0_0"
+        ]
+      },
+      "user_marcus_0_0": {
+        "id": "user_marcus_0_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Learning dovetail joints. I have a workshop with a Veritas block plane and Japanese pull saw."
+            ]
+          },
+          "create_time": 1729314000.0
+        },
+        "parent": "sys_marcus_0",
+        "children": [
+          "asst_marcus_0_0"
+        ]
+      },
+      "asst_marcus_0_0": {
+        "id": "asst_marcus_0_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1729314011.0
+        },
+        "parent": "user_marcus_0_0",
+        "children": [
+          "user_marcus_0_1"
+        ]
+      },
+      "user_marcus_0_1": {
+        "id": "user_marcus_0_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I've been woodworking for 10 years but mostly power tools. Want to get into hand-cut joinery."
+            ]
+          },
+          "create_time": 1729314069.0
+        },
+        "parent": "asst_marcus_0_0",
+        "children": [
+          "asst_marcus_0_1"
+        ]
+      },
+      "asst_marcus_0_1": {
+        "id": "asst_marcus_0_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Many enthusiasts in your situation have found great results with this approach. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1729314092.0
+        },
+        "parent": "user_marcus_0_1",
+        "children": [
+          "user_marcus_0_2"
+        ]
+      },
+      "user_marcus_0_2": {
+        "id": "user_marcus_0_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Recently bought wood chisels and a workbench vise. Based in Portland, OR."
+            ]
+          },
+          "create_time": 1729314134.0
+        },
+        "parent": "asst_marcus_0_1",
+        "children": [
+          "asst_marcus_0_2"
+        ]
+      },
+      "asst_marcus_0_2": {
+        "id": "asst_marcus_0_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1729314158.0
+        },
+        "parent": "user_marcus_0_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "When to plant tomatoes in Oregon",
+    "create_time": 1730437200.0,
+    "update_time": 1730437400.0,
+    "mapping": {
+      "root_marcus_1": {
+        "id": "root_marcus_1",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_1"
+        ]
+      },
+      "sys_marcus_1": {
+        "id": "sys_marcus_1",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1730437200.0
+        },
+        "parent": "root_marcus_1",
+        "children": [
+          "user_marcus_1_0"
+        ]
+      },
+      "user_marcus_1_0": {
+        "id": "user_marcus_1_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "When should I plant heirloom tomatoes in Portland? I have raised beds and a composting bin."
+            ]
+          },
+          "create_time": 1730437200.0
+        },
+        "parent": "sys_marcus_1",
+        "children": [
+          "asst_marcus_1_0"
+        ]
+      },
+      "asst_marcus_1_0": {
+        "id": "asst_marcus_1_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great gardening question! Let me share some tips specific to your region. Quality over quantity is usually the best strategy here. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1730437222.0
+        },
+        "parent": "user_marcus_1_0",
+        "children": [
+          "user_marcus_1_1"
+        ]
+      },
+      "user_marcus_1_1": {
+        "id": "user_marcus_1_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Growing: tomatoes, peppers, herbs, and some pollinator-friendly flowers."
+            ]
+          },
+          "create_time": 1730437272.0
+        },
+        "parent": "asst_marcus_1_0",
+        "children": [
+          "asst_marcus_1_1"
+        ]
+      },
+      "asst_marcus_1_1": {
+        "id": "asst_marcus_1_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1730437293.0
+        },
+        "parent": "user_marcus_1_1",
+        "children": [
+          "user_marcus_1_2"
+        ]
+      },
+      "user_marcus_1_2": {
+        "id": "user_marcus_1_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also have fruit trees - apple and pear. Want to expand the garden this spring."
+            ]
+          },
+          "create_time": 1730437315.0
+        },
+        "parent": "asst_marcus_1_1",
+        "children": [
+          "asst_marcus_1_2"
+        ]
+      },
+      "asst_marcus_1_2": {
+        "id": "asst_marcus_1_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. Start with the essentials and build from there as you discover what works for you."
+            ]
+          },
+          "create_time": 1730437345.0
+        },
+        "parent": "user_marcus_1_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Historical fiction recommendations",
+    "create_time": 1723179600.0,
+    "update_time": 1723179725.0,
+    "mapping": {
+      "root_marcus_2": {
+        "id": "root_marcus_2",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_2"
+        ]
+      },
+      "sys_marcus_2": {
+        "id": "sys_marcus_2",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1723179600.0
+        },
+        "parent": "root_marcus_2",
+        "children": [
+          "user_marcus_2_0"
+        ]
+      },
+      "user_marcus_2_0": {
+        "id": "user_marcus_2_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I read 2-3 books per week. Love historical fiction, especially James Clavell's Shogun."
+            ]
+          },
+          "create_time": 1723179600.0
+        },
+        "parent": "sys_marcus_2",
+        "children": [
+          "asst_marcus_2_0"
+        ]
+      },
+      "asst_marcus_2_0": {
+        "id": "asst_marcus_2_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great taste in books! Here are some recommendations in a similar vein. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723179621.0
+        },
+        "parent": "user_marcus_2_0",
+        "children": [
+          "user_marcus_2_1"
+        ]
+      },
+      "user_marcus_2_1": {
+        "id": "user_marcus_2_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also enjoy nature writing like Wendell Berry and biography. What should I read next?"
+            ]
+          },
+          "create_time": 1723179634.0
+        },
+        "parent": "asst_marcus_2_0",
+        "children": [
+          "asst_marcus_2_1"
+        ]
+      },
+      "asst_marcus_2_1": {
+        "id": "asst_marcus_2_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723179664.0
+        },
+        "parent": "user_marcus_2_1",
+        "children": [
+          "user_marcus_2_2"
+        ]
+      },
+      "user_marcus_2_2": {
+        "id": "user_marcus_2_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I volunteer at the local library and recommend books to patrons."
+            ]
+          },
+          "create_time": 1723179678.0
+        },
+        "parent": "asst_marcus_2_1",
+        "children": [
+          "asst_marcus_2_2"
+        ]
+      },
+      "asst_marcus_2_2": {
+        "id": "asst_marcus_2_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Based on your reading preferences, here are some books I think you'll enjoy. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1723179688.0
+        },
+        "parent": "user_marcus_2_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "How to attract hummingbirds to garden",
+    "create_time": 1727586000.0,
+    "update_time": 1727586151.0,
+    "mapping": {
+      "root_marcus_3": {
+        "id": "root_marcus_3",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_3"
+        ]
+      },
+      "sys_marcus_3": {
+        "id": "sys_marcus_3",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1727586000.0
+        },
+        "parent": "root_marcus_3",
+        "children": [
+          "user_marcus_3_0"
+        ]
+      },
+      "user_marcus_3_0": {
+        "id": "user_marcus_3_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to attract more hummingbirds to my Portland garden. I have a cedar bird feeder and Peterson's field guide."
+            ]
+          },
+          "create_time": 1727586000.0
+        },
+        "parent": "sys_marcus_3",
+        "children": [
+          "asst_marcus_3_0"
+        ]
+      },
+      "asst_marcus_3_0": {
+        "id": "asst_marcus_3_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1727586018.0
+        },
+        "parent": "user_marcus_3_0",
+        "children": [
+          "user_marcus_3_1"
+        ]
+      },
+      "user_marcus_3_1": {
+        "id": "user_marcus_3_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I keep a bird sighting journal. Seen juncos, chickadees, and a few hummingbirds."
+            ]
+          },
+          "create_time": 1727586065.0
+        },
+        "parent": "asst_marcus_3_0",
+        "children": [
+          "asst_marcus_3_1"
+        ]
+      },
+      "asst_marcus_3_1": {
+        "id": "asst_marcus_3_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For birdwatching, having the right setup makes a huge difference. Here's what I suggest. The key is finding what aligns with your lifestyle and preferences. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1727586081.0
+        },
+        "parent": "user_marcus_3_1",
+        "children": [
+          "user_marcus_3_2"
+        ]
+      },
+      "user_marcus_3_2": {
+        "id": "user_marcus_3_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Have binoculars for birding. The pollinator garden is already attracting bees and butterflies."
+            ]
+          },
+          "create_time": 1727586109.0
+        },
+        "parent": "asst_marcus_3_1",
+        "children": [
+          "asst_marcus_3_2"
+        ]
+      },
+      "asst_marcus_3_2": {
+        "id": "asst_marcus_3_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great gardening question! Let me share some tips specific to your region. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1727586127.0
+        },
+        "parent": "user_marcus_3_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Sourdough bread troubleshooting",
+    "create_time": 1729227600.0,
+    "update_time": 1729227784.0,
+    "mapping": {
+      "root_marcus_4": {
+        "id": "root_marcus_4",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_4"
+        ]
+      },
+      "sys_marcus_4": {
+        "id": "sys_marcus_4",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1729227600.0
+        },
+        "parent": "root_marcus_4",
+        "children": [
+          "user_marcus_4_0"
+        ]
+      },
+      "user_marcus_4_0": {
+        "id": "user_marcus_4_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My sourdough has been too dense lately. I use a sourdough starter I've maintained for 2 years."
+            ]
+          },
+          "create_time": 1729227600.0
+        },
+        "parent": "sys_marcus_4",
+        "children": [
+          "asst_marcus_4_0"
+        ]
+      },
+      "asst_marcus_4_0": {
+        "id": "asst_marcus_4_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1729227629.0
+        },
+        "parent": "user_marcus_4_0",
+        "children": [
+          "user_marcus_4_1"
+        ]
+      },
+      "user_marcus_4_1": {
+        "id": "user_marcus_4_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I bake 2-3 loaves per week. Also make sourdough pizza dough."
+            ]
+          },
+          "create_time": 1729227686.0
+        },
+        "parent": "asst_marcus_4_0",
+        "children": [
+          "asst_marcus_4_1"
+        ]
+      },
+      "asst_marcus_4_1": {
+        "id": "asst_marcus_4_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1729227692.0
+        },
+        "parent": "user_marcus_4_1",
+        "children": [
+          "user_marcus_4_2"
+        ]
+      },
+      "user_marcus_4_2": {
+        "id": "user_marcus_4_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Use a cast iron Dutch oven for baking. Drink black drip coffee, dark roast while baking."
+            ]
+          },
+          "create_time": 1729227725.0
+        },
+        "parent": "asst_marcus_4_1",
+        "children": [
+          "asst_marcus_4_2"
+        ]
+      },
+      "asst_marcus_4_2": {
+        "id": "asst_marcus_4_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1729227734.0
+        },
+        "parent": "user_marcus_4_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Workshop organization ideas",
+    "create_time": 1720414800.0,
+    "update_time": 1720414958.0,
+    "mapping": {
+      "root_marcus_5": {
+        "id": "root_marcus_5",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_5"
+        ]
+      },
+      "sys_marcus_5": {
+        "id": "sys_marcus_5",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1720414800.0
+        },
+        "parent": "root_marcus_5",
+        "children": [
+          "user_marcus_5_0"
+        ]
+      },
+      "user_marcus_5_0": {
+        "id": "user_marcus_5_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need to organize my workshop. Craftsman house in Portland with a detached workshop."
+            ]
+          },
+          "create_time": 1720414800.0
+        },
+        "parent": "sys_marcus_5",
+        "children": [
+          "asst_marcus_5_0"
+        ]
+      },
+      "asst_marcus_5_0": {
+        "id": "asst_marcus_5_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1720414807.0
+        },
+        "parent": "user_marcus_5_0",
+        "children": [
+          "user_marcus_5_1"
+        ]
+      },
+      "user_marcus_5_1": {
+        "id": "user_marcus_5_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Tools: Veritas block plane, Japanese pull saw, chisels set, workbench vise, plus power tools."
+            ]
+          },
+          "create_time": 1720414825.0
+        },
+        "parent": "asst_marcus_5_0",
+        "children": [
+          "asst_marcus_5_1"
+        ]
+      },
+      "asst_marcus_5_1": {
+        "id": "asst_marcus_5_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1720414844.0
+        },
+        "parent": "user_marcus_5_1",
+        "children": [
+          "user_marcus_5_2"
+        ]
+      },
+      "user_marcus_5_2": {
+        "id": "user_marcus_5_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want a French cleat system for hand tools. Also need better wood storage."
+            ]
+          },
+          "create_time": 1720414899.0
+        },
+        "parent": "asst_marcus_5_1",
+        "children": [
+          "asst_marcus_5_2"
+        ]
+      },
+      "asst_marcus_5_2": {
+        "id": "asst_marcus_5_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. I'd recommend trying a few different options to see what works best for your specific situation. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1720414920.0
+        },
+        "parent": "user_marcus_5_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best gardening books for Pacific Northwest",
+    "create_time": 1730091600.0,
+    "update_time": 1730091709.0,
+    "mapping": {
+      "root_marcus_6": {
+        "id": "root_marcus_6",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_6"
+        ]
+      },
+      "sys_marcus_6": {
+        "id": "sys_marcus_6",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1730091600.0
+        },
+        "parent": "root_marcus_6",
+        "children": [
+          "user_marcus_6_0"
+        ]
+      },
+      "user_marcus_6_0": {
+        "id": "user_marcus_6_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for gardening books specific to Pacific Northwest climate."
+            ]
+          },
+          "create_time": 1730091600.0
+        },
+        "parent": "sys_marcus_6",
+        "children": [
+          "asst_marcus_6_0"
+        ]
+      },
+      "asst_marcus_6_0": {
+        "id": "asst_marcus_6_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great gardening question! Let me share some tips specific to your region. Many enthusiasts in your situation have found great results with this approach. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1730091630.0
+        },
+        "parent": "user_marcus_6_0",
+        "children": [
+          "user_marcus_6_1"
+        ]
+      },
+      "user_marcus_6_1": {
+        "id": "user_marcus_6_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I have raised beds with heirloom tomatoes, a composting bin, and fruit trees."
+            ]
+          },
+          "create_time": 1730091665.0
+        },
+        "parent": "asst_marcus_6_0",
+        "children": [
+          "asst_marcus_6_1"
+        ]
+      },
+      "asst_marcus_6_1": {
+        "id": "asst_marcus_6_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great gardening question! Let me share some tips specific to your region. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1730091671.0
+        },
+        "parent": "user_marcus_6_1",
+        "children": [
+          "user_marcus_6_2"
+        ]
+      },
+      "user_marcus_6_2": {
+        "id": "user_marcus_6_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also interested in The Hidden Life of Trees by Peter Wohlleben."
+            ]
+          },
+          "create_time": 1730091686.0
+        },
+        "parent": "asst_marcus_6_1",
+        "children": [
+          "asst_marcus_6_2"
+        ]
+      },
+      "asst_marcus_6_2": {
+        "id": "asst_marcus_6_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1730091697.0
+        },
+        "parent": "user_marcus_6_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Oregon road trip planning",
+    "create_time": 1717218000.0,
+    "update_time": 1717218186.0,
+    "mapping": {
+      "root_marcus_7": {
+        "id": "root_marcus_7",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_7"
+        ]
+      },
+      "sys_marcus_7": {
+        "id": "sys_marcus_7",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717218000.0
+        },
+        "parent": "root_marcus_7",
+        "children": [
+          "user_marcus_7_0"
+        ]
+      },
+      "user_marcus_7_0": {
+        "id": "user_marcus_7_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning a road trip with my wife. We love state park cabins, B&Bs, and national parks."
+            ]
+          },
+          "create_time": 1717218000.0
+        },
+        "parent": "sys_marcus_7",
+        "children": [
+          "asst_marcus_7_0"
+        ]
+      },
+      "asst_marcus_7_0": {
+        "id": "asst_marcus_7_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great choice for a trip! Let me help you plan the details. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717218013.0
+        },
+        "parent": "user_marcus_7_0",
+        "children": [
+          "user_marcus_7_1"
+        ]
+      },
+      "user_marcus_7_1": {
+        "id": "user_marcus_7_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Usually fly Alaska Airlines when we fly, but prefer driving for Pacific Northwest trips."
+            ]
+          },
+          "create_time": 1717218070.0
+        },
+        "parent": "asst_marcus_7_0",
+        "children": [
+          "asst_marcus_7_1"
+        ]
+      },
+      "asst_marcus_7_1": {
+        "id": "asst_marcus_7_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that destination, here's an itinerary suggestion based on your travel style. I'd recommend trying a few different options to see what works best for your specific situation. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1717218098.0
+        },
+        "parent": "user_marcus_7_1",
+        "children": [
+          "user_marcus_7_2"
+        ]
+      },
+      "user_marcus_7_2": {
+        "id": "user_marcus_7_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to visit Olympic National Park and Bend, OR. 3-4 trips per year."
+            ]
+          },
+          "create_time": 1717218138.0
+        },
+        "parent": "asst_marcus_7_1",
+        "children": [
+          "asst_marcus_7_2"
+        ]
+      },
+      "asst_marcus_7_2": {
+        "id": "asst_marcus_7_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that destination, here's an itinerary suggestion based on your travel style. Many enthusiasts in your situation have found great results with this approach. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1717218167.0
+        },
+        "parent": "user_marcus_7_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Handmade gift ideas for grandkids",
+    "create_time": 1722402000.0,
+    "update_time": 1722402105.0,
+    "mapping": {
+      "root_marcus_8": {
+        "id": "root_marcus_8",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_8"
+        ]
+      },
+      "sys_marcus_8": {
+        "id": "sys_marcus_8",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1722402000.0
+        },
+        "parent": "root_marcus_8",
+        "children": [
+          "user_marcus_8_0"
+        ]
+      },
+      "user_marcus_8_0": {
+        "id": "user_marcus_8_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I make handmade wooden toys and cutting boards as gifts. What else can I make?"
+            ]
+          },
+          "create_time": 1722402000.0
+        },
+        "parent": "sys_marcus_8",
+        "children": [
+          "asst_marcus_8_0"
+        ]
+      },
+      "asst_marcus_8_0": {
+        "id": "asst_marcus_8_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1722402005.0
+        },
+        "parent": "user_marcus_8_0",
+        "children": [
+          "user_marcus_8_1"
+        ]
+      },
+      "user_marcus_8_1": {
+        "id": "user_marcus_8_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My grandkids are 4 and 7. I also make homemade jam from garden fruit."
+            ]
+          },
+          "create_time": 1722402016.0
+        },
+        "parent": "asst_marcus_8_0",
+        "children": [
+          "asst_marcus_8_1"
+        ]
+      },
+      "asst_marcus_8_1": {
+        "id": "asst_marcus_8_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Start with the essentials and build from there as you discover what works for you. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1722402034.0
+        },
+        "parent": "user_marcus_8_1",
+        "children": [
+          "user_marcus_8_2"
+        ]
+      },
+      "user_marcus_8_2": {
+        "id": "user_marcus_8_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget isn't the issue - I love making things. Have a full woodworking shop."
+            ]
+          },
+          "create_time": 1722402061.0
+        },
+        "parent": "asst_marcus_8_1",
+        "children": [
+          "asst_marcus_8_2"
+        ]
+      },
+      "asst_marcus_8_2": {
+        "id": "asst_marcus_8_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Consider your budget and long-term goals when making your decision. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1722402084.0
+        },
+        "parent": "user_marcus_8_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Composting guide for beginners",
+    "create_time": 1720760400.0,
+    "update_time": 1720760556.0,
+    "mapping": {
+      "root_marcus_9": {
+        "id": "root_marcus_9",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_9"
+        ]
+      },
+      "sys_marcus_9": {
+        "id": "sys_marcus_9",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1720760400.0
+        },
+        "parent": "root_marcus_9",
+        "children": [
+          "user_marcus_9_0"
+        ]
+      },
+      "user_marcus_9_0": {
+        "id": "user_marcus_9_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to improve my composting setup. Currently have a basic bin in the backyard."
+            ]
+          },
+          "create_time": 1720760400.0
+        },
+        "parent": "sys_marcus_9",
+        "children": [
+          "asst_marcus_9_0"
+        ]
+      },
+      "asst_marcus_9_0": {
+        "id": "asst_marcus_9_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1720760410.0
+        },
+        "parent": "user_marcus_9_0",
+        "children": [
+          "user_marcus_9_1"
+        ]
+      },
+      "user_marcus_9_1": {
+        "id": "user_marcus_9_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I garden year-round in Portland. Have raised beds, fruit trees, and a pollinator garden."
+            ]
+          },
+          "create_time": 1720760429.0
+        },
+        "parent": "asst_marcus_9_0",
+        "children": [
+          "asst_marcus_9_1"
+        ]
+      },
+      "asst_marcus_9_1": {
+        "id": "asst_marcus_9_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great gardening question! Let me share some tips specific to your region. Quality over quantity is usually the best strategy here. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1720760454.0
+        },
+        "parent": "user_marcus_9_1",
+        "children": [
+          "user_marcus_9_2"
+        ]
+      },
+      "user_marcus_9_2": {
+        "id": "user_marcus_9_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also interested in worm composting for the winter months."
+            ]
+          },
+          "create_time": 1720760478.0
+        },
+        "parent": "asst_marcus_9_1",
+        "children": [
+          "asst_marcus_9_2"
+        ]
+      },
+      "asst_marcus_9_2": {
+        "id": "asst_marcus_9_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1720760504.0
+        },
+        "parent": "user_marcus_9_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best craft beer in Portland",
+    "create_time": 1728018000.0,
+    "update_time": 1728018181.0,
+    "mapping": {
+      "root_marcus_10": {
+        "id": "root_marcus_10",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_10"
+        ]
+      },
+      "sys_marcus_10": {
+        "id": "sys_marcus_10",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1728018000.0
+        },
+        "parent": "root_marcus_10",
+        "children": [
+          "user_marcus_10_0"
+        ]
+      },
+      "user_marcus_10_0": {
+        "id": "user_marcus_10_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for craft beer recommendations in Portland. I prefer IPAs and stouts."
+            ]
+          },
+          "create_time": 1728018000.0
+        },
+        "parent": "sys_marcus_10",
+        "children": [
+          "asst_marcus_10_0"
+        ]
+      },
+      "asst_marcus_10_0": {
+        "id": "asst_marcus_10_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Many enthusiasts in your situation have found great results with this approach. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1728018018.0
+        },
+        "parent": "user_marcus_10_0",
+        "children": [
+          "user_marcus_10_1"
+        ]
+      },
+      "user_marcus_10_1": {
+        "id": "user_marcus_10_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "My wife and I like visiting taprooms on weekends after gardening."
+            ]
+          },
+          "create_time": 1728018042.0
+        },
+        "parent": "asst_marcus_10_0",
+        "children": [
+          "asst_marcus_10_1"
+        ]
+      },
+      "asst_marcus_10_1": {
+        "id": "asst_marcus_10_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1728018066.0
+        },
+        "parent": "user_marcus_10_1",
+        "children": [
+          "user_marcus_10_2"
+        ]
+      },
+      "user_marcus_10_2": {
+        "id": "user_marcus_10_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also enjoy dark roast coffee from local Portland roasters."
+            ]
+          },
+          "create_time": 1728018112.0
+        },
+        "parent": "asst_marcus_10_1",
+        "children": [
+          "asst_marcus_10_2"
+        ]
+      },
+      "asst_marcus_10_2": {
+        "id": "asst_marcus_10_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about best craft beer in portland! Here are my recommendations. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1728018129.0
+        },
+        "parent": "user_marcus_10_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Bird watching guide Oregon",
+    "create_time": 1717218000.0,
+    "update_time": 1717218154.0,
+    "mapping": {
+      "root_marcus_11": {
+        "id": "root_marcus_11",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_11"
+        ]
+      },
+      "sys_marcus_11": {
+        "id": "sys_marcus_11",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1717218000.0
+        },
+        "parent": "root_marcus_11",
+        "children": [
+          "user_marcus_11_0"
+        ]
+      },
+      "user_marcus_11_0": {
+        "id": "user_marcus_11_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Getting more serious about bird watching. Have Peterson's field guide and decent binoculars."
+            ]
+          },
+          "create_time": 1717218000.0
+        },
+        "parent": "sys_marcus_11",
+        "children": [
+          "asst_marcus_11_0"
+        ]
+      },
+      "asst_marcus_11_0": {
+        "id": "asst_marcus_11_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. The key is finding what aligns with your lifestyle and preferences. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1717218015.0
+        },
+        "parent": "user_marcus_11_0",
+        "children": [
+          "user_marcus_11_1"
+        ]
+      },
+      "user_marcus_11_1": {
+        "id": "user_marcus_11_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Keep a journal of sightings at my Portland home and on hikes."
+            ]
+          },
+          "create_time": 1717218045.0
+        },
+        "parent": "asst_marcus_11_0",
+        "children": [
+          "asst_marcus_11_1"
+        ]
+      },
+      "asst_marcus_11_1": {
+        "id": "asst_marcus_11_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1717218056.0
+        },
+        "parent": "user_marcus_11_1",
+        "children": [
+          "user_marcus_11_2"
+        ]
+      },
+      "user_marcus_11_2": {
+        "id": "user_marcus_11_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Seen various songbirds, raptors, and water birds. Want to ID more species."
+            ]
+          },
+          "create_time": 1717218105.0
+        },
+        "parent": "asst_marcus_11_1",
+        "children": [
+          "asst_marcus_11_2"
+        ]
+      },
+      "asst_marcus_11_2": {
+        "id": "asst_marcus_11_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For that age group, here are some great options that balance fun and learning. Quality over quantity is usually the best strategy here. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1717218126.0
+        },
+        "parent": "user_marcus_11_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Woodworking project plans",
+    "create_time": 1727067600.0,
+    "update_time": 1727067818.0,
+    "mapping": {
+      "root_marcus_12": {
+        "id": "root_marcus_12",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_12"
+        ]
+      },
+      "sys_marcus_12": {
+        "id": "sys_marcus_12",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1727067600.0
+        },
+        "parent": "root_marcus_12",
+        "children": [
+          "user_marcus_12_0"
+        ]
+      },
+      "user_marcus_12_0": {
+        "id": "user_marcus_12_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for intermediate woodworking project plans. I've built cutting boards, boxes, and a small shelf."
+            ]
+          },
+          "create_time": 1727067600.0
+        },
+        "parent": "sys_marcus_12",
+        "children": [
+          "asst_marcus_12_0"
+        ]
+      },
+      "asst_marcus_12_0": {
+        "id": "asst_marcus_12_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For hand-cut joinery, tool quality really matters. Here are my recommendations. Consider your budget and long-term goals when making your decision. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1727067614.0
+        },
+        "parent": "user_marcus_12_0",
+        "children": [
+          "user_marcus_12_1"
+        ]
+      },
+      "user_marcus_12_1": {
+        "id": "user_marcus_12_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to try building a rocking chair or Adirondack chair for the garden."
+            ]
+          },
+          "create_time": 1727067673.0
+        },
+        "parent": "asst_marcus_12_0",
+        "children": [
+          "asst_marcus_12_1"
+        ]
+      },
+      "asst_marcus_12_1": {
+        "id": "asst_marcus_12_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. I'd recommend trying a few different options to see what works best for your specific situation."
+            ]
+          },
+          "create_time": 1727067702.0
+        },
+        "parent": "user_marcus_12_1",
+        "children": [
+          "user_marcus_12_2"
+        ]
+      },
+      "user_marcus_12_2": {
+        "id": "user_marcus_12_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I listen to Woodworking Masterclass podcast for techniques."
+            ]
+          },
+          "create_time": 1727067740.0
+        },
+        "parent": "asst_marcus_12_1",
+        "children": [
+          "asst_marcus_12_2"
+        ]
+      },
+      "asst_marcus_12_2": {
+        "id": "asst_marcus_12_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1727067770.0
+        },
+        "parent": "user_marcus_12_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Growing heirloom tomatoes",
+    "create_time": 1726030800.0,
+    "update_time": 1726030940.0,
+    "mapping": {
+      "root_marcus_13": {
+        "id": "root_marcus_13",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_13"
+        ]
+      },
+      "sys_marcus_13": {
+        "id": "sys_marcus_13",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1726030800.0
+        },
+        "parent": "root_marcus_13",
+        "children": [
+          "user_marcus_13_0"
+        ]
+      },
+      "user_marcus_13_0": {
+        "id": "user_marcus_13_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Best heirloom tomato varieties for Portland, OR? I love Cherokee Purple and Brandywine."
+            ]
+          },
+          "create_time": 1726030800.0
+        },
+        "parent": "sys_marcus_13",
+        "children": [
+          "asst_marcus_13_0"
+        ]
+      },
+      "asst_marcus_13_0": {
+        "id": "asst_marcus_13_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Wine selection really comes down to personal preference, but here are some crowd-pleasers. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1726030829.0
+        },
+        "parent": "user_marcus_13_0",
+        "children": [
+          "user_marcus_13_1"
+        ]
+      },
+      "user_marcus_13_1": {
+        "id": "user_marcus_13_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Have raised beds with rich compost soil. Also grow herbs, peppers, and flowers."
+            ]
+          },
+          "create_time": 1726030864.0
+        },
+        "parent": "asst_marcus_13_0",
+        "children": [
+          "asst_marcus_13_1"
+        ]
+      },
+      "asst_marcus_13_1": {
+        "id": "asst_marcus_13_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about growing heirloom tomatoes! Here are my recommendations. Many enthusiasts in your situation have found great results with this approach. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1726030878.0
+        },
+        "parent": "user_marcus_13_1",
+        "children": [
+          "user_marcus_13_2"
+        ]
+      },
+      "user_marcus_13_2": {
+        "id": "user_marcus_13_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I save seeds year to year. Want to try some new varieties this season."
+            ]
+          },
+          "create_time": 1726030910.0
+        },
+        "parent": "asst_marcus_13_1",
+        "children": [
+          "asst_marcus_13_2"
+        ]
+      },
+      "asst_marcus_13_2": {
+        "id": "asst_marcus_13_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Kids at that age really benefit from hands-on activities. Here are my suggestions. Consider your budget and long-term goals when making your decision. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1726030918.0
+        },
+        "parent": "user_marcus_13_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Flannel shirt brands comparison",
+    "create_time": 1729573200.0,
+    "update_time": 1729573320.0,
+    "mapping": {
+      "root_marcus_14": {
+        "id": "root_marcus_14",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_14"
+        ]
+      },
+      "sys_marcus_14": {
+        "id": "sys_marcus_14",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1729573200.0
+        },
+        "parent": "root_marcus_14",
+        "children": [
+          "user_marcus_14_0"
+        ]
+      },
+      "user_marcus_14_0": {
+        "id": "user_marcus_14_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Looking for quality flannel shirts. I love L.L. Bean, Carhartt, and Duluth Trading."
+            ]
+          },
+          "create_time": 1729573200.0
+        },
+        "parent": "sys_marcus_14",
+        "children": [
+          "asst_marcus_14_0"
+        ]
+      },
+      "asst_marcus_14_0": {
+        "id": "asst_marcus_14_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1729573230.0
+        },
+        "parent": "user_marcus_14_0",
+        "children": [
+          "user_marcus_14_1"
+        ]
+      },
+      "user_marcus_14_1": {
+        "id": "user_marcus_14_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Size L, 36 waist, 32 inseam, shoe 11. Want durable, warm shirts for workshop."
+            ]
+          },
+          "create_time": 1729573245.0
+        },
+        "parent": "asst_marcus_14_0",
+        "children": [
+          "asst_marcus_14_1"
+        ]
+      },
+      "asst_marcus_14_1": {
+        "id": "asst_marcus_14_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "The Hoka Speedgoat is a solid choice for ultras. Here are some alternatives to consider. Consider your budget and long-term goals when making your decision. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1729573267.0
+        },
+        "parent": "user_marcus_14_1",
+        "children": [
+          "user_marcus_14_2"
+        ]
+      },
+      "user_marcus_14_2": {
+        "id": "user_marcus_14_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Value quality and durability over style. Budget-focused."
+            ]
+          },
+          "create_time": 1729573297.0
+        },
+        "parent": "asst_marcus_14_1",
+        "children": [
+          "asst_marcus_14_2"
+        ]
+      },
+      "asst_marcus_14_2": {
+        "id": "asst_marcus_14_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1729573304.0
+        },
+        "parent": "user_marcus_14_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Volunteering at the library",
+    "create_time": 1729659600.0,
+    "update_time": 1729659753.0,
+    "mapping": {
+      "root_marcus_15": {
+        "id": "root_marcus_15",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_15"
+        ]
+      },
+      "sys_marcus_15": {
+        "id": "sys_marcus_15",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1729659600.0
+        },
+        "parent": "root_marcus_15",
+        "children": [
+          "user_marcus_15_0"
+        ]
+      },
+      "user_marcus_15_0": {
+        "id": "user_marcus_15_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I retired from teaching and now volunteer at the Portland library. Looking for ways to do more."
+            ]
+          },
+          "create_time": 1729659600.0
+        },
+        "parent": "sys_marcus_15",
+        "children": [
+          "asst_marcus_15_0"
+        ]
+      },
+      "asst_marcus_15_0": {
+        "id": "asst_marcus_15_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Start with the essentials and build from there as you discover what works for you. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1729659626.0
+        },
+        "parent": "user_marcus_15_0",
+        "children": [
+          "user_marcus_15_1"
+        ]
+      },
+      "user_marcus_15_1": {
+        "id": "user_marcus_15_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I recommend books, help with reading programs, and organize the gardening section."
+            ]
+          },
+          "create_time": 1729659663.0
+        },
+        "parent": "asst_marcus_15_0",
+        "children": [
+          "asst_marcus_15_1"
+        ]
+      },
+      "asst_marcus_15_1": {
+        "id": "asst_marcus_15_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great gardening question! Let me share some tips specific to your region. Many enthusiasts in your situation have found great results with this approach. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1729659681.0
+        },
+        "parent": "user_marcus_15_1",
+        "children": [
+          "user_marcus_15_2"
+        ]
+      },
+      "user_marcus_15_2": {
+        "id": "user_marcus_15_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Love sharing historical fiction and nature writing with patrons."
+            ]
+          },
+          "create_time": 1729659698.0
+        },
+        "parent": "asst_marcus_15_1",
+        "children": [
+          "asst_marcus_15_2"
+        ]
+      },
+      "asst_marcus_15_2": {
+        "id": "asst_marcus_15_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. The key is finding what aligns with your lifestyle and preferences. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1729659724.0
+        },
+        "parent": "user_marcus_15_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Sourdough pizza dough recipe",
+    "create_time": 1724821200.0,
+    "update_time": 1724821358.0,
+    "mapping": {
+      "root_marcus_16": {
+        "id": "root_marcus_16",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_16"
+        ]
+      },
+      "sys_marcus_16": {
+        "id": "sys_marcus_16",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1724821200.0
+        },
+        "parent": "root_marcus_16",
+        "children": [
+          "user_marcus_16_0"
+        ]
+      },
+      "user_marcus_16_0": {
+        "id": "user_marcus_16_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want to perfect my sourdough pizza dough. I use my 2-year-old starter."
+            ]
+          },
+          "create_time": 1724821200.0
+        },
+        "parent": "sys_marcus_16",
+        "children": [
+          "asst_marcus_16_0"
+        ]
+      },
+      "asst_marcus_16_0": {
+        "id": "asst_marcus_16_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about sourdough pizza dough recipe! Here are my recommendations. Quality over quantity is usually the best strategy here. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1724821220.0
+        },
+        "parent": "user_marcus_16_0",
+        "children": [
+          "user_marcus_16_1"
+        ]
+      },
+      "user_marcus_16_1": {
+        "id": "user_marcus_16_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Have a cast iron skillet for pan pizza and a pizza stone. Cook in a regular oven."
+            ]
+          },
+          "create_time": 1724821249.0
+        },
+        "parent": "asst_marcus_16_0",
+        "children": [
+          "asst_marcus_16_1"
+        ]
+      },
+      "asst_marcus_16_1": {
+        "id": "asst_marcus_16_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Here are some recipe ideas based on your dietary preferences and cooking style. I'd recommend trying a few different options to see what works best for your specific situation. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1724821272.0
+        },
+        "parent": "user_marcus_16_1",
+        "children": [
+          "user_marcus_16_2"
+        ]
+      },
+      "user_marcus_16_2": {
+        "id": "user_marcus_16_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I grow basil and tomatoes in the garden for toppings. Wife loves margherita."
+            ]
+          },
+          "create_time": 1724821327.0
+        },
+        "parent": "asst_marcus_16_1",
+        "children": [
+          "asst_marcus_16_2"
+        ]
+      },
+      "asst_marcus_16_2": {
+        "id": "asst_marcus_16_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. Many enthusiasts in your situation have found great results with this approach. Happy to dive deeper into any of these suggestions!"
+            ]
+          },
+          "create_time": 1724821337.0
+        },
+        "parent": "user_marcus_16_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Best binoculars for bird watching",
+    "create_time": 1725858000.0,
+    "update_time": 1725858172.0,
+    "mapping": {
+      "root_marcus_17": {
+        "id": "root_marcus_17",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_17"
+        ]
+      },
+      "sys_marcus_17": {
+        "id": "sys_marcus_17",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1725858000.0
+        },
+        "parent": "root_marcus_17",
+        "children": [
+          "user_marcus_17_0"
+        ]
+      },
+      "user_marcus_17_0": {
+        "id": "user_marcus_17_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Need to upgrade my binoculars. Currently using a mid-range pair from 10 years ago."
+            ]
+          },
+          "create_time": 1725858000.0
+        },
+        "parent": "sys_marcus_17",
+        "children": [
+          "asst_marcus_17_0"
+        ]
+      },
+      "asst_marcus_17_0": {
+        "id": "asst_marcus_17_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'd be happy to help with that. Based on your preferences, here's what I'd suggest. The key is finding what aligns with your lifestyle and preferences. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1725858022.0
+        },
+        "parent": "user_marcus_17_0",
+        "children": [
+          "user_marcus_17_1"
+        ]
+      },
+      "user_marcus_17_1": {
+        "id": "user_marcus_17_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Budget $200-400. I bird watch in the garden and on hikes in Oregon parks."
+            ]
+          },
+          "create_time": 1725858081.0
+        },
+        "parent": "asst_marcus_17_0",
+        "children": [
+          "asst_marcus_17_1"
+        ]
+      },
+      "asst_marcus_17_1": {
+        "id": "asst_marcus_17_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. The key is finding what aligns with your lifestyle and preferences. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1725858097.0
+        },
+        "parent": "user_marcus_17_1",
+        "children": [
+          "user_marcus_17_2"
+        ]
+      },
+      "user_marcus_17_2": {
+        "id": "user_marcus_17_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Want something lightweight for long hikes but good enough for distance viewing."
+            ]
+          },
+          "create_time": 1725858110.0
+        },
+        "parent": "asst_marcus_17_1",
+        "children": [
+          "asst_marcus_17_2"
+        ]
+      },
+      "asst_marcus_17_2": {
+        "id": "asst_marcus_17_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "That's a thoughtful approach. Let me share some specific ideas. Quality over quantity is usually the best strategy here."
+            ]
+          },
+          "create_time": 1725858127.0
+        },
+        "parent": "user_marcus_17_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Teaching woodworking to beginners",
+    "create_time": 1726894800.0,
+    "update_time": 1726894937.0,
+    "mapping": {
+      "root_marcus_18": {
+        "id": "root_marcus_18",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_18"
+        ]
+      },
+      "sys_marcus_18": {
+        "id": "sys_marcus_18",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1726894800.0
+        },
+        "parent": "root_marcus_18",
+        "children": [
+          "user_marcus_18_0"
+        ]
+      },
+      "user_marcus_18_0": {
+        "id": "user_marcus_18_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I'm a retired teacher who wants to teach woodworking classes at the community center."
+            ]
+          },
+          "create_time": 1726894800.0
+        },
+        "parent": "sys_marcus_18",
+        "children": [
+          "asst_marcus_18_0"
+        ]
+      },
+      "asst_marcus_18_0": {
+        "id": "asst_marcus_18_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Start with the essentials and build from there as you discover what works for you. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1726894820.0
+        },
+        "parent": "user_marcus_18_0",
+        "children": [
+          "user_marcus_18_1"
+        ]
+      },
+      "user_marcus_18_1": {
+        "id": "user_marcus_18_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "What projects are good for absolute beginners? I have tools they could use."
+            ]
+          },
+          "create_time": 1726894830.0
+        },
+        "parent": "asst_marcus_18_0",
+        "children": [
+          "asst_marcus_18_1"
+        ]
+      },
+      "asst_marcus_18_1": {
+        "id": "asst_marcus_18_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about teaching woodworking to beginners! Here are my recommendations. The key is finding what aligns with your lifestyle and preferences."
+            ]
+          },
+          "create_time": 1726894853.0
+        },
+        "parent": "user_marcus_18_1",
+        "children": [
+          "user_marcus_18_2"
+        ]
+      },
+      "user_marcus_18_2": {
+        "id": "user_marcus_18_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "I listen to Fresh Air, The Moth, and Woodworking Masterclass podcasts."
+            ]
+          },
+          "create_time": 1726894910.0
+        },
+        "parent": "asst_marcus_18_1",
+        "children": [
+          "asst_marcus_18_2"
+        ]
+      },
+      "asst_marcus_18_2": {
+        "id": "asst_marcus_18_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Woodworking hand tools are a great investment. Let me walk you through the essentials. Consider your budget and long-term goals when making your decision. Let me know if you'd like more specific recommendations."
+            ]
+          },
+          "create_time": 1726894924.0
+        },
+        "parent": "user_marcus_18_2",
+        "children": []
+      }
+    }
+  },
+  {
+    "title": "Planning a garden for spring",
+    "create_time": 1729141200.0,
+    "update_time": 1729141349.0,
+    "mapping": {
+      "root_marcus_19": {
+        "id": "root_marcus_19",
+        "message": null,
+        "parent": null,
+        "children": [
+          "sys_marcus_19"
+        ]
+      },
+      "sys_marcus_19": {
+        "id": "sys_marcus_19",
+        "message": {
+          "author": {
+            "role": "system"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "You are ChatGPT, a large language model trained by OpenAI."
+            ]
+          },
+          "create_time": 1729141200.0
+        },
+        "parent": "root_marcus_19",
+        "children": [
+          "user_marcus_19_0"
+        ]
+      },
+      "user_marcus_19_0": {
+        "id": "user_marcus_19_0",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Planning my Portland garden for spring. Raised beds, composting, and pollinator garden."
+            ]
+          },
+          "create_time": 1729141200.0
+        },
+        "parent": "sys_marcus_19",
+        "children": [
+          "asst_marcus_19_0"
+        ]
+      },
+      "asst_marcus_19_0": {
+        "id": "asst_marcus_19_0",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. The key is finding what aligns with your lifestyle and preferences. Would you like me to go into more detail on any of these?"
+            ]
+          },
+          "create_time": 1729141211.0
+        },
+        "parent": "user_marcus_19_0",
+        "children": [
+          "user_marcus_19_1"
+        ]
+      },
+      "user_marcus_19_1": {
+        "id": "user_marcus_19_1",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Growing: heirloom tomatoes, peppers, herbs, squash, and strawberries."
+            ]
+          },
+          "create_time": 1729141245.0
+        },
+        "parent": "asst_marcus_19_0",
+        "children": [
+          "asst_marcus_19_1"
+        ]
+      },
+      "asst_marcus_19_1": {
+        "id": "asst_marcus_19_1",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "For your climate zone, here's what I'd recommend for timing and variety selection. I'd recommend trying a few different options to see what works best for your specific situation. Feel free to ask follow-up questions about any of these options."
+            ]
+          },
+          "create_time": 1729141261.0
+        },
+        "parent": "user_marcus_19_1",
+        "children": [
+          "user_marcus_19_2"
+        ]
+      },
+      "user_marcus_19_2": {
+        "id": "user_marcus_19_2",
+        "message": {
+          "author": {
+            "role": "user"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Also maintaining apple and pear trees. Want to add blueberry bushes."
+            ]
+          },
+          "create_time": 1729141301.0
+        },
+        "parent": "asst_marcus_19_1",
+        "children": [
+          "asst_marcus_19_2"
+        ]
+      },
+      "asst_marcus_19_2": {
+        "id": "asst_marcus_19_2",
+        "message": {
+          "author": {
+            "role": "assistant"
+          },
+          "content": {
+            "content_type": "text",
+            "parts": [
+              "Great question about planning a garden for spring! Here are my recommendations. Many enthusiasts in your situation have found great results with this approach."
+            ]
+          },
+          "create_time": 1729141327.0
+        },
+        "parent": "user_marcus_19_2",
+        "children": []
+      }
+    }
+  }
+]
